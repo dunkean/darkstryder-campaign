@@ -16,3 +16,4 @@ catalog/ocr-status.json
 .DS_Store
 desktop.ini
 tmp/
+content/transcriptions/*/images

@@ -14,6 +14,7 @@
     "inventory": "node tools/python.mjs tools/inventory/inventory.py",
     "ocr": "node tools/python.mjs tools/extract/convert.py",
     "ocr:background": "node tools/python.mjs tools/extract/background.py",
+    "transcripts:publish": "node tools/extract/publish-transcripts.mjs",
     "ocr:server": "node tools/python.mjs tools/extract/serve.py",
     "export": "node tools/export/export.mjs"
   },

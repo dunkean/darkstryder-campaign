@@ -11,7 +11,11 @@ crew, NPCs, factions, events, planets, stellar maps, FarStar decks and assignmen
   content/entities.json (knowledge entities, pins and shift schedule).
 - Stable IDs, not names/paths, connect entities and the future mastering project.
 - catalog/sources.json and assets.json reference originals. Do not copy PDFs into Git.
-- OCR outputs, images, models, logs and backups live outside this repository in runtime.
+- OCR checkpoints, images, models, logs and backups live outside this repository in runtime.
+- At the user's explicit request, completed OCR Markdown is published in
+  content/transcriptions/<source-id>/ with page provenance and quality manifests.
+  It is evidence for database authoring, not editable editorial truth. Image links
+  point to runtime and are excluded from Git; never overwrite a locally edited transcript.
 - Keep the legacy console for comparison; never silently delete original inputs.
 - Extracted text is evidence, not editorial truth. Do not overwrite edited content when re-importing.
 - During content production, use extracted Markdown first and open the original PDF

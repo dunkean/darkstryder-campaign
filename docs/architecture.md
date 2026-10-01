@@ -21,6 +21,10 @@ checkpoint. Docling uses the existing Biosense environment and local layout,
 RapidOCR and accurate TableFormer models. Changing engines requires separate
 outputs or an archive, keeping previous extractions and edited entities intact.
 The site polls runtime/ocr-status.json only while Sources is active.
+After conversion, tools/extract/publish-transcripts.mjs copies completed Markdown
+into content/transcriptions by stable source ID, with provenance and quality
+manifests. These project-local inputs support database authoring; edited JSON
+remains authoritative. Runtime images are linked locally, never copied into Git.
 
 The legacy data contains 120 crew members, 74 rooms, 21 droid catalog entries,
 73 posts and 57 historical groups. Historical groups are not automatically factions.

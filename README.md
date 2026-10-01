@@ -44,6 +44,12 @@ L'ancien `tools/setup.ps1` reste disponible pour Windows ; ne pas relancer
 Drive reste la source des médias : les images ne sont pas répliquées massivement.
 Les quelques portraits embarqués dans la console sont extraits dans le runtime.
 
+Une fois l'OCR terminé, `npm run transcripts:publish` copie les Markdown des livres
+et des pages dans `content/transcriptions/<source-id>/`, pour construire la base de
+connaissances depuis le projet. Les images restent dans le runtime, accessibles
+par des liens locaux non versionnés. La publication conserve les références et
+les rapports de qualité, et refuse d'écraser une transcription modifiée localement.
+
 ## OCR GPU
 
 ```bash
