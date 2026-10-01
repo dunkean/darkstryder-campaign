@@ -93,6 +93,10 @@ Les avertissements de qualité apparaissent sur la page consultée dans « Sourc
 Relancer `npm run ocr` reprend les pages validées par leur manifeste ; un verrou
 empêche deux conversions d'écrire simultanément dans le même runtime.
 Le lancement détaché écrit son PID et le chemin du journal dans `runtime/ocr-job.json`.
+Un superviseur renouvelle le processus OCR toutes les 96 pages sauvegardées afin
+de libérer les buffers natifs et de contenir la mémoire. Les pages validées ne sont
+pas retraitées. Un arrêt ou une erreur interrompt le travail ; il n'y a pas de
+redémarrage automatique après une erreur.
 
 ## Plans, cartes et heure
 

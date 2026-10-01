@@ -1,5 +1,5 @@
 """Local Chandra OCR 2 on CUDA: Markdown + images, resume per PDF page. No API."""
-import argparse,hashlib,json,os,re,time
+import argparse,hashlib,json,os,re,sys,time
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[2]
 CONFIG=json.loads((ROOT/'config.local.json').read_text(encoding='utf8'))
@@ -83,7 +83,12 @@ def main():
 
 if __name__=='__main__':
     if CONFIG.get('ocrEngine') == 'docling':
-        from docling_backend import main as docling_main
-        docling_main()
+        if '--ocr-worker' in sys.argv:
+            sys.argv.remove('--ocr-worker')
+            from docling_backend import main as docling_main
+            docling_main()
+        else:
+            from supervise import run
+            sys.exit(run())
     else:
         main()

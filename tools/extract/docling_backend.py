@@ -4,6 +4,7 @@ Native PDF text is preserved; scanned regions use RapidOCR English. Heron layout
 and TableFormer accurate run on CUDA. Every page has Markdown, scan and structure.
 """
 import argparse
+import ctypes
 import fcntl
 import gc
 import hashlib
@@ -75,7 +76,10 @@ def main():
     reports_by_source = {s['id']: manifest_reports(runtime / s['output'], s) for s in selected}
     status = {'state': 'loading-model', 'engine': 'Docling + RapidOCR PyTorch CUDA / TableFormer accurate',
               'engineId': ENGINE, 'pid': os.getpid(), 'totalPages': sum(s['pages'] for s in selected),
-              'completedPages': 0, 'sources': {}, 'startedAt': timestamp(), 'errors': []}
+              'completedPages': 0, 'sources': {}, 'processedPagesThisRun': 0,
+              'startedAt': os.environ.get('DARKSTRYDER_OCR_STARTED_AT', timestamp()), 'errors': []}
+    if os.environ.get('DARKSTRYDER_OCR_SUPERVISOR_PID'):
+        status['supervisorPid'] = int(os.environ['DARKSTRYDER_OCR_SUPERVISOR_PID'])
     for source in selected:
         count = len(reports_by_source[source['id']])
         status['sources'][source['id']] = {'name': source['name'], 'pages': source['pages'],
@@ -110,6 +114,13 @@ def main():
         torch.set_num_interop_threads(2)
         torch.cuda.set_per_process_memory_fraction(0.35)
         torch.backends.cudnn.benchmark = False
+        # Docling/PIL create large temporary host buffers. glibc may retain them
+        # despite Python GC; return free arenas to WSL without reloading models.
+        allocator = ctypes.CDLL(None)
+        trim = getattr(allocator, 'malloc_trim', None)
+        if trim is not None:
+            trim.argtypes = [ctypes.c_size_t]
+            trim.restype = ctypes.c_int
         status['gpu'] = torch.cuda.get_device_name(0)
         versions = {name: importlib.metadata.version(name)
                     for name in ['docling', 'docling-core', 'torch', 'rapidocr', 'transformers']}
@@ -205,6 +216,7 @@ def main():
                         'languages': ['english'], 'nativeTextPreserved': True, 'tableMode': 'accurate',
                         'pages': [reports[k] for k in sorted(reports, key=int)]})
                     processed += 1
+                    status['processedPagesThisRun'] = processed
                     status['gpuMemoryMiB'] = {'allocated': round(torch.cuda.memory_allocated() / 1024 ** 2),
                                              'reserved': round(torch.cuda.memory_reserved() / 1024 ** 2)}
                     status['lastPageSeconds'] = reports[str(number)]['seconds']
@@ -215,6 +227,13 @@ def main():
                     del result, doc
                     gc.collect()
                     torch.cuda.empty_cache()
+                    if processed % 8 == 0 and trim is not None:
+                        trim(0)
+                    rss = next(int(line.split()[1]) for line in Path('/proc/self/status').read_text().splitlines()
+                               if line.startswith('VmRSS:'))
+                    status['processMemoryMiB'] = round(rss / 1024)
+                    status['hostAvailableMiB'] = round(available / 1024 ** 2)
+                    refresh()
                     if args.limit_pages and processed >= args.limit_pages:
                         break
             rebuild(folder, source)

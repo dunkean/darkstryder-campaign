@@ -14,11 +14,12 @@ if __name__ == '__main__':
     config = json.loads((ROOT / 'config.local.json').read_text(encoding='utf-8-sig'))
     runtime = Path(config['runtimeRoot'])
     runtime.mkdir(parents=True, exist_ok=True)
-    with (runtime / 'ocr.lock').open('a') as lock:
-        try:
-            fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError:
-            raise SystemExit('OCR is already running; see runtime/ocr-status.json')
+    for filename in ['ocr-job.lock', 'ocr.lock']:
+        with (runtime / filename).open('a') as lock:
+            try:
+                fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+            except BlockingIOError:
+                raise SystemExit('OCR is already running; see runtime/ocr-status.json')
     logs = runtime / 'logs'
     logs.mkdir(parents=True, exist_ok=True)
     logfile = logs / f'ocr-docling-{time.strftime("%Y%m%d-%H%M%S")}.log'
