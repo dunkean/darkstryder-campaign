@@ -2,6 +2,7 @@ import { D,M,byId,roomById,entities,assets,sources,state,esc,nrm,portrait,save }
 import { allRoomOccupancy,chip } from './occupancy.js';
 import { markdown } from './markdown.js';
 import { watchSourceStatus } from './source-status.js';
+import { renderDeckPlans } from './deck-plans.js';
 
 let stopWatchingSources;
 export function stopLibraryUpdates(){stopWatchingSources?.();stopWatchingSources=undefined;}
@@ -40,6 +41,7 @@ export function renderHierarchy(){
   document.getElementById('hierarchy').innerHTML='<h2>Organisation de l’équipage</h2><p class="muted">Regroupement par section et groupe ; les liens de commandement individuels ne sont pas déduits des grades.</p>'+[...new Set(M.map(p=>p.section))].map(section=>`<div class="card tree-section"><h3>${esc(section)}</h3>${[...new Set(M.filter(p=>p.section===section).map(p=>p.group))].map(group=>`<div class="tree-group"><b>${esc(group)}</b><div>${M.filter(p=>p.section===section&&p.group===group).map(p=>`<button class="tree-member" onclick="openPerson('${p.id}')">${portrait(p.id)}${esc(p.name)} <span class="muted">${esc(p.grade)}</span></button>`).join('')}</div></div>`).join('')}</div>`).join('');
 }
 export function renderMap(kind='map'){
+  if(kind==='ship')return renderDeckPlans();
   const isShip=kind==='ship',list=assets.filter(a=>a.kind===(isShip?'deck':'star-map'));
   document.getElementById(kind).innerHTML=`<div class="toolbar"><h2>${isShip?'Plans du FarStar':'Carte stellaire'}</h2><select id="mapAsset-${kind}">${list.map(a=>`<option value="${a.id}">${esc(a.name)}</option>`).join('')}</select><label><input type="checkbox" id="pinMode-${kind}"> Placer un repère</label>${isShip?'<button onclick="renderShipList()">Liste des salles</button>':''}</div><p class="inline-note">${isShip?'Positions selon les affectations du quart sélectionné ; les extras restent des présences possibles. Place une fois les repères des salles sur le plan.':'Active « Placer un repère », clique sur la carte et associe une fiche. Les coordonnées sont enregistrées dans le JSON.'}</p><div class="plan-wrap"><div class="map-stage" id="mapStage-${kind}"></div></div>${isShip?'<div id="deckOccupancy"></div>':''}`;
   const paint=()=>{const id=document.getElementById(`mapAsset-${kind}`).value,pins=(isShip?entities.roomPins:entities.mapPins).filter(p=>p.assetId===id),occ=allRoomOccupancy();

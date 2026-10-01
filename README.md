@@ -106,9 +106,25 @@ redémarrage automatique après une erreur.
 
 ## Plans, cartes et heure
 
-Choisir un plan ou une carte, activer « Placer un repère », cliquer puis associer
-une salle ou une fiche. Les coordonnées sont persistées en pourcentage. Les plans
-originaux n'ont pas de coordonnées fiables des salles : aucune position n'est inventée.
+Le FarStar dispose de six plans SVG interactifs : clique dans une zone pour consulter
+les affectations de la salle et ses images. Les 130 zones ont été relevées sur les
+plans sources ; 61 salles possèdent une association explicite et 13 restent à associer manuellement. Les correspondances
+incertaines restent vides et peuvent être renseignées dans l'inspecteur.
+
+« Calibrer les zones » permet de déplacer les sommets à la souris ou avec les flèches,
+de saisir leurs coordonnées en pourcentage et de tracer de nouvelles zones. Les
+ajustements deviennent persistants avec « Enregistrer la zone ». « Comparer avec
+l'original » affiche le scan de référence séparément du plan vectoriel.
+
+Depuis une salle, « Ajouter / modifier les images » importe PNG, JPEG, WebP ou GIF
+(8 Mo maximum), ou associe une référence locale existante. Les fichiers restent dans
+`runtime/media/rooms` ; leurs références, légendes et provenance sont sauvegardées
+dans `campaign.ship.rooms[].media`. Les tracés sont dans `campaign.ship.deckPlans`. Les relevés
+initiaux de `tools/plans/farstar-traces.mjs` ne doivent pas être réappliqués après une
+calibration utilisateur.
+
+Pour la carte stellaire, activer « Placer un repère », cliquer puis associer une fiche.
+Les coordonnées sont persistées en pourcentage. Aucune position n'est inventée.
 
 L'heure sélectionne un quart selon les débuts configurables (00h / 12h initialement).
 Les présences sont dérivées des affectations ; les postes partagés et extras sont

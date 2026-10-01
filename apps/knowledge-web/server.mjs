@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { readFile, stat, realpath } from 'node:fs/promises';
 import { createReadStream } from 'node:fs';
 import { createStore } from './storage.mjs';
+import { MAX_ROOM_IMAGE,storeRoomImage } from './room-media.mjs';
 
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../..');
 let local={};try{local=JSON.parse(await readFile(path.join(ROOT,'config.local.json'),'utf8'));}catch{}
@@ -12,7 +13,7 @@ const RUNTIME=process.env.DARKSTRYDER_RUNTIME_ROOT||local.runtimeRoot||path.reso
 const store=createStore(ROOT,RUNTIME);
 const readJson=async rel=>JSON.parse(await readFile(path.join(ROOT,rel),'utf8'));
 const json=(res,status,data)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(data));};
-const types={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.mjs':'text/javascript','.json':'application/json','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.svg':'image/svg+xml','.pdf':'application/pdf','.md':'text/plain; charset=utf-8'};
+const types={'.html':'text/html; charset=utf-8','.css':'text/css','.js':'text/javascript','.mjs':'text/javascript','.json':'application/json','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.webp':'image/webp','.gif':'image/gif','.svg':'image/svg+xml','.pdf':'application/pdf','.md':'text/plain; charset=utf-8'};
 async function serveFile(req,res,base,relative){
   const baseResolved=path.resolve(base),candidate=path.resolve(base,relative);
   if(!candidate.startsWith(baseResolved+path.sep))throw Object.assign(new Error('Chemin interdit'),{status:403});
@@ -36,6 +37,11 @@ export function createServer(){return http.createServer(async(req,res)=>{
       return json(res,200,{campaign:campaign.data,entities:entities.data,portraits,assets,sources,revisions:{campaign:campaign.revision,entities:entities.revision}});
     }
     if(['/api/campaign','/api/entities'].includes(route)&&req.method==='PUT')return json(res,200,await store.update(route.split('/').at(-1),await body(req),req.headers['if-match']));
+    if(route==='/api/room-media'&&req.method==='POST'){
+      if(Number(req.headers['content-length'])>MAX_ROOM_IMAGE)return json(res,413,{error:'Image trop volumineuse (8 Mo maximum)'});
+      const chunks=[];let size=0;for await(const chunk of req){size+=chunk.length;if(size>MAX_ROOM_IMAGE)throw Object.assign(new Error('Image trop volumineuse (8 Mo maximum)'),{status:413});chunks.push(chunk);}
+      return json(res,201,await storeRoomImage(RUNTIME,Buffer.concat(chunks),req.headers['content-type']));
+    }
     if(route==='/api/ocr-status'&&req.method==='GET'){
       let status={state:'not-started'};try{status=JSON.parse(await readFile(path.join(RUNTIME,'ocr-status.json'),'utf8'));}catch{}
       return json(res,200,status);

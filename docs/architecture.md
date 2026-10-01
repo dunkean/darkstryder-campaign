@@ -34,8 +34,13 @@ The site reads source text per PDF page and searches completed extraction pages.
 Every source link retains a stable source ID and a one-based PDF page number.
 Book pagination can differ from printed pagination; references explicitly use PDF pages.
 
-Deck/stellar maps are Drive assets. Pins associate a room or entity with normalized
-coordinates on one asset. Occupancy is derived from shift assignments, preserving
+Stellar maps are Drive assets; pins associate an entity with normalized coordinates.
+FarStar decks use native SVG geometry in campaign.ship.deckPlans, manually traced
+from the six Drive reference plans. Regions associate stable room IDs with calibrated
+percentage polygons; uncertain associations stay null. Editing polygon vertices,
+labels and associations uses the same revisioned campaign persistence. Room media
+references and provenance live in rooms[].media; uploads stay in runtime/media/rooms.
+Occupancy is derived from shift assignments, preserving
 shared and possible-extra semantics. Configure shift starts from the header.
 
 Writes check the revision of the file last read, reject stale writes with HTTP 409,
