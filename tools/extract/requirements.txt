@@ -1,0 +1,4 @@
+docling==2.91.0
+rapidocr==3.8.1
+pymupdf>=1.27.2,<2
+pillow>=11,<13

@@ -1,0 +1,29 @@
+{
+  "name": "darkstryder-campaign",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "astro build --root apps/knowledge-web",
+    "start": "npm run build && node apps/knowledge-web/server.mjs",
+    "serve": "node apps/knowledge-web/server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run build && npm test",
+    "inventory": "node tools/python.mjs tools/inventory/inventory.py",
+    "ocr": "node tools/python.mjs tools/extract/convert.py",
+    "ocr:background": "node tools/python.mjs tools/extract/background.py",
+    "ocr:server": "node tools/python.mjs tools/extract/serve.py",
+    "export": "node tools/export/export.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.3.5",
+    "dompurify": "^3.4.16",
+    "marked": "^18.0.14",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}

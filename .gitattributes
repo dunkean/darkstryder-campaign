@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+# Preserve the original comparison console byte for byte.
+legacy/farstar_campaign_console_v2_1.html -text

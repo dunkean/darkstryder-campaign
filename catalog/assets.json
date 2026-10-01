@@ -1,0 +1,62 @@
+[
+  {
+    "id": "asset-1",
+    "name": "FS_Deck0_upper",
+    "path": "Spaceship/Plans/FS_Deck0_upper.jpg",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-2",
+    "name": "FS_Deck1",
+    "path": "Spaceship/Plans/FS_Deck1.JPG",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-3",
+    "name": "FS_Deck2",
+    "path": "Spaceship/Plans/FS_Deck2.JPG",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-4",
+    "name": "FS_Deck3",
+    "path": "Spaceship/Plans/FS_Deck3.JPG",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-5",
+    "name": "FS_Deck4",
+    "path": "Spaceship/Plans/FS_Deck4.JPG",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-6",
+    "name": "FS_Deck5_lower",
+    "path": "Spaceship/Plans/FS_Deck5_lower.jpg",
+    "kind": "deck"
+  },
+  {
+    "id": "asset-7",
+    "name": "Kathol_Sector",
+    "path": "Atlas/Kathol_Sector.png",
+    "kind": "star-map"
+  },
+  {
+    "id": "asset-8",
+    "name": "MapSecteurKathol",
+    "path": "Atlas/MapSecteurKathol.jpg",
+    "kind": "star-map"
+  },
+  {
+    "id": "asset-9",
+    "name": "katholriftfk6",
+    "path": "Atlas/katholriftfk6.jpg",
+    "kind": "star-map"
+  },
+  {
+    "id": "asset-10",
+    "name": "KatholOutBack1",
+    "path": "Atlas/KatholOutBack1.jpg",
+    "kind": "star-map"
+  }
+]

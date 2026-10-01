@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "entities": [],
+  "schedule": {
+    "shift1Start": 0,
+    "shift2Start": 12
+  },
+  "mapPins": [],
+  "roomPins": []
+}

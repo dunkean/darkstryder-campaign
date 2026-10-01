@@ -1,0 +1,4 @@
+# Legacy comparison backend. Not needed for the sequential Docling pipeline.
+chandra-ocr[hf]==0.2.0
+pymupdf==1.28.2
+pillow==12.3.0

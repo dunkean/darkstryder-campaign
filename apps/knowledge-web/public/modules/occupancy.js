@@ -1,0 +1,7 @@
+import { D, TH, M, byId, roomById, state, esc, nrm, portrait, portraitLarge, avatarHtml } from './store.js';
+
+export function currentAssignments(p,mode=state.mode){return p.assignments?.[mode]||[]}
+export function extraCycleForMode(mode=state.mode){return mode==='shift1'?'extra1':mode==='shift2'?'extra2':null}
+export function extraFor(p,mode=state.mode){const k=extraCycleForMode(mode);return k?(p.assignments?.[k]||[]):[]}
+export function allRoomOccupancy(mode=state.mode,includeExtras=true){const occ={};for(const p of M){for(const a of currentAssignments(p,mode)){for(const rid of a.room_ids||[]){(occ[rid]??=[]).push({kind:'person',id:p.id,shared:a.shared_time,extra:false,location:a.location})}}if(includeExtras&&mode!=='alert'){for(const a of extraFor(p)){const z=D.operations.extra_zones.find(z=>z.name===a.zone);for(const rid of z?.room_ids||[]){(occ[rid]??=[]).push({kind:'person',id:p.id,shared:true,extra:true,possible:true,location:a.zone})}}}}for(const post of D.operations.posts){if(!post.droids?.length)continue;for(const rid of post.room_ids||[]){for(const d of post.droids)(occ[rid]??=[]).push({kind:'droid',label:d})}}return occ}
+export function chip(x){if(x.kind==='droid')return `<span class="chip droid">${esc(x.label)}</span>`;const p=byId[x.id];return `<span class="chip ${x.extra?'extra':''} ${x.shared?'shared':''}" onclick="event.stopPropagation();openPerson('${p.id}')">${esc(p.name)}${x.extra?' · extra possible':''}${x.shared&&!x.extra?' · partagé':''}</span>`}

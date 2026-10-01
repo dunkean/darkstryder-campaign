@@ -1,0 +1,246 @@
+[
+  {
+    "id": "src-c86af6abdc3184c5",
+    "name": "WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame",
+    "sha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed",
+    "pages": 129,
+    "locator": {
+      "root": "drive",
+      "path": "Material/DarkStryder SourceBook/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+    },
+    "copies": [
+      {
+        "root": "project",
+        "path": "sourcebooks/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+      }
+    ],
+    "collection": "darkstryder",
+    "native_text_pages": 0,
+    "output": "extracted/src-c86af6abdc3184c5"
+  },
+  {
+    "id": "src-a3a28719eed85a70",
+    "name": "WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback",
+    "sha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4",
+    "pages": 91,
+    "locator": {
+      "root": "drive",
+      "path": "Material/DarkStryder SourceBook/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+    },
+    "copies": [
+      {
+        "root": "project",
+        "path": "sourcebooks/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+      }
+    ],
+    "collection": "darkstryder",
+    "native_text_pages": 83,
+    "output": "extracted/src-a3a28719eed85a70"
+  },
+  {
+    "id": "src-e76020e4b32da626",
+    "name": "WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift",
+    "sha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f",
+    "pages": 98,
+    "locator": {
+      "root": "drive",
+      "path": "Material/DarkStryder SourceBook/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+    },
+    "copies": [
+      {
+        "root": "project",
+        "path": "sourcebooks/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+      }
+    ],
+    "collection": "darkstryder",
+    "native_text_pages": 0,
+    "output": "extracted/src-e76020e4b32da626"
+  },
+  {
+    "id": "src-1678b1eb8c4bd691",
+    "name": "WEG40209 - Star Wars - Darkstryder Campaign",
+    "sha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847",
+    "pages": 194,
+    "locator": {
+      "root": "drive",
+      "path": "Material/DarkStryder SourceBook/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+    },
+    "copies": [
+      {
+        "root": "project",
+        "path": "sourcebooks/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+      }
+    ],
+    "collection": "darkstryder",
+    "native_text_pages": 182,
+    "output": "extracted/src-1678b1eb8c4bd691"
+  },
+  {
+    "id": "src-3eb03c4492ed2bd3",
+    "name": "Adventure Journal 9",
+    "sha256": "3eb03c4492ed2bd3495e4af3e13d3d8a6162459e67b58a753fcd56c7ee4fa7e9",
+    "pages": 147,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Adventure Journal 9.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-3eb03c4492ed2bd3"
+  },
+  {
+    "id": "src-94ff53e66d872af8",
+    "name": "Classic Adventures Volume 2 WEG40128",
+    "sha256": "94ff53e66d872af83f47911ee5eee56e292dc2e69d0119d289d86830bebd0af1",
+    "pages": 130,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Classic Adventures Volume 2 WEG40128.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-94ff53e66d872af8"
+  },
+  {
+    "id": "src-e340efa962f7425c",
+    "name": "Classic Adventures Volume 4 Best of the Journal WEG40138",
+    "sha256": "e340efa962f7425c1cc560c0470c6e206e2c3f17499689bf4300938fa0f7d2a0",
+    "pages": 146,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Classic Adventures Volume 4 Best of the Journal WEG40138.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-e340efa962f7425c"
+  },
+  {
+    "id": "src-87dca4085f4a050a",
+    "name": "Classic Adventures Volume 5 WEG40165",
+    "sha256": "87dca4085f4a050a064a868c89b9e0b33105d4a0c89ba5f0fd4a24f204cd8234",
+    "pages": 123,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Classic Adventures Volume 5 WEG40165.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-87dca4085f4a050a"
+  },
+  {
+    "id": "src-11db6709785a7a96",
+    "name": "Lords of the Expanse Instant Adventures Tapani Sector WEG40147",
+    "sha256": "11db6709785a7a96eeaf1fd156fe32b855b51f792b7d44af28db8e3833b149e2",
+    "pages": 74,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Lords of the Expanse Instant Adventures Tapani Sector WEG40147.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 64,
+    "output": "extracted/src-11db6709785a7a96"
+  },
+  {
+    "id": "src-73baeb84d2db9fb0",
+    "name": "Lords of the Expanse Lifestyles of the Rich and Dangerous WEG40215-1",
+    "sha256": "73baeb84d2db9fb077b662ef752e3289112ac713cf0f206f94406b85d651e490",
+    "pages": 22,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Lords of the Expanse Lifestyles of the Rich and Dangerous WEG40215-1.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-73baeb84d2db9fb0"
+  },
+  {
+    "id": "src-db60404e5ebc7f0b",
+    "name": "Lords of the Expanse Players Guide to Tapani WEG40155",
+    "sha256": "db60404e5ebc7f0bc7b3205a50d580f9f15aacfd68749446a59846f0e7b397d5",
+    "pages": 82,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/Lords of the Expanse Players Guide to Tapani WEG40155.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-db60404e5ebc7f0b"
+  },
+  {
+    "id": "src-8bd3ff40958a6a5a",
+    "name": "WEG40066 Supernova",
+    "sha256": "8bd3ff40958a6a5adce4430987eb61dc66339f3e8608bb68886c115f3a007258",
+    "pages": 98,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/WEG40066 Supernova.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 94,
+    "output": "extracted/src-8bd3ff40958a6a5a"
+  },
+  {
+    "id": "src-f5c7cc418311e7fd",
+    "name": "WEG40137 Instant Adventures",
+    "sha256": "f5c7cc418311e7fdc7ece6d596735a18f7c96e12f16b482c5710eaa8cd90ee18",
+    "pages": 74,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/WEG40137 Instant Adventures.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-f5c7cc418311e7fd"
+  },
+  {
+    "id": "src-c3e04a084302f1ce",
+    "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide",
+    "sha256": "c3e04a084302f1cede0da2fe78fd258ce1b63ad54ffc766e8d25a756b69c3bf2",
+    "pages": 74,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-c3e04a084302f1ce"
+  },
+  {
+    "id": "src-2dd59b49af89a14f",
+    "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide",
+    "sha256": "2dd59b49af89a14f1d341f4ecabc037a0952eab43e8c52fb84523dae2b5f909a",
+    "pages": 82,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 0,
+    "output": "extracted/src-2dd59b49af89a14f"
+  },
+  {
+    "id": "src-1470b2eea31bd428",
+    "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide",
+    "sha256": "1470b2eea31bd42889cf19f0d2155e06e84164fc2059bcb3dcba053571d46ed4",
+    "pages": 50,
+    "locator": {
+      "root": "drive",
+      "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide.pdf"
+    },
+    "copies": [],
+    "collection": "sourcebooks",
+    "native_text_pages": 46,
+    "output": "extracted/src-1470b2eea31bd428"
+  }
+]
