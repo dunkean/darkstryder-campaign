@@ -8,9 +8,9 @@
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
   "fileHashes": {
-    "book.md": "78ac2f5bad110dc3e8bd24383e8e68e6a485267036cb63b161268938e6a9b8d2",
+    "book.md": "0d91dd7ed9250360e6657e7cc874eb2ed6a62d1b04726e2fb0a6e978422581ca",
     "pages/0001.md": "891065d4d3a19683fda22fa680d11b648bd0964cd5c07db8e106b676d30d465a",
-    "pages/0002.md": "13ce28c2dbf807848bf7e106bf2aa9fac72d379c0f4b294df33f15ca0d3bb901",
+    "pages/0002.md": "3f3bcbfa1038e8459e9d3bd31f80971aecffc92e6be69258eef9d4a53c947c1a",
     "pages/0003.md": "2cdaf66be8ac758670395d6ab0966a68f93f9cc3068e6d17832eb938c7bb49d9",
     "pages/0004.md": "f29a220a93adf7d5cb0f27de538188989da82d8e92b8007550bf9511dad37317",
     "pages/0005.md": "6f925aa91d4ad49917bfa5388a896f6856769ae56a3782948ee2a892ceb32cb5",

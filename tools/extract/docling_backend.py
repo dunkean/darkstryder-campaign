@@ -16,7 +16,7 @@ import re
 import signal
 import time
 from pathlib import Path
-from common import rebuild, write_json
+from common import append_native_text, rebuild, write_json
 
 ROOT = Path(__file__).resolve().parents[2]
 CONFIG = json.loads((ROOT / 'config.local.json').read_text(encoding='utf-8-sig'))
@@ -189,12 +189,15 @@ def main():
                     json_temp.replace(structure / f'{number:04}.json')
                     plain = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', text)
                     chars = len(' '.join(re.sub(r'<[^>]*>', ' ', plain).split()))
-                    native_chars = len(original[number - 1].get_text().strip())
+                    native_text = original[number - 1].get_text().strip()
+                    native_chars = len(native_text)
                     flags = []
                     if chars < 80:
                         flags.append('low-text-or-illustration')
                     if native_chars > 500 and chars < native_chars * 0.6:
                         flags.append('text-coverage-low')
+                        text = append_native_text(text, native_text)
+                        flags.append('native-text-layer-recovered')
                     if '\ufffd' in text:
                         flags.append('replacement-characters')
                     confidence = result.confidence.pages.get(number) if result.confidence and result.confidence.pages else None
@@ -211,6 +214,10 @@ def main():
                         'tables': len(doc.tables), 'images': len(doc.pictures), 'flags': flags,
                         'seconds': round(time.monotonic() - before, 2),
                         'confidence': confidence.model_dump(mode='json') if confidence else None}
+                    if 'native-text-layer-recovered' in flags:
+                        reports[str(number)]['nativeTextSupplement'] = {
+                            'origin': 'pdf-text-layer', 'uncorrected': True,
+                            'characters': native_chars, 'includedInDoclingStructure': False}
                     write_json(folder / 'manifest.json', {'sourceId': source['id'], 'sha256': sha,
                         'engineId': ENGINE, 'engine': status['engine'], 'versions': versions,
                         'languages': ['english'], 'nativeTextPreserved': True, 'tableMode': 'accurate',

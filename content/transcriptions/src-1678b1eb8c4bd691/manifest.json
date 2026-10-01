@@ -393,7 +393,8 @@
       "flags": [
         "low-text-or-illustration",
         "text-coverage-low",
-        "layout-low-confidence"
+        "layout-low-confidence",
+        "native-text-layer-recovered"
       ],
       "seconds": 4.01,
       "confidence": {
@@ -405,6 +406,12 @@
         "low_grade": "fair",
         "mean_score": 0.7684946358203888,
         "low_score": 0.5601398080587388
+      },
+      "nativeTextSupplement": {
+        "origin": "pdf-text-layer",
+        "uncorrected": true,
+        "characters": 4231,
+        "includedInDoclingStructure": false
       }
     },
     {
@@ -3831,7 +3838,8 @@
       "tables": 0,
       "images": 1,
       "flags": [
-        "text-coverage-low"
+        "text-coverage-low",
+        "native-text-layer-recovered"
       ],
       "seconds": 3.68,
       "confidence": {
@@ -3843,6 +3851,12 @@
         "low_grade": "excellent",
         "mean_score": 0.9390912192382065,
         "low_score": 0.9003712919431575
+      },
+      "nativeTextSupplement": {
+        "origin": "pdf-text-layer",
+        "uncorrected": true,
+        "characters": 4361,
+        "includedInDoclingStructure": false
       }
     },
     {

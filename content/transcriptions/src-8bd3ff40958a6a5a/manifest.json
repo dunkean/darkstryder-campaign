@@ -47,7 +47,8 @@
       "flags": [
         "low-text-or-illustration",
         "text-coverage-low",
-        "layout-low-confidence"
+        "layout-low-confidence",
+        "native-text-layer-recovered"
       ],
       "seconds": 2.51,
       "confidence": {
@@ -59,6 +60,12 @@
         "low_grade": "fair",
         "mean_score": 0.8945040923851145,
         "low_score": 0.7464514023809854
+      },
+      "nativeTextSupplement": {
+        "origin": "pdf-text-layer",
+        "uncorrected": true,
+        "characters": 708,
+        "includedInDoclingStructure": false
       }
     },
     {

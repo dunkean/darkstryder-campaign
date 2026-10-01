@@ -1,5 +1,19 @@
 import json, math
 
+NATIVE_TEXT_MARKER = '<!-- native-text-supplement: pdf-text-layer; uncorrected -->'
+
+def append_native_text(text, native_text):
+    """Keep evidence discarded by layout detection, without editorial correction."""
+    if NATIVE_TEXT_MARKER in text:
+        return text
+    native_text = '\n'.join(line.rstrip() for line in native_text.strip().splitlines())
+    return (text.rstrip() + '\n\n' + NATIVE_TEXT_MARKER + '\n\n'
+            '### Couche texte native du PDF — non corrigée\n\n'
+            'Complément conservé car la détection de mise en page a omis du texte. '
+            'Cette couche peut contenir des erreurs OCR historiques ; vérifier le scan. '
+            'Elle ne figure pas dans la structure Docling et peut répéter le texte ci-dessus.\n\n'
+            + native_text.strip() + '\n')
+
 def write_json(path,data):
     def clean(value):
         if isinstance(value,float) and not math.isfinite(value):return None

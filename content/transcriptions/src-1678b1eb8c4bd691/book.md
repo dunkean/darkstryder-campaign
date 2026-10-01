@@ -875,6 +875,107 @@ Keep your eyes open!
 
 ![Image](images/image_000000_13f76421a7d1348ea768cd9b9151bf03f5728775158fd041c1cbb2cf87f59572.png)
 
+<!-- native-text-supplement: pdf-text-layer; uncorrected -->
+
+### Couche texte native du PDF — non corrigée
+
+Complément conservé car la détection de mise en page a omis du texte. Cette couche peut contenir des erreurs OCR historiques ; vérifier le scan. Elle ne figure pas dans la structure Docling et peut répéter le texte ci-dessus.
+
+43:4:5
+To: Captain Keleman Ciro, FarStar
+From: Lieutenant Page
+Regarding: FarStar Mission Profile
+Keleman:
+Following are the orders for the FarSlar, effective immediately0
+New Republic High Command thinks it has more important t hings to worry about; they don't take Same or
+this DarkStryder thing seriously. I know you and I know how important this mission is.
+MISSION OBJECTIVES
+1. Find Same. Same got us good at Kal’Shebbol.
+He got away without us even getting a hyperspace
+vector. He’s on the run, but like any other predator
+that’s when he is most dangerous.
+We may be holding the sector capitol, but we
+know enough to expect Same to mount a counterat­
+tack. l ie’s vindictive enough to destroy his former
+holdings rather than let us have them. He’s also
+clever enough to somehow assemble a large enough
+force to give us a rough time when he does show up.
+Your mission is to track him down, muster what­
+ever New Republic forces are within comm range,
+and bring him down.
+While the New Republic Provisional Council may
+•beg to differ, I don’t care whether he lives to stand
+trial for his war crimes. I'm not condoning mu °ler,
+but I’ll trade one life for millions. You have authority
+to use any means neccesary to stop him.
+2. Determine W here DarkStryder Tech­
+nology Comes From. You know I wanted to
+come here because of Same’s DarkStryder technol­
+ogy. While I know Command considers these rumors
+on a par with haunted planet stories, 1 think we both
+know better.
+Our examinations of the two artifacts we recov­
+ered have revealed nothing of substance. These de­
+vices do not function by any conventionally under­
+stood means.
+Find out where Same got this technology, and find
+out how much more is available to him. You must
+seize control of the DarkStryder technology or at the
+very least deprive Same of access to it.
+3. Recon and Report on Imperial Forces
+in Kathol Sector and Unknown Space
+Beyond the Kathol Rift. Same may have fled,
+but he hasn’t recalled all of his Imperial vessels.
+Some have remained behind to harass planets and
+New Republic forces.
+You are to provide as much detailed information
+as possible to supplement our data that our patrol
+ships are gathering.
+4. Recon and Report on Kathol Sector. We
+know nothing about this place beyond coordinates
+to three nearby colonies. That’s not a lot to start
+with.
+As you travel to different systems, your mission is
+to purchase astrogation charts for any known routes,
+as well compile whatever data you can get on settle­
+ments and unexplored systems within Kathol sector
+space.
+5. Recon and Report on Worlds in Un­
+known Space. As you leave Kathol sector and
+head into unknown space, you will have to rely more
+on your own observations and less on the charts and
+data of others. We’re on the edge of the Fmpire and
+who knows what might be out there.
+We need to know of any rogue colonies or undis­
+covered civilizations. New Republic Military Com­
+mand is going to want to know whether this is a true
+wilderness zone or if we have to fortify our borders
+against possible incursion by alien forces. While I am
+not at liberty to discuss specifics, we have faced
+similar incidents in the past.
+Keep your eyes open!
+6. Represent New  Republic Interests to
+any Settlements or civilizations. This is
+your lowest priority, but it has far-reaching implica­
+tions. Act accordingly. The FarSlar is a forward rep­
+resentative for the New Republic; your job is to
+present a good face to worlds that have suffered
+under Imperial despotism for decades.
+You are to convince local governments that the
+New Republic represents positive change. Some of
+them will want help, while others are going to be
+looking for signs of weakness. You are also to provide
+data to Kal’Shebbol so the Now Republic Provisional
+Council can choose whether to use polite or gunboat
+diplomacy in future exchanges.
+Kel,
+I wish I could be t here for this mission but I know you can do it. You may be short on command experience
+but you've got the drive for the job.
+Kaiya may be a little too aggressive when things get personal, but she’s also going to follow t hrough on her
+promises. You can trust her.
+First round’s on me when you get back!
+Page
+
 
 ## Page PDF 21
 
@@ -10781,6 +10882,114 @@ Read the following aloud:
 The Sebiri village is small, hous­ ing no more than two or three dozen extended  families,  at  most  200 people.  Scale-covered  Sebiri  chil­ dren play in the mud and the timid
 
 ![Image](images/image_000000_ffa4d27389fba0bc6058ebd33b9143594c9158fb2c9ea96f56effedbc0fdb8e0.png)
+
+<!-- native-text-supplement: pdf-text-layer; uncorrected -->
+
+### Couche texte native du PDF — non corrigée
+
+Complément conservé car la détection de mise en page a omis du texte. Cette couche peut contenir des erreurs OCR historiques ; vérifier le scan. Elle ne figure pas dans la structure Docling et peut répéter le texte ci-dessus.
+
+THE LANDING
+Drake gives landing coordinates for the village
+he visited, in the equatorial region of the planet.
+He suggests the characters head to the surface
+armed, not because the Sebiri pose an overt
+threat, but because there are extremely danger­
+ous creatures indigenous to the jungle-planet.
+Drake also suggests that a fairly large sized
+armed party accompany the shuttle to the sur­
+face, just in case Drake’s misstep on his last trip
+to Sebiris has changed the Sebiri’s
+attitude about visitors. Drenn is one
+of the volunteers that accompanies
+the mission to the surface.
+Read the following aloud:
+As instructed by Drake, you light
+a large fire in a pit at the edge of the
+clearing you have landed in. Before
+long, several Sebiri glide noiselessly
+out of the jungle. The humanoid
+species is quite adept at stealth; you
+hear nothing but the odd cry of a far
+off animal and the hiss of a light,
+humid breeze.
+Five Sebiri enter the clearing,
+moving purposefully towards your
+ship. Four of the Sebiri are nearly
+two meters tall and extremely fit.
+The four seem to be carrying primi­
+tive flintlocks or wheelocks or other
+such weapon. The fifth is shorter
+and appears older. He wears a mul­
+ticolored cloth band around his fore­
+head ... obviously the headman.
+NEGOTIATIONS BEGIN
+Communicating with the Sebiri is
+a tedious process, since there is vir­
+tually no common ground between
+their language and the characters’.
+In general, until the characters learn
+the Sebiris’ linguistic nuances, all
+language rolls are at -ID. However,
+during the meeting at the shuttle,
+the headman will make it clear that
+the Sebiri delegation is non-hostile
+and will escort the characters to his
+village.
+THE SEBIRI VILLAGE
+Read the following aloud:
+The Sebiri village is small, hous­
+ing no more than two or three dozen
+extended families, at most 200
+people. Scale-covered Sebiri chil­
+dren play in the mud and the timid
+Sibiri women watch you suspiciously. The males
+treat you as honored guests however, offering
+you a sickly-looking sap-based beverage and
+leading you to their huts.
+The headman will explain that the poison Cap­
+tain Adrimetrum has been exposed to eventually
+proves fatal to most humaniods, and that the
+only antidote is a series of herbs that can be
+found near the sacred ground, the hexagonal
+mound a short distance away from the village.
+Addendum (912888.11): My original supposition that
+there are no major structures on Sebiris other than the
+locals’ wattle-and-daub huts is apparently in error. While
+visiting the locals, 1 noticed what appeared to be a large,
+vine-and-mud choked hill, roughly a half of a kilometer
+from the village I’m visiting. The hill had an oddly regular
+shape, however, as if the vines were draped over some
+kind of man-made structure rather than the result of
+geological upheaval. Sure enough, when 1 grabbed my
+macrobinoculars (a device that the Sebiri were highly
+impressed by, I might add) and examined the “hill” more
+closely, I saw that the hill was hexagonal in shape with
+a domed crest — not a typical land formation.
+Tomorrow, I’m going to ask the headman of the Sebiri
+village to provide me with a guide to the hill; I’m willing
+to bet there’s some kind of ruin underneath all those
+vines.
+Addendum (913001.49): Asking the headman for a
+guide was not a good move; the Sebiri were quite ada­
+mant that 1 stay as far away from the hill as I could. 1 can’t
+tell exactly why they are so insistent about it (I’ve only
+managed to teach them a few words of Basic, and 1 don’t
+have the foggiest clue how their language works) so I’ll
+probably sneak off later and check it out myself.
+Addendum (913623.81): Another bad day. The head­
+man caught me heading out to the hill shortly before
+dawn. He obviously knew what I was up to (he’s a
+primitive, not an idiot, apparently) and before 1 could
+really react, several of the village hunters appeared and
+began throwing their spears and such at me. My blast
+vest protected me from the first couple of blows and 1
+managed to hold them off with my blaster pistol. (Fortu­
+nately, they were so scared by the light and the noise
+that they kept their distance. 1 liked that old headman; it
+would’ve been a shame to have had to kill him.)
+Blast! Now I’m never going to find out about the
+“mystery” hill, or the Wraith.
 
 
 ## Page PDF 191
