@@ -1,0 +1,32 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3c7f59bca9bfafeb",
+  "name": "Star_Wars_-_Game_of_the_Name",
+  "sha256": "3c7f59bca9bfafeb28f2daafb6b92bdd2cf4b68f42cd7355c3e1566ff951675c",
+  "pdfPages": 5,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 5,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/Star_Wars_-_Game_of_the_Name.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a8f321fcd7d78130fa20f2253777aacdd1399da5c2c29cc12605624eb9f61842",
+  "fileHashes": {
+    "book.md": "34d6a71fe231345f5886b911001cd4530eb6769e272a0acdd0f43b0a11a8a7b1",
+    "pages/0001.md": "0ee9650c4087955289ed35c7abc1950795609eaa8c10abdffd7bb7c02efb2ace",
+    "pages/0002.md": "8473791967d7970bb2045d9498bd34b10d41a8a2dadd17cee223ddba38ea1823",
+    "pages/0003.md": "be3ddcf4e20323badd62109d02e934be0774973de8acfc7b58608d5a84b76591",
+    "pages/0004.md": "eed2a07ca47f083306b43f5e55a395bb95055478cf16145cce9b7303fa26c0d8",
+    "pages/0005.md": "fd8f474081c360e810bbacc0484275c61e2498043caf835a7a9905d1382b2bc9"
+  }
+}

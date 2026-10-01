@@ -1,0 +1,861 @@
+# JDRVirtuel • Afficher le sujet - La Saga DarkStryder
+
+Source: `src-93bc71206ef8e1b7` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-93bc71206ef8e1b7; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+ saved from url=(0051)http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920 
+
+JDRVirtuel • Afficher le sujet - La Saga DarkStryder
+
+[![](images/68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1.png)](http://www.jdrvirtuel.com/index.php)
+
+# JDRVirtuel
+
+Le forum du JDR à distance
+
+| <br>[![*](images/43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75.gif)<br> Connexion](http://www.jdrvirtuel.com/ucp.php?mode=login)   [![*](images/65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b.gif)<br> M’enregistrer](http://www.jdrvirtuel.com/ucp.php?mode=register)<br> | <br>[![*](images/30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1.gif)<br> FAQ](http://www.jdrvirtuel.com/faq.php)<br>				   [![*](images/605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4.gif)<br> Rechercher](http://www.jdrvirtuel.com/search.php)<br> |
+| --- | --- |
+
+|  | Nous sommes le Sam 13 Fév 2016 23:08<br> |
+| --- | --- |
+
+[Voir les messages sans réponses](http://www.jdrvirtuel.com/search.php?search_id=unanswered) | [Voir les sujets actifs](http://www.jdrvirtuel.com/search.php?search_id=active_topics)
+
+[Index du forum](http://www.jdrvirtuel.com/index.php) » [Parties de Jdr (actives)](http://www.jdrvirtuel.com/viewforum.php?f=32) » [Historique](http://www.jdrvirtuel.com/viewforum.php?f=98) » [Sous forum à garder](http://www.jdrvirtuel.com/viewforum.php?f=99) » [Dark Stryder par JudgeDeath](http://www.jdrvirtuel.com/viewforum.php?f=52)
+
+Heures au format UTC + 1 heure [ Heure d’été ]
+
+## [La Saga DarkStryder](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920)
+
+| <br>[![Poster un nouveau sujet](images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif)](http://www.jdrvirtuel.com/posting.php?mode=post&f=52) [![Répondre au sujet](images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif)](http://www.jdrvirtuel.com/posting.php?mode=reply&f=52&t=5920)<br> |  Page **1** sur **1**<br> |  [ 4 messages ]  |  |
+| --- | --- | --- | --- |
+
+|  <br>				[Imprimer le sujet](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920&view=print)<br> | [Sujet précédent](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920&view=previous) \| [Sujet suivant](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920&view=next)  |
+| --- | --- |
+
+Auteur
+Message
+
+**JudgeDeath**
+
+ **Sujet du message:** [La Saga DarkStryder](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#p81191)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=81191#p81191)**Posté:** Ven 25 Juin 2010 23:05 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+*La Saga DarkStryder *
+
+*
+[![Image](images/c633461d8d9c7919520bc7d4a6590ea4449fcf7a6e5dc2262d27139ce74a4a62.jpg)](http://www.casimages.com/)*
+
+*Il y a bien longtemps dans une galaxie lointaine, très lointaine...
+
+"Quatre années après la bataille d'Endor, la lutte continue contre ce qui reste de l'Empire. Devant une Nouvelle République qui libère les mondes autrefois dominés par les forces Impériales, les derniers représentants de cette époque révolue n'ont plus d'autre choix que d'utiliser des méthodes encore plus désespérées pour conserver ce qui leur reste de pouvoir. Dans le lointain secteur de Kathol qui borde le secteur de Minos, une flotte de la Nouvelle République tente de vaincre le Moff impérial Kentor Sarne."*
+
+La prise de Kal'Shebbol
+La fin du règne du Moff renégat est proche. Depuis quelques jours, la flotte des croiseurs Mon Calamari fait le blocus de la planète ***Kal'Shebbol***, la capitale du secteur de Kathol où s'est retranché Kentor Sarne. Pendant que les navires des deux factions s'affrontent en orbite, un petit groupe d'infiltration de la Nouvelle République mené par le ***lieutenant-colonel Judder Page*** mène l'assaut contre la forteresse de Sarne, pour saboter le bouclier énergétique planétaire. Le succès de leur mission n'est pas total,  Sarne parvient à s'enfuir in extremis à bord d'un croiseur de classe Caraque ainsi que d'une grande partie de sa flotte personnelle.
+Alors que les croiseurs de la Nouvelle République s'apprêtent à retourner dans le secteur de ***Minos*** pour continuer la lutte contre les seigneurs de guerre impériaux, une force symbolique est laissée sur Kal'Shebbol afin d'y restaurer l'ordre et d'y établir un gouvernement provisoire. Une flotte de défense de la Nouvelle République plus conséquente se rendra sur la planète dans trois mois, dans la meilleure hypothèse...
+
+[![Image](images/bee79c6d63c618ba2a65627d30ee9a01bc113fa63484ebfd99851083b396704c.jpg)](http://www.casimages.com/)
+
+Entre-temps, le ***Lieutenant-Colonel Page*** a reçu l'ordre de monter une expédition en vue de traquer le Moff Sarne et de préparer le retour de la flotte dans les meilleures conditions. ***Le secteur de Katho****l*** a été dirigé d'une main de fer et les bouleversements consécutifs au renversement du Moff n'ont pas permis d'obtenir beaucoup d'informations sur cette région reculée. Sarne ayant détruit toutes les cartes stellaires et les informations d'astronavigation du secteur de Kathol incluses dans les banques de données gouvernementales de Kal'Shebbol, il devient primordial d'organiser une mission d'exploration afin de collecter les mesures astrographiques indispensables au déplacement d'une flotte de guerre.
+Le Lieutenant-Colonel Page a donné pour mission au sergent ***Keleman Ciro*** de prendre le commandement de la corvette corellienne ***l'Étoile Lointaine***. Le seul navire de guerre disponible sur Kal'Shebbol fut retrouvé dans le chantier spatial personnel de Sarne. La mission risque d'être difficile car aucune connaissance précise des routes hyperspatiales, des nombreuses colonies du secteur et bien entendu des forces du Moff Sarne ne sont disponibles. Les officiers de l'Étoile Lointaine se sont donc fiés aux indications fragmentaires de divers membres d'équipage pour établir leurs premières cartes stellaires autour de Kal'Shebbol et le long de la route commerciale principale du secteur, ***la route de Trition***.
+
+L'équipage a dû être constitué à partir d'un grand nombre d'individus dont le passé n'a pu être étudié en profondeur. Bien que la majorité d'entre eux soient loyaux envers la Nouvelle République, d'autres ne servent que leurs propres intérêts. Certains ne cherchent que le profit, d'autres souhaitent s'échapper de Kal'Shebbol. On trouvera des ex-Impériaux qui, se faisant passer pour des sympathisants de la Nouvelle République, ne désirent en réalité que servir les intérêts de Sarne et les leurs. De nombreux hommes d'équipage dissimulent des secrets et sont prêts à compromettre la mission de l'Étoile Lointaine pour leur intérêt.
+L'Étoile Lointaine et son équipage se sont embarqués pour ce qui sera, sans doute, une longue et dangereuse mission. Le navire étant seul, sans aucune base ou station de ravitaillement pour l'aider, il ne dispose que du minimum de ressources. Les personnages seront confrontés à des situations de crise au cours desquelles ils devront faire preuve de bravoure et d'esprit de sacrifice. L'échec sera souvent synonyme de tragédie. Dans cette campagne, des personnages vont mourir, certains à cause de leurs propres erreurs, d'autres en raison d'évènements arbitraires.
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: La Saga DarkStryder](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#p81208)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=81208#p81208)**Posté:** Sam 26 Juin 2010 09:10 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+La Saga commence
+*extrait de la nouvelle de Timothy Zahn*
+
+Kal'Shebbol, 28 heures avant le départ.
+Le sas donnant sur l'étroit compartiment permettant d'accéder au moteur s'assombrit et, précédé d'un grognement, Loffryhn apparut. Son pelage brun-rouge était souillé par de la saleté et de la graisse. "Alors ?" demanda Page.
+Le Wookie grogna ses commentaires : les modifications que Sarne voulait apporter au moteur sub-luminique de la Corvette corellienne étaient incomplètes mais, au moins, les Impériaux n'avaient pas eu le temps de tout saboter avant de fuir. "Cela aurait pu être pire", commenta Page. "Très bien. On ferait mieux de jeter un coup d'œil aux hyperpropulseurs maintenant."
+Il entendit des bruits de pas derrière lui. Il se retourna au moment où Syla Tors et un civil en bleu de travail taché entraient dans la pièce. "A quoi ressemble le hangar supplémentaire ?", leur demanda-t-il.
+"Cela aurait pu être mieux", dit Syla. "Le hangar a été conçu pour des Intercepteurs TIE, qui n'ont jamais été installés. On peut se débrouiller pour permettre à cinq Ailes-X d'y être entreposés, mais ce sera assez étroit. On peut aussi se servir des tunnels d'arrimage pour en ajouter neuf de plus à l'extérieur. Tofarain a jeté un coup d'œil à l'équipement d'entretien. Il m'a dit que tout fonctionnait correctement."
+Page porta son attention sur le civil. Dodu et bourru, Bropher Tofarain avait rencontré, hier, Syla et Lilla au cours de leur inspection de l'astroport endommagé. Il avait réclamé que l'on répare ce qui restait de son hangar de dépannage dans l'astroport. Le nouvel ami de Lilla, le ténébreux Defel Kl'aal, avait menacé l'individu de lui lacérer le visage s'il ne laissait pas les deux femmes tranquilles. Lilla, toujours pratique, avait préféré suggérer que Sylla le conduise ici, dans la Vallée de Sorbiss, et qu'il se mette au travail. "Est-ce vrai, Tofarain ?" demanda-t-il.
+"Tout à fait, lieutenant", répondit le mécanicien. "Naturellement, il y a encore du boulot à faire sur l'ensemble du vaisseau."
+"Je sais", répondit Page. "La question est : est-ce que Lofrryhn peut garder les systèmes en état de fonctionnement pendant que l'on effectue tout ce travail ?"
+"Tout seul ?" demanda Tofarain. "Aucune chance. Désolé, Wook, mais il n'a pas l'ombre d'une chance. Mais le Wook et moi, ben, ça, c'est une autre histoire. En plus...", il se tapa sur le torse et pointa un doigt dans la direction de Page, "avec moi, vous disposez également d'un expert en pilotage. Et d'une superbe navette."
+Page jeta un regard à Syla et leva les sourcils en signe d'interrogation. "J'ai vu sa navette à l'astroport", confirma-t-elle. "Elle semblait au moins capable de voler."
+"Elle est superbe", protesta Tofarain comme si on avait blessé son amour-propre. "Elle a subi un paquet de modifs, que j'ai faites moi-même. C'est un véritable rêve de la piloter. Vous m'engagez et vous pouvez en disposer gratuitement. Elle fait partie du lot."
+"Je vais y réfléchir", répondit Page sèchement.
+
+Mais, en vérité, il n'avait pas braiment le choix. La navette aurait besoin, au minimum, d'une centaine d'hommes d'équipage. Il n'y avait aucune chance que l'amiral lui laisse disposer d'autant de personnel. Pour faire voler ce navire, ils devraient avoir recours à un recrutement intensif parmi la population civile de Kal'Shebbol.
+Ils n'obtiendraient pas non plus le nombre de pilotes d'Ailes-X souhaité par Syla. Huit peut-être, si l'amiral était de bonne humeur. Il était possible qu'ils réussissent à obtenir deux de ces Défenseurs dépourvus d'hyperpropulseurs.
+
+Son communicateur émit un petit bruit. Il ouvrit la communication. "Page."
+"Vandro, mon lieutenant. Je suis dans la tourelle numéro un", annonça la voix dans l'appareil. "Le turbolaser semble opérationnel à l'exception des accumulateurs énergétiques. Il en manque quatre et il y en a deux autres dans un sale état."
+"Ça n'a rien d'étonnant si l'on en juge par l'état général du navire", répondit Page. "J'ajouterai les accumulateurs sur la liste ; la seule chose que peut faire l'amiral, c'est de refuser."
+"Ou hurler de rire", commenta Vandro en grimaçant.
+"C'est plus que probable", approuva Page. "Ciro et Adrimetrum sont toujours en train de vérifier l'infirmerie ?"
+"Aux dernières nouvelles, oui. Voulez-vous que je les contacte ?"
+"Non, j'ai besoin de leur parler de vive voix. Continue à vérifier les turbolasers des tourelles et fouine un peu partout. Peut-être que Sarne a stocké quelques accumulateurs de rechange quelque part."
+"Très bien."
+
+Page trouva Ciro et Kaiya dans l'installation médicale en compagnie d'un Mon Calamari du nom de Akanseh. C'était un des prisonniers de Sarne, découvert dans le centre de détention. "C'est dans quel état ?" demanda-t-il.
+"Ça semble relativement complet", répondit Ciro. Les installations chirurgicales sont un peu insuffisantes, mais le docteur Akanseh dit qu'avec l'aide de ses Droïds médicaux, on peut se débrouiller."
+"S'ils existent encore", ajouta Akanseh. Sa voix grave de Mon Calamari était étonnamment douce. "Le Moff Sarne a confisqué l'ensemble de mon unité chirurgicale quand il m'a fait arrêter."
+"De quoi étiez-vous accusé ?" demanda Page.
+Le Mon Calamari, gêné, fit cligner ses grands yeux. "Le Moff Sarne s'embarrassait rarement d'une raison pour emprisonner quelqu'un."
+"Je comprends", dit Page. "J'aimerais que vous vous mettiez tout de suite au travail dans le laboratoire médical, docteur. Ciro, Adrimetrum, venez avec moi dans la passerelle."
+
+Et l'inspection se poursuivit, jusqu'à ce que vingt-huit heures plus tard, le moment du départ arrive.
+
+Kaiya se tenait sur la passerelle, dans un coin en retrait, pour observer l'équipage hâtivement recruté tenter désespérément d'activer tous les systèmes du vaisseau fraîchement baptisé l'Étoile Lointaine. La passerelle résonnait des bruits des conversations ponctuées de quelques ordres et d'un grand nombre de jurons prononcés à voix basse. Ce n'était pas vraiment inhabituel sur un navire de la Nouvelle République.
+Cependant, d'une certaine manière, c'était comme un retour au foyer. La première fois qu'elle avait défié l'Empire, Kaiya se trouvait sur Siluria III, membre d'un groupe de combat constitué uniquement d'amis et de gens qu'elle connaissait. Au moins ici, les civils à bord du navire étaient censés avoir une certaine expérience dans leur domaine d'activité.
+
+"Adrimetrum ?" appela un grand homme au teint blafard assis à la console de contrôle de l'Étoile Lointaine. Si Kaiya ne se trompait pas, c'était le lieutenant Darryn Thyte : un ancien pilote d'Aile-X qui avait dû renoncer à la chasse après avoir perdu un bras sur Vaenrood. "J'ai un véhicule en approche sur la route qui mène ici. Attendons-nous de la visite ?"
+"Pas que je sache", répondit Kaiya en se plaçant derrière l'opérateur pour regarder l'écran. C'était un véhicule civil sur coussin d'air, plutôt ancien. Tendant le bras par-dessus l'épaule de Thyte, elle brancha l'intercom pour contacter le hangar. "Ciro, c'est Adrimetrum. On a de la visite."
+"Je sais", répondit Ciro. "Le lieutenant Gorjaye l'a localisé il y a une minute en effectuant des tests sur son Aile-X."
+"Pourquoi ne m'a-t-elle rien dit ? "demanda Thyte avant que Kaiya puisse répondre. "Commandant, c'est moi l'officier chargé du centre opérationnel, cela inclut les communications, la navigation et les senseurs. Si Gorjaye pense qu'elle peut faire mon boulot, elle peut se pointer ici et essayer."
+"Personne n'a dit que quelqu'un d'autre pouvait faire votre boulot, lieutenant", dit Ciro en tentant de le calmer. Il n'avait pas encore décollé et déjà il se sentait fatigué de devoir composer avec l'attitude acerbe de Thyte. "Adrimetrum, retrouve-moi au sas bâbord pour que l'on voit de qui il s'agit."
+
+Le temps que Kaiya atteigne le sas, le véhicule était à l'arrêt. Ciro attendait déjà, accompagné du Defel Kl'aal presque entièrement dissimulé dans les ombres du couloir d'accès. Dans le ciel, au-dessus des arbres, Kaiya vit passer l'Aile-X du lieutenant Ranna Gorjaye. La porte du camion s'ouvrit.
+"Ah ! Commandant Ciro, je présume ?" dit joyeusement le Twi'lek en sautant du véhicule sur le sol poussiéreux. "Je me nomme Loh'khar? On m'appelle également le Fouineur."
+"Je sais, le lieutenant Page m'a parlé de vous", dit Ciro, sans même essayer de dissimuler son agacement. "Je ne souhaite pas me montre impoli, Loh'khar, mais on doit respecter un délai très court. A moins que vous ayez acquis de nouveaux talents au cours des vingt dernières heures, nous ne pouvons toujours pas vous utiliser à bord de l'Étoile Lointaine."
+"Ah ! Mais peut-être le pourrez-vous, en définitive", affirma Loh'khar. Il souriait à pleines dents en s'approchant du coté du véhicule. "Ou, au moins, peut-être cela pourrait-il vous être utile." D'un grand geste, il détacha le panneau de côté et l'ouvrit.
+Kaiya écarquilla les yeux. "Ce ne seraient pas des...?"
+"Cinquante accumulateurs énergétiques pour turbolasers tout neufs", confirma le Twi'lek en souriant. "Ils n'ont même jamais été sortis de leurs emballages."
+"Où diable avez-vous pu trouver ça sur Kal'Shebbol ?" demanda Ciro. "On a fouillé toute la planète pour en dénicher."
+Loh'khar fit un vague signe de la main. "C'est un talent, commandant", répondit-il d'un air dégagé. "Une capacité, en fait. Elle ne s'acquiert pas aisément... mais elle est utile tout de même. Non ?"
+Ciro soupira et secoua la tête. "Cela ne fait aucun doute", concéda-t-il. "Je pense que nous pouvons nous serrer pour accueillir un homme de plus. Venez à bord. Je vais envoyer des hommes pour décharger la marchandise."
+"C'est inutile." Le Twi'lek siffla et trois petites créatures couvertes d'écailles rouges sortirent de la cabine. Gazouillant comme des enfants tout excités, elles prirent chacune un accumulateur et se mirent à gravir la rampe d'accès. Posant leur charge contre le mur, elles redescendirent pour continuer à décharger le camion.
+Ciro jeta un regard à Kaiya. "Je pense que l'on peut se serrer pour en accueillir quatre de plus", corrigea-t-il. "J'espère que tu es prête pour ça."
+Kaiya regarda le Twi'lek et les trois petites créatures. Non, pas vraiment, dut-elle s'avouer. trop de choses arrivaient trop vite dans cette missions. Des civils, des hommes de la Nouvelle République, des ex-Impériaux. L'équipage était un mélange explosif dès le début. En y ajoutant quelques rancunes personnelles et en saupoudrant le tout de quelques sombres secrets, on obtenait tous les ingrédients pour une bonne guerre civile.
+Mais cela devait être fait. L'Étoile Lointaine devait réussir. Car, au bout du voyage, les attendait le Moff Sarne.
+
+"Bien sûr que je suis prête", répondit-elle à Ciro. "Allons-y."
+
+_________________
+« Le yoga est une science de la réalité et une preuve expérimentale du caractère sacré de toute vie. » **Yogi Bhajan**
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: La Saga DarkStryder](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#p114747)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=114747#p114747)**Posté:** Jeu 28 Avr 2011 19:21 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Un peu d'Histoire : L'Ancienne République
+
+* * *
+
+*1/ Le traité de Coruscant*
+
+*2/ Le blocus Mandalorien est percé*
+
+*3/ Le retour des Mandaloriens*
+
+*4/ L'Empire change de stratégie*
+
+*5/ La bataille de Bothawui*
+
+*6/ L'assaut de l'empire sith*
+
+*7/ La république en paix ?*
+
+*8/ La guerre civile des jedi*
+
+*9/ Les guerres mandaloriennes*
+
+*10/ La Chute d'Exar Kun*
+
+*11/ La renaissance de l'empire Sith*
+
+*12/ La Grande Guerre de l'Hyperespace*
+
+_________________
+« Le yoga est une science de la réalité et une preuve expérimentale du caractère sacré de toute vie. » **Yogi Bhajan**
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: La Saga DarkStryder](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#p135785)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=135785#p135785)**Posté:** Sam 15 Oct 2011 14:55 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+*Holo-musée de la Campagne DarkStryder *
+*(les illustrations originelles enfin révélées !)*
+
+[![Image](images/5d68ff6c15358c0033e8df91a038cb53f8aaf55b7b31297aebb858f8578fba58.jpg)](http://www.casimages.com/)
+*(les officiers de l'Etoile Lointaine avant leur départ de Kal'Shebbol )*
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=5920#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+| Afficher les messages postés depuis: Tous1 jour7 jours2 semaines1 mois3 mois6 mois1 an Trier par AuteurDateSujet CroissantDécroissant  |
+| --- |
+
+| <br>[![Poster un nouveau sujet](images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif)](http://www.jdrvirtuel.com/posting.php?mode=post&f=52) [![Répondre au sujet](images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif)](http://www.jdrvirtuel.com/posting.php?mode=reply&f=52&t=5920)<br> |  Page **1** sur **1**<br> |  [ 4 messages ]  |  |
+| --- | --- | --- | --- |
+
+[Index du forum](http://www.jdrvirtuel.com/index.php) » [Parties de Jdr (actives)](http://www.jdrvirtuel.com/viewforum.php?f=32) » [Historique](http://www.jdrvirtuel.com/viewforum.php?f=98) » [Sous forum à garder](http://www.jdrvirtuel.com/viewforum.php?f=99) » [Dark Stryder par JudgeDeath](http://www.jdrvirtuel.com/viewforum.php?f=52)
+
+Heures au format UTC + 1 heure [ Heure d’été ]
+
+#### Qui est en ligne
+
+Utilisateurs parcourant ce forum: Aucun utilisateur enregistré et 1 invité
+
+|  | Vous **ne pouvez pas** poster de nouveaux sujets<br>Vous **ne pouvez pas** répondre aux sujets<br>Vous **ne pouvez pas** éditer vos messages<br>Vous **ne pouvez pas** supprimer vos messages<br> |
+| --- | --- |
+
+Rechercher:  
+
+Aller à: 
+Sélectionner un forum
+------------------
+Communication avec le Staff (modos & admins)
+   Communication avec le STAFF
+Bienvenue
+   Présentation du forum
+   Présentation des rolistes
+   Bilan d activité
+Propositions de parties
+   Oneshot
+   Campagne
+   Rolistes en salle d'attente.
+Discussion
+   Création
+   Divers sur le JDR
+   Nouveautés JDR
+   Divers Hors JDR
+   Petites Annonces
+   Sondage
+   Organisation de Parties de JDR IRL
+Outils et Ressources pour le JDR à distance
+   Fantasy Grounds
+      Rulesets FG2 / FG3
+   Maptool
+   Rolistik / Rolisteam
+   Roll20
+   Autres
+   Vocal, Musique & Son
+   Ressources graphiques
+Parties de Jdr (actives)
+   Augustine s Warhammer adventures by Sdompy
+   Anima "Nouvelle Guerre, la conquête de Vérity" par Aleden
+   Appel de Cthulhu par Prosopee
+   Appel de Cthulhu par Cervooo
+   Appel de Cthulhu "La malédiction de Nineveh" par Golgorosh
+   Appel de Cthulhu - Les montagnes hallucinées par Azathoth
+   L'Appel de Cthulhu - Par delà les Montagnes Hallucinées par Lazarius
+   Appel de Cthulhu "Horreur sur l'Orient Express" par Golgorosh
+   Appel de Cthulhu "Les Masques de Nyarlathotep" par Tharabbor
+   Appel de Cthulhu "Terreur sur l'Orient Express" par Tharabbor
+   Ate "L'avènement d'Imladris" par ulysse9210
+   Aventures d'insectes & compagnie par Carameline
+   Brecheliand - les agents du Deus gladio par Rainbow Flag
+   Chroniques Oubliées "Les Terres de Nord" par Jonias
+   Chroniques Oubliées "Anathazerïn" par Raïzer
+   Chroniques Oubliées - Endless Legend par LeoDanto
+   Dark Heresy par Neuralnoise
+   Dark Heresy et Deathwatch "De la poussière aux cendres" par Uskomaton Murmeli
+   Deathwatch par Pompi
+   Deathwatch "La Croisée des Chapitres" par XenophageX
+   Dark Heresy - Deathwatch "La Mort vient du Ciel par Baygun
+   Delta Green par fox p
+   Donjon de Naheulbeuk par bibs
+   Donjon de naheulbeuk "la légende de Gerba" par shiva1987
+   Donjon de naheulbeuk " La tour movak " par Metapanda
+   Dreamland "La chronique de L'animancien" par RoxStar
+   D&D par Valgar Reinhart III
+   D&D3.5 Eberron - Damnés de la 13ème marque par Saghonval
+   D&D 3.5 "La Trilogie Des Vaux" par natty
+   D&D 3.5, "Les Damnés de la 13ème Marque" par Saergaras
+   D&D 5 "La nuit des profondeurs" par Vackipleur
+   D&D 5 "Hoard of the Dragon Queen" par Roidesgobs
+   D&D 5 - La mine perdue de Phandelver" par tristsoalaire
+   D&D4 "Chroniques Psychiques" par Gluth
+   D&D 5 - "Zobeck-TA" par Adarmis
+   D&D5 Princes of Apocalypse (groupe 1) par Ricco
+   D&D5 Princes of Apocalypse (groupe 2) par Ricco
+   DD5 Hoard of the Dragon Queen par grizbrafort
+   D&D "Errances" par Dino Van Bedt
+   Eclipse Phase : Factions par Erik
+   Earthdawn par Foldine
+   Fading sun par Darkman
+   Fallout "Frensh Kiss" by Rainbow Flag
+   Grimnoir "Chronique d'une Guerre Secrète" par Beket
+   HODS Jdr - La nouvelle Arche par Heedio
+   Knight "Au cœur des ténèbres" par Nikk
+   L5R par Sossnorkies
+   L5R par Thyr
+   L5R "Les Chroniques du Lotus d'Or" par Maximilien
+   L5A "Oka Mittsu Mura" par Taraka
+   Monsterhearts par Erik
+   One Piece par large_death
+   Orage et Engrenage par Rigald
+   OS Madness par Saruten
+   Pathfinder "Le monde de Charlios" par Septimus
+   Pathfinder "L'Éveil des Seigneurs des Runes" par Lazarius
+   Pathfinder "Le Régent de Jade" par Trimbi
+   Pathfinder "L'Héritage du Feu" by Markjan
+   Pathfinder "Le retour des Ténèbres" par Markjan
+   Pathfinder "La Colère des Justes" par veerminar
+   Pathfinder "La Couronne Putréfiée" par Kael79
+   Pathfinder "L’éveil du seigneur des Runes" par Thann
+   Pathfinder -Le conseil des voleurs par Stany
+   Pathfinder - La chasse aux sorciers par oxidor
+   Pathfinder "Kingmaker" by darith
+   Pathfinder "Way of the Wicked" par Glytch
+   Pathfinder "Reign of Winter" par Namtarou
+   Patient 13 par Chuck.r
+   Pendragon "La geste d'Uther" par Teross
+   Prophécie l'ombre de la mort by grosbille
+   Rowling rpg par Bulle
+   Savage World "Beasts & Barbarians" par Lazarius
+   Scales par vyseris
+   Shadowrun par Zakarik
+   Shadowrun par Uskomaton Murmeli
+   Star Wars par Actarus
+   Star wars Edge par Ariakas
+   Star Wars Age of Rebellion par Istro
+   Spirit of 77 by Beket
+   Suite d'OS DD5 par Griz
+   Sword Coast Legends "Zantetsuken" par roidesgobs
+   Trail of Cthulhu : Eternal Lies par Guistealer
+   Trinités par Nael
+   Trône de Fer "Rébellions" par Erik
+   Trône de fer "Chroniques de Perche Vautour" par titiste
+   Vampire le Requiem by Angeldust
+   Vampire the Mascarade "Sons of anarchy" par darkman
+   Vampire le Requiem par Wayland
+   Vampire Requiem "L'Ombre de l'Empereur" par Karouto
+   Vampire the Mascarade "The Order of Malta" par Keliev
+   Warhammer "Forge of War" par Keerian
+   Warhammer "Forgotten War" par DarkTenebross
+   Warhammer "Les voies de la Damnation" par Baygun
+   Warhammer "L'autre monde" par Dravonne
+   Yggdrasil par Balyndaros
+   Historique
+      Sous forum à garder
+         D&D 3.5 by Markjan
+         Spirit of the Century - Summer Pickup Game by Jogo
+         Mouse Guard by Jogo
+         D&D3.5 by Actarus
+         Brigade Chimérique by Neuralnoise
+         Praetoriaprima by Albiréo
+         Dark Earth par Jarjar
+         Daring Tales of Adventures by Grimmbart
+         Vampire by Beket
+         Cyberpunk 2050 by Booga
+         Star Wars D6 by DarkTenebross
+         Traveller (Mongoose) by Sdompy
+         Chateau Falkenstein by Beket
+         Fantasy Craft - Curse of the Crimson Throne by Adrien
+         Vermines par Damny
+         Agone by tenebre
+         Shadowrun V4 par Actarus
+         Scion Heros par Mortmagus
+         Ambrosia par Rylthar
+         Warhammer par Legerete
+         Arkéos par beket
+         Dark Stryder par JudgeDeath
+         Les Ombres d Esteren - Peur sur Osta-Baille par Erik
+         AD&D2 par boborix
+         Appel de Cthulhu par Markjan
+         Chroniques Oubliées par Manakeo
+         Tigres Volants par Theudbald
+         Nightprowler par Neuralnoise
+         Pathfinder "Carrion crown" par Namtarou
+         Manga-Boy z par Galaft
+         Scion "Le Destin des Dieux" par Erik
+         Shadowrun V4 "L'ombre des glaciers" par Selina
+         Hurlements by Sdompy
+         Vampire la mascarade - Paris par Dertar
+         Warhammer par Keerian
+         Loup Garou - Le mur ancestral par Selina
+         Star Wars "Sons of Empire" par Thann
+         Scion (système Cortex+) " Yggstad" par Erik
+         Icons "Come to the dead" par Noxiris
+         Les Ombres d'Esteren "Présages" Par Pierstoval
+         Savage World  "Achtung ! Cthulhu" par JudgeDeath
+         Appel de Cthulhu - "Le Cercle de l'Etrange"  par Nael
+         Fallout par Theudbald
+         Appel de Cthulhu "Les Oripeaux du roi" par Lazarius
+         Vampire Le Requiem par Thyr
+         Appel de Cthulhu "Ivresse des profondeurs" par Lazarius et Booga
+         Pathfinder "Kingmaker" par Seb
+         Capharnaum "Le royaume des cieux" par Manithou
+         Star Wars par Elrad
+         Appel de Cthulhu "Reflets de Carcosa" par Booga
+         Appel de Cthulhu "Reflets de Carcosa" [Equipe 2]par Booga
+         Appel de Cthulhu par Kamodu31
+         Nightprowler - farine de sang par Manithou
+         Qin par Angeldust
+         ApoKryph by Albiréo
+         Vermine par Sdompy
+         Hunter the Reckoning par Bidule
+         Heroquest par Lazarius
+         Notre Tombeau par Djinn
+         Tigres Volants par Dertar
+         L5R "Une tête pour quatre" par Selvagor
+         Shadowrun par Thyr
+         Hawkmoon par thamartin
+         INS / MV par thamartin
+         Les Terres de Légende par Lazarius
+         Deadlands par Nael
+         Warhammer "Ragnarök" par Keerian
+         Warhammer "Bad Blood" par DarkTenebross
+         Warhammer "Les Milles Trônes" par DarkTenebross
+         Les Ombres d'Esteren "Secrets de Tulg" par Erik
+         Apocalypse World par NeuralNoise
+         D&D 3.5 "Titania" par Kadessa
+         Appel de Cthulhu - Les  Masques de Nyarlathotep par Angeldust
+         Halo "Héros & Hérétiques" par Nightmare Dk
+         Pathfinder par Kael79
+         D&D 3.5 P-M-T "Le monde de Lioraz" par Kamodu31
+         Yggdrasill par Dertar
+         L5R "Jours Sombres" par Nightmare Dk
+         Warhammer "Multi-OS" par Dravonne
+         Anima "La Fraternité des Lames" par Bidule
+         Thrill "Retour à Meadowdale" par Lazarius
+         Icons "Génération Nibiru" par Bigyo
+         Delta Green Heritage Greenberg par Lazarius
+         Warhammer "Nippon" par RainbowFlag
+         D&D 3.5 "Les Royaumes Oubliés" par Vallav
+         Roji-Kuro par Kamodu31
+         Starfall par Erik
+         The Naked Darkness par Kamodu31
+         Le Monde des Ténèbres "Requiem pour un ange" par Namtarou
+         3:16 Carnages "dans les étoiles!! " par Cap'taine Red
+         Savage Worlds "Le Réseau Divin" par Judgedeath
+         Appel de Cthulhu " Les Masques" par Lazarius
+         Archipel par amalec78
+         Metal Adventure "My little pirate, Rhum is magique" par Makina
+         Cold city par Lazarius
+         Appel de Cthulhu "Par delà les montagnes hallucinées" par Thrawn
+         Les Nouveaux Royaumes par Bigyo
+         Oltrée ! par Golgorosh
+         Sens Hexalogie par Arjuna Khan
+         Icons  par noxiris
+         Apocalypse World par Faux
+         Divide by Zero par chronomancien
+         Warhammer "Campagne Impériale" par AngelDust
+         Tigres Volants par Dertar
+         Prophecy par Askywhale
+         Bitume MK5 par Cap'taine Red
+         Polaris par l Heedio
+         ANS "The last hope" par Rainbow Flag
+         Mass Effect par DarkTenebross
+         Trône de Fer par Bigyo
+         "Le Sang des Plaines" par Xena Parker
+         Indiana Jones - Aventures Pulp - par Golgorosh
+         One-shot Seri'z par les Pro-blêmes (Folrith)
+         Atomic Robo " The New Order" par Neuralnoise
+         Warhammer "l'archipel du doux péché" par Makina
+         Delta Green - par Lazarius
+         Anima "De nouveaux héros" par Isawa
+         wasteland "les terres gachées" par Darkman
+         mini campagnes par theudbald
+         In nomine satanis par Kadessa
+         D&D 3.5 " Estyl - D'ombres et de Lumières " par p0l4ck
+         Warsaw par Darith
+         Polaris by Actarus
+         Ad&d "Dans Sigil et au delà !!!" par Rule of Three
+         D&D 3.5 "The Red Hand of Doom" par Markjan
+         Rêve de dragons "Les histoires du multirêve" par Ecume
+         Trône de Fer "Sables brûlants" par Erik
+         Dying Earth (FATE Core) - par Golgorosh
+         Harry Potter by Rainbow Flag
+         Anima "le voile briser" par Rainbow Flag
+         Chill "Les mécanismes du mal" par Darkman
+         Initiation JDR par Darkman
+         Warhammer par Sha
+         Eberron par Gedefe_62
+         Imperium "Les gemmes d'Holtzman" par Elrad
+         Trône de Fer "Les Chroniques du Trident" par Erik
+         Lacuna par Grimbarbu
+         L5A Le sang des héros par darkman
+         L5R  par Thyr
+         Pavillon Noir par Tchouchen
+         Face to Face par Melioch54
+         Oltréé ! "Vers le Levant" par Nurglyng
+         Pathfinder  par aliosafar
+         Pathfinder par grizbrasfort
+         D&D Next "Old School" par Golgorosh
+         D&D Next "Old School V.2" par Golgorosh
+         D&D Next "Rise of Tiamat" par Golgorosh
+         Warhammer "Les masques de Raachdorf" par Dravonne
+         The Gaean Reach par Golgorosh
+         Dark heresy "les cendres de la corruption" par Darkman
+         Appel de Cthulhu "les mystères d'Arkham" par Guilac
+         L'Appel de Cthulhu "Le cauchemar d'Innsmouth" par Guilac
+         Skies of Shandar par Kadessa
+         Fading-suns par LeoDanto
+         Appel de Cthulhu "Le rejeton d'Azathoth" par Guistealer
+         R.A.S - Le jeu de rôle Galactique par Cap'taine Red
+         Star Wars D6 "Sweeft Incorporated" par HK-47
+         Brigade Chimérique "La longue nuit" par Arkanade
+         D&D 5 "Héros de Sirigel" par Forytenfor
+         Les ombres d'esteren "les forces occultent" par Arjuna Khan
+         Warhammer "L'Ennemi Intérieur" par Angeldust
+         D&D "l'Empire du Mal" par darkman
+         vampire the requiem "Rock N' Blood" par Darkman
+         Donjon de Naheulbeuk par Actarus
+         Pathfinder "The Emerald Spire" by Vackipleur
+         Shadowrun "Le Blues du Runner" par Darkman
+         Hunter oWoD par Valgar Reinhart III
+         Mass Effect par DarkTenebros
+         Warhammer "Inexplicable Perfection" par DarkTenebross
+         Victoriana par Dertar
+         Te Deum Pour un Massacre par Erik
+         D&D 5ed DragonLance "La guerre de la lance" par Gunulf
+         Warhammer par Guth
+         Les Ombres d'Esteren "Aventuriers d’Esteren" par Erik
+         Atomic Robo - Fate RPG par Beket
+         Rogue Trader - L'Envole des Innomés - Par Selina
+         Pathfinder par Thann
+         Les secrets de la septième mer " De voiles en Tracas" par Darkman
+         Smallville (Cortex+Drama) par Faux
+         L'Appel de Cthulhu "Le cauchemar d'Innsmouth" par Guilac
+         Appel de Cthulhu "l'affaire Burbhury" par Darkman
+         Pathfinder "Le continent perdu" par Makina
+         Abandon all hope par Morningstar
+         Warhammer "Les survivants de Raachdorf" par Dravonne
+         Warsaw "Une nouvelle chance" par Prosopee
+         Fire Emblem Awakening after par Deceiver
+      Parties Actuellement Stoppées
+         Royaumes d acier - Witchfire trilogy by Thann
+         Mage L ascension by Jarjar
+         Fading Suns by Mazteck
+         Dark Heresy Ascension par Bakadevil
+         Blooded - Les Echos du passé par Xanven
+         Appel de Cthulhu par Jarjar
+         Fading Suns par Shion
+         Marvel par Icare
+         Warsaw par Kenshiro
+         D&D 3.5 - Freeport by JudgeDeath
+         Solomon Kane-Forêt noire by djinn02340
+         Fallout - Road 33 by H-K 47
+         Dark heresy by ithraglok
+         Vampire : La mascarade par Cultimatheque
+         Pathfinder - L éveil du seigneur des Runes par Sipro
+         L5R (Toshi No Inazuma) par Andydangerous
+         Trône de Fer - A Dance with Dragons by Erik
+         Trône de Fer - Guerre civile by Erik
+         Scion by Erik
+         Vampire Sombre sang par Jeremie
+         Pathfinder par Thann
+         Loup Garou L apocalypse par Tibère
+         Vermine by Drouste
+         Plague par Theudbald
+         Eclipse Phase par Fagarou
+         Trône de Fer - Fyre and Blood by Gilga
+         Ambre - Guerre du Trône by Drouste
+         The revival of the chaos par Babounb
+         Pavillon Noir par Pratax
+         Warhammer par Dertrar
+         Trône de Fer par Erik
+         COPS par Willow et Nauge
+         EW System : Mass Effect par Beket
+         Dark Heresy by Damny
+         Exalted par Dio
+         Choc Planaire par Nyvis
+         Warhammer II by Surcouf
+         Donjon de Naheulbeuk by Hello_bo
+         Shadowrun 3 by Dataripper
+         D&D 3.5 - La nuit des profondeurs by Ramanec
+         D&D 3.5 - Elandra by Loupis
+         Stars of Darkness par Darth Tanka
+         House of the Blooded by Xanven
+         Vampire The Requiem by Basha31
+         Hawkmoon by Chapin
+         Biohazard par Loupis
+         Anima by DarkPhoenix
+         Patient 13 by Janus
+         COPS par Cerber
+         Shadowrun 3 - Metahuman Blues par Dataripper
+         Le Monde des Ténèbres par Mitras
+         Warhammer by Manithou
+         Warhammer par Carbo
+         Shadowrun par Deltrim
+         Vampires Dark Ages by Pedrag
+         Stalker par Amatsu
+         Midnight par Volgen
+         Cthulhu par Stefff56
+         Genetix par Drakker
+         Un monde de légende par Jolebo
+         PMT 2 par Gedefe_62
+         L5R Les 4 vents by Nobuyoki
+         D&D 3 - Les royaumes oubliés by Volgen
+         Torg by Volgen
+         Mage by Helgor
+         La secte des ombres by Nobuyoki
+         FengShui by CXZman
+         World Of Darkness by senseii
+         Rêve de Dragon by Timonier
+         Star Wars D20 by JessieRedball
+            Archives Saison 1
+         Trône de fer-Guerre du Val par Damny
+         Champions - Hero systeme par Cyanure
+         Dark Heresy par Hastein
+         Légende des 5 anneaux par Wincent
+         Rogue Trader par Lordhinateur
+         Scion héros et demi dieux par wincent
+         Traveller par cyanure
+         Wasteland par Neuralnoise
+         Z-Corps survivant par Rechton
+         Biru par Smauglord
+            Règles
+            Background
+         Appel de Cthulhu par Nael
+         Ars Magica by Seb
+         D&D 3.5 par Sylvain
+         Kuro par yanos
+         L5A : l'ombre du lotus par Mehiel
+         Starblast par thomassaliba
+         Conan D20 par Thann
+         Ars Magica by Seb
+         Monde des Ténèbres(V2) par Bidule
+         Warhammer - Les Voies de la Damnation par Darktenebross
+         Star Wars : Fringe Conflicts par hk-47
+         Warhammer V2 Les Chroniques Oubliées par Cyriades
+         Eberron par Ricco
+         OS Shadowrun V4 par Hicks et Piment
+         Dark Heresy par Dante
+         DD3.5 - RO- L'âme de l'aventure par Darith
+         Star Trek par Theudbald
+         Anima par Falg
+         Le Trône de Fer - Notre heure de gloire par Erik
+         Scion "Les Dieux de Demain" par Mortmagus
+         D&D 3.5 "Le Chemin vers la Gloire" par Harokin
+         Z-Corps "Le Prix à Payer" par Guilac
+         Dark Heresy par Nexus le Maudit
+         Orpheus par Krilliane
+         vampire la mascarade "Le chant des bombes" par Skyzo
+         Rogue Trader par Emisptruo
+         Appel de Cthulhu par nexus le maudit
+         D&D3.5 - Dragonlance par karlin
+         Cendres "La morsure de l'hiver" par Bidule
+         Trône de Fer "Filles du Nord" par Erik
+         L'Anneau Unique "Palantir" par Erik
+         D&D 3.5 RO "Le souverain dragon" par u~man
+         Final Fantasy VII "Les ombres de Midgar" par Azur
+         Lycéenne "L'école Pendragon" par 1ancelot
+         Magna Veritas par Yoxie
+         Plagues par Caillou
+         Scion "Le Sang Appelle le Sang" par Mortmagus
+         Trone de Fer "Chevaliers des éons" par wincent
+         Urban Arcana par Elodie Hiras
+         Warhammer "La Campagne des Questeurs" par Surcouf
+         Warhammer par Fab
+         Savage Worlds "War of the Dead" par JudgeDeath
+         Appel de Cthulhu par Linusis
+         Changelin "Les Egarés - Paris" par CerberusXt
+         Mage  "Supplément d'âme" par wincent
+         Marvel par RainbowFlag
+         Apocalypse World par RackHam
+         Appel de Cthulhu "Mystères des années folles" par Namtarou
+         Conspiracy X par Elrad
+         D&D 3.5 par RavenAce
+         D&D 3.5 par Narcisse
+         Ezarelian par Azagun
+         Legend par Noxiris
+         TRINITY par Jarjar
+         Warhammer V2 "Les Royaumes Renégats" par Bigyo
+         Kara-Tur par Theudbald
+         Ars Magica par Sdompy
+         L'Outreterre par Theudbald
+         Pathfinder "Reign of Winter" par Golgorosh
+         D&D3.5 "Le temple du mal élémentaire" par Lord of the Wolves
+         AD&D "La nuit des Profondeurs" par Luthiel
+         Anima "Les Porteurs d'Anneaux" par Viorel
+         Prophecy par Ghydo
+         Royaumes d'acier par Glace
+         Dark Heresy "Les lambeaux du destin" par Berthier
+         Donj par Jogo
+         Le Monde des Ténèbres Orpheus par Judgedeath
+         La larme flamboyante par Xena Parker
+         Pathfinder "KINGMAKER" par Adrien
+         Trône de Fer "Westeros" par Dornata
+         Warhammer "Les mille trônes" par Dnotol
+         Mass effect par DarkTenebross
+         D&D 3.5 " Les terres balafrées : le sang du Dragon" par Darkman
+         D&D "DragonLance" par Ariakas
+         Earthdawn par Darkman
+         shadowrun "les secrets du pouvoir" par Darkman
+         Warhammer "L'ennemi intérieur" par Oldtimer
+         Cops par Valgar Reinhart III
+         D&D3.5 Par Narcisse
+         MangaBoyZ par Noxiris
+         Warhammer "Chronique du vieux monde" par Madek
+         2012 Extinction par Elbj
+         D&D 3.5 Libris Mortis par Nightmare Dk
+         L5R - Second City par Le_Sage
+         Always, Never, Now par Golgorosh
+         D&D 3.5 "Faerûn" par Dra-Ka-On
+         Néphilim par Dra-Ka-On
+         Unknown Armies par Beket
+         Ambre "Le jeu des Marelles" par Seb
+         Appel de Cthulhu "Noces Lyonnaises" par Yorunojin
+         Caer Nosiann "l'Apogée des Brigands" par Thynéon
+         Cortex  "No doubt" par Elpandalf
+         Dawnforge par noxiris
+         Eternia par Elpandalf
+         Fate 3 "Bistouilles en Folandes" par EtienneB
+         Icons "Sombre avenir" par Noxiris
+         L'Oeil Noir par BenScott
+         Le donjon de Naheulbeuk par Robwoud
+         Monde des Ténèbres par telvaen
+         Naheulbeuk: le début de la fin par Nadir
+         Paorn - le nouvel âge par JudgeDeath
+         Pathfinder "kingmaker" par Amalec78
+         Set par Manvielle
+         Scion "Midgard" wickedgrail
+         Game of Thrones par Danaël
+         Qin - Les secrets de la forêt de bambous par darkman
+         Pathfinder "Dans Varisia" par Rule of Three
+         Birthright par Theudbald
+         Le Donjon de Naheulbeuk par Sam
+         COPS par Nael
+         Delta Green "Réjouissances Nocturnes" par Lazarius
+         Eternal Lies Cthulhu par Golgorosh
+         C.O.P.S. "Un avenir, une mort, une médaille" par Nightmare Dk
+         Delta Green par Nael
+         D&D 3.5 "La Cite de la Reine Araignée" par Artamos
+         D&D 3.5 "La Marée Sauvage" par JudgeDeath
+         D&D4 "Scénarios Offi" par Yamini
+         D&D 3.5  "les Royaumes d'Acier" par mrptipois
+         Heroquest par coorgett
+         L5R "Sunda Mizu Mura" to Teross
+         Oltréé ! "Retour en Elysia" par Cyol
+         Oltréé ! par Psaume
+         pathfinder "Les Questeurs" par Ender
+         Pathfinder "La colère des Justes" par Seb
+         Pathfinder Le Bief des Dragons par Imperator
+         Pathfinder "La Colère des Justes" par basthyen
+         Pavillon noir par Teross
+         Prophecy "les tourments de l'histoire" par Aliosafar
+         Scion "L'héritage" par wickedgrail
+         Vampire L'age des Ténèbres "L'ombre qui vous illumine" par Satodemonius
+         Mage l'Ascension "Magie Moderne" Par Corvos
+         Star Wars "Ligne de sang" par Makina
+         Polaris par Thyr
+         Anima "La citadelle d'Ivoire" by Rainbow Flag
+         Nightprowler-Le Huitième fils par Morrydwenn
+         Panique galactique par Aaargloupsen
+         Pathfinder "Kingmaker" par Tora
+         Prophecy par Esmereld
+         D&D 5 "Le seigneur des morts" par Sorran
+         Warhammer "L'Ennemi Intérieur" par Marotar
+         L5A par Zakarik
+         Wushu - Les Tourments d'Azéroth par Rigald
+         Pathfinder l'éveil du seigneur des runes par Robwoud
+         Warcraft D20 par MorryDwenn
+         Chroniques Oubliées "La Couronne Putréfiée" par Raïzer
+         Reign of winter ( groupe 1 ) par Afterstorm
+         Reign of winter ( groupe 2 ) par Afterstorm
+         Chroniques Oubliées par Gunulf
+         Donjon de Naheulbeuk  par Sam
+         Krystal par Evilmarmelade
+         Pathfinder "L'éveil des seigneurs des runes" par Blackcat06
+         Pathfinder "L eveil des seigneurs des runes" par Blackcat06
+         Pathfinder "L'éveil du seigneur des runes" par Serge2611
+         Pathfinder "La Colère des Juste" par Darmus
+         D&D 3.5 "Lancedragon" par Agrojan
+         Pathfinder - Pestilence par Zed
+         Chroniques Oubliées "l'Eveil du Seigneur des Runes" par LeoDanto
+         Vampire The Masquerade "Côterie d'Azur" par RipGeekLost
+         Pathfinder "Kingmaker 2" par Kenshiro
+         Warhammer "Les contrées oubliées" par Rainbow Flag
+         Kingmaker - Le Second Conseil par Kenshiro
+         In Nomine Satanis  Magna Veritas by Sha
+         DD3.5: Les Mystères du Mitan par Sikander
+         Dji's Blood : Chao's Advent by Keliev
+      Anciens Oneshots
+      Blood Bowl by Bware
+Pause
+   Jeux vidéos
+   Jeux de plateau - Wargames en ligne
+   Corbeille
+   Sous forum Test
+Liens
+   Liens
+ 
+
+Powered by [phpBB](http://www.phpbb.com/)® Forum Software © phpBB Group
+	
+Traduction par: [phpBB-fr.com](http://forums.phpbb-fr.com/)

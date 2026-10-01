@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-75cfa5b575f9aedf",
+  "name": "DSShintel",
+  "sha256": "75cfa5b575f9aedfae15e41f586a49f4b54ee5ce7ff6ef02e20708d3069c7ce5",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSShintel.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7b03c5d91134e95a2d1257b8949880a5833bfc9623eccd7d681584d59edfbfe3",
+  "fileHashes": {
+    "book.md": "5ab6191fc05024bf3d5ae745fd4f2f593cdfea06a2f054e84d92b20ca76e2ff1",
+    "pages/0001.md": "071914f61724281183c8429b8e7e7d780cd3f28300d0241d9ed384067f33c113"
+  }
+}

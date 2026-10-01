@@ -1,0 +1,106 @@
+{
+  "sourceId": "src-1aa1f8ebdc4be24d",
+  "sha256": "1aa1f8ebdc4be24d6ebc74fc9821e70968042171440ba2d3478e09de59442575",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 6367,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/starwars.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/i472.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "../../icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

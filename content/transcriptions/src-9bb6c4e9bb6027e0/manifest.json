@@ -1,0 +1,42 @@
+{
+  "sourceId": "src-9bb6c4e9bb6027e0",
+  "sha256": "9bb6c4e9bb6027e06cd4c1043694972cb980d3728eca1ab11ab93c345ad39ff8",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 24733,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/chillweaver.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "ascii"
+}

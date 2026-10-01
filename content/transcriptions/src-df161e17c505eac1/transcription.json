@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-df161e17c505eac1",
+  "name": "DSuukaablisEpilogue",
+  "sha256": "df161e17c505eac14f228b63ed473f4da3c279185b18d13d5c7d9940ac13856c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSuukaablisEpilogue.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9f3a1c836a60ac04b31d85c9ad49d726e02ebfd44af8167145739d84eb157ac0",
+  "fileHashes": {
+    "book.md": "4f9a6793ab29f95e6c2bdd83789b1e167ead04a04f6c3a1a3b13d5f0c0377b10",
+    "pages/0001.md": "d5c4b8d22d7541edc4da56489d2fe1d946db33f7d806344d19c0adb0f9759b3c"
+  }
+}

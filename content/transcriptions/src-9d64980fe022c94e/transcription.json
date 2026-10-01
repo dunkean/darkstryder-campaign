@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9d64980fe022c94e",
+  "name": "DSEdgeofTheGalaxyThe Rock",
+  "sha256": "9d64980fe022c94e838bce2af55b9d620ef21634dd43bf0a8c2527d1ba24ddbd",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeofTheGalaxyThe Rock.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bbec06e3a2516d2f2fd8b4ece29032ee7e475f8057c1a25f6783dab73e71bd84",
+  "fileHashes": {
+    "book.md": "131535173e4d29ed5bba2f2fd91dd3225b5778ae70048d8cedee18a9118cfd66",
+    "pages/0001.md": "77da91582353aec7a60c2b228ee7692cdb5204fe707529d4ef56274cb97663b3"
+  }
+}

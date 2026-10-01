@@ -1,0 +1,190 @@
+{
+  "sourceId": "src-eadf1927c3b5e12c",
+  "sha256": "eadf1927c3b5e12c3e9c37eccc6ab63dff1d27e6bc03011417ea17efe286c50c",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 9941,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "../icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

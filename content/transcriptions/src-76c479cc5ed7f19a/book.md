@@ -1,0 +1,42 @@
+# LOG
+
+Source: `src-76c479cc5ed7f19a` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-76c479cc5ed7f19a; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+The Captains Log
+
+# The Captain's Log
+
+
+Captain's Log, dateline 1138.421
+
+[Captain Keleman Ciro](ciro.html) reporting
+
+
+Begin log...
+
+Just another day on the good old FarStar. So far we've had three downed consoles, a fight in the hangar bay, and Defano going berserk with a blaster again. Also, we've run out of Bongo's Morrts down in the galley, which have proved quite popular with the crew. Must get [Gorak](gorak.html) or Celeste to get some security on-station. We've also had three fires, four broken limbs in engineering (must speak to [Commander Lofryyhn](lofryyhn.html)), a minor droid revolt and five slashed seats in the Deck 5 holotheatre.
+
+I need a break.
+
+
+This section contains the [timeline](dstime.html)for the campaign (from 4000 years ago to the present day), and the titles and episode guides for [Darkstryder](darkstryder_episodeguide.html) and the spin-off, [Resurrection](resurrection_epguide.html).
+
+- [The Darkstryder Campaign Episode Giude](darkstryder_episodeguide.html)
+
+- [The Darkstryder Campaign Time Line](dstime.html)
+
+- [The Darkstryder Campaign *Resurrection* Episode guide and synopsis](resurrection_epguide.html)
+
+
+| [The Main Bridge](bridge.html) | 
+[The Flight Recorder](recorder.html) | 
+[The Personnel Files](personnel.html) | 
+[The Captain's Log](log.html) | 
+[Mission Reports](reports.html) | 
+[Ensign Hydan's Desk](hydan.html) | 
+[Comm Links](links.html) |

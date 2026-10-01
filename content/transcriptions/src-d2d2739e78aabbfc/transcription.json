@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d2d2739e78aabbfc",
+  "name": "DSTANQUI",
+  "sha256": "d2d2739e78aabbfc79a44a5fea56fac4e9b8f85e4a6bd2ec611abd823855c296",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTANQUI.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1023e805505eef21a91f5900d4ba51d98fb0538b6498648b87ac246560eba9ab",
+  "fileHashes": {
+    "book.md": "fa5ed72a2989a059ce941bf564c193c29c945e65ce6e3764ce3b6db1b643907a",
+    "pages/0001.md": "40b83ed3ff0009b760a70a7597cd9dac44d759ead864c482d53d60687a76afc1"
+  }
+}

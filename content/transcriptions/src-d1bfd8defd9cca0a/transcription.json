@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d1bfd8defd9cca0a",
+  "name": "DSDOSSIE",
+  "sha256": "d1bfd8defd9cca0ad622a6f4f5259fcb9e0480d99d177127a169d287c1c4ac78",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDOSSIE.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3c6036336aa1897968fec7196581e9ffb340f4003676af266dfbd14108773c47",
+  "fileHashes": {
+    "book.md": "684a556895c50eac58938c4e226c0135048ab3fe77f2eaa8681d0fec2d2bc991",
+    "pages/0001.md": "c494e51528693cf550b47cc26fec76cef91381bdc719a752d07f0c4d2495a19a"
+  }
+}

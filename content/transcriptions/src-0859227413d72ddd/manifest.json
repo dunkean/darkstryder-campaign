@@ -1,0 +1,96 @@
+{
+  "sourceId": "src-0859227413d72ddd",
+  "sha256": "0859227413d72dddfc56c635372ad12467fc1f0cb633ccfd5b48995f1eba6f7c",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 16471,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/dp-32.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/mish.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/parax2.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/alex.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/bastian.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/clarke.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/harry.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/tathis.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/krull.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/tremayne.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/cybofurr.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/shasti.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/marax.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/mobarius.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/4ad23becb4d66132d2937e9a3d28e7f3fbb3b762e2b9188574f9e1cb6a967264.jpg",
+      "origin": "../images/dervious.jpg",
+      "sha256": "4ad23becb4d66132d2937e9a3d28e7f3fbb3b762e2b9188574f9e1cb6a967264"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "../../icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

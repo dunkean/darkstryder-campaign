@@ -1,0 +1,138 @@
+# THYTE
+
+Source: `src-2f93c042f6a8fb72` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-2f93c042f6a8fb72; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Commander Darryn Thyte
+
+# Commander Darryn Thyte
+
+ 
+
+## Bridge Operations Officer, New Republic Starship *FarStar*
+
+Played by [Andrew Pickford](credits.html#andy)
+
+![Thyte](images/1a28a747ea33d9ba0c6f07290376116ccc2ada67eb7fd7583559d07f7f6e1475.jpg)
+
+ 
+
+"All right, that’s it. You’ve used up all my patience!"
+
+ 
+
+Thyte is the *Far&ar's *bitter bridge operations officer, in charge of maintaining order and efficiency for the starship's command centre. He's the captain's eyes and ears to everything outside the ship, from communications to sensor readings. He functions as the ship's navigator, and the bridge is his responsibility and his home - and Thyte is fiercely protective of his territory.
+
+ 
+
+Thyte was born on Corellia, in the old, proud city of Ord Tirrenze on the continent of the same name. He was an only child, with only a few, distant relatives in the Corellian system. When he was three years old, young Darryn, his father, Jarryn, and his mother, Calic, evacuated from Corellia during the Battle of Ord Tirrenze in the Clone Wars, when a Mandalorian fleet menaced Corellia. The family spent three months living on Selonia, then moved back to Ord Tirrenze after the Republic liberated it to help rebuild the city. They heard the legend of how a brave ship, the Freedom’s Messenger, and her crew gave their lives to escort the evacuees’ transports safely off-planet through the Mandalorian fleet. Darryn Thyte was raised on Corellia, always remembering that day, remembering how his parents were very sad at having to leave Ord Tirrenze, and how they were never the same again. His parents never wanted to talk about it. Nevertheless, Darryn grew up well-adjusted and with healthy ambitions, and when he was eighteen he went to study at the Corellian Academy of Space Sciences. He was a bright student, and soon made quick progress, and as part of his second year studies he was assigned on sabbatical to the Corellian tramp freighter *Last Bargain*, a free trader travelling the depths of space. 
+
+ 
+
+Thyte spent many happy months aboard the *Last Bargain*, and befriended some of the crew, including a rather odd individual about Thyte’s age who called himself ‘Marbles’. Marbles was the ship’s pilot and an eccentric who could only fly to a loud musical accompaniment. Unfortunately, most of the freighter’s crew was arrested by Imperials for smuggling and having affiliations to the burgeoning Rebel Alliance. This was, of course, true – they were Corellians after all – but Thyte helped the rest of the crew to rescue most of their shipmates, and thus became a Rebel. Marbles was not among those rescued – later on, Thyte heard that the gifted young pilot had accepted an Imperial commission in order to avoid imprisonment.
+
+ 
+
+After several months on the run from the Empire, with Thyte serving as pilot, the crew of the *Last Bargain* put in for repairs at the shadowport Zirtran’s Anchor. While docked, the Anchor was attacked by a large Imperial force under the command of Captain Soontir Fel, and the Last Bargain was forced to make a run for hyperspace, stranding Thyte on the station. Thyte escaped by stealing a small prototype fighter from one of the hangar bays on the Anchor – a Z-95 Headhunter equipped with a hyperdrive. Shortly after his escape, Thyte linked up with a few other pilots who were forming the nucleus of the first Rebel fleet. And the rest, as they say, is history. Thyte saw the advent of the X-wing fighter (his preference), and has been flying fighters for the Rebel Alliance, and later the New Republic, ever since. (He flew as part of the Black Ice operation, the evacuation from Hoth, and at the Battle of Endor). 
+
+ 
+
+When Thyte was thirty years of age, about ten years after he joined the Rebels and about a year before the Battle of Yavin, his parents were killed by the Empire because their son was part of the Rebellion. After their death, Thyte began a one-man war against TIE fighter pilots. As long as a mission involved blowing up Imperial craft he was all for it. And a few months later, when flying as part of the Black Ice operation, Thyte met the woman who mellowed him out and stopped his rage against the Empire from consuming him – another X-wing pilot named Drakk Solarn. She was good for him, but the relationship couldn’t last and buckled under the pressure of their high-risk profession.
+
+ 
+
+Thyte saw through the Battle of Endor unscathed, and was hopeful for the New Republic to prosper. He refused three promotions in as many years, content to remain a Lieutenant in an X-wing squadron, unwilling to move on to something else, and nervous of commanding a squadron. During the months after Endor, Thyte once again encountered Marbles in a bar on Abregado-Rae, and found him to be a member of one of the New Republic’s B-wing squadrons. Marbles had a huge gap in his service record, but Thyte kept quiet about it, and Marbles didn’t want to talk about it, either. 
+
+ 
+
+Thyte’s squadron was now permanently based on the Nebulon-B frigate *Anvil, *commanded by Vice-Admiral Hagen Kolaador*.* Several months before Admiral Kolaador’s New Republic task force invaded Kal'Shebbol, Thyte was flying air support for a ground action in the mountains of the planet Vaenrood. Imperial artillery fire clipped his fighter's wing and he crashed. In the accident, his canopy buckled and snapped, shearing off his right hand and most of his arm, and disfiguring the left side of his face. Medics were able to replace the arm with a clunky, outdated cybernetic model - the only thing that was available at the time. The less sophisticated hand he was fitted with doesn't have very precise sensitivity and functions at less than peak efficiency now and again, but it has a computer interface that allows Thyte to manipulate data if a visual readout is also available.
+
+ 
+
+Thyte was taken off the active duty pilot roster after the crash - and given his changed, bitter attitude, his squadmates were more than happy to see the dour man go. He continued to travel with the task force to which he was assigned, serving as a bridge officer aboard the *Anvil. *When news of the *FarStar's *mission spread throughout the fleet, Thyte demanded to be reassigned to the ship. Here, he figured, he could prove his worth to himself and to others, and perhaps escape his personal demons.
+
+ 
+
+Thyte desperately wants to fly again, but he suffers from a severe 'confidence problem'. He knows that if he returned to active duty with a mainstream fighter squadron. his attitude and his disability would set him apart from his team members. As it is, the *FarStar1s *Fighter commander, Lieutenant Ranna 'Wing-Ripper' Gorjaye (whose nickname Thyte considers to be incredibly unfunny) is adamant that he will never be assigned to fighter duty. So, Thyte serves on the bridge, where he can still see some action without actually piloting a starfighter.
+
+ 
+
+Thyte's tall and pallid form haunts the *FarStar's *bridge at all hours - he's rarely seen elsewhere unless his duty requires it and he loathes leaving the *FarStar *on missions, possibly indicating a fear of travelling in small craft. The remaining skin on Thyte's face has little colour to it, and seems to hang under his dark eyes. Thyte is a strong presence on the bridge; he can be very forceful and imposing when dealing with other crewmembers and is not one to let others push him around. Thyte is very independent and protective of his duties on the bridge. He should be. if anyone knows the *FarStar's *bridge - her instruments and her sensor and communications capabilities - it's Thyte. He is also the only one with any experience as a capital ship astrogator, and he knows it. He's the type of officer who doesn't take orders - he merely 'accepts command suggestions' from his superiors. He knows the *FarStar *crew needs him enough to tolerate his attitude, and hence always seems to be walking the edge between undisciplined brilliance and a slap in the face.
+
+ 
+
+Thyte often takes the offensive, making pre-emptive strikes to inflict his biting opinions on those around him, and can work behind the scenes to cause a great deal of turmoil aboard the ship. Thyte hates Lieutenant Gorjaye with a passion that the fiery redhead easily matches - his hatred stems mostly from the fact that she is on active fighter duty and he isn't.
+
+ 
+
+**
+
+Season one development:
+
+ 
+
+**
+
+Thyte quickly became one of the mainstays of the FarStar mission – he was bitter and sour and not liked by many of the crew, but at least he was always dependable. He found that he was a poor shot with a missile launcher, and made some abortive attempts at getting over his fear of flying small craft. He was made second officer by Captain Adrimetrum.
+
+ 
+
+**
+
+Season two development:
+
+ 
+
+**
+
+Widely regarded as a comms, nav, and sensor genius, Thyte also had to fill the first officer’s post in the absence of the betrayer, Gorak Khzam. Thyte fell in love with the tech Uta T’Cha, who improved his metal arm. He also overcame his fear of piloting and joined Outrider Squadron as occasional relief pilot. 
+
+ 
+
+**
+
+Season three development:
+
+ 
+
+**
+
+Back in the Clone Wars, Thyte had several life-changing events happen to him. First, Uta mutinied and was accidentally killed by Jessa Dajus, which caused Thyte to go into deep depression. Dajus and Thyte’s already shaky relations suffered, and the two fought in a bar on Nar Shaddaa, where Dajus cut off Thyte’s metal arm. Both officers were demoted as a result, Thyte to second officer again. Also, during the evacuation of Ord Tirrenze, Thyte learned that the ship that had saved the lives of his young self and his parents all those years ago was the good old *FarStar* herself. Thyte stole an X-wing and went down to Corellia to make sure his parents got out alive again, but discovered a great secret – that he had a younger brother, newborn, in the hospital, whom his parents had had to leave behind in the panic. Thyte fought his way through an entire squad of Mandalorian Supercommandos to rescue the baby, and took him to an orphanage in Coronet City. The baby would grow up to become Han Solo, the famous New Republic General.
+
+ 
+
+Back in the future, Thyte made contact with Solo by chance, and told him the news. An initially skeptical Solo took some time to adjust, but is now coming to terms with the fact that he has a brother.
+
+ 
+
+*
+
+Unexpected Guest
+
+ 
+
+"Adrimetrum?" a tall, pallid man called from the 
+
+*FarStar's *ops station. Lieutenant Darryn Thyte, if Kaiya had gotten the name right: a former X-wing pilot who had abandoned the cockpit after a nasty crash at Vaenrood. "I’m picking up a hovertruck corning up the road towards us. We expecting anyone?"
+
+ 
+
+"Not that I know of," Kaiya answered, checking Thyte's display. Reaching over the man's shoulder she keyed the intercom for the hangar bay. "Captain CIro, it's Adrimetrum. We've got company."
+
+ 
+
+"I know," Ciro's voice came back. "Lieutenant Gorjaye spotted him a minute ago, while running a test-flight balance check on her X-wing."
+
+ 
+
+"Why didn't she tell me?" Thyte demanded before Kaiya could respond. "Blast it all, captain, I'm ops officer here - and that means comms, nav, and sensors! If Gorjaye thinks she can do my job, she can just come up here and try it!"
+
+ 
+
+"No one thinks they can do your job, lieutenant, " Ciro soothed him. Not even off the planet yet, and already he sounded tired of dealing with Thyte's abrasive attitude...
+
+*

@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-ed3a7f2e57e3bfac",
+  "sha256": "ed3a7f2e57e3bfac133af4fae0677ded466799dc567d62e9fb561a83e78de37a",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8427,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/fd3d466ae4ccc5bd3b2d27631963cc4dc86b10eea75e62f28b2f141c138fe26e.jpg",
+      "origin": "images/gorak.jpg",
+      "sha256": "fd3d466ae4ccc5bd3b2d27631963cc4dc86b10eea75e62f28b2f141c138fe26e"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1887e42c48fa5342",
+  "name": "DSWayStation",
+  "sha256": "1887e42c48fa534273646ab56277b5edc1ee8bdfa739a2fa23cbbc8a7b33d57a",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSWayStation.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "5bb2f9782f74fa55e80bdf1957beb805f5913c30a610e2dfa6eae5c9065c8a2c",
+  "fileHashes": {
+    "book.md": "a17c3d740960e4fb483a97c0dc28f398fb1c0316c620069d59638229aad47d18",
+    "pages/0001.md": "aea4de23394499015d080b5d198397b08101fa929e41aaf50009eff10a4d751e"
+  }
+}

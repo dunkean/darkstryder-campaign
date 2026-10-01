@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4a054842d28d9b39",
+  "name": "DSSHINTE",
+  "sha256": "4a054842d28d9b397565830cdcfb107edc5ee865cd86a4a702048fa0be8b77cc",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSHINTE.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "adfb543d2b90a5c627afbafee1d659b6e651c85f0cdb9a7de59f1cfd5393dbd2",
+  "fileHashes": {
+    "book.md": "7143fbdf750c4ccdd4fb91f7c444fc768d2dc2ac9b7b29387b946b53f5600820",
+    "pages/0001.md": "983e46bbdcda416b55edf15bbb968eefb54a025b41a7941bd302b109f9b60294"
+  }
+}

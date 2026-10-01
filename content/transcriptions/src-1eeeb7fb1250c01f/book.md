@@ -1,0 +1,158 @@
+# BONGO
+
+Source: `src-1eeeb7fb1250c01f` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-1eeeb7fb1250c01f; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+BONGO’S COOKBOOK
+
+# BONGO’S COOKBOOK
+
+**
+
+By BONGO AXE, half-Gamorrean head chef on the NRS FarStar.
+
+**
+
+ 
+
+Assisted by SE4-TQ5, aka The Fruit Droid
+
+R2-BSE, food technician
+
+R2-CJD, assistant commis chef
+
+ 
+
+BONGO’S MYNOCK SURPRISE
+
+- Take a large, almost dead Mynock (fresh from Engine room B are best, the ones in the ion drives are tastiest.)
+
+- Slaughter Mynock with huge AXE.
+
+- Chop up.
+
+- Throw in pot.
+
+- Save the head for self. It’s the best bit.
+
+- Boil until v. hot.
+
+- Simmer until the crew start bashing cutlery on tables.
+
+- Garnish with MORRTS from own arm pit.
+
+- Serve with salt.
+
+ 
+
+CHOLLA A LA BONGO
+
+- Take a live free-range Cholla. Small ones are more juicy.
+
+- Slaughter it with big AXE.
+
+- Chop up.
+
+- Throw in pot.
+
+- Add its blood to taste.
+
+- Boil until v. hot.
+
+- Simmer until the crew start bashing cutlery on tables.
+
+- Garnish with MORRTS from own arm pit.
+
+- Serve with salt.
+
+ 
+
+BONGO’S BANTHA BURGERS
+
+- Take a live BANTHA. Still with sand in if poss.
+
+- Slaughter it with large AXE.
+
+- Chop.
+
+- Chop again.
+
+- Chop again.
+
+- Chop until very fine mince.
+
+- Form into patty, and fry in hot pan with bantha lard.
+
+- Fry until brown.
+
+- Turn out on to cooling griddle.
+
+- Slap in bap.
+
+- Garnish with MORRTS from own arm pit.
+
+- Serve.
+
+ 
+
+BONGO’S GANDLE-OTT-STYLE MUSHROOM STUFFING SURPRISE
+
+- Pick loads of Mushrooms. Try not to snigger.
+
+- Feed mushrooms to small EWOK.
+
+- Feed him more.
+
+- Feed him still more.
+
+- When he is very FAT, murder him with big AXE.
+
+- Spit him.
+
+- Cook.
+
+- Shave Ewok and decap… decapinate… cut off head.
+
+- Eat head.
+
+- Serve rest to crew.
+
+- Garnishing with MORRTS from own arm pit is optional.
+
+ 
+
+CHILLI CON CARNAGE
+
+- Take LIVESTOCK, (preferably in small room and in large qty).
+
+- Make into DEADSTOCK with huge AXE.
+
+- Stew with chilli peppers until hot.
+
+- Serve.
+
+ 
+
+BONGO’S VEGETARIAN LASAGNE
+
+- Take one VEGETARIAN.
+
+- Murder him with big AXE.
+
+- Pound with butt of AXE until minced.
+
+- Leave bones in… mmm, crunchy!
+
+- Take some pasta and throw it away because it is NASTY.
+
+- Alternate mince with slices of cheese and sauce.
+
+- Cook in oven until dinner time.
+
+- Garnish with MORRTS from own arm pit.
+
+- Serve.

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ac2ae9e4834c9b9a",
+  "name": "dresume",
+  "sha256": "ac2ae9e4834c9b9a482d2eacb167a29cc0b8646bda6480b6e611a65f91d562ad",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/ron/dgl/dresume.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9c2a032adcb37536e10e87d4b8f3e99e9d1326998857f0da322797ff12e48350",
+  "fileHashes": {
+    "book.md": "b8919a5860d27c5c4a76528646c8837a1468ca90d05fe30d77288de45085f6cc",
+    "pages/0001.md": "bf0960e1ee497c82cbffc6e70e1634b4a16108964070cdd65cca807c515894c4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-30d68a93a2fd4b8b",
+  "name": "REPORTS",
+  "sha256": "30d68a93a2fd4b8b2395e01f0a335f9fff3952f66e07fe50692a49cdc41240d0",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/REPORTS.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "43207c8cb07e320c0598dca4250d31d977718240855d1f118082c729276dece3",
+  "fileHashes": {
+    "book.md": "985dbb2ea9c3ba53b74481d968e03c6815080c250bab63bbc34642188b3519cc",
+    "pages/0001.md": "5c60316840efaf8fccb3f7ef41bb2011a1b26b15b2d52689c5e5f125df4a6a03"
+  }
+}

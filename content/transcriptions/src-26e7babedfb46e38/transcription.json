@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-26e7babedfb46e38",
+  "name": "DSBinaros",
+  "sha256": "26e7babedfb46e3848b37bb60f57946b96120dc488f6886431884d52ba8bed07",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSBinaros.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4cd02719800ef3057a1fc1a44230ccc09a466a7b4b49b175b949c52a8ca5bd5d",
+  "fileHashes": {
+    "book.md": "2154662cdfa2d3bafc8cb3370a077f14d63a739da53028024aaf5b7e3a069077",
+    "pages/0001.md": "87fd2778a70a9ad6a5e2a283e89e17cf0541d29f94c286c066d8a3abd4cd4bb4"
+  }
+}

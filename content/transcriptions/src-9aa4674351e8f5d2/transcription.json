@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9aa4674351e8f5d2",
+  "name": "ZUCKUSS",
+  "sha256": "9aa4674351e8f5d28232395a1a3779f29dbbdcbaa3a5c269d820bb658682d8db",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/ZUCKUSS.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "09763d295a51ad9d54e1091de3131efac3132445b4f8b9e93bedfbcc9732c795",
+  "fileHashes": {
+    "book.md": "b7c502c7d6deaf6955049016e8ad36e9fc0f7f780e2284bdff98a7febd3e9667",
+    "pages/0001.md": "1ca346b53184b67920d50e0696c61c59155f9deba3d171c62c39830d1362d103"
+  }
+}

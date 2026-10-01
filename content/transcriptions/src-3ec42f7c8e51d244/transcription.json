@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3ec42f7c8e51d244",
+  "name": "DSExocron",
+  "sha256": "3ec42f7c8e51d244f921c6738dbd9a4cc425aaa11360f343ef7279c1479438e7",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSExocron.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f9cb16da7c56f2699d14fdcc603d8857a0c57f005ef47267a12b680e8620647b",
+  "fileHashes": {
+    "book.md": "19978c29a2de2ce3f62762855c82d36fbbef4b4bae6631c1c54df5beee463c6d",
+    "pages/0001.md": "0e13c07a9ca2c83c00e225de61eb5d61ef2f8432e8534662204fd547619c9507"
+  }
+}

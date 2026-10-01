@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8f5bb1727f2b80f9",
+  "name": "DSMutiny",
+  "sha256": "8f5bb1727f2b80f9d54f0b463051553f05472ef240ff1a2ef75434b4eb0c4e08",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSMutiny.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bbf9e485e132dcafd0300d67cffef959632beb6cec9422286325ed7fea04da2c",
+  "fileHashes": {
+    "book.md": "b2629aa749db8c32ee9396133b906a865342d1638bc8ed9c70ce16049a46f000",
+    "pages/0001.md": "2c1d10c1b7cd13b04ffbe8d89ed471793e09016126439e3df27f3985215edf41"
+  }
+}

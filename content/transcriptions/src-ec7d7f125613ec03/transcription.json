@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ec7d7f125613ec03",
+  "name": "Hydan",
+  "sha256": "ec7d7f125613ec0331dbfd1c87044dad88f6a09e372a9e0a9a36c2bb905f7d75",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/Hydan.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b4b1a9600973b897cad6ba11cbff59a4c2544b1c36c39d0a1cbad9daf296c5ce",
+  "fileHashes": {
+    "book.md": "5b66cb4324763f6d881ee4e137fef7a750ff88a1cfd2ffac375b59a6233475e9",
+    "pages/0001.md": "7e30fc41a02114c5536cd769db1ff05517075a97b44b7d5503a4fb69975f643e"
+  }
+}

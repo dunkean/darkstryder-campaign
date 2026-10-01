@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-65c3146cba3ba5c2",
+  "name": "brophar",
+  "sha256": "65c3146cba3ba5c26afb5435a6e1954872e7262920e613c2d4cf55b0e612568b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/brophar.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b73ad7b7a90147e09bfeae7f6e575d203e1c15a9cdc68395f99fd10d3410ea20",
+  "fileHashes": {
+    "book.md": "f4dfab0a0c958b8b0a49e299a45a3122a3c889ff01ebac15131a11468b58f15b",
+    "pages/0001.md": "193aecc24e3b41d79815b5d4393edf517dc47578c5f2c3b9200cc688317e586f"
+  }
+}

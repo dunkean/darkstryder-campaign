@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-729ea6cc38909e2a",
+  "name": "DSRETURN",
+  "sha256": "729ea6cc38909e2a9aa584c5aae065a2c92c5e3bb6432f7951eb5b2d743c7c75",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSRETURN.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "acb491ea03464ea5f8d72e5b2b1ac8e370059f8b2a8b2298ef025f7f9d3598ab",
+  "fileHashes": {
+    "book.md": "f597949b75e942b8d8d6be7b39c18ab20122972f0ebd8e9fe404787b584853dd",
+    "pages/0001.md": "1cfc2bad06b3769b0c640bbb17be37eba424daddfe5d0aaf83e8c1e36f243ec0"
+  }
+}

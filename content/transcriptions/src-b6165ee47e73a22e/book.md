@@ -1,0 +1,39 @@
+# SEASON3
+
+Source: `src-b6165ee47e73a22e` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-b6165ee47e73a22e; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Season 3 Crew
+
+Map by Web Hotspots 3.0  www.1automata.com 
+
+# Season 3 Crew
+
+ [![Image](images/6ff171773e1a4b9ea6525d114e3125028a90f4a3538f35e953407df65d77efc9.jpg)
+>](http://ppewww.ph.gla.ac.uk:80/cgi-bin/imagemap/map2.map) 
+(L-R) Back Row: [Erkenwald Makezh](makezh.html) | [Sergeant Lofryyhn](lofryyhn.html) | [Captain TreyVhalla Jerrell](jerrell.html) | [Chief Gorak Khzam](gorak.html) | [Loh'khar the 
+Finder](lohkhar.html)
+
+Middle Row: [Doctor Akanseh](akanseh.html) | [Lieutenant Dasha Defano](defano.html) | [Lt. Darryn Thyte](thyte.html) | [Sergeant Brophar Tofarain](brophar.html)
+
+Front Row: [Lieutenant Vail Lestar](lestar.html) | [Zuckuss](zuckuss.html) | [Lt. Jessa Dajus](dajus.html) | [Captain Keleman Ciro](ciro.html) | [Ensign Tamara Barinn](tamara.html)
+
+Illustration by our very own [Karen Douse](credits.html#karen)
+
+The FarStar crew in season 3, circa the episode "Fallen Star" - note the FarStar going down over Corellia in the background. This 'concept picture' could never really be taken, as the characters were all over the place at the Battle of Ord Tirrenze. New f
+aces abound - Chief Scout Zuckuss replaces Kl'aal, Gorak has returned to replace Vallens. Lt. Lestar, Navigator Makezh, Captain Jerrell, and Tamara Barinn (with short haircut) are all new too. Note Akanseh's lost eye and Lofryyhn's Commander's insignia. M
+r. Thyte cradles his little brother, baby Han Solo, in his arms. 
+
+The only current main crew member missing from this shot is Commander Celeste Maru who joined the crew shortly after we returned to the future after this shot was taken.
+
+| [The Main Bridge](bridge.html) | 
+[The Flight Recorder](recorder.html) | 
+[The Personnel Files](personnel.html) | 
+[The Captain's Log](log.html) | 
+[Mission Reports](reports.html) | 
+[Ensign Hydan's Desk](hydan.html) | 
+[Comm Links](links.html) |

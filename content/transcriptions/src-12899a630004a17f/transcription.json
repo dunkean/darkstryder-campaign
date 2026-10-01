@@ -1,0 +1,51 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-12899a630004a17f",
+  "name": "Addons_to_DS2",
+  "sha256": "12899a630004a17f4169e3ca95caf9b20ba60bdd9b3c77a8d4128b415ffa7b82",
+  "pdfPages": 24,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 24,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Addons_to_DS2.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "05e5508123db7b874af1fa3c61283f29173a81a79716d029aeaf5a612a8607dd",
+  "fileHashes": {
+    "book.md": "b85c3388b49a187a78d2ddc6e02936dd827d14d5fab8ddda85d13bd1b8b752c8",
+    "pages/0001.md": "c47cf8187893a810a21f5635e4fbffdf46ffd43e97ca420acead53918e72c8ca",
+    "pages/0002.md": "2b3cd261b54433f089ae04557e8f8f8f2a0812ab90ff23aa8ea25a21f88cb708",
+    "pages/0003.md": "6e06d573ffa0f6adfa8696a2cbaba25f40474e46daeb93c9e1d832aba83ff145",
+    "pages/0004.md": "ffd5835f776a5993836c9dbc774652a5de50e00264fbbf229544bdefa8eee086",
+    "pages/0005.md": "1da56d4dd142cb825783bfe3d0447ad12fe1351bbf68bbb22e590b33321d126f",
+    "pages/0006.md": "2cae7597b33a21f21177bebf0ca99e61a7c4a1a77d858e130832ac41101103af",
+    "pages/0007.md": "70ef8cff633050c2db0cca14266d0556c3cde90d4a3805ea629ee36a6ef1759f",
+    "pages/0008.md": "b75a8966414e24ef7db45328751ee006be5b50cab2e8ed49ca8f3a7c4910e38b",
+    "pages/0009.md": "5d81225a778b1276ce8e1cc8a5a41e52feb442ca4853e6140b4e2cc1a11c96ba",
+    "pages/0010.md": "26ec599cb7cac29ba2937c7850a547b1db1f7fe763a9f50a54d5b6f664572666",
+    "pages/0011.md": "f407d3bc9da8c67a8e6a0deaca89a3142d1a91a44de43dce3c9d90c5e7b89c8a",
+    "pages/0012.md": "efc1b63d84f24f6874ace5d6bc96be88674c60b176ccb81e79b27b5fdf168ef8",
+    "pages/0013.md": "de99f7a6835269e8c721b153e8b281c8ebf7795896c2d11dccc4cfd5bcc392d8",
+    "pages/0014.md": "835db2996275b7d8c07c92fcdeaf45f2ef91742cb89ae5b2df0fb37dcde69b7e",
+    "pages/0015.md": "050338de1840227da03e351d0fcd09bd306702b00382043dc74e9b2dd5957103",
+    "pages/0016.md": "9e196f4408e05e4e343fd9a705a920b73add6ee5fdd2b5e7a5f4efac1771123c",
+    "pages/0017.md": "90072bb911c5d176f490272df3da6df6673787291bfced290ac44d5b1c2381d0",
+    "pages/0018.md": "3952a4d30f6c774f6a62f94e85b81e09c8b9a8cd576ddd3d12fcfb838ba29df4",
+    "pages/0019.md": "ecc5746dcf883c475bf80a668c8eb5a2d2a68bfc63654e645023970642cc8602",
+    "pages/0020.md": "f53c8b3a4780c7839e65da7fad4915001777ae7dc384eecda640772539b15e73",
+    "pages/0021.md": "6cf9bf85d986e3fe4f429d980b7e581db373762d5c0d8153f1058c6474ace101",
+    "pages/0022.md": "b09f41144f5b2b2fb859d01513ada55e40e021ff8f77ae7869b9b748de0ab1eb",
+    "pages/0023.md": "5a508c2faa4f5172e07b32cd92ff7ab207189aa5a0965916546600bf9002ad85",
+    "pages/0024.md": "61bc00f87e230f3961483a80afd43a4cb33fa440af6935b8efec90633ff3e9b4"
+  }
+}

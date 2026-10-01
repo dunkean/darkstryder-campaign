@@ -1,0 +1,59 @@
+# DSINTEL8
+
+Source: `src-7871d51c9abe3a01` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-7871d51c9abe3a01; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Intel Reports: NR Intel Log 8: Kathol Campaign"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**NR Intel Log 8: Kathol Campaign**
+
+ 
+
+---
+
+**Report 10020:A: Alpha - Date: DS 066**
+
+**Report from Oon Tien**
+
+**Battle for Oon Tien Update**
+
+**We have sent a small expeditionary force, lead by a few freelance
+scouts, to mine the area of the Gate. Meanwhile, the main force, now at full force, will
+jump into the system, and attack the force there. Soon the engagement will begin.**
+
+**During the Oon Tien assault, the New Republic will send a Spec Ops team through
+the gate, if the techs can figure out how to work it. This team will destroy whatever gate
+technology is on the other side, then we will destroy this one. New Republic scientists
+are working on theories now to figure out how to work it.**
+
+---
+
+**Report 10021:A: Alpha - Date: DS 070**
+
+**Report from Kal'Shebbol**
+
+**No communication has been received from the Oon Tien system since the
+battle began. The last word was that the fleet scientists had figured the gate, and the
+battle had begun. A spec-ops team was sent through the gate, and then silence. All probes
+with in a ten light-year radius were knocked out. It was some kind of subspace energy
+pulse from a huge stellar event. Scouts from neighboring systems are being redirected to
+determine the status of the fleet.**
+
+---
+
+[Previous](DSintel7.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSintel7.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSintel9.htm) 
+
+[![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)
+Back
+    to Intel Main](DSintel.htm)

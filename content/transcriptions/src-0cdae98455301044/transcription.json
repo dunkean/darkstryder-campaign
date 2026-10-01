@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0cdae98455301044",
+  "name": "DSTheArtifactsofAaris",
+  "sha256": "0cdae98455301044f44c2ff8dbcd246f391ad235ba1a12a3095c8bce8727cc29",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTheArtifactsofAaris.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "5f1c50135f9364c495cb69601115b459b2796be7fe48cbc15f08a7baad91727d",
+  "fileHashes": {
+    "book.md": "064e9b3ec9962e5afa7cad2309ec2d686d96017e8d0cb994f182152a26dde192",
+    "pages/0001.md": "8ca2e2d963f2e6d64a0fefbc619237391c0e78357d0b193f472ec3144f5c935b"
+  }
+}

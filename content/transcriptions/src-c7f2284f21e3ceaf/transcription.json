@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c7f2284f21e3ceaf",
+  "name": "Dsendgam1",
+  "sha256": "c7f2284f21e3ceaff86e24f01c44554f76ae62793b174588beb4b4c2516807d2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsendgam1.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "52d771a06f5fe2dffc478c990098d49d4f406eadaaebd0de21ecbc61e6bc7070",
+  "fileHashes": {
+    "book.md": "08cc56c53fdd7831e1748c6cd89b64d68bc897135266e4ada2159e7b04d74c9a",
+    "pages/0001.md": "aad6d4c9a55517f4282224e9f25f5cff88c017dcfcfb7774cafd169023c367fe"
+  }
+}

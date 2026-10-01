@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-42597bce3914c11e",
+  "name": "beetle",
+  "sha256": "42597bce3914c11e919edaa5e96bc12264b9f71b031c54bafc316bcab5719181",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/beetle.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6c0e9d9ebde46959d02981a43c6c6ac48f8d924882ba4af1c33d3f981a73a60f",
+  "fileHashes": {
+    "book.md": "99f0f9b5af0bd1044fffcb9c62f382dc68364e494dd2c3f518522b459a5359e6",
+    "pages/0001.md": "a9eb7c8e051be7d19a23ff495e8076b292ff1958279623d3a1437b5aedac042a"
+  }
+}

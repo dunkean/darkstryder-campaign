@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1e1f957d58669cff",
+  "name": "DSMOONSO",
+  "sha256": "1e1f957d58669cff5cd3c2ad6dc454e927c335fcd5152297ba2c6dbbbcc37d89",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSMOONSO.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a60697d803f041b47156e926b1f48e7ad92c649b0199c45c4c8aa0995c3b15ca",
+  "fileHashes": {
+    "book.md": "44789088e451db7dddcae7b689ad4ac6a5d06c66b8db4db0c2a46f391a3a0cbe",
+    "pages/0001.md": "b01472aab2305fdda11d2ec3cdd73e01d17c5638535f7c50b9407cf9800f10b1"
+  }
+}

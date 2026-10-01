@@ -1,0 +1,105 @@
+{
+  "sourceId": "src-e0e70419b211b127",
+  "sha256": "e0e70419b211b127fbc199d0f39de3a8aed4d2e18fdbdfbe8ca8530c182257e3",
+  "engineId": "docling-rapidocr-torch-cuda-v1",
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "versions": {
+    "docling": "2.91.0",
+    "docling-core": "2.74.1",
+    "torch": "2.11.0",
+    "rapidocr": "3.8.1",
+    "transformers": "5.6.2"
+  },
+  "languages": [
+    "english"
+  ],
+  "nativeTextPreserved": true,
+  "tableMode": "accurate",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "low-text-or-illustration",
+        "ocr-low-confidence"
+      ],
+      "seconds": 4.73,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9890991449356079,
+        "table_score": null,
+        "ocr_score": 0.8394881443298968,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9428624297551682,
+        "low_score": 0.8544492443904679
+      }
+    },
+    {
+      "page": 2,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "low-text-or-illustration"
+      ],
+      "seconds": 3.84,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9899126887321472,
+        "table_score": null,
+        "ocr_score": 0.85428,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9480642295773825,
+        "low_score": 0.8678432688732147
+      }
+    },
+    {
+      "page": 3,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "low-text-or-illustration"
+      ],
+      "seconds": 4.37,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9889532327651978,
+        "table_score": null,
+        "ocr_score": 0.8883226436781609,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.959091958814453,
+        "low_score": 0.8983857025868647
+      }
+    },
+    {
+      "page": 4,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "low-text-or-illustration"
+      ],
+      "seconds": 4.28,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.989087700843811,
+        "table_score": null,
+        "ocr_score": 0.9001607462686568,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9630828157041559,
+        "low_score": 0.9090534417261722
+      }
+    }
+  ]
+}

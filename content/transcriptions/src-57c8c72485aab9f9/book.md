@@ -1,0 +1,37 @@
+# homepage
+
+Source: `src-57c8c72485aab9f9` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-57c8c72485aab9f9; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Ron's Universe
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/rwmbanner.jpg]
+
+---
+
+webbot bot="ImageMap" startspan
+polygon="(511,479) (638,357) (638,477) sz/" rectangle="(514,222) (639, 249)  dc/"
+rectangle="(0,217) (129, 246)  rs/" polygon="(519,0) (638,1) (641,125) Ron.htm"
+polygon="(3,137) (135,1) (3,0) (3,124) (8,124) sw/" src="icons/space1_collage3.jpg"
+alt="RWM Model A-5 Targetting System" width="640" height="480" border="0" 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/space1_collage3.jpg]
+>webbot
+bot="ImageMap" i-checksum="218" endspan 
+
+**| [Seawolf's Den & Greyslayer's Lair](Ron.htm) | [Star Wars RPG](sw/_._.html) | [Shatterzone RPG](sz/_._.html) | 
+
+| [Reich Star RPG](rs/homepage.html) | [Dark Conspiracy RPG](dc/dc.htm)
+| Star Frontiers RPG |**
+
+---
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/guild/images/guild2.jpg](guild/_._.html)
+
+**[[The UNCC Science Fiction & Fantasy Guild
+    Web Page](guild/_._.html)**

@@ -1,0 +1,181 @@
+# DSHomeConfess
+
+Source: `src-eda4e43dfa0ed08c` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-eda4e43dfa0ed08c; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+"Home: The Confessional"
+
+![darkstyd.jpg (8812 bytes)](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+***"Home: The
+Confessional"***
+
+---
+
+The Captain fought it, but the Majjvara would have nothing of it. 
+The Rodian had to face his fate.  Meanwhile, the rest of the crew was given free
+reign of the city.  However, all wanted to watch this transpire; a moment of truth
+for the suspicious Rodian.  Gorak was finally facing up to his crimes.  
+
+The Rodian stood before the Queen flanked by a pair of Night Terrors.
+  He was unarmed.  
+
+"Mr. Gorak, how do you explain you actions?"
+
+"Business and survival, ma'am.  Simple as that." 
+
+"In his defense, may I..." The Captain proceeded. *Hadn't we
+done this before?*  she thought. The Captain told the "Gorak story"
+from her perspective, leaving out many of the details that might offend the Majjvara or
+condemn Gorak.  Once she was done, the Majvara nodded, and spoke.
+
+"This accounting is quite evident in the report from Gunthar.  
+It is apparent that this creature is attempting to redeem himself,  But has he?"
+
+Dajus was next, presenting her side of the story.  Gorak was quite
+nervous with this, considering what had just happened on the ship.  Him betraying
+her, however, may have been more of a blessing than a curse. 
+
+"Gorak may have been a slaver, but you can teach an old Bantha new
+tricks..." Gorak resented the use of that phrase.  Dajus, despite her occasional
+jab, and snide comment aimed at him, gave quite a redeeming testimony.
+
+"But Ms. Dajus, you hold secrets of your own."
+
+This took them all off guard.  She had faced her last accusation,
+prompted by Gorak's betrayal, with minimal truth.  Remembering that Gunthar seemed to
+have an empathic ability to tell a lie, Dajus was driven to explain herself again, and
+more in depth.  
+
+"I was Sarne's lover, yes, and Sarne's agent..." She continued
+to explain her duties and why she was with the *Farstar* now.  She tried to
+make it clear that she had no ties to Sarne any longer.  Despite Gorak's betrayal,
+something drove Dajus to defend his position.  In doing that, however, she also
+supported her own.
+
+The Majjvara contemplated all that she had heard, not understanding the
+concepts of secrets and privacy.  She thought that the release of all this
+information would make the *Farstar* crew understand the Yvarema better.  It
+was quite apparent that the Yvarema were a part of a advanced hive-mind, in which no
+creature attached to it had any privacy or secret.
+
+"Gorak, you have proven to many that you worked hard to change your
+ways, and redeem yourself of your past deeds.  However, there is one not of the
+Yvarema that demands more than just simple forgiveness.  She demands justice.  
+Because we can not interfere with her ways, she has asked us to allow a contest to
+determine guilt."
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/qesya.jpg]
+A six-legged-centaurian form trotted out from an
+unseen door way in the Majjvara's chamber.  Qesya Vth'Naar growled at the site of
+Gorak but held her ground, obviously honoring a promise she made with the Majjvara.  
+
+"Qesya claims that Gorak surgically removed her voice box in order to
+cover up his secret past, then sold her into slavery.  Qesya was then freed by the
+Aing Tii monks, after spending some time in a Qektoth slave labor camp.  The monks
+were about to repair her throat.  We honor her request, and ask you to as well.
+  She has asked that a battle between her and the Rodian take place five days from
+today, in the arena.  She has worked diligently to construct an arena for this battle
+ever since she arrived here."
+
+Despite all the captain's protests, along with several of the crew,
+including surprisingly Gunthar, there was no changing the Majjvara's mind or Qesya's.
+  The Battle was to take place.
+
+Gorak had five days  to train and prepare himself for the fight.
+  He was unsure of his chances, but confident in some way, he would survive. He made
+the decision early that if he as a changed Rodian, he would not run.  The Gorak of
+old would figure a way to slither out.  He no longer slithered, but faced his
+challenges head on. Slithering was for worms like Chuborro.  However, he could see
+the hunger for blood in the Sludir's eyes.  
+
+*****
+
+Bifzik could here the faint whisper of voices coming from the Qek
+nanite-network.  Slowly but surely, the Qek-nanites were coming back on-line, tapping
+into another branch of the Qek "hive-mind".  The last-time they did this,
+they patched into a nearby branch of Qek who were plotting against someone's
+"Queen".  This was obviously in reference to the Majjvara.  Through
+interacting with the Yvarema, Bifzik was able to learn that the Majjvara was aware of some
+kind of outpost set up several hundred kilometers from the palace city.  It was the
+Qektoth, who were here to study the Yvarema.  They only made an aggressive move when
+the Yvarema scouts came too close.  
+
+This was apparently changing rapidly.  The Qek now were ready to make
+an assault on the palace. However, the sad fact was, despite all the wondrous levels of
+the Yvarema caste society and the numerous types of Yvarema there were in each Caste, they
+had no qualifying warriors.  They had some security types, but none able to fight in
+an intense battle, especially one with the Qek.
+
+Bifzik had a report to prepare.
+
+*****
+
+The arena was rudimentary.  Weapons were piled up on racks.  It
+was apparent that she paid more attention to the construction of the weapons than to the
+construction of the arena.  All were finely crafted, both sets equally deadly.  
+Her honor drove her to ensure both sides had an equal chance.  
+
+But most new that one side had the advantage.  The Sludir was a
+former gladiator, while Gorak preferred ranged combat.  Gorak even chose to use his
+whip over any of the finely created weapons available to him.  Qesya only growled and
+laughed.  Hungrily, she hoisted a polearm.
+
+The air was tense, mist flowing from surrounding geysers like ghostly
+spectators, adding to the already crowded dais of on-lookers.  Many of the *Farstar*
+crew were present, as were many Yvarema. The Majjvara watched through her telepathic link
+to her scouts. 
+
+Adrimetrum looked on as well.  She was amazed at the sudden
+appearance of the Sludir gladiator. She had been written-off as another AWOL, and probably
+would have ended up with a small bounty on her head courtesy of the New Republic Military.
+  So here she is, revealing the true nature of her disappearance.  However,
+there was something distinctly different about her.  She was certain that it was
+Qesya, but she looked different... heavier and sickly.  She looked like she was on
+her last legs... and for a Sludir, that was saying something.
+
+Gunthar noticed this too, and when he got to talk with her, his senses
+told him there was something more to her now, something new.  And it was something
+that he could not heal, because it wasn't anything wrong with her.
+
+The fight started with the Sludir stumbling, with an over-zealous attack
+at the Rodian's head.  If the blow would have landed, it would have been over.
+  Gorak lunged with his whip, the freeze-effect of it stunning Qesya.  Gorak was
+about to get in a second blow with the whip before she landed a devestating blow to
+Gorak's face with her fist.  Normally, the blow would have killed the Rodian,
+however, this one semed weak.  The Sludir fell over, breathing heavy, in convulsions.
+
+Seedar was at her side, with analysis scanner sweeping.  "Her
+hormone levels are completely off the scale.  ... " she gasped... "She's
+pregnant... and has been a VERY long time..."  She explained the Sludir ability
+to put their young in stasis when they need to, especially in time of crisis.  Qesya
+was apparently so obsessed with getting revenge, she convinced her system that is was a
+  time of life-threatening crisis.  And now it was... she waited so long, the
+birth might kill her, and the baby.
+
+Gorak was regaining consciousness as Slave dragged him away.  He saw
+Qesya hunched over, convulsing and could only mumble "Should have stayed in
+slavery..."
+
+*****
+
+After hours of surgery, Qesya died, but the child was saved.  Gunthar
+volunteered to take care and raise it.  Majjvara was pleased at this.  
+
+The Captain recieved Bifzik's report after the surgery.  She
+immediately mobilized the crew.  They were in for a fight.
+
+---
+
+[Previous 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_l_arr.gif](DSHome.htm)
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_r_arr.gif
+Next](DSHomeShowdown.htm)
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/timeline.gif
+Back to](DStimeline.htm)Timeline

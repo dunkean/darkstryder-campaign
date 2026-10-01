@@ -1,0 +1,501 @@
+# DSINT14
+
+Source: `src-241b38e7d42ffbbf` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-241b38e7d42ffbbf; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Intel Reports: NR Intel Log 14: Kathol Campaign"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+[Image locale absente : images/nrlogo.jpg]
+
+**NR Intel Log 14: Kathol
+    Campaign**
+
+[Image locale absente : images/nrlogo.jpg]
+
+---
+
+**Report 10053: Alpha 
+
+From: Kathol Sector Central Intel - Kal'Shebbol
+
+Subject: Negotiations with Fing'Dra Transportation (A Chuborro Front Corporation)
+
+Date: DS 155  / NR Date: 43.8.20**
+
+Secret negotiations have started with Chuborro's deputies in the upper
+"northern" regions of the Sector.  It seems that Chuborro himself is not
+aware of them .  Some deputies are apparently not pleased with his  recent
+actions, and turn in policies, and are talking with the NR for deals.  They are
+negotiating several things, including immunity from prosecution if the turn on Chuborro.
+  
+
+The *Farstar* should be aware that these negotiations wouldn't be possible if it
+weren't for contacts made by Loh'Khar the Finder.
+
+---
+
+**Report  10053: Beta 
+
+From: Kathol Sector Central Intel - Kal'Shebbol
+
+Subject: Negotiations with Fing'Dra Transportation (A Chuborro Front Corporation)
+
+Date: DS 157 / NR Date: 43.8.22**
+
+Negotiations took a  bad turn when assassins killed all of the negotiators in a
+night raid on Kal'Shebbol.  The Fing'Dra diplomats were hung from their balconies,
+ritualistically.  Bounty Hunters have been hired to find that assassin.  
+Chuborro, in turn, blamed the NR, calling us murderers and vigilantes.
+
+Some how, someone found out about our negotiations.
+
+---
+
+**Report  10054: Alpha
+
+From: Kathol Sector Central Intel - Timbra Ott
+
+Subject: Free Trader Negotiations
+
+Date: DS 169 / NR Date: 43.8.34**
+
+New Republic diplomats have struggled to quell the Free Trader
+situations.  Negotiations have opened up at Timbra Ott, with the more fanatical
+factions.  Maddie Macatten was there to help the NR side.  The Skandrei Bandits
+had been invited, but have yet to respond.  
+
+A bounty has been put out by the NR for the Captain and crew of the *Lance of Endor*
+of 85,000Cr total for their capture.  If capture is not possible, the bounty drops to
+65,000Cr for their destruction.
+
+---
+
+**Report  10054: Beta
+
+From: Kathol Sector Central Intel - Timbra Ott
+
+Subject: Free Trader Negotiations
+
+Date: DS 171 / NR Date: 43.9.01**
+
+Assassins made an attempt on he negotiators at Timbra Ott but was
+thwarted by security agents.  The assassins got away, and security personnel as well
+as automated security measures did not get a clear look at who it was.  They were
+humanoid, and there were only 2. Twenty two security guards were killed in the attempt to
+apprehend.
+
+---
+
+**Report  10055: Alpha
+
+From: Kathol Republic Diplomatic Research Team
+
+Subject: Kathol Republic History
+
+Date: DS 155 / NR Date: 43.8.20**
+
+Talks with the Kathol Republic have been shaky at best.  The political like
+bickering children, worse than some of the politics the NR is experiencing.  A check
+in the new found records of this areas confirms that some colonies in the Outback were
+started by split off factions of the Old Republic, once collectively called the Union. The
+Union was a ruthless loose-conglomeration of renegades, criminals, political dissidents,
+and terrorists.  They were at times united, other times chaotically disorganized.
+  For a long time, the young Old Republic dealt with Union.  Not much of those
+records are left, and how they were defeated was unclear.
+
+Some Union factions were notorious for the genetic science experimentation, searching
+for the secret of the Force, and such things.  This was one of the many precursors to
+the Clone Wars.
+
+---
+
+**Report  10056: Alpha
+
+From: Kathol Republic Research Facility, Gandle Ott
+
+Subject: The two Imperials with DS implants
+
+Date: DS 158 / NR Date: 43.8.23**
+
+The two captured Imperials were received a few weeks ago, and have undergone extensive
+tests.  The Darkstryder implanted in their bodies is acting like a parasite, sucking
+away at their life. The Darkstryder has integrated into their system completely and is now
+in the process of changing their DNA structure.  We have used everything short of
+deadly poisons to stop the transformation. They were turning into something not human.
+  This is when things got strange...
+
+They started talking, mumbling at first, now speaking clearly. The language is unknown
+to us, and not one protocol droid has been able to decipher it.  Their skin is now
+almost translucent, their muscle tissue gray.  Their eyes have turned black and
+large.  For fear of them becoming dangerous, we sedated them, and put them in stasis.
+
+---
+
+**Report  10057: Alpha
+
+From: Kathol Astrogation, Timbra Ott
+
+Subject: Energy Fluctuations in the Rift
+
+Date: DS 159 / NR Date: 43.8.24**
+
+Data on the Rift has been sparse.  The Old Republic had a few
+research stations in the early years, but data from them was lost.  Recent scans and
+probes into the area reveal strong, and focused energy fluctuations.  These
+fluctuations sometimes concentrate into focused eruptions, which could be potentially
+destructive to most capitol ships.  Some of the minor fluctuations simply just
+smolder into storm-like activity and die out.  hyperwave scans revealed that these
+fluctuations even effect hyperspace.  Any probe droid sent into the Rift was
+destroyed.
+
+However, the free traders have said the have seen a ship travel in and
+out of the Rift, some even saying it's the ghost ship.
+
+---
+
+**Report  10058: Alpha
+
+From: Kathol Sector Central Intel - Kal'Shebbol
+
+Subject: Chuborro Deputy negotiations
+
+Date: DS 165 / NR Date: 43.8.30**
+
+The Deputies resumed negotiations, and part of the deal brokered was a
+promise that no action would be taken against any of the deputies of Chuborro in the near
+future.  The allied deputies need stability with in Chuborro's organization to drum
+up support for a possible overthrow.
+
+If this contradicts with any action taken by the *Farstar*, the
+NR command does not want to know about it.
+
+---
+
+![chillweaver.jpg (29133 bytes)](images/627ea99ffbb407dcc52ee4b667c8fd5be32dd426dd1e64800cfe4cd46d7ea7c0.jpg)
+
+Report:  CW-001
+
+From: SSgt D. Wilkes, Field Commader, Operation Chillweaver
+
+Subject: Progress Report
+
+Date: DS 179 / NR Date: 43.9.04  
+
+
+Have established contact with local under ground contacts. We are maintaining covert
+surveillance over Jag’Nok Orcana and Ugnog Gandris, the two local bosses in
+Chuborro's organization.
+
+
+Local Background info about the two bosses and situation is attached.
+
+
+Based upon local conditions, we feel it is best to drive a wedge between these two bosses,
+relying on the paranoia between them to lead to open conflict and structural dissolution.
+
+
+An abstract of the operational plan is Attached.
+
+
+All the ground work is in place, and we only require final go-ahead to initiate active
+operations.
+
+=======================================
+
+Operation Chillweaver Intel Report 1
+
+**Intel on the two regional Deputies (The 2 that operate closest to the
+Night Terror's Position):**
+
+- **Jag'Nok Orcana**
+
+Species: Houk
+
+Territory: Marcol Rim Region, and the Outer Rim of the Marcol void, Outback side
+
+Activities: Mercenaries and enforcers, arms dealing, assassinations, espionage
+
+**Intel Notes**
+
+Jag'Nok is an ambitious warrior who revels in his life of crime. He also is somewhat
+  jealous of Chuborro and his power. He worries that if Chuborro gets Darkstryder, he will
+  have too much power. Jag himself secretly seeks DS tech.
+
+He has made deals indirectly with Analia, and in fact, would probably get along with
+  her real well, if he knew she existed. He might meet her personally if she had something
+  he was REALLY interested in.
+
+Included is intel on Jag's operations, training facilities, who and where he gets his
+  recruits, where his HQ is, and its security measures. He is good, one of the best security
+  experts anyone has seen. He is the one the Night Terrors have the most to worry about and
+  the key figure to fool with the Imperial masquerade. 
+
+**These are the organizations under his control:**
+
+- The Hagnar Guild
+
+Location: HQ'd on Hagnar Gor (In the Marcol Rim Region) with agents through out
+    Chuborro's organization
+
+A mercenary group of enforcers and arms dealers, it is the Syndicate's primary enforcer
+    and security force.
+
+- The Jag'Nar Fleet
+
+Location: HQ'd on Vigno'sh Gor in the Marcol Rim Region
+
+A fleet of pirate ships and raiders that serve Chuborro's needs. Made up of about 12
+    cap-ships, all varying sizes, most modified freighters and transports. There is one ship
+    that is his pride and joy, a modified Nebulon B frigate. They are spread out in 2 to 3
+    ship task forces.
+
+- **Ugnog Gandris**
+
+Species: Whiphid
+
+Territory: The Outback area beyond the Marcol Void rim.
+
+Activities: Smuggling, information brokering, mercenaries, piracy, extortion, Outlaw
+  tech, black marketeering, assassination, and espionage.
+
+**Intel Notes**
+
+Ug is a conniving bastard, and rivals some of the best Twi'Leks at back-stabbing.
+  Expert truth manipulator, he is one of Chuborro's most valued information brokers. He also
+  rival's Jag as a security expert.
+
+The intel on Ug includes limited amount of his operations, which are very secret and
+  guarded. His teams are widespread and very good at what they do. Once Chillweaver starts,
+  the Night Terrors will have to deal with one or more of his Shadow Ring teams. 
+
+Jag and Ug play sabacc together quite often on Yog'H'Toth. The have a strong, and
+  honorable relationship but secretly mistrust each other strongly. Both feel the other is
+  unnecessary.
+
+These are the organizations under his control:
+
+- The Timbra Shadow Ring
+
+Location: HQ'd Timbra Ott with agents through out the sector
+
+The Timbra Shadow Ring is one of the most secretive organizations in Chuborro's
+    organization. It is the primary spec ops group, with it's hands in all Chuborro's covert
+    operations.
+
+- The Outback Riggers
+
+Location: Sapella
+
+A group of Outlaw techs Chuborro uses for his private needs. Only those he knows is
+    allowed to use them. As for the other deputies, you know their names, but that's about it.
+    The above deputies are the only ones that operate in or near the Outback.
+
+- **Other Deputies:**
+
+Antoss Irz Chan
+
+  Species: Herglic
+
+Bres Tambrana
+
+  Species: Devaronian
+
+Irta'Kes 
+
+  Species: Noehon
+
+**Other Intel:**
+
+Planet:  Yog'H'Toth
+
+  System: Yog'Hal
+
+  Sector:  Kathol
+
+  Type: Terrestrial 
+
+  Temperature: Temperate to Warm
+
+  Atmosphere:  Type I Breathable
+
+  Hydrosphere: Wet (Many violent storms year round)
+
+  Gravity:  Standard 
+
+  Terrain:  Mountains, Grassland, Polar ice caps 
+
+  Length of Day:  28 Hours
+
+  Length of Year: 286 Days
+
+  Sapient Species: Mixture of species. Humans are rare. 
+
+  Major Cities Bred'iar Hogg (Capitol city), Gren Sil (Space port city), Kendri'Il
+  (Chuborro's palace located near this city)
+
+  Starport:  Standard Class
+
+  Population:  690 Million
+
+  Planet Function: Was a mining colony and research facility for the Kathol Republic,
+  abandoned several decades ago. Now a simple colony world of wayward travelers from the
+  Core Region, a Free Trader port. It is the secret HQ of Chuborro the Hutt.
+
+  Government: Central Council of all the colony states, overseen by an elected President
+
+  Tech Level:  Space 
+
+  Major Exports: Refined Ore, manufactured goods 
+
+  Major Imports:  Raw Ore, high tech 
+
+  Star: Yog'Hal
+
+Yog'H'Toth is an unfriendly world. Its atmosphere is very active and turbulent. The
+Society is one of the most corrupt anyone has seen, thanks to Chuborro's presence. This is
+the seedier side of the Free traders. It's a smuggler's paradise, by Kathol standards.
+There are even signs that read "The Millenium Falcon docked here!!" 
+
+The world is also hazardous to high tech equipment, due the over-abundance of
+electrostatic charges in the atmosphere. During the harshest storms, people wear
+protective suits. Ball lightning is quite common on this world.
+
+The intelligence includes major population centers, Areas that Chuborro seems to
+concentrate his business on Yog'H'Toth, and the location of his palace. His palace is
+heavily guarded (you have estimates of those) and heavily armed. It has several
+planetary-based Turbolaser batteries installed in the mountains around his palace.
+
+You have enough intel that with good rolls and a little luck, you can probably find
+your way in, and out, given the right circumstances. You know the cities his security
+covers, and where they are lacks. You know who his security is: The Hagnar Guild
+mercenaries, and how they are armed. 
+
+=======================================
+
+- **Intel On Chuborro's background**
+
+Chuborro is one of the oldest Hutts alive. At one time, before Jabba's death, he was
+  retired. He came out of retirement when Jabba died, and seized power of his interests in
+  the Minos Cluster and the Kathol Sector. For some reason, he wanted this particular
+  portion of Jabba's fortune and nothing else.
+
+Chuborro is eccentric and boisterous but very reclusive. He is old and paranoid as
+  well. The intel includes some of his known activities, when he meets with his deputies and
+  what ships he likes to use. You don't have a regular schedule, but you have clues to what
+  he likes to do, and when he likes to leave his palace. You also know he holds occasional
+  galas in his palace 
+
+- **Intel on Chuborro's Alliance with Sarne**
+
+It has been confirmed that Chuborro is allied with Sarne, but it seems it's a shaky
+  one. He has been keeping the alliance a secret from many of his deputies, only telling
+  them that he has made a deal that will solidify their organization position in the Rim.
+  Some in his organization would frown upon it.
+
+In particular, on that last note, there are strong anti-Imperial sentiments in his own
+  security force, the Hagnar Guild. There already resides a strong rumor of the alliance,
+  but nothing has been confirmed enough to cause unrest. Many of the mercs are former
+  Imperial slaves, or escaped Imperial prisoners.
+
+Further information later comes in of a meeting with someone high up in Chuborro's
+  organization with someone high up in Sarne's organization. The when and where is unclear,
+  but there was talk that the Lance of Endor might be involved.
+
+Chuborro has had a passion for owning a piece of Darkstryder recently. Whether this is
+  part of the alliance or not is unknown. Whether he has gotten a sample of DS Tech is
+  unknown. This may be what Sarne promised him Or if Chuborro already had some, this maybe
+  why Sarne made the alliance.
+
+There is also a rumor that Chuborro has made another alliance... "An outside
+  interest...".
+
+- **The Skandrei Bandits**
+
+The Skandrei Bandits is lead by a Barabel named Vok Gan. He is very temperamental, and
+  dangerous. The Skandrei Bandits have 8 cap-ships, heavily armed and at least 3 squadrons
+  of fighters (hyperspace capable; A-Wing like fighters).
+
+The Skandrei stage small raids across the Outback against local settlements, which
+  explains the need for some many local militia fleets. They pillage the settlements,
+  enslave a few captives, and destroy the rest. Not many know of their history, but it is
+  rumored they are descendants of an anti-(old) Republic factions called the Union.
+
+- **Sabiador Slave Ring**
+
+An informant claiming to be an Imperial loyalist approached Drake. Word of the presence
+  of an Imperial SpecOps team has leaked out into the public already. Drake said that the
+  informant was under the assumption that Drake represented those interests. The informant
+  said he was representing the interests of a small organization that has Imperial
+  sympathies. 
+
+This Informant provided information that Sabiador has split into two different factions
+  now and that the faction they are about to be working with is in league with Chuborro. The
+  informant suggested that any strike at Chuborro would have to include this
+  Sabiador-faction as well.
+
+Drake then proceeded to request the assistance of the Sabiador faction that is not
+  loyal to Chuborro, but was refused.
+
+The informant suggested to Drake that there are no real 'friends' available to him in
+  that area of space. The only people that might be disposed to helping them are the
+  Skandrei Bandits and the Free Traders...both of whom hate each other. However, the Bandits
+  have absolutely no love for the Empire or the New Republic.
+
+- **Ghost ship - The Aiing Tii Monks**
+
+One interesting extra bit was information on the ghost ship. They are aliens that call
+  themselves the Aiing Tii Monks. There is very little known of these aliens other than they
+  are fanatically xenophobic, do not like being observed or spied on, and hate slavers. 
+
+**Chillweaver Ops Plan:**
+
+Jag & Ugnog play cards regularly.
+
+
+The general plan is this: Ugnog is to be convinced that Jag'Nok is going to seriously
+assault him the night of their regular Sabbac game. Evidence will be fabricated suggestinf
+that Jag'Nok's fleet is readying for a full deployment. We will also plant the impression
+that Jag is planning to kill Ug at the game. This should be enough to make any info
+brokeer mad with paranoia.
+
+Ugnog's spies around one of Jag'Nok's major shipyard & resupply facilities will be
+located. They will be killed or otherwise kept from reporting on the shipyard for a
+signifigant amount of time. The goal is to make the base an informational black hole from
+Ugnog's point of view. 
+
+At the same time, research will be done to find a facility that would be able to
+support the full fleet of Jag'Nok. At the appropriate time, I want this transmitted in a
+manner that Ugnog's agents can intercept it.
+
+The fleet will need a place to gather, so a place will be found that can hold the
+entire fleet, and yet be undetectible by Ugnog. 
+
+Evidence will be planted to make it look like Jag is looking for a Whiphid-specific
+poison. 
+
+When the action time comes closer to being, Ug's defensive forces will be neutralized
+by either assassinating the leaders, or by giving them false orders, or by isolating them
+from Ug's command structure. 
+
+At the same time, rumors will be spread to the effect that there is an Imperial strike
+team working with Chuborro to eliminate some of the weaker, or less productive bosses, and
+redistribute their influence among the remainder.
+
+---
+
+[Previous](DSintel13.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSintel13.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSintel15.htm)
+
+[![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)
+Back
+    to Intel Main](DSintel.htm)

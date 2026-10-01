@@ -1,0 +1,318 @@
+# dstime
+
+Source: `src-f5d4a3c2972c73e3` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-f5d4a3c2972c73e3; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Star Wars: The Darkstryder Campaign
+
+## Star Wars: The Darkstryder Campaign
+
+# Time Line
+
+**
+
+- -4000 years
+
+- The Jedi Knight Thorian Nimbanel Makezh of Alderaan gets lost in the unexplored Kathol Sector, where he faces off against Kerenlin, leader of the Kerenlin Shapeshifters.* *Makezh finds his way back to the core, with no memory of these events, but eventually winds up back in Kathol Sector once more. Aboard his ship, the *Out Of The Dark, *he has many adventures with his companions Rollo DeCamp, Saaresh Eloreen, Drel Tavok, Lozzo Bex, and marries his sweetheart Dina.
+
+ 
+
+*
+
+- -3970 years
+
+*
+
+- Jedi Master Thorian Makezh dies, and is buried aboard the *Out Of The Dark *on the tranquil moon of Alderaan. His son, also named Thorian, follows in his footsteps.
+
+*
+
+ 
+
+- -1000 years
+
+*
+
+- The Twi’lek dark Jedi Vee’khar discovers the Precursors in Kathol sector, and moves to take their technology and power for his own. A force of Light-side Jedi under General Halbret Dajus is dispatched to thwart him. During the battle, one of the Precursor Stargates is detonated, thereby creating a sector-wide holocaust and giving birth to the Kathol Rift with its fallout. The Precursors abandon their bodies and enter the Lifewell to save themselves. Halbret enters a stasis pod on Kathol. The bio-mechanical supercomputer Darkstryder is left to run the planet and awaken the Precursors when the disaster has passed. It never does, but instead takes over the planet…
+
+ 
+
+***
+
+- -57 years
+
+***
+
+- Freedom’s Messenger commissioned by the Chandrilan government as a diplomatic vessel, and built at the C.E.C. shipyards.
+
+ 
+
+***
+
+- -56 years to -37 years
+
+***
+
+- Freedom’s Messenger is the base for the signing of the treaty which brings the Marzoon Confederation into the Old Republic.
+
+*
+
+- Freedom’s Messenger
+
+*delivers a dozen Jedi warriors to the Vaykaaris colonies to restore order during the uprising.
+
+- Clone Wars begin.* Freedom’s Messenger* drafted into military service, given full refit.
+
+- Gorak Khzam possessed by the dark Jedi Vee’khar and Drek Drednar  arrive back in the past aboard the Corvette *Sable, *and put into action their nefarious schemes.
+
+- Captain Kaiya Adrimetrum arrives in the past to combat the menace of Darkstryder. She enlists the aid of the *Freedom’s Messenger, *then commanded by General Ibrahim Dajus, and her sister ship the *Freedom’s Angel*, commanded by General Obi-Wan Kenobi.
+
+- Shapeshifter Derris hitches a ride with Kaiya Adrimetrum back to the past. He takes over the identity of Borsk Fey’lya and sets various plans in motion.
+
+ 
+
+***
+
+- -36 years
+
+***
+
+- The NRS *FarStar *arrives back in the past, amidst the Clone Wars.
+
+- A 24 year old starfighter pilot named Anakin Skywalker is taken as apprentice by Obi-Wan Kenobi. Skywalker is given command of the starfighter wing based on Kenobi’s warship, the *Freedom’s Angel.*
+
+- Anakin Skywalker and Kaiya Adrimetrum begin a romantic affair.
+
+- Battle of Ord Torrenze, Corellia. Mandalorian forces lay siege to the continent of Ord Torrenze on Corellia, and the *Freedom’s Messenger *(actually the* FarStar*, standing in for the damaged *Messenger*)* *spearheads an evacuation operation. The Corvette sacrifices herself so that millions of civilian refugees can escape. (A very young Darryn Thyte and his parents are among the evacuees). The ship crashes on Ord Torrenze, losing all hands, after her power core overloads.
+
+- During the Battle of Ord Torrenze, Darryn Thyte (from the future) steals an X-wing and lands on Corellia to ensure that the younger version of himself and his family get out alive. While there, he finds that his mother had just given birth to a baby that she had to leave behind in the hospital when she evacuated. Thyte fights his way through an entire squad of Mandalorian Supercommandos to rescue his baby brother, and places the baby in an orphanage under the name on his naming bracelet, ‘Han’. The baby will grow up to become Han Solo.
+
+- The *FarStar* crew succeeds in its mission to defeat Vee’khar, drives him out of Gorak, and travels back to the future by sabotaging Mandalore Prime’s planetary shield to give them enough power for the jump. This crippling event destroys much of Mandalore Prime’s capital city, and begins Mandalore’s slow defeat in the war.
+
+- Senator Palpatine gathers more power, declares himself Emperor amidst the backdrop of the Clone Wars, and begins his descent into darkness – aided by Vee’khar…
+
+ 
+
+*
+
+- -30 years
+
+*
+
+- Anakin Skywalker marries Kaiya Adrimetrum on Coruscant.
+
+ 
+
+*
+
+- -26 years
+
+*
+
+- Anakin Skywalker fights a lightsaber duel with his old mentor, Obi-Wan Kenobi. Skywalker is beaten, and his twisted body is found by agents of Palpatine. He is resurrected as Darth Vader, and begins to hunt down and destroy all the Jedi who survived the Clone Wars.
+
+ 
+
+*
+
+- -25 years
+
+*
+
+- Luke and Leia born, to Kaiya Skywalker, and separated to hide them from their murderous father. Obi-Wan Kenobi takes responsibility for Luke, and hides him with family on Tatooine. Senator Bail Organa, Viceroy of Alderaan, adopts Leia as his own. Kaiya stays on Alderaan for a time, under Organa’s protection, then moves to Siluria III and buys a mansion house, *Dovecote*.
+
+ 
+
+*
+
+- -19 years
+
+*
+
+- The young Kaiya Soccorra marries Councilor Fargo Adrimetrum on Siluria III. The couple recieves the mansion house *Dovecote *as a wedding present, supposedly from a "well-intentioned dying relative", (actually Kaiya Skywalker). Kaiya Skywalker remains anonymous, passes into legend, and has not been heard from since that day.
+
+ 
+
+***
+
+- -16 years
+
+***
+
+- Wreck of the *Freedom’s Messenger *is salvaged and repaired as part of the Empire’s military buildup. The ship is refitted for combat duty and renamed the *Renegade, *assigned to the 15th Deep Core Reserve Fleet. She proves invaluable in several campaigns against pirates, as well as in pacifications of Rebel uprisings.
+
+ 
+
+***
+
+- -15 years
+
+***
+
+- Lieutenant Kentor Sarne, Lieutenant Phaena Del’Gorjax (Sarne’s lover) and Ensign Darrik Isquavel (brother of Janus, uncle of Travis) board the scout ship *Destiny *and head into the unknown worlds of Kathol Sector and beyond.
+
+ 
+
+***
+
+- -14 years
+
+***
+
+- Lieutenant Kentor Sarne returns alone from Kathol Sector aboard the *Destiny*, unable or unwilling to explain the fate of his fellow crew. He simply declares them missing, presumed dead. Sarne is promoted to Captain, and given the command of the *Renegade.* His performance earns him promotion after promotion.
+
+ 
+
+***
+
+- -10 years
+
+***
+
+- Newly-appointed Vice-Admiral Moff Sarne of Kathol Sector requests that the *Renegade *be permanently assigned to his forces. The ship continues to perform admirably, quelling civilian unrest on Charis. It swiftly becomes recognised as the symbol of Moff Sarne’s power in Kathol Sector.
+
+- The Defel Kl’aal is accused of murdering his brother, and found guilty by a Defel tribunal. He flees the world of Af’El, pursued by bounty hunters, and continues to live on the run for many years thereafter.
+
+ 
+
+ 
+
+***
+
+- -7 years
+
+***
+
+- The Battle of Yavin. The first Death Star is destroyed.
+
+- Imperial forces, led by Captain Janus Isquavel and Lieutenant Travis Isquavel of the *White Wolf*, invade Siluria III. Resistance forces led by Kaiya Adrimetrum assassinate the Imperial governor and make their escape to join the Rebel Alliance. Kaiya is aided by the Jedi Corwin Shelvay, a Rebel agent.
+
+ 
+
+***
+
+- -6 years
+
+***
+
+- Moff Sarne lends some of his ships in the Imperial assault on the Rebel base on Hoth. During the Rebel evacuation, Sarne’s detachment captures a large number of Rebels, among whom is a young pilot named Tamara Barinn. Sarne mindwipes Barinn and rebuilds the personality of Lt. Phaena Del’Gorjax in her place.
+
+ 
+
+***
+
+- -5 years
+
+***
+
+- Phaena Del’Gorjax is sent by Sarne to infiltrate the Rebel Alliance, in the guise of her new ‘sleeper’ personality, Ranna Gorjaye. Gorjaye achieves the rank of Lieutenant quickly.
+
+- Imperial forces ‘pacify’ the Bothan colonies on Kothlis after it is learned that Bothan agents stole the plans for the second Death Star. Mon Calamari Doctor Akanseh rushes to give medical aid, and during his time there is blackmailed into the service of Borsk Fey’lya/Derris.
+
+ 
+
+***
+
+- -4 years
+
+***
+
+- The Battle of Endor. Several of the *FarStar *crew are present, including Ranna Gorjaye (Grey 7), Darryn Thyte (Red 11) and Dasha Defano (Grey 9) in X-Wing squadrons, and Randall Vallens and Kaiya Adrimetrum in General Solo’s commando unit on the surface of Endor’s moon. Moff Sarne remains in the far-flung Kathol sector throughout this engagement.
+
+- When Palpatine is defeated, Vee’khar is trapped in his body, unable to possess a new one nearby. Vee’khar now exists as only a dark side stain in orbit of Endor.
+
+- Imperial forces invade Dolomar. Keleman Ciro flees the planet to join the New Republic after a stint in the Dolomar Resistance. He is posted to duty in Brak Sector, where he meets Randall Vallens.
+
+- Bothan Borsk Fey’lya (really Shapeshifter Derris) gains a position on the Inner Council of the New Republic.
+
+ 
+
+***
+
+- -3 years
+
+***
+
+- New Republic commando Lieutenant Page puts together an elite, fast-response special forces unit designed to be on call for all volatile situations in the galaxy. Among these ‘Katarn Commandos’ are Kaiya Adrimetrum, Keleman Ciro, and Lofryyhn the Wookiee.
+
+- New Republic Intelligence Major Breslin Drake attempts to create the ‘Archive System’ spy network. This is compromised by a traitor known as ‘The Wraith’, and Drake dedicates his life to tracking down the fugitive operative. He tracks the Wraith to Kathol Sector, and discovers that the traitor has gone to work for Moff Sarne.
+
+ 
+
+***
+
+- -1 year
+
+***
+
+- The *Renegade *is withdrawn from active military service and docked on Kal’Shebbol at the Sorbiss Valley shipyards. Moff Sarne orders special modifications to be made to the ship, including upgrading of the hull and weapons systems, advanced sensors, and the addition of a hangar bay.
+
+- The Wookiee Lofryyhn is captured by the notorious Sabiador Slavers, and sold to Moff Sarne. Sarne puts the talented Wookiee to work modifying the *Renegade.*
+
+ 
+
+***
+
+- - several months
+
+***
+
+- The notorious Kl’aal is sighted on Kal’Shebbol. Famed bounty hunters Zuckuss and 4-LOM take the contract offered by Vith’naal of Af’El, Kl’aal’s father, and begin hunting him.
+
+- Randall Vallens, while visiting family on Kal’Shebbol, learns of Moff Sarne’s operation and assesses the threat posed by this renegade Moff to New Republic security. He reports back to his superiors, who begin preparing a task force and send a team of infiltrators from Page’s commandos to Kal’Shebbol, under Dade and Kasck.
+
+- Darryn Thyte crashes his X-Wing at Vaenrood. He is saved, but deemed no longer fit for fighter duty. He is reassigned to bridge operations on the Escort Frigate *Anvil.*
+
+- Moff Sarne begins to impound ships and take prisoners across Kathol Sector. Kl’aal and Doctor Akanseh are imprisoned by Sarne. Gorak Khzam and Loh’Khar the Finder have their ships impounded.
+
+ 
+
+***
+
+- Darkstryder Campaign begins...
+
+***
+
+- New Republic forces assault the Imperial-held capitol world of Kathol sector, Kal’Shebbol. Moff Kentor Sarne flees the planet and heads into the unknown regions of space towards the Rim.
+
+- Captain Keleman Ciro is allowed 28 hours to outfit a small vessel in order to track down the renegade Moff and bring him to justice. Jessa Dajus leads him to the Sorbiss Valley shipyards, where the recently refitted and abandoned *Renegade *awaits. Ciro renames the ship *FarStar* and hurriedly recruits a crew from among the local populace, and whatever the New Republic fleet can make do without.
+
+ 
+
+*
+
+- +5 months
+
+*
+
+- Captain Kaiya Adrimetrum is sent back in time to defeat Darkstryder there, to make the task of defeating him possible in the present.
+
+ 
+
+*
+
+- + 6 months
+
+*
+
+- The *FarStar *defeats Moff Sarne and Darkstryder and uses the Kathol Stargate to travel back in time to the Clone Wars.
+
+- A cataclysmic seismic event destroys Kathol.
+
+ 
+
+*
+
+- + 1 year
+
+*
+
+- Grand Admiral Thrawn comes out of hiding and begins his campaign against the New Republic.
+
+- The *FarStar *arrives back in the present. Captain Ciro forms an unofficial alliance without the knowledge of New Republic High Command, to combat Borsk Fey’lya’s plans.
+
+- The Bothans and their Imperial allies under Lord Protector Briskin Lotac Dajus (Jessa’s father) and Admiral Daala attack Wroona. Ciro sends a team to combat them.

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-cec139d05c6ed9a0",
+  "name": "SEASON1",
+  "sha256": "cec139d05c6ed9a07b0956e6077459a049a3197cde3c80dbf7e6e326a6a072f4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/SEASON1.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "79354543e5c408d5a74653a0dbfe01f2027743eee1d2a36c7194fc3978a52fb4",
+  "fileHashes": {
+    "book.md": "1e2e98ec74878d2ca2ef574014a968ff75629a204d43f9f3b72ae4701c79f1a3",
+    "pages/0001.md": "48fffdcd9f6c12849c0bdfa000532e788c533c19efb9b77aac4901fc6b513719"
+  }
+}

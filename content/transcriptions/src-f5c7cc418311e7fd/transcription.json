@@ -7,6 +7,20 @@
   "pdfPages": 74,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 74,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/WEG40137 Instant Adventures.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "0068521b4eeb593c147c4b8d9b0db156d00cb126ebb52446fb8a25c30bf3e17b",
   "fileHashes": {
     "book.md": "18537e2a8c16fb1f4df63d8ac3ea168c0277004987a3a0ba95a604b94b3621c1",
     "pages/0001.md": "ec594d80483f0e8d3be3c835ed5cc0be034cb4174acf4c09d6651a434f74be7d",

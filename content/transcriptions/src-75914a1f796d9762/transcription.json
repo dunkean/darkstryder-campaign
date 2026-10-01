@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-75914a1f796d9762",
+  "name": "homepage",
+  "sha256": "75914a1f796d97621ec081229a1b342048be548b63ea12b57d4db671720899f9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/homepage.html"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/homepage.html"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "0685e9b362b5f0fd8c5ac916a8e9e3f47273e0c46a02c5e5a81713b2504b63bd",
+  "fileHashes": {
+    "book.md": "131e8c84e6fd538cbbf2e235ad5563516cd0e95ec47f2e1d43302df26c1bc776",
+    "pages/0001.md": "b56a2bba5dec59f3c9f0d503144c7b9487a4d791d9dcea3d02fa9678803630c9"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a1585b5dcaf92111",
+  "name": "DSNightTerrors",
+  "sha256": "a1585b5dcaf92111197a6ef3256cfe383498f82cb6902e3631e7e083a2308063",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSNightTerrors.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSNightTerrors.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "41293699d335d4970ee96e859f4abb28e195baaa7f77411edc42e75bc05015b1",
+  "fileHashes": {
+    "book.md": "fcd27f4e6749d7fb2f45927e4aa0ec8ec317192e68d25eb30ddf27792d6378cb",
+    "pages/0001.md": "ed7eaa717c418760d4e652d295196650de20010a441bbca4721be66c5a107ec7"
+  }
+}

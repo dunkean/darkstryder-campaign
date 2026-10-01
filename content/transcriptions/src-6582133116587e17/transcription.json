@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6582133116587e17",
+  "name": "DSEdgeoftheGalaxy",
+  "sha256": "6582133116587e172aa199d27c9cda3acaa6f6a53795e1bd695e3b2df4eeaea3",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeoftheGalaxy.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "493c165cc8b0881de5d26096850970e9ead25328c6de47274d21e1c273e0c1a6",
+  "fileHashes": {
+    "book.md": "6da0f8ba51e4daf0293513990ebaa09c496285b10246e4af4080905357505e88",
+    "pages/0001.md": "bf2c176f9169224f15cb9cb54309b565c3670cc662cb3b630805ff65bbe8beed"
+  }
+}

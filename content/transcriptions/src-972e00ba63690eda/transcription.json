@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-972e00ba63690eda",
+  "name": "masterdeck_subplotcards",
+  "sha256": "972e00ba63690eda9446a8004dbde16b6779ef64d328b193ff815a74b6660338",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_subplotcards.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "2b3331dfc2fa9195f4db4fa45d5d84bab78c18ff34ebecadce7a86418079e003",
+  "fileHashes": {
+    "book.md": "0fd5fc728727787ba6bcd336b8e9f0cd3eba4b21fd0efbf359949b99d6137639",
+    "pages/0001.md": "acdf67216d32ac803c3701f0be8ddf5787d922e9e0e99b503551c57944aa8cdd"
+  }
+}

@@ -7,6 +7,20 @@
   "pdfPages": 123,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 123,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Classic Adventures Volume 5 WEG40165.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "57d1824fbd45e83e46ee2caf857d7a5f6d960fe4bd918012e0328c4d1575efb2",
   "fileHashes": {
     "book.md": "5f2f99e9d6b862c397db1d36c5253c6e1ef3f028e0318aca129b5316e42b29d0",
     "pages/0001.md": "b481bfe072371c9c5cd9bbb78df602517835d1239e8bcb02cb9d9afccd097917",

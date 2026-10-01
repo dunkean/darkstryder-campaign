@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1053139ac74cc52f",
+  "name": "DSEdgeofTheGalaxyThe Battle",
+  "sha256": "1053139ac74cc52f4d6fcb05ddd91a70a9a3b01bccda203e7753650b02374412",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeofTheGalaxyThe Battle.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "89d5e868b7d579588608741d1f7ad78a5abc4522b0450afdc0c96ef492de04f4",
+  "fileHashes": {
+    "book.md": "a5785c8864b8856e1170ef96ff4b8cc2a06ede369ca7a537e249887529e2978a",
+    "pages/0001.md": "298554a7f0f36252bedef44c3fb421585c00c51a86567e3ed636a1af69fe520e"
+  }
+}

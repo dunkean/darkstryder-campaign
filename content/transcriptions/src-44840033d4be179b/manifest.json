@@ -1,0 +1,178 @@
+{
+  "sourceId": "src-44840033d4be179b",
+  "sha256": "44840033d4be179b7b4930714a926352465b76ed43e61a29bfe9d4f21a28ef2e",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7231,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/sw.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/new01.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sz/images/szsmall.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/sfsmall.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/new01.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/new01.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/sfsmall.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/home03.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc.gif",
+      "origin": "images/weg.gif",
+      "sha256": "0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

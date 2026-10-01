@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-40256888f5fec968",
+  "name": "npc",
+  "sha256": "40256888f5fec968b02d2a61968c62061acb38fe9d61b18c01126ccf044f8f6b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "md",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/npc.md"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "0d55fe01c57d7cd7240d279ab7bc14c67977d9738934cd03ee91be81558b064a",
+  "fileHashes": {
+    "book.md": "f0b79fb5bf433ff1688d70fa97fb8524516ddcf460d75a7ee91ec1a5c9eed022",
+    "pages/0001.md": "6a90912adc36239055675142250b3b2cff3e3d137ba9a3c1abf51430561466aa"
+  }
+}

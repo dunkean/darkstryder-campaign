@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-829012852c5fa02f",
+  "name": "rodian_rhapsody",
+  "sha256": "829012852c5fa02f2fa176cad2e3f8069306c6427358ae28340f83e689703921",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/rodian_rhapsody.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7144c844b0931f56aa36b79acdeb382c3ff25e88e79b4efb31b06a85fe3eaefd",
+  "fileHashes": {
+    "book.md": "06b0231522d90b16a460cc445140f9cbd52ad96c511c928d215dc01930f4bc1c",
+    "pages/0001.md": "4149fbe7541cb0654f154f0d46751145482b832bcd07914f04b145118a1e259d"
+  }
+}

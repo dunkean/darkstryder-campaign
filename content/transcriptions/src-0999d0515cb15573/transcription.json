@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0999d0515cb15573",
+  "name": "Dsedgeof3",
+  "sha256": "0999d0515cb15573b97881ee902bf75bda601c1c71d596644a28190d7dd1dab2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsedgeof3.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9afbdb0ccee37a11b63d6b6e6e79b8cd10496ed2ccc450103dab00796ff72e6b",
+  "fileHashes": {
+    "book.md": "dd4cd5100f658a4d0100c4eb8e1bd3046bf7daaafea19f2d483158bf15b4ed43",
+    "pages/0001.md": "269e4bf661e14321ec239e038c6e633b1759889c912522fac61758487486b060"
+  }
+}

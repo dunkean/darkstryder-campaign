@@ -1,0 +1,273 @@
+# DSCast
+
+Source: `src-e488bdb10d280be2` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-e488bdb10d280be2; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Darkstryder Cast
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**Campaign**
+
+![roster.gif (9345 bytes)](images/654834cefb08e212612b3bae790b6078e6d70539c6bd2b03fce1ca7566e12bcc.gif)
+  
+
+**Player **
+**Command **
+**Support **
+**Other **
+
+**[Russel
+    Briggs](mailto:rcbriggs@juno.com)**
+**Uta T'Cha - Cheif Droid Tech**
+**
+![thanis.jpg (4635 bytes)](images/09ea2b5066d89cf133efaad5d727d203cb2736afc0386f6a6427f1711d121c0b.jpg)
+**
+
+**Thanis Gul-Rah - Human Bounty Hunter**
+
+**Delmon - "Alien"
+    Explorer**
+
+**[Chris
+    Fisher](mailto:griffen@vnet.net)**
+**Kaiya Adrimetrum - Human New
+    Republic Commander 
+
+![Image](images/b284e32dc56d42f02f7f3256eaaacbb5247953bfe962cf4cdb0cda8c855e131f.jpg)
+**
+**Gunthar - Lost Alien 
+
+![Image](images/6cc5e527e831a818a98a2d8fbd5c990bd8446c520b21f5a1b496381d6ae12e85.jpg)
+**
+**Dervious, Mandalorian Bounty
+    Hunter.
+
+![Image](images/4ad23becb4d66132d2937e9a3d28e7f3fbb3b762e2b9188574f9e1cb6a967264.jpg)
+**
+
+**[Mike
+    Goines](mailto:Zeigfreid@aol.com)**
+**Mjr. Kla'al - Defel Scout
+
+![Image](images/aed9d3ad2ff49a7977cd1d20dbd32e5e27f4d2af4f0524a18cec733000059fd4.jpg)
+**
+**Unda Lagor - Aqualish Hvy Weapons
+    Spec. 
+
+![Image](images/122f54dbfe0a2c964b073ab16dc03ef7343d1931cd0144af4557b74da50fd376.jpg)
+**
+**Trev Haynor - Human Pilot
+
+![Image](images/fd496fad039d92bf8840d9e43974386cd94b1d93c225bace38ea54525f782b8d.jpg)
+**
+
+**Christian Hine**
+**
+![ranna.jpg (3174 bytes)](images/de0556154b51638838ee8d05754fdff78daa7b0f09c24ae50de67b3d7bd200bb.jpg)
+**
+
+**Lt. Ranna Gorjaye - Wing Commander of the* Foresaken Stars***
+
+**Scoryn - Security Deputy Cheif**
+
+**
+![scoryn.jpg (7732 bytes)](images/bc473600df00182c30123c1f35ec1cfa1aa3ae065c1e2bee897162584328f8c0.jpg)
+**
+
+**Rep. Sir Thane B'Dorbeck of House
+    Ik'Tal**
+
+**[Matt Holmquist](mailto:MattHo@infoave.net)**
+**Dr. Akenseh - Mon Calamari Doctor 
+
+![Image](images/63367b792babd18247dec9bc0c3f8406b5592848aba62bc46e83649dd19cb575.jpg)
+____
+![jessa.jpg (2569 bytes)](images/f18e80c0b3d2e4aca03fea4b95752ed93b0b1b2252ef221bca2b564dd2871362.jpg)
+**
+
+**Lt. Jessa Dajus - Human Ex-Imp. "Shuttle
+    pilot"**
+
+**Edly "Pot-shot" Fasalk -
+    Gunner 
+
+![Image](images/2b3f76de5089e070c8db78acdd3ea272fb4bd04e942e6924d8553a33907a9465.jpg)
+**
+**Sooni Nubera - Sullustan
+    Pilot/Scout 
+
+![Image](images/39587a240cfe3f2fe12ff267877e4d7d4f3a8f027c9daf2fcc047e3a0461216a.jpg)
+**
+
+**[Chris
+    Jarrett](mailto:crjarret@uncc.edu)**
+**Sgt. Brophar Tofarain - Human
+    Starship Mech 
+
+![Image](images/cff3b206b082a88cb7aab333b03c1a8f9acbd5ec4e209e7a0aae9e507be526a4.jpg)
+**
+**Brandis Turgah - Droid Tech
+
+![turgah.jpg (8966 bytes)](images/856ee738108d01f329494b6e8e8603d4bc1ac566dddf797b541d4ad50ea10e2b.jpg)
+**
+** SLAVE,  Le-Vo Law
+    Enforement
+
+![slave.jpg (8379 bytes)](images/e7b001dae7490f5f32194dd6c3e7f56f256898614d419778381abeca44b78b11.jpg)
+
+**
+
+**[John Reavis](mailto:jreavis@i-america.net)**
+**Lt. Darryn Thyte - Human Bridge
+    Officer 
+
+![Image](images/78056ea3427163c0be22e9176fe96329def619c1606cada2cc5cb7b8b1738780.jpg)
+**
+**Krudar - Duros Gunner 
+
+![Image](images/4eb9d4a8059ee95e9c23334fdac2a3d71fe7fcbf237dd265f87dd98a29a984e3.jpg)
+______
+![Image](images/ef2ab43074d7a63b34f941b0dc5ac13a48e676318bdb822ab2adbf0ae2c8d893.jpg)
+
+
+    Cobb Unser - Human Pilot 
+
+**
+**Samarion, [Kalvessan Starwolf](../starwolv.htm) Scout/Warrior **
+
+**
+![samarion1.jpg (17088 bytes)](images/a35a82f6d5202d37413651f81f6d402c50ad5d2ee81f14813355c871ef1a2e06.jpg)
+**
+
+**[Jennifer Spencer](mailto:%20jascat@bigfoot.com)**
+
+**Analia - Rodian
+    Arms Dealer
+![Image](images/f34fe02bcd8e58b9bd3ab71cd37c1da8d7b4932285626922756da2e05ca6fe01.jpg)
+
+**
+
+***Mavia Tanatus of House Ik'Tal
+    - Human Female Noble House Liason to the Farstar
+
+![Image](images/07cdce1904babe07e3807d58e747300d357707dd1bed2b520aee9970952bfb36.jpg)
+***
+ 
+
+**[Neil
+    Spicer](mailto:SpicerN@aol.com)**
+
+**Gorack Khzam -
+    Rodian Sec. Officer
+![Image](images/b01db320fedd340e1d840f8f87a90eedb217926db034f1f8ea6cef90b8126dec.jpg)
+
+**
+
+**Dr. Genna Seedar -
+    Field Medic
+
+![Image](images/affe1cd187165777d4f649b57c06ab3951ea51a1b3fff1b69868ee57e3947ef6.jpg)
+**
+
+**Dr. Raso Lao
+    Haslock- Human Field Scientist 
+
+![Image](images/8040d0cdcf4f889fdb56fcf4e7603fb6f69ac3232c276581ce8d81d5ec0392c9.jpg)
+**
+
+**[Ed Stokes](mailto:EBSTOKES@UNCCVMS.UNCC.EDU)**
+**[The
+    Night Terrors - NR Commando team](DSNightTerrors.htm)**
+
+**[![Nt-shield.jpg (15628 bytes)](images/98a9f37f5a5e3abd9f87bb1b4637da319eae7f960f008b1c7da13d5d5396a764.gif)](DSNightTerrors.htm)**
+
+**Bifzik - Verpine
+    Tech 
+
+![Image](images/bc6448f8af4ad2182d55e523003d3eced0a934589481238661e57da38dc5b751.jpg)
+**
+
+**GM**
+**Loh'khar The Finder - Twi'lek
+    Procurement Specialist 
+
+![Image](images/e71b682c2fdf5d586d7ab20db76bafd49629b245e642b9de93cf3c7f7fef66a9.jpg)
+**
+**Vizzal the  Turazza**
+ 
+
+  
+
+**Fallen Stars: Casualties of the campaign**
+
+ 
+
+**Russel Briggs**
+**Dann Drugah - Human Droid Specialist 
+
+![Image](images/91cf4d7cb5f3c5dbf33f949893a81dd9ea5eed312f3aff2598286a7f4099d89a.jpg)
+**
+
+**Died: DS Date 157, Pittann, Kathol Republic**
+
+**
+
+**
+ 
+
+**Chris Jarett**
+ 
+**Tanner Narzyn - Young Weap. Tech
+
+![Image](images/5f81079fa4ef98a0c8ebddcdc784cf481cce8b5aae0206add01f2da8477a6a8f.jpg)
+**
+
+**Died: DS Date 175, Exocron Orbit**
+
+ 
+
+**Ed Stokes**
+ 
+**Night Terror: 
+
+    Sergeant Gander Tirog
+
+    Species: Human 
+
+    ID#: 001L-L935
+
+    POB: Alderaan
+
+    Primary Role: Infiltrator
+
+
+    Died: DS Date 174, City Cabal, Exocron **
+ 
+
+**GM**
+ 
+**Nizzal, the Turazza**
+
+**Died: DS Date 175, Exocron Orbit**
+
+ 
+
+**GM**
+ 
+**Rizzal, the Turazza**
+
+**Died: DS Date 177, Exocron Moon 17**
+
+ 
+
+---
+
+| [![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)<br>Back to Darkstryder Main](homepage.html) |  |
+| --- | --- |

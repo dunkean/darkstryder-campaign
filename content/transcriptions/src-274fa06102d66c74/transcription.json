@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-274fa06102d66c74",
+  "name": "swlink",
+  "sha256": "274fa06102d66c74e17c40ea0860c015871f220b11e93031c425f62561149191",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/swlink.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "83d0e949f9c465babef999ce0e3a951cb926fd29df2a21cb68dd447782ffdcee",
+  "fileHashes": {
+    "book.md": "c1fefba61c8a1f21f80139dcf666e2295b84d7c3fc6dc14d9120bfa9ca9c505e",
+    "pages/0001.md": "a0ba0dcbbc3ef34b44b2a67fb34e0f8954b5e0608ef088bd359c26fe3e4580fb"
+  }
+}

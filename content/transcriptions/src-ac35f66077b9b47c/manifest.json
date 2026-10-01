@@ -1,0 +1,32 @@
+{
+  "sourceId": "src-ac35f66077b9b47c",
+  "sha256": "ac35f66077b9b47c18fb1449e13424a320dcbdd86f12eb5c32179d93bffe98ef",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2662,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/icons/i472.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/icons/dethstar.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/icons/home03.gif"
+    }
+  ],
+  "media": [],
+  "encoding": "ascii"
+}

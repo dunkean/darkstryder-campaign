@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d6f26f6c4c335f15",
+  "name": "DSDarksideofEx",
+  "sha256": "d6f26f6c4c335f15229a46516c2e0c3b782eb5482c62f54b9735e6c74390a771",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDarksideofEx.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d2d2d3b79e505329b1c339de101b9c1c227599da1af70fc869e8c8ff522b4d82",
+  "fileHashes": {
+    "book.md": "4deb4b92ff0145de80235e5d94a61ee681b1abe3601413517b33a1deadbd5ead",
+    "pages/0001.md": "6abd5d803e2a41ce3321d733fe41fcbfdd6e0cfc79ee0b47747eda11d0404af2"
+  }
+}

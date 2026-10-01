@@ -1,0 +1,38 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6469212ce4f6d450",
+  "name": "Star Wars RPG Statbase_v1.00",
+  "sha256": "6469212ce4f6d4504cae2ba98e10516106ad32f3a9bcc96f18313bcf6cf8d3ce",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "xlsx",
+  "units": 11,
+  "unitLabel": "feuille",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/Star Wars RPG Statbase_v1.00.xlsx"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "955c7521f0a25816c912d81c6807273e81c3e50eb4801a96fcdc062f0a84aac8",
+  "fileHashes": {
+    "book.md": "a9abe6369d1e5287a6d6c1dd0a55b0d1f34f5889d8c7fd22c1e2500432bd2a7f",
+    "pages/0001.md": "72a1ca945ce1aec3af3db12969a80741b551158b856b7b27de5f73401e27ac4d",
+    "pages/0002.md": "71865d2970e5674235ea40fbb78009a099f9481b540a5b667b7ef623fb324b0c",
+    "pages/0003.md": "1288d1010297f3af97a8bb5d1184c7ca0dbc97c629187bed9835df0feec8a37a",
+    "pages/0004.md": "9162044b987dabb5da26943f830199b7db97cf459f809966542050a38a0dcae7",
+    "pages/0005.md": "96c4cda7cf1a9241eca361eb3dbcaefe4eee62657aaba7eaea716b63fb90f6c4",
+    "pages/0006.md": "f929ba33c8081569d329cda5f0cce04105c699af7bcf41384add3b03618fb5a6",
+    "pages/0007.md": "068350cf9d5fb82ff7a8e06cb8b38a823ff3d2074aeeb2809bfea172f35169d0",
+    "pages/0008.md": "17b04135e33d95f4a4d2888fa48cf6ef672f81b41c6836ea4c7d6d6ef0db1021",
+    "pages/0009.md": "301b3bfcbdf864c71203f0d4a910cda47a54f171175ee317ef4b97d3d4e196c2",
+    "pages/0010.md": "9a8dc7152535214baaea7cde0013a3c46bc131e270e57c9dd45c9b3835239c5f",
+    "pages/0011.md": "275659a1de24932f07532714e297078920169dc8e723c714fb5dc2214ada6720"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-604afd953d915f25",
+  "name": "Farstar",
+  "sha256": "604afd953d915f25655c6e80c7bf2996c3b635ef230a854af261f55c6c6c1c0e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Farstar.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Farstar.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "208770662f9879dc38381a616d0553ce0a83c83a5b1da22afe08c4b0b23d2dfa",
+  "fileHashes": {
+    "book.md": "c9cb2903f3752f190319f82f824382ad73bd8837c99661b5ba980c987e7fcc3f",
+    "pages/0001.md": "69c32d88e1f06b88381ea5f864b36606155e3b3282b18475abe2fc4d106a3d52"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-5705d71b8216d40b",
+  "name": "DSastro",
+  "sha256": "5705d71b8216d40ba43b0737c8a7b9cdee07486b19ca7b5cf6b6341cc51fd0cb",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSastro.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSastro.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "8848d2fa7e6f2ccc4c91d8d9714e49f0e642b4f0a2489a725909bf4290d1ca38",
+  "fileHashes": {
+    "book.md": "641bf498f98772eb0cd8f39521e9ba91aab1b9d0c3fb58105f9d9c636e56f094",
+    "pages/0001.md": "d07b1f0f357cb47fbfb0523da63b4fbba400e6dcc0517262a20058ffc24f9508"
+  }
+}

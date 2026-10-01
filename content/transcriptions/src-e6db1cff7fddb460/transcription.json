@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e6db1cff7fddb460",
+  "name": "background_advantages",
+  "sha256": "e6db1cff7fddb460aa0d8a5fb3552ba91f5e68c735a3b787bab03797538f2515",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/background_advantages.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b692787a8330e18c28a9dff806b9bdd7527c32f56478390581ec5c4c2c63c35a",
+  "fileHashes": {
+    "book.md": "e4ecc0032860b4aa08b6eac9c357761d99258fd2d8d9d1373013fa1e7eb4e40f",
+    "pages/0001.md": "aee079355ea7da9c210acdcd86597eeb26bb23f4d1503bbe83d7cc19affc52e0"
+  }
+}

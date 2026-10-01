@@ -1,0 +1,122 @@
+{
+  "sourceId": "src-eab5458933511cd5",
+  "sha256": "eab5458933511cd50671704ef8465f664d0e2b7408a98ac133ff75b631c15996",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 5937,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/sf-sw_button.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/home03.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://www.geocities.com/Area51/Corridor/3204/WEB1.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://www.geocities.com/Area51/Corridor/3204/NEXT.jpg"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/f63f32933897f0a848b843d4c8f25d091dba17805b25db5163b3219b420a880e.jpg",
+      "origin": "images/gldshdw2a.jpg",
+      "sha256": "f63f32933897f0a848b843d4c8f25d091dba17805b25db5163b3219b420a880e"
+    },
+    {
+      "file": "images/a49d0a249c498c057cb88af07827ef586715d9e951aef92c7b3acf5319add919.jpg",
+      "origin": "images/swbanner1.jpg",
+      "sha256": "a49d0a249c498c057cb88af07827ef586715d9e951aef92c7b3acf5319add919"
+    },
+    {
+      "file": "images/2d418f87d65c6aa3b440fc09e67cc6e7d2ee2375d20e0cf49ae3ce3cb438f23c.gif",
+      "origin": "images/hyperspace_infinite.gif",
+      "sha256": "2d418f87d65c6aa3b440fc09e67cc6e7d2ee2375d20e0cf49ae3ce3cb438f23c"
+    },
+    {
+      "file": "images/c1b2fc97b1a6b3f88a77151fc6e8cb3d18a37cf0410a77cd39d73744a7da1332.jpg",
+      "origin": "images/source_button.jpg",
+      "sha256": "c1b2fc97b1a6b3f88a77151fc6e8cb3d18a37cf0410a77cd39d73744a7da1332"
+    },
+    {
+      "file": "images/8ef533f0d829659e2da9cf50fa310c4c3bf9a532d1c6ef2f6650c49279e0a3e0.jpg",
+      "origin": "images/files_button.jpg",
+      "sha256": "8ef533f0d829659e2da9cf50fa310c4c3bf9a532d1c6ef2f6650c49279e0a3e0"
+    },
+    {
+      "file": "images/d1d9a1f4511853bc47bc4e5603eadb2ed5513039a4054ef4507727b2bac1e93e.jpg",
+      "origin": "images/curr_camp_button.jpg",
+      "sha256": "d1d9a1f4511853bc47bc4e5603eadb2ed5513039a4054ef4507727b2bac1e93e"
+    },
+    {
+      "file": "images/1331bb811672cccb7a3306f061c3332e2dcf395f4750017b6269c8c8ce1cb549.jpg",
+      "origin": "images/swlinks_button.jpg",
+      "sha256": "1331bb811672cccb7a3306f061c3332e2dcf395f4750017b6269c8c8ce1cb549"
+    },
+    {
+      "file": "images/f9b03637e47e1e8334d121a3b9d45ad35423a845f0e0578d67ed79b323e2560d.jpg",
+      "origin": "images/ds_button.jpg",
+      "sha256": "f9b03637e47e1e8334d121a3b9d45ad35423a845f0e0578d67ed79b323e2560d"
+    },
+    {
+      "file": "images/a5024da434c377a834436e33e0d5e0d01c55fdafe745016e03e16327bfd1b590.jpg",
+      "origin": "images/swdw_button.jpg",
+      "sha256": "a5024da434c377a834436e33e0d5e0d01c55fdafe745016e03e16327bfd1b590"
+    },
+    {
+      "file": "images/18b1ab24314c40ee3ba0aaa5a58a386677160d6aa8823e326f3d3219ef330893.jpg",
+      "origin": "images/lote_button.jpg",
+      "sha256": "18b1ab24314c40ee3ba0aaa5a58a386677160d6aa8823e326f3d3219ef330893"
+    },
+    {
+      "file": "images/3ceeb1037040dd036d4331cf014547d45e19308c1c3706e4f23ae59f9a1ca7f3.jpg",
+      "origin": "images/fop_button.jpg",
+      "sha256": "3ceeb1037040dd036d4331cf014547d45e19308c1c3706e4f23ae59f9a1ca7f3"
+    },
+    {
+      "file": "images/62a706da8b71b607a4c37dacd537f9e6686c1835c5f843e011df0bf4ff9ef5a4.jpg",
+      "origin": "images/sw-sz_button.jpg",
+      "sha256": "62a706da8b71b607a4c37dacd537f9e6686c1835c5f843e011df0bf4ff9ef5a4"
+    },
+    {
+      "file": "images/7b0f49c6c5f173e8f0f78e5cd36dd67558d0a51188b09dc24acc0030e6242c74.jpg",
+      "origin": "images/d6mb_button.jpg",
+      "sha256": "7b0f49c6c5f173e8f0f78e5cd36dd67558d0a51188b09dc24acc0030e6242c74"
+    },
+    {
+      "file": "images/ce554d1b3a2bedda795314655ff8e1891f148050f80eb1977aeb9c8646124ce1.jpg",
+      "origin": "images/adv_button.jpg",
+      "sha256": "ce554d1b3a2bedda795314655ff8e1891f148050f80eb1977aeb9c8646124ce1"
+    },
+    {
+      "file": "images/6f39714faf7d128727e0d2e91417e9a5e717acc4b67c787398f35f53916be2f1.gif",
+      "origin": "images/bsmall.gif",
+      "sha256": "6f39714faf7d128727e0d2e91417e9a5e717acc4b67c787398f35f53916be2f1"
+    },
+    {
+      "file": "images/3cc8d94395ef40bb6b440c5240f11e3375e4fb919c2d3b7a2e88c350b65e865c.jpg",
+      "origin": "images/bmenu.jpg",
+      "sha256": "3cc8d94395ef40bb6b440c5240f11e3375e4fb919c2d3b7a2e88c350b65e865c"
+    },
+    {
+      "file": "images/7d6b683cd21c14f5ead6ee669e20275071bdbb7e5ba020ebba2587a09744fd5e.jpg",
+      "origin": "images/archive04.jpg",
+      "sha256": "7d6b683cd21c14f5ead6ee669e20275071bdbb7e5ba020ebba2587a09744fd5e"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

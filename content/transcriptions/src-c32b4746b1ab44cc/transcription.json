@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c32b4746b1ab44cc",
+  "name": "DSWAYSTA",
+  "sha256": "c32b4746b1ab44cc5bfbd874b09b40f400324082ce7711460360674f1cc33809",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWAYSTA.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "af4e0f590c5986e977108fec4557b5220dcd4deb16069551aa5dc9fb0ed789a1",
+  "fileHashes": {
+    "book.md": "93d4c7db2fa29e48cb63e7bcee13635ac334b34dadf5a2babe0e9f372d53c4ef",
+    "pages/0001.md": "40d56eb3b75a1eccbab7e7a75142437282594bfe331ecff5326f19b2229fc523"
+  }
+}

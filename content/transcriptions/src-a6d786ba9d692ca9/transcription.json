@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a6d786ba9d692ca9",
+  "name": "lofryyhn",
+  "sha256": "a6d786ba9d692ca9e8f8ea6af3ab0b40da94263f16dbc9b4a9f3e7b8702610bc",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/lofryyhn.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3e9867189f9390700cdf5ddd18ea555109938d550ef9caf757c7c2cdc5e30aaa",
+  "fileHashes": {
+    "book.md": "b53f578c9a895c8d5a9158a082f8729bd2b731a36dd1d44bab7216c005b4fe7a",
+    "pages/0001.md": "fc6dba55899064c7017f1e0d434b300ec114a639a6a3d18156928f728c98c6bc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-953ac0e7f797fcaa",
+  "name": "masterdeck_pic_cards",
+  "sha256": "953ac0e7f797fcaa26bf3474d357c504dc9d66a1be5e8364a962a17cde37740e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_pic_cards.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a5b3b7d3b37210701f6040bd9d3aa521dd2e24cf777de07afcb8459cc376a36d",
+  "fileHashes": {
+    "book.md": "730b6a36b80fee815691aab2f6346d48fd233b3ed8984bbc46dce694f4379c32",
+    "pages/0001.md": "77be30cab1f218d79de420b8365660133389c68dbfebd708021b45fcbca593c6"
+  }
+}

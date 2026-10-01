@@ -7,6 +7,20 @@
   "pdfPages": 130,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 130,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Classic Adventures Volume 2 WEG40128.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "18e11bc4cf6a54b7cbf80cf89c0ab4ab9e154f2fba7f09caaf0030273b486e00",
   "fileHashes": {
     "book.md": "c7e0d0df08afae28826b118150e3389e7c4855d8a224030bc3b06d3a381bac94",
     "pages/0001.md": "a0b754d8ebc4c27cc4d0822c35d4f4bb908e70ba9fb556724c10ce2d9b9d0fea",

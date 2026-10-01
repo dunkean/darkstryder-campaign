@@ -1,0 +1,77 @@
+{
+  "sourceId": "src-6469212ce4f6d450",
+  "sha256": "6469212ce4f6d4504cae2ba98e10516106ad32f3a9bcc96f18313bcf6cf8d3ce",
+  "engineId": "local-document-conversion-v1",
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "xlsx",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "feuille",
+      "characters": 3840,
+      "flags": []
+    },
+    {
+      "page": 2,
+      "unitLabel": "feuille",
+      "characters": 638955,
+      "flags": []
+    },
+    {
+      "page": 3,
+      "unitLabel": "feuille",
+      "characters": 522333,
+      "flags": []
+    },
+    {
+      "page": 4,
+      "unitLabel": "feuille",
+      "characters": 644438,
+      "flags": []
+    },
+    {
+      "page": 5,
+      "unitLabel": "feuille",
+      "characters": 1005966,
+      "flags": []
+    },
+    {
+      "page": 6,
+      "unitLabel": "feuille",
+      "characters": 1284503,
+      "flags": []
+    },
+    {
+      "page": 7,
+      "unitLabel": "feuille",
+      "characters": 446439,
+      "flags": []
+    },
+    {
+      "page": 8,
+      "unitLabel": "feuille",
+      "characters": 417150,
+      "flags": []
+    },
+    {
+      "page": 9,
+      "unitLabel": "feuille",
+      "characters": 423822,
+      "flags": []
+    },
+    {
+      "page": 10,
+      "unitLabel": "feuille",
+      "characters": 12052,
+      "flags": []
+    },
+    {
+      "page": 11,
+      "unitLabel": "feuille",
+      "characters": 166746,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": []
+}

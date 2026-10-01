@@ -1,0 +1,211 @@
+# _._
+
+Source: `src-eadf1927c3b5e12c` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-eadf1927c3b5e12c; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Seawolf & Greyslayer
+
+---
+
+**Last Update: webbot bot="Timestamp"
+    startspan S-Type="EDITED" S-Format="%m/%d/%y" 11/17/98webbot bot="Timestamp"
+    i-checksum="13927" endspan **
+**Who is Seawolf & Greyslayer?**
+
+**Actually
+    they are both me. Both names are handles I've adopted over the years. **
+
+**
+
+    "Greyslayer" I took from the Thomas Covenant Chronicles by Stephen R. Donaldson,
+    when I read them back in high school. Gray Slayer was another name for Lord Foul. I used
+    this name while I played the old LaserTag-style game called Photon back in the 80s.** 
+
+**
+
+    Seawolf is a more recent adoption. I've determined through the kind of characters I like
+    to play that my totem is of the wolf-spirit. I'm a Pisces, as well, so combine the two to
+    get seawolf. **
+
+**
+
+    We all gotta have our handles. Just in case you wanted to know…** 
+
+**
+
+    About me, well I was born in the great year of 1969, in March, and grew up in the
+    "lovely state" of New Jersey. I escaped as soon as I could (you don't move away
+    from NJ, you escape…). I've lived in Charlotte, NC ever since I graduated high school
+    in 1987. Went to school at UNCC.  I tried for my Masters in Computer Science at UNCC,
+    but gave it up. I'm a programmer in VB, a Microsoft-nut, a gamer, and an all-around OK
+    guy. I've been dating the same girl since 1989, and working on the marriage-thing.
+    Sometimes it takes longer.** 
+
+***NEWS FLASH:
+    Update: 10-31-1998 - The dating period is over.  On Halloween Night (how
+    appropriate...), I asked Diana 'D' Gayle Lanier to marry me.  We were at Matt's
+    Vampire LARP party and we did it all as part of the LARP.  Took her by surprise.
+    Wooohooo!!!  OK, you celebrated, no get over it.***
+
+**
+
+    I'm a proud Republican, Rush Limbaugh-fan, Carolina Panther-fan (former Dallas
+    Cowboy-fan); love NFL football, love to play paintball, sci-fi conventions, and browsing
+    the 'net. And I think Star Wars is way better than Star Trek, but B5 beats Trek as a TV
+    show. I love horror flicks of any kind, and sci-fi flicks that have a plot.** 
+
+**
+
+    That's about all I am… sorry, no shining star of society. Just a regular guy, sort
+    of.** 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+ 
+[**Pictures of me**](me.htm) 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+ 
+[**Pictures of me & D**](me-n-D.htm) 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+ 
+[**More Pics of D**](dgl/dglpix.htm) 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+
+[**Pics of Others in my Life**](others.htm)
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+ 
+[**My Resume**](http://users.vnet.net:80/seawolf/ron/RESUME.htm) 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+
+**[Sci-fi/Gaming Conventions](cons.htm)I've
+    been to**
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+
+**My personal ["Art"
+    Gallery](galleryindex.htm)**
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+
+**Short Stories I have Written And Characters I have
+    created**
+
+- **[Ian Flannery-Mckern, Immortal Vampire
+        Hunter](http://users.vnet.net:80/seawolf/ron/ifm/ifm.htm)
+
+**"He is a warrior of the Gathering… an immortal,
+        but one who has put the Gathering aside to fight a greater battle. The battle with the
+        dark immortals… vampires." 
+
+        I wrote some short stories about a vampire hunting immortal, and now I occasionally play
+        him in Vampire LARPs the Guild puts on.
+
+- **[The Cyber Conspiracy Saga](http://users.vnet.net:80/seawolf/ron/silkman_and_cryst.htm)**
+
+- **[Timothy Yardman Reed (Tyr)](http://users.vnet.net:80/seawolf/ron/tyr/tyr.htm)
+
+**Another hunter type character I play in Champions and
+        Shadowrun. One of my favorite characters to play. He hunts werewolves… sons of the
+        Fynryr.
+
+- **[Rosh](http://users.vnet.net:80/seawolf/sz/rosh.htm)
+
+**Shattezone character I played that was just too fun. The
+        party always had to ask, "OK, Where's Rosh…?".
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]
+
+**[The Rules of Ron](ronrules.htm) NEW**
+
+    Rules to go by in my game, compiled by some of my players.
+
+**MY VITALS:**
+
+**Birthday:** 3/7/69
+
+**Birth Place: **Plainfield, NJ**
+
+    Height:** 6'2"
+
+**Weight:** 230LBs - Give or take
+
+**Eyes:** Brown
+
+**Hair**: Short brown (Used to be long with pony tail)
+
+**Degree:** BS in Computer Science
+
+**Professional Title**:  Software Engineer
+
+**Current Resisdence: **Charlotte, NC
+
+**Favorite Thing To Do (That's not sex)**:  RPGs; Get on the computer
+
+**Favorite Programming Language: **VB, C
+
+**Favorite OS:** Windows NT
+
+**Favorite Shows**: Babylon 5, X-Files
+
+**Favorite Movie**: Aliens
+
+**Handles/Nicknames: ** Greyslayer, Seawolf, TheSeawolf, Ronwald, Nor,
+    Captain Ron, The Yankee from Hell, *(That name my dad calls me)*
+
+---
+
+|  | **The stuff I'm interested in:**  |
+| --- | --- |
+
+|  | **Role-playing Games,
+<br>    & Collectabhle Card Games** | **Books**<br> |
+| --- | --- | --- |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>[Star Wars](../sw/_._.html)** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Star Wars books ** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** [**Shatterzone**](../sz/_._.html)  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Clive Barker Horror ** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Call of Cthulhu / Cthulhu Live** | **Other Activities** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Star Froniters / Other Suns ** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** [**Paintball**](pb.htm) |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **[Dark Conspiracy](../dc/dc.htm)**  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br><br>[Sci-Fi Conventions](cons.htm)** |
+|  | <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>**Deadlands** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Biking** |
+|  | <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>[**Reich Star**](../rs/homepage.html) | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Internet Stff - Chat, ICQ,   stuff like that** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>Fading Suns** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Writing** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>Babyon 5 CCG** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Classic Monsters** |
+|  | **VB Programming &
+<br>    Computer ** | **Heavy Metal & Hard
+<br>    Rock ('80s & '90s) ** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Professional progamming** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Metallica**  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Gaming utilities** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Creed** |
+|  | **TV Shows and Movies ** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Dokken**  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Babylon 5 ** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Queensryche**  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Highlander (Series and Movies) ** | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Tool**  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Aliens**  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Gnostic Tribe ** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br> Star Wars**  | **And of course, [The Guild](../guild/_._.html) ** |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    X-Files** |  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>** **Any horror by Clive Barker ** |  |
+|  | **<br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/BLUEBULL2.gif]<br>
+<br>    Any cheesy horror Flick** |  |
+
+---
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+**Back to
+Greyslayer's Lair & Seawolf's Den**](../Ron.htm) 
+
+Some Icons obtained [Graphics
+Station](http://www.geocities.com/SiliconValley/6603/).

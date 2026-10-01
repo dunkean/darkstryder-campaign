@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0263e5ee485ae4e4",
+  "name": "DSCast",
+  "sha256": "0263e5ee485ae4e4fd5aeaff944914de764aaf19f594378cf8ef1215ed7a477d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCast.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4fae1572502e7b085948292800ca3919ff4425a9001fbb51ff9ac8282d817e0c",
+  "fileHashes": {
+    "book.md": "12cd6f0c7068ca8a7a45baa3ea8035c7e637c35c76d8bebd7f676b7ec269dd4b",
+    "pages/0001.md": "f13ec968506335f212bcc23e6af20f59981c67f7b5d0d13b97e26e0f8d02ac3c"
+  }
+}

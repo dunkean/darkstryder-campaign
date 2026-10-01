@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0466373ccf8b25d0",
+  "name": "sfBodyComps",
+  "sha256": "0466373ccf8b25d03c6f45b721000b8d05801dd5f03ea3f15508a010a948ba5d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/sfBodyComps.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1cc2fac11f5eb6547d4b19180c51187b523733b65ea6489acd2de3165b85d720",
+  "fileHashes": {
+    "book.md": "05fcd3ee2079a3609478f68d9d0f6e04a14256cfb871174f8186e7888c8a4ad4",
+    "pages/0001.md": "e4c297142b6f74ed9ca2fab57109d848dcc9a809ab842d3e3e58099437ff66cd"
+  }
+}

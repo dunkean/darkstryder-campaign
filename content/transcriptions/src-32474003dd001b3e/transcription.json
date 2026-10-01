@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-32474003dd001b3e",
+  "name": "LOHKHAR",
+  "sha256": "32474003dd001b3eff15af00264112605a1c8e63af911f4088e5db4f595f4b00",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/LOHKHAR.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4a65bdf921b785f2a6977fbfa8ac830dc714c7f3a5c5c9965568a9886f0c2430",
+  "fileHashes": {
+    "book.md": "1b2649028c68f2b303a53f5a323bd08dcff41877e9ae819242561d1acfa07231",
+    "pages/0001.md": "cb96f26ad868be543027676c3b9b8ffef10a9ead8d33e40c4238a4c05c059dec"
+  }
+}

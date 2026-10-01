@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-2d4ed5577dc57055",
+  "name": "SWSZAddons",
+  "sha256": "2d4ed5577dc5705557be07b7b405d301861bd0f180c2ea4d500cb461472ea4c5",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/SWSZAddons.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bdc2fc9a886e2d272a76c1232e0863da88a0b52b36484050d4bc9a802051c5bb",
+  "fileHashes": {
+    "book.md": "75ef9ac162965240470fb6d5563eb079c21db0b21f0db4c0d16eea158a5e159b",
+    "pages/0001.md": "9a04b1ea60026b9eef4de76fea1641b9aa1735d92d5843bba38728ed5075caae"
+  }
+}

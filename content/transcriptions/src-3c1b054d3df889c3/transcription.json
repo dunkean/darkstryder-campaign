@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3c1b054d3df889c3",
+  "name": "Lohkhar",
+  "sha256": "3c1b054d3df889c32f0d5c4f10e021d970a56a1ffa0067d978956ce3279f6c94",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Lohkhar.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Lohkhar.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "cd4223157d9285bceb37c44e283a8378beea798f973ace93a1f577db029954ff",
+  "fileHashes": {
+    "book.md": "8540ad0170512df95957cf58d27a34ad9dd3ecea5315f99fa497c1305d3a9579",
+    "pages/0001.md": "6be94696200aad46b3af898c9947368b60705f7b4cc931a08391c91bed921a84"
+  }
+}

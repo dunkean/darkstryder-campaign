@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-3e0b3f26f10c3797",
+  "sha256": "3e0b3f26f10c37975c4a74f6583197f03839468e637415ed4fcc16e647d3542c",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7807,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/76222e0ab99301e9ac184d2216f276a9ff03e29de87370ed38aa41178064bcaf.jpg",
+      "origin": "images/jerrel_family.jpg",
+      "sha256": "76222e0ab99301e9ac184d2216f276a9ff03e29de87370ed38aa41178064bcaf"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -3,6 +3,7 @@ import { allRoomOccupancy,chip } from './occupancy.js';
 import { markdown } from './markdown.js';
 import { watchSourceStatus } from './source-status.js';
 import { renderDeckPlans } from './deck-plans.js';
+import {referenceKnowledgeHTML} from './reference-knowledge.js';
 import {renderStellarMap,placeMediaHTML,editPlaceMedia} from './stellar-map.js';
 
 let stopWatchingSources;
@@ -20,6 +21,7 @@ export function renderEntities(type){
 export function openEntity(id){
   const e=entities.entities.find(e=>e.id===id);if(!e)return;
   modal(`<div class="tiny code">${esc(e.type)} · ${esc(e.id)} · ${esc(e.visibility)}</div><h2>${esc(e.name)}</h2><p>${esc(e.summary)}</p><div class="markdown">${markdown(e.body)}</div><div>${e.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><h3>Liens</h3>${e.links.map(id=>{const linked=entities.entities.find(e=>e.id===id);return `<button onclick="${byId[id]?'openPerson':'openEntity'}('${esc(id)}')">${esc(byId[id]?.name||linked?.name||id)}</button>`;}).join(' ')||'<span class="muted">Aucun lien</span>'}<h3>Sources</h3>${e.sources.map(s=>`<button onclick="openSource('${esc(s.sourceId)}',${s.page})">${esc(sources.find(x=>x.id===s.sourceId)?.name||s.sourceId)} · p. ${s.page}</button>`).join(' ')}<h3>Propriétés</h3><pre class="source-text">${esc(JSON.stringify(e.properties,null,2))}</pre><div class="detail-actions"><button class="primary" onclick="editEntity('${e.id}')">Modifier la fiche</button></div>`);
+  document.getElementById('modalContent').insertAdjacentHTML('beforeend',referenceKnowledgeHTML(e));
   if(['planet','system','location'].includes(e.type)){document.getElementById('modalContent').insertAdjacentHTML('beforeend',placeMediaHTML(e)+'<button id="entityPlaceMedia">Images / carte locale</button>');document.getElementById('entityPlaceMedia').onclick=()=>editPlaceMedia(id);}
 }
 export function editEntity(id,type='npc'){
@@ -60,7 +62,7 @@ function placePin(kind,assetId,x,y){
 }
 export function renderLibrary(){
   stopLibraryUpdates();
-  document.getElementById('library').innerHTML=`<div class="toolbar"><h2>Sources · ${sources.length} livres</h2><input id="sourceQuery" placeholder="Rechercher dans le texte OCR…"><button id="sourceSearch">Chercher</button></div><p id="ocrProgress" class="muted" role="status"></p><div id="sourceResults"></div><div class="entity-grid">${sources.map(s=>`<button class="card entity-card" onclick="openSource('${s.id}',1)"><span class="tag">${s.pages} pages</span><h3>${esc(s.name)}</h3><p>${esc(s.collection)}</p><span id="sourceStatus-${s.id}" class="muted">en attente</span></button>`).join('')}</div>`;
+  document.getElementById('library').innerHTML=`<div class="toolbar"><h2>Sources · ${sources.length} documents</h2><input id="sourceQuery" placeholder="Rechercher dans le texte OCR…"><button id="sourceSearch">Chercher</button></div><p id="ocrProgress" class="muted" role="status"></p><div id="sourceResults"></div><div class="entity-grid">${sources.map(s=>`<button class="card entity-card" onclick="openSource('${s.id}',1)"><span class="tag">${s.pages} · ${esc(s.unitLabel||'page PDF')}</span><h3>${esc(s.name)}</h3><p>${esc(s.collection)} · ${esc(s.format||'pdf')}</p><span id="sourceStatus-${s.id}" class="muted">en attente</span></button>`).join('')}</div>`;
   stopWatchingSources=watchSourceStatus(sources);
   const search=async()=>{const q=document.getElementById('sourceQuery').value;const response=await fetch('/api/source-search?q='+encodeURIComponent(q)),results=await response.json();document.getElementById('sourceResults').innerHTML=results.map(r=>`<button class="search-result" onclick="openSource('${r.sourceId}',${r.page})"><b>${esc(r.name)} · p. ${r.page}</b><p>${esc(r.snippet)}</p></button>`).join('')||'<p class="muted">Aucun résultat (3 caractères minimum ; seules les pages déjà extraites sont recherchées).</p>';};
   document.getElementById('sourceSearch').onclick=search;document.getElementById('sourceQuery').onkeydown=e=>{if(e.key==='Enter')search();};
@@ -69,7 +71,8 @@ export async function openSource(id,page=1){
   modal('<p>Chargement de la page…</p>');
   const response=await fetch(`/api/source?id=${encodeURIComponent(id)}&page=${page}`),data=await response.json(),s=sources.find(s=>s.id===id);
   if(!s)return;
-  modal(`<h2>${esc(s.name)}</h2><div class="toolbar"><button ${page<=1?'disabled':''} onclick="openSource('${id}',${page-1})">←</button><label>Page PDF <input id="sourcePage" type="number" min="1" max="${s.pages}" value="${page}" style="min-width:60px;width:80px"></label><button ${page>=s.pages?'disabled':''} onclick="openSource('${id}',${page+1})">→</button><a href="/original/${id}#page=${page}" target="_blank" rel="noopener">Vérifier dans le PDF</a><button onclick="draftFromSource('${id}',${page})">Créer une fiche depuis cette page</button></div>${response.ok?`<div class="source-columns"><div class="markdown">${markdown(data.markdown,`/runtime/${s.output}/pages/`)}</div><a href="${data.image}" target="_blank"><img src="${data.image}" alt="Scan de la page ${page}"></a></div>`:`<p class="muted">${esc(data.error)}</p>`}`);
+  const isPdf=!s.format||s.format==='pdf';
+  modal(`<h2>${esc(s.name)}</h2><div class="toolbar"><button ${page<=1?'disabled':''} onclick="openSource('${id}',${page-1})">←</button><label>${esc(s.unitLabel||'page PDF')} <input id="sourcePage" type="number" min="1" max="${s.pages}" value="${page}" style="min-width:60px;width:80px"></label><button ${page>=s.pages?'disabled':''} onclick="openSource('${id}',${page+1})">→</button><a href="/original/${id}${isPdf?'#page='+page:''}" target="_blank" rel="noopener">${isPdf?'Vérifier dans le PDF':'Télécharger l’original'}</a><button onclick="draftFromSource('${id}',${page})">Créer une fiche depuis ce segment</button></div>${response.ok?`<div class="${data.image?'source-columns':''}"><div class="markdown">${markdown(data.markdown,`/runtime/${s.output}/pages/`)}</div>${data.image?`<a href="${data.image}" target="_blank"><img src="${data.image}" alt="Scan de la page ${page}"></a>`:''}</div>`:`<p class="muted">${esc(data.error)}</p>`}`);
   document.getElementById('sourcePage').onchange=e=>{const p=Number(e.target.value);if(p>=1&&p<=s.pages)openSource(id,p);};
   if(data.extraction?.flags?.length){
     const labels={'layout-low-confidence':'mise en page à vérifier','ocr-low-confidence':'reconnaissance à vérifier','text-coverage-low':'couverture du texte faible','low-text-or-illustration':'peu de texte ou illustration','possibly-truncated':'texte possiblement tronqué','replacement-characters':'caractères non reconnus','possible-repetition':'répétitions possibles'};

@@ -1,0 +1,38 @@
+{
+  "sourceId": "src-195f1ea144df2be4",
+  "sha256": "195f1ea144df2be45191e5e12a7c487c6a38b9872ecb12ede89f9fdc51ccfabe",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8471,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "ascii"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1eeeb7fb1250c01f",
+  "name": "BONGO",
+  "sha256": "1eeeb7fb1250c01f25df89eaf44317d10a806098cfc0746b6a101f3bf0e9f3da",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/BONGO.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6d01f59c2de79aa8b49bbdc5f4ba502e08732a2fdacf9d1f4e1d7b0ccfe3e4d4",
+  "fileHashes": {
+    "book.md": "6c27d4d6fb569771d67cd1095f908ea8ed2b05c2766e6194b8638dd3732c8472",
+    "pages/0001.md": "f2ae61b9d5ead7e8303f0ddca9ffdfba007e2f9901444f2b23be476c6c0e67f8"
+  }
+}

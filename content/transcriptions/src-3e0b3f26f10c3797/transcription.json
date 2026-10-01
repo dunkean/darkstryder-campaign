@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3e0b3f26f10c3797",
+  "name": "Jerrell",
+  "sha256": "3e0b3f26f10c37975c4a74f6583197f03839468e637415ed4fcc16e647d3542c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/Jerrell.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3428eeccbfb20ca2f9204e8fbab351dbd6a679dd499d43efbbedd4e1c491ab90",
+  "fileHashes": {
+    "book.md": "f819cc767ab04a641be140c741215ca97b0508bbb8b6e52e1ce27e561a19600c",
+    "pages/0001.md": "e05c8ad25c60ccc1deff8d8529ad839cbb9c83a32f26b6bfe2efbb289888e99c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-5bef193e1f97458e",
+  "name": "sw",
+  "sha256": "5bef193e1f97458e566878de64715d884b44237807259fe846c1d83e5ba5c4aa",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sw.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7f03420e8fef6a97da2101840001c58ee5435cd90bb24f61f2eab8c83c64d03d",
+  "fileHashes": {
+    "book.md": "878cf45e1ba7c9e7319cb009b453a230e1d60ef2d38051a4475b5e548e655840",
+    "pages/0001.md": "ab5ae4de79c15a15decb478d4d38b738678207de131a35c24329ddce4a03acd3"
+  }
+}

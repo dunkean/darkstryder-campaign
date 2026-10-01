@@ -1,0 +1,46 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-fbf8a45ed0195a9a",
+  "name": "Planètes du Tome 1 de la Campagne __DarkStryder__ – Rapport détaillé",
+  "sha256": "fbf8a45ed0195a9aca2c42e29b02711ca21b01980783b2a5a60932147e2386c7",
+  "pdfPages": 19,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 19,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Planètes du Tome 1 de la Campagne __DarkStryder__ – Rapport détaillé.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b9aec3efcd84181f167bb301e59e4c87abb0bc90ca0dbf0319095a55c55a4185",
+  "fileHashes": {
+    "book.md": "3219a16baa80054144417dcc83c6e793cebaeda2cede4f68d456c06051b0ea29",
+    "pages/0001.md": "681d96a58adec2c175b298caf48d0c11eef4a7e77585a306cc5764fe5737417d",
+    "pages/0002.md": "af4232067b27649d9bb787b98a63f50aeee7f595f9dd06d7c08939f7ac7755c2",
+    "pages/0003.md": "e157ada5df75c277127e53db5c146992cc5cfdda2b1b447614540fb11565d266",
+    "pages/0004.md": "07f2106ce03b1da2a934cfb0c4479b7891c751be839e0517202b94d26e6fcb63",
+    "pages/0005.md": "ad612fb024dfd902f9e1a70e7bd7db8fd543bfd9a531546d9e8f1e71071dfb90",
+    "pages/0006.md": "583513d9c781012614b314e0ae55a923e92bb907502fe46f8d4847b5e367e4d0",
+    "pages/0007.md": "b8cf493497d541bbc07b00882998bd39f9aca660908b2b886b111ecb2db2cbf6",
+    "pages/0008.md": "2f6481b52d6b4e8c5e8286b09809ca09f1b81aebcba7d530a0475cff653714a0",
+    "pages/0009.md": "4c5b0ea2c18178caedbb9bdf04c7290c6330da110a7981783e9f37f82fa68b18",
+    "pages/0010.md": "93e15e283b91f412922d49fca6a17ef46090dd4f54970ecc9045cff3a1c51a68",
+    "pages/0011.md": "c200a025f34c694bff666683c1123a8cc99d150c8422b37699aabd4b009448e9",
+    "pages/0012.md": "fab9853c3668cd50197e8975f7065bbb9b7183cba7aa9a42381dbe927b282e27",
+    "pages/0013.md": "66f1038e2dd6e9dad081c5990dc6542edcad6b925a34c534b6d58defee7be182",
+    "pages/0014.md": "b9b283b75c19b3ac25077a7b1528dabe66d88dbde8a801ca62a15615293837a7",
+    "pages/0015.md": "ade2f8ee922d85248e068046fcd47fb75cccdd6553a7821ff4a238a5ae6fc6c5",
+    "pages/0016.md": "84859694a33d2086faa6e42d1cb8822907644d180ff6e483dc8db3f400d7ca1c",
+    "pages/0017.md": "4faae662684b382aeaddac2f98f6f69c92abf82d6043a304b3ef09d09fd57c7e",
+    "pages/0018.md": "6b2da1a492b732f70fed99856b0f6a296687bab19683d363ddad479fda5b0d2e",
+    "pages/0019.md": "eb50b51f122bfac302ac25adf9270d9cefc6877b943293aa9168b0a5a0418c2b"
+  }
+}

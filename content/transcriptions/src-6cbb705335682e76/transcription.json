@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6cbb705335682e76",
+  "name": "DSBINARO",
+  "sha256": "6cbb705335682e76b9c7d95713e6f434e75dfa2100c689ee1a8a2861582af4ff",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSBINARO.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1791d3c680deffab036dfef3b88ea7e6302b2e3fbe523246d84985395ba8da79",
+  "fileHashes": {
+    "book.md": "dfae27ac45773241d73e01419c4903f79143b860b3b8af2ee9afece84de1e2c6",
+    "pages/0001.md": "c2f9a9ad5d7dbae7b97e21619b2ec94053ed8cdfc6befc1345c4b37fc87e382b"
+  }
+}

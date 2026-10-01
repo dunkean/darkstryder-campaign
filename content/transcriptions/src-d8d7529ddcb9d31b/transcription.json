@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d8d7529ddcb9d31b",
+  "name": "DSHomeConfess",
+  "sha256": "d8d7529ddcb9d31b7531d59a4238c7d049d3eece48e6cf81b33450dbd6bb6592",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHomeConfess.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHOMECO.HTM"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "2b4ab3cf8b6972eabe0740a6bef0ebed954bad531ce428e7223f753ec1c91476",
+  "fileHashes": {
+    "book.md": "a14a1bff500cd5c792791bb928384c36352e0988bd55e53af56cc079027d642b",
+    "pages/0001.md": "dab801488b4e38251f786e37e879e3d1af13769e1ba593953426de5138c506e0"
+  }
+}

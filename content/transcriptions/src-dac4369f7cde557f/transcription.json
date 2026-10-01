@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-dac4369f7cde557f",
+  "name": "screamer",
+  "sha256": "dac4369f7cde557f7f595d651baeb2b2291757d813bd43263300907389f19c0e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/screamer.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ed42ecb963e7a41cd7587151a729a16d1b93eefd04f72e568d1eb179b8a2b140",
+  "fileHashes": {
+    "book.md": "6abf8263d8f2bc7118067129e475942763eef6ba3d79fed9884a5cd009b44239",
+    "pages/0001.md": "49928b6d81bfd6e9a2a562e90890f7018ad63cf4369432a1be3c7218ac9775ba"
+  }
+}

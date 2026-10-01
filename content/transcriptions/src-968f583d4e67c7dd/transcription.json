@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-968f583d4e67c7dd",
+  "name": "DSReturntoAaris",
+  "sha256": "968f583d4e67c7ddff12cb54bd685edef2734e423e42351eac7a52511b6f4e5b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSReturntoAaris.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4a05153d23300c08cd76f7d5f67715e746e8bb94d6c64e4f055149e53756600b",
+  "fileHashes": {
+    "book.md": "88da54a3316a7d0cc54bb5353eca579d32ef2fe8fe72f741bd87f588e8353afa",
+    "pages/0001.md": "62ae5072b0151abc10a55990b3e4f503b61877059b02382bc3ec50bc69128fdb"
+  }
+}

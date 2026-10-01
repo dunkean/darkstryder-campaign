@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-211601cc2c82b5a3",
+  "name": "DSSapella2",
+  "sha256": "211601cc2c82b5a38ac6746c27d823d6b6c718792e25456137748baf32f3a1c1",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSapella2.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b8e2b10421fac80820b66a134e4a04902b10bc7ef9735fd1884aa9cdf61dca87",
+  "fileHashes": {
+    "book.md": "0bc9ebda5b5e8204f9329f3bfbcc3ea96941392b6557b30d5c6e607de74cbcfd",
+    "pages/0001.md": "11af4ca3a4496c7e5a069c9f1094151c782fa0db157de2c080f84ead4d4e3226"
+  }
+}

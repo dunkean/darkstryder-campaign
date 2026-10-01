@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1cc8cdb4d5ca8d85",
+  "name": "DSSOITBE",
+  "sha256": "1cc8cdb4d5ca8d85824d01491b604afb633b5e79c5e50adb65b63b811558635d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSOITBE.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7305e0ef91fa55a078fdf67b607bb60f6a15b3fa67cfe53824cf02e2bb2b1e9c",
+  "fileHashes": {
+    "book.md": "93236af1d170952536bddf9ea04c38f3f880cc36449c438c9c984139eb9ac694",
+    "pages/0001.md": "b65444bec482663eb94e11b6aecfca88487f0fbe8cf9d21550a29f960957d192"
+  }
+}

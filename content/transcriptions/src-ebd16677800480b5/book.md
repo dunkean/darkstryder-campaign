@@ -1,0 +1,278 @@
+# SEW MY HAND
+
+Source: `src-ebd16677800480b5` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-ebd16677800480b5; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+SEW MY HAND    
+
+# "SEW MY HAND"
+
+THE FARSTAR VERSION OF ‘HOLD MY HAND’ by HOOTIE AND THE BLOWFISH
+
+ 
+
+The scene is the sickbay of the NRS *FarStar*, swiftly making its escape from the planet Shatuun in the Outer Rim. Lt. Jessa Dajus is carried into sickbay by two marines, looking rather the worse for wear, and minus a hand. The Mon Calamari Doctor, Akanseh, looks up from repairing his three 2-1B series Medical Droids...
+
+ 
+
+**
+
+Jess:
+
+**
+
+What’s up there, doc?
+
+I’ve had an accident.
+
+My saber-hand got sliced clean off
+
+And I don’t know where it went.
+
+Help me here, doc,
+
+I need a new one for a while,
+
+But a metal hand like Mister Thyte’s
+
+Just wouldn’t be my style...
+
+ 
+
+**
+
+Doc:
+
+**
+
+Well, have you got your hand with you?
+
+Did someone pick it up for you?
+
+ 
+
+**
+
+Jess:
+
+**
+
+Well, I dunno.
+
+But it was a nasty fight.
+
+Gorak, Kl’aal’s dad and the Wraith
+
+Really dropped us in the shite
+
+C’mon, now, doc,
+
+I’m in a lot of pain!
+
+Just find it, stitch it right back on,
+
+I swear it won’t happen again!
+
+ 
+
+**
+
+Doc:
+
+**
+
+Let me take a look at you.
+
+(Get your hand from the hangar bay and)
+
+I’ll sew it on for you
+
+(But you’ll lose a finger or two...)
+
+ 
+
+**
+
+Jess:
+
+**
+
+JUST Sew my hand!
+
+**
+
+2-1B:
+
+**
+
+( She wants him to sew her hand)
+
+**
+
+Jess:
+
+**
+
+Sew my hand!
+
+**
+
+2-1B:
+
+**
+
+(Prep 2ccs of Anaestheticine)**Jess:**
+
+Sew my hand!
+
+**
+
+2-1B:
+
+**
+
+(‘Cause we’re gonna put her under, and
+
+We’re gonna do this the best that,
+
+The best that we can.)
+
+ 
+
+There is a commotion at the entrance to sickbay. The ship’s first officer, Lt. Darryn Thyte, enters, staggering erratically with his metal right arm and hand clasped securely around his throat. He is short of breath as he sings...
+
+ 
+
+**
+
+Thy:
+
+**
+
+Akanseh, help!
+
+My arm’s gone mad again!
+
+It must be a defective part
+
+Or a piece of 4-LOM’s brain!
+
+Hey, doctor, please!
+
+It’s tryin’ to strangle me!
+
+Just rip it off, or shut it down
+
+With a restraining bolt or three!
+
+ 
+
+**
+
+Doc:
+
+**
+
+Let me see what I can do.
+
+(I’ll just back you into place so)
+
+My droids can get a hold of you
+
+(Droids! Seize Mister Thyte, and...)
+
+ 
+
+**
+
+Thy:
+
+**
+
+Bolt my hand!
+
+**
+
+2-1B:
+
+**
+
+(He wants us to bolt his hand)**Thy:**
+
+Bolt my hand!
+
+**
+
+2-1B:
+
+**
+
+(This arm is trying to kill us all!)
+
+**
+
+Thy:
+
+**
+
+Bolt my hand!
+
+**
+
+2-1B:
+
+**
+
+(Yes, whip out the restraining bolts and
+
+Let’s try to do this the best that,
+
+The best that we can.)
+
+ 
+
+The struggle between Thyte and the three droids abates. Again, the door to sickbay swishes open. Sgt. Randall Vallens, the security chief, rushes in, waving a piece of his metal arm under Akanseh’s nose...
+
+**
+
+Vall:
+
+**
+
+Weld my hand!(I had to use it to brace a door, so)Weld my hand!(It snapped off like it did the time before!)Weld my hand!(I need it to shoot some traitors, soPlease weld it back on the best that,The best that you can.)
+
+**
+
+Vall:
+
+**
+
+Fix my hand!**2-1B:**
+
+(He wants us to fix his hand)**Vall:**
+
+Fix my hand!**2-1B:**
+
+(Oh, this is a fucking joke, man!)**Vall:**
+
+Fix my hand!**2-1B:**
+
+(Well, get in the fucking queue, and 
+
+Wait there as long as, as long as,
+
+As long as you can!)
+
+Sickbay slowly returns to normal. Akanseh takes a much-needed seat.
+
+**
+
+Doc:
+
+**
+
+This is ridiculous. I’m a doctor, not a light entertainer!

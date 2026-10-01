@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8774e73977b1a099",
+  "name": "DSShintel",
+  "sha256": "8774e73977b1a099412f3929884047e67a48f5cc6d55815f6d5e44e27536a7f9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSShintel.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fd0f5755e33552a314834700c6173733236f64af5fd4f99f4307f538e2c9d98a",
+  "fileHashes": {
+    "book.md": "efed39f751eacd1109b6fcff2e05d66e2bf49df59edbb1e4ff5c375a0d256ddf",
+    "pages/0001.md": "d044c448662a55d40c75b9f2c8fb4420a941841776ffcee85152eb1703eb492c"
+  }
+}

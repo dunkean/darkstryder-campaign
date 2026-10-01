@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d9228b390eada0e8",
+  "name": "resurrection_epguide",
+  "sha256": "d9228b390eada0e82712fede0d53eafba34cdf9d41e172a12672c6eb7f373989",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/resurrection_epguide.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7bb91d832398ec4b3ed9d02a22986ac5d7750d05f087968d2fab5e270b335535",
+  "fileHashes": {
+    "book.md": "4ebee2a704e144f99cb8f4f54f010b5fa8150be87d9131c50ff9027b4ee654f5",
+    "pages/0001.md": "be06fca92cf54d900e14a61b8c5f028234d6b60426cf6350c822b5fccdf5f058"
+  }
+}

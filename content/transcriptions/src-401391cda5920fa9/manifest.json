@@ -1,0 +1,66 @@
+{
+  "sourceId": "src-401391cda5920fa9",
+  "sha256": "401391cda5920fa9a7f5c85d03f315de6e2271b865974e9f5c3c362e2d653357",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 24709,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/patrol.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/exocron.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/darr.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/exocron1.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/fltcty1.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/fltcty2.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/gevtes.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

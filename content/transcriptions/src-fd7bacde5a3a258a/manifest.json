@@ -1,0 +1,120 @@
+{
+  "sourceId": "src-fd7bacde5a3a258a",
+  "sha256": "fd7bacde5a3a258ac44362df24e85fabc52963afa0be3ca3b44e9ad16e4171d9",
+  "engineId": "docling-rapidocr-torch-cuda-v1",
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "versions": {
+    "docling": "2.91.0",
+    "docling-core": "2.74.1",
+    "torch": "2.11.0",
+    "rapidocr": "3.8.1",
+    "transformers": "5.6.2"
+  },
+  "languages": [
+    "english"
+  ],
+  "nativeTextPreserved": true,
+  "tableMode": "accurate",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 3517,
+      "nativeCharacters": 2613,
+      "tables": 1,
+      "images": 0,
+      "flags": [],
+      "seconds": 0.81,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8982560123716082,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9491280061858041,
+        "low_score": 0.9033432117530278
+      }
+    },
+    {
+      "page": 2,
+      "characters": 2892,
+      "nativeCharacters": 2236,
+      "tables": 1,
+      "images": 0,
+      "flags": [],
+      "seconds": 1.38,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8949368000030518,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9474684000015259,
+        "low_score": 0.9001899600028992
+      }
+    },
+    {
+      "page": 3,
+      "characters": 2156,
+      "nativeCharacters": 1651,
+      "tables": 2,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 1.16,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8389725259372166,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9194862629686082,
+        "low_score": 0.8470238996403557
+      }
+    },
+    {
+      "page": 4,
+      "characters": 1727,
+      "nativeCharacters": 1762,
+      "tables": 0,
+      "images": 0,
+      "flags": [],
+      "seconds": 0.46,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9249775782227516,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9624887891113758,
+        "low_score": 0.9287286993116141
+      }
+    },
+    {
+      "page": 5,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "low-text-or-illustration",
+        "ocr-low-confidence"
+      ],
+      "seconds": 0.78,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9878721237182617,
+        "table_score": null,
+        "ocr_score": 0.75588,
+        "mean_grade": "excellent",
+        "low_grade": "fair",
+        "mean_score": 0.9145840412394205,
+        "low_score": 0.7790792123718262
+      }
+    }
+  ]
+}

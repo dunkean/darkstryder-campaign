@@ -1,0 +1,60 @@
+{
+  "sourceId": "src-578aa8b4b41a4b96",
+  "sha256": "578aa8b4b41a4b967c79cbfdada0323ef8692be12d4e2dc36e1cd84dcfdef3e9",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1592,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/fcc013176bea689a03ca671218a3f6684decc552eb5f231f5da801cabcdf9ef0.gif",
+      "origin": "images/swdragon.gif",
+      "sha256": "fcc013176bea689a03ca671218a3f6684decc552eb5f231f5da801cabcdf9ef0"
+    },
+    {
+      "file": "images/02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d.jpg",
+      "origin": "images/impdragon_icon.jpg",
+      "sha256": "02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d"
+    },
+    {
+      "file": "images/02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d.jpg",
+      "origin": "images/impdragon_icon.jpg",
+      "sha256": "02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d"
+    },
+    {
+      "file": "images/02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d.jpg",
+      "origin": "images/impdragon_icon.jpg",
+      "sha256": "02a72f34be3a749a798d5cd39bd29404401afb50f0244d1d69c7d2f9ac06723d"
+    },
+    {
+      "file": "images/8c9372a191c3d0d3db15bf5b90ade1fe1c1a93ebb78281152964db6f3b326c1a.jpg",
+      "origin": "images/dpvimp.jpg",
+      "sha256": "8c9372a191c3d0d3db15bf5b90ade1fe1c1a93ebb78281152964db6f3b326c1a"
+    },
+    {
+      "file": "images/cfeba0bc43d8204b8b5b6c89e30c05c258f5f4759f37aeabd7a8417824a2755d.jpg",
+      "origin": "images/impdragon.jpg",
+      "sha256": "cfeba0bc43d8204b8b5b6c89e30c05c258f5f4759f37aeabd7a8417824a2755d"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "../../icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

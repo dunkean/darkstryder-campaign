@@ -7,6 +7,20 @@
   "pdfPages": 146,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 146,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Classic Adventures Volume 4 Best of the Journal WEG40138.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "8b38190fba6c57cbb8b2f9a3bd265ab24eee264e2ad90d5726b80285322cb137",
   "fileHashes": {
     "book.md": "3ac6dba9db3195b2d14d2cdc034692c162316c35c3720d89c3503c5e7127187e",
     "pages/0001.md": "a965000f5ff96d87a62440bbf4ea284839d93e04d49db63c698e6f273cc3c252",

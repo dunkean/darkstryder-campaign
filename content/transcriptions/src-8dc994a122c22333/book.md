@@ -1,0 +1,159 @@
+# Analia
+
+Source: `src-8dc994a122c22333` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-8dc994a122c22333; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+
+Analia and The Lords of Kathol
+
+Analia’s View of the Noble Houses
+
+The Noble Houses have proven to be both a hindrance and a help to your business.  A hindrance, because they are very strict on who they deal with, and what they deal in.  A help, because the are constantly fighting amongst themselves, and in order to do that, they have had to get contraband through non-traditional channels.  You know that for the most part, the Noble houses have a pretty strong grip on the Core and Rim worlds of Kathol.  However, you have only known the Noble Houses of this area while they were under the control of the Empire.  You have heard about the great nobles wars of many sectors before the Empire, and you assume that this sector is no different.  What will happen when the word gets out that Sarne is gone, only the Force knows.  You were surprised and excited to find out he was gone.  When the Noble Grand Council finds out, it could prove rather lucrative, but also very dangerous for you.
+
+There are apparently 5 major houses, plus a innumerable amount of minor houses.  All the major houses are human, and a few of the minor houses are alien.
+
+House Ik’Tal
+
+Ik’Tal is a tough old geezer of a house, but pays good for your contraband, even if it takes pulling teeth from a bantha to convince them to trade outside the house traditions.  It is an old and very traditional house, and are not too imaginative in their weapons purchases.  They usually buy the traditional weaponry of a Noble House, and rarely go out of their way to be interesting.  They are easy to please in that regard.  Any deals made with them are usually very low-profile and covert.
+
+House Karadol
+
+House Karadol is one of the few groups that do show you some respect because you are female.  However, you are not sure if you want their respect.  They have been true to their word on a majority of your deals, but working so close with the Empire makes you nervous.  If House Karadol was a woman, she’d be the Empire’s whore.  However, that hasn’t stopped you from dealing with them.
+
+House Shador
+
+House Shador, you sometimes say, should have been a noble house of Rodia.  Despite their extreme hardships dealt out by the Empire, they have remained reasonably strong.  They are very anti-non-human and very male chauvinistic. They are somewhat fragmented in nature, nicknamed the “Shattered” House because Sarne’s forces engaged in an intense campaign crush the house and it’s power.  Shador was the primary instigator of the Charis Revolts a few years back, where Sarne used the opportunity to remind the sector of his power.  You have found ways to deal with them, and at times you have helped them keep the communication lines open between fragments by smuggling in communiqués between them.  They are a very physically strong house, and all the members are immense specimens of humanity.  You had to fight your way to deal with some of the fragments, and you have the scares to show it (Some scars are even so distinctive, they identify the fragment they are from).
+
+House Brakia
+
+House Brakia buys one thing from you; exotic melee weapons.  They are very closed to any other type of weapons from you and are very hard to deal with in that regard.  Usually, the melee weapon market is a hard market to make a profit, but with House Brakia makes it easy.  Their products are also the best quality.  This was your primary source of melee weapons in the sector.
+
+House Kathor
+
+You try not to deal with House Kathor.  They have proven to be extremely slick in their dealings, and most of their deals tend to be more on the legal-side, and less in your direction.  You trust this house the least, solely because you hardly ever can make a profit, and never can sell the real “good” stuff to them.  They are shrewd businessmen, and you would rather not deal with them.
+Trade Guilds
+
+The Trade Guilds, on the surface, are extremely strict against smugglers and arms dealers like yourself, but you have found ways into certain cells within the Guilds that have proven to be lucrative.  These deals involve a wide range of weapons, and are always very hush-hush.  They especially ask you to make sure that information about the deals isn’t leaked out to the Church, and pay you extra for it.  Normally, when trading legally with a House, there is always a merchant member of the Trade Guilds there along with a member of the Church.
+
+Church of the Kathol Prophets
+
+The Church is a treacherous organization that has darker secrets than you’d like to know about.  You have seen many dark things happen at the order of some secret departments with in the Church.  You came across information that points to some less than reputable activities within the Church that really blurs the line that separates them from the Empire.  These activities, including murdering families, torturing, and framing innocent victims for crime, all seem to have a deeper purpose, but it is unclear what.  You rarely trade with the Church, for obvious reasons, however.  You fear that at some point the Church might find out you have this information, and send their secret death squads after you.  Avoiding the Church High Cathedral on Gandle Ott would be a good idea.
+Analia and  Gandle Ott
+Analia’s Noble House Contacts on Gandle Ott
+
+House Ik’Tal
+
+ • Lord Ambrosh J’Dar
+
+   Long haired, almost elven-looking individual, many have suspected that J’Dar was not human.  He and his family are known mavericks and eccentrics of house Ik’Tal.   He is somewhat of a celebrity because of that fact and who he, in turn, married.  He married probably the least likely person that people would suspect; a Lady of one of the oldest families in Ik’Tal.  He has a taste for exotic (and somewhat erotic) alien weaponry.
+
+ • Mavia Tanatus
+
+   She is a private assassin for one of the prominent House families, the Yudora Family.  You have been trying to trade with her for a set of plans she has of an alien attack vehicle;  something that would sell big on the market.
+
+House Karadol
+
+ • Lord Kadus Ingreshard
+
+   Ingreshard is a prominent noble on the Karadol Council.  He is also an Imperial Loyalist.  He is almost fanatical about, and expects everyone else to be at least that.  He is also somewhat a paranoid, and has a secret armed Guard detail that watches over him everywhere he goes.  You have supplied some weapons to this Guard.  These weapons are of the more concealable type; more covert.
+
+House Shador
+
+ • Baroness Ambrius Hordic’Nal
+
+   She is a bitter women.  She has a strong hatred for the Empire, and is even more vengeful than you.  She has good reason.  She lost a child, not nearly 9 months old, in the battle on Charis.  She wants to hunt Sarne down, and rip out his innards… just for starters.  She has secretly posted a bounty on Commander Bedral Lambross, for she holds him responsible for her baby’s death.  She has hired your services to arm the bounty hunters that are foolhardy enough to try for the bounty.  She is one of the Royal house scribes, and Librarian to the Shador Volumes of Knowledge.
+
+ • Sir Jurosk L’Demeer
+
+   He is one of the house top security officers, and is known for his valor while on duty during a time known as the Shadow Murders, when a member of the House was being killed every night by a mysterious killer.  He ingeniously captured the killer, and few know the true nature of the killer.  He comes to you when in need of weapons for his guards.
+
+House Brakia
+
+ • Sir Hudrus Embiab
+
+   Royal pilot to the Noble Family Erocodos, he a gluttonous man, with a taste for alien pastries.  It is unclear how you know this man, except that you woke up on a table next to him, both of you reviving from a long night of drinking, and both of you remembering losing your shirt in a sabacc game the night before.
+
+House Kathor
+
+ • HY-K4 K5-Armorer Droid
+
+   The only thing that you really can deal with from the House Kathor is a droid, and he is hard to deal with at times.  He deals with you for arms of high-quality, because the House tends to get the bargain types internally.  He is also a skilled musician, especially for a droid.
+
+Trade Guilds
+
+ • Master Remroes Yegar
+
+   Starship repairmen and re-seller, he is the man that might be able to hook you or someone you know up with a starship, if there is one to be had.  He also works for the Des’Maric Pirates, a local pirate group.  He passes on the occasional trade route to the pirates for them to attack.  You supply him with weapons, which in turn end up in the pirates hands.
+Analia’s Other Noble House Contacts
+House Ik’Tal
+Lord Issia Hambrons (Pembric II)
+In an attempt to gain more power for Ik’Tal and the Noble Houses over all, Ik’Tal sent it’s most tenacious and honorable Lord to head up the House on Pembric II.  He is a staunch anti-Cartel activist, and makes it well known.  He is at the center of the Cartel/Noble House conflict, and is not below using terrorist actions to rid Pembric II of the Cartel.  He is also the broker of the only remaining alliance between House Brakia and House Ik’Tal, which is only on Pembric II.
+Duke Genross Kiliarg (Galtea, Pembric II, Tanquilla Beach)
+The House Armorer for Galtea Palace, this man constant travels, to avoid going back home.  It’s not clear why he doesn’t like to be on Galtea, but he still serves the House on Galtea to his death.  He is commonly found on Pembric II and Tanquilla Beach.
+House Karadol
+Lord B’Gam Gormrus (Pembric II)
+Gormrus watches over all activity the House has with the Bombassa Cartel.  He is the direct contact.  He doesn’t trust the Cartel, even though he knows almost everything about them. He requires weapons for his bodyguard team.
+House Shador
+Baron Kas Ordis (Charis)
+Kas buys arms for the remaining resistance in on Charis. His deals are very secret, and you have problems dealing with him, because it risks Imperial entanglements, but the pay well.
+House Brakia
+Lord Yadius Ormfeld (Pembric II)
+Outcaste from Gandle Ott, he is a well-known boisterous, and loud drunkard that sometimes gets himself in trouble with the Noble Ladies.  He was sent to Pembric II after a bad incident with a Lady of a major family in House Ik’Tal.  The jealous husband and Lord, now wants nothing less than death for Ormfeld, and sends assassins occasionally after him.  Which is why you are in the picture, to help arm his well-paid security force.
+House Kathor
+Sir Wellingly Boron (Pembric II)
+Boron is the House Security Commander on Pembric II, and also secretly heads the secret Intelligence Department.  He is also more corrupt than anything else on Pembric II.  You don’t care about that, as long as he pays you for the weapons you get for him.  He still owes you for the last delivery, 8 months ago, a total of 8500 credits.
+The Church of the Kathol Prophets
+Father Abram Harriss (Pembric II)
+Father Harriss is a devout Prophetist, but he is said to “follow a different voice”.  He is also secretly one of the most connected arms dealers in the sector, and one of your primary suppliers.
+Analia and Tanquilla Beach
+Analia’s Contacts on Tanquilla Beach
+Boglin Ordikar  - Human Male Arms Dealer and Security Chief
+Organization: Bombaasa Cartel
+Ex-Imperial stormtrooper, Boglin was horribly wounded on the  battle of Hoth, and left for dead in the tundra until a wondering lost merchant picked up his life signs.  It is said that he lived among the Wampa for days.
+Harumos Jadric - <<Species unknown - Humanoid>> Independent Bounty Hunter
+Organization: Independent
+This man is one of the best in the sector, and who ever hires him pays for it.  He rarely does Imperial contracts, or even more rarely does New Republic.  Rumor is that a battle above his homeworld between Rebel forces and Imperial forces, brought down horrible consequences to his planets ecosystem, and nearly wiped out his race.  He has a unique mimic and shapshift ability.
+Advia Mordoc - Human Female Explorer/ Big Game Hunter
+Organization: Independent
+Former Rebel, left the Alliance after the New Republic was formed. She likes to be in a fight, but when politics are brought in, she leaves.  She deals in hunting weapons and exotic melee weapons.  You and her like to get together and talk “girl talk” every so often.  She resides in Tanquilla, but is often out in her freighter, exploring.
+Analia and Pembric II
+Pembric II
+Pembric II is a world that many talk about in the underground.  It is the central world of underground activity in the Kathol Sector. Sarne allowed it to exist because it allowed him access to the Kathol Underground, and gave him the occasional opportunity to fine-tune his forces with a raid or two.
+Pembric II was originally intended as a colony world, a meteorite-scarred ball of rock that had been terraformed to suit the needs of an agricultural colony.  Unfortunately, haphazard and careless procedures in the terraforming process have made the planet habitable, but unpleasant.  The temperature is extremely warm, and a drizzling, misty rain constantly bathes the surface.  The boggy terrain is unsuited for agriculture, and only extremely difficult engineering efforts made construction of the spaceport and surrounding city possible.
+The planet did not have many assets, but it did make the most of what it had, mainly spectacular beaches and other scenic features, including an awe-inspiring field of volcanoes.  This wasn't enough to build a proper tourist industry around, of course, since Pembric II is so far removed from galactic civilization, but savvy operators did manage to attract a certain clientele who found more conventional tourist locales too legally restrictive.  Pembric II became, in other words, a gangster's resort.
+A series of cantinas, museums and other entertainment facilities sprang up, attracting a more orderly criminal element, supplanting the unruly cutthroats and rough settlers that originally settled the area.  The planet's corporate government was willing to look the other way while criminal acts like black marketeering and smuggling occurred, as long as the credits continued to pour into the economy.  Over time, Pembric's Security Legion became well-known for corruption and graft.
+When Moff Sarne took control of the planet, it was used mostly as a mining outpost, exploiting the hfredium deposits in the system's large asteroid field.  The criminal tourist industry began to flag a bit under the new Imperial presence, not surprisingly, and the industrial activity went a long way toward ruining Pembric Il's beachfront property.  The raw ore culled from the orbiting asteroids was processed on Pembric II and shipped to Imperial arms manufacturers.
+Pembric system remained fairly corrupt under Sarne's rule; for reasons of his own, the Moff preferred to let the Pembric system remain on the shady side of the law.  He found it useful, for example, to have a pipeline into the underworld, and occasionally used the region as a training ground to hone the skills of his troops and intelligence agents (though his "crackdowns" on the region were infrequent and far from all-encompassing).
+Pembric II And The Lords of Kathol
+The Noble Houses also have a presence here, but not as strong as other worlds.  Most are outcasts from the Kathol Core, or are hiding from something or another.  The most powerful House here is Brakia, seconded by Karadol.  The two Houses here act more like gangs than houses, constantly bickering and challenging to duels.  Duels here are more common than in anywhere else.
+All Houses are basically covertly subservient to the Bombassa Cartel, a crime organization there.  The Cartel controls everything.  The Trade Guilds, and the Church are severely restricted.  The Church presence here is light at best, and the brothers you do find are not usually completely in line with the accepted doctrine of the church.
+House Contacts on Pembric II
+House Ik’Tal
+Lord Issia Hambrons
+In an attempt to gain more power for Ik’Tal and the Noble Houses over all, Ik’Tal sent it’s most tenacious and honorable Lord to head up the House on Pembric II.  He is a staunch anti-Cartel activist, and makes it well known.  He is at the center of the Cartel/Noble House conflict, and is not below using terrorist actions to rid Pembric II of the Cartel.  He is also the broker of the only remaining alliance between House Brakia and House Ik’Tal, which is only on Pembric II.
+House Brakia
+Lord Yadius Ormfeld
+Outcaste from Gandle Ott, he is a well-known boisterous, and loud drunkard that sometimes gets himself in trouble with the Noble Ladies.  He was sent to Pembric II after a bad incident with a Lady of a major family in House Ik’Tal.  The jealous husband and Lord, now want nothing less than death for Ormfeld, and send assassins occasionally after him.  Which is why you are in the picture, to help arm his well-paid security force.
+House Karadol
+Lord B’Gam Gormrus
+Gormrus watches over all activity the House has with the Bombassa Cartel.  He is the direct contact.  He doesn’t trust the cartel, even though he knows almost everything about them. He requires weapons for his bodyguard team.
+House Kathor
+Sir Wellingly Boron
+Boron is the House Security Commander on Pembric II, and also secretly heads the secret Intelligence Department.  He is also more corrupt than anything else on Pembric.  You don’t care about that, as long as he pays you for the weapons you get for him.  He still owes you for the last delivery, 8 months ago.
+The Church of the Kathol Prophets
+Father Abram Harriss
+Father Harriss is a devout Prophetist, but he is said to “follow a different voice”.  He is also secretly one of the most connected arms dealers in the sector, and one of your primary suppliers.
+Analia and Bombassa Cartel
+You have a relationship with the Bombaasa Cartel that is best described as sweet and sour. They are a good cusotmer, but recently, they have been trying to muscle you into joining them. If you did, they would cut into your profits in a big way.  They also work too closely with the Imperials for your liking.  You supply their bounty hunters and assassins with weapons, and recently, you have heard through the grape vine that they are gearing up for something big, and buying out many of your competitors in the surrounding sectors.
+Contacts in the Bombaasa Cartel
+Kadrus Kamassdigo - Rodian Arms Merchant
+Kadrus is a good dealer, who has inordinate access to the strangest weapons.  He is an exotic man, and a former lover.  You still have strong feeling for him, even though he does deal to the people you would never deal with.  His ethics are a little eschew from yours, and that is why you parted ways.  You were surprised to find him in the Kathol Sector, considering the last time you saw him, it was somewhere Coreward.
+Jackranson Ali’Eed - Human Male Assassin
+Cold, almost droid-like, man, with very specific needs, and only seems to trust you.  You actually fear this man, because of the things that are attributed to his name.  You know for a fact that he killed the last dealer he was going through, rather painfully. He has a deep hate for the Church, and revels in the jobs that make a Church brother or sister a target.  This is the delicate area for you, because the majority of weapons you get for him are through Father Harriss
+Bahan Koodra Ode’I -Barabel Arms Merchant
+Bahan is one of the best fighters and most knowledgeable weapons dealers you have ever known.  At times, he doubles as a merc.  He will work for the highest bidder and takes no sides otherwise.  He knows most of the major military activity in the area.
+

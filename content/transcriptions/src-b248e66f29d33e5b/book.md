@@ -1,0 +1,116 @@
+# _._
+
+Source: `src-b248e66f29d33e5b` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-b248e66f29d33e5b; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+D6/MasterBook
+
+![d6mb.jpg (50146 bytes)](images/785d2d08ee332683f7dbcb5bd4527f27e798de04c8560115d302ea261812d9a5.jpg)
+
+---
+
+[Back 
+![Image](images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif)](../homepage.html)
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Forward](mastbook_D6.htm)
+
+Table of Contents
+
+- **[West End Games Masterbook/D6
+            Conversion System](mastbook_D6.htm)**
+
+- **[Success Chart & Additonal
+            Interaction Skills](success_chart.htm)**
+
+- **[The D6 Combat/ Interaction Skill
+            Integration](interaction.htm)**
+
+- **[Master Deck & the D6 System](masterdeck.htm)**
+
+- **[Enhancement Cards](masterdeck_enhancecards.htm)**
+
+- [**Subplot Cards**](masterdeck_subplotcards.htm)
+
+- [**Picture Cards**](masterdeck_pic_cards.htm)
+
+- **
+
+[Cards in Combat and Interaction](masterdeck_combat.htm)
+
+**
+
+**D6/MasterBook
+    
+
+    Masterdeck Conversion**
+
+Introduction: *The Method to My Madness*
+
+The reasoning behind this is simple.  To merge what I thought were
+    the redeeming qualities of MasterBook into the D6/Star Wars Game system. "But there
+    already is a MasterBook/D6 conversion system" you say? Of course, I know this.  
+    But it does quite convert the Masterdeck system into the D6 system well.  I take the
+    conversion one step further, and use some of the MasterBook system in D6, where George
+    Strayton's system is simply a quick and dirty way to convert existing MB characters into
+    D6.  What I will do is use that system, and add the parts of the MasterBook I think
+    D6 needs.  It gives the D6/Star Wars System more structure, while holding true to the
+    simplicity and fluidity of the D6 philosophy (at least I hope it does.)  The ultimate
+    goal over all was to convert the MasterBook MasterDeck cards into Star Wars, which lead to
+    the need to convey other important aspects of MB into Star Wars/D6, including the concept
+    of the Interaction skill systems, and Results points.
+
+In this vein, I will first post the original [MasterBook/D6
+    Conversion](mastbook_D6.htm).   From there, I will begin to bring in more aspects of the MasterBook
+    system into D6/Star Wars to enhance an already good RPG system.  Make a note, my only
+    experience with D6 is the Star Wars system, so from here on out, I will reference it from
+    the Star Wars system perspective.  The primary converted systems will be the Result
+    point system, the concepts from Combat/Interaction, and the MasterDeck system. The major
+    change is that the Combat Initiative system from Masterdeck will replace the Star Wars
+    Combat Initiative system all together.  This will be explained further in the
+    MasterDeck section.
+
+To follow will be several pages of converted Maserbook rules, which were
+    scanned, OCRed, then editted.  For the sake of Copyrights and all that, anything that
+    is NOT significantly changed from the original Masterbook rules, is only reviewed and not
+    discussed in full detail.  It is assumed you have the Masterbook rules and a
+    Masterbook deck.  Pages are given at the top pf each topic where the rules in
+    MAsterbook can be found.  Refer to those when noted.
+
+---
+
+[Back 
+![Image](images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif)](../homepage.html)
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Forward](mastbook_D6.htm)
+
+[Back to Star Wars Page
+![starwars.gif (6035 bytes)](images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg)](../homepage.html)
+
+Star Wars ®, ™ & © 1996 Lucasfilm Ltd
+(LFL). Indiana Jones ™ & 1996 Lucasf ilm Ltd (LFL). All Rights Reserved.
+Trademarks of LFL used by West End Games under authorization.
+
+Necroscope © 1996 Brian Lumley
+
+Tank Girl © 1996 UA Pictures Inc. All Rights
+Reserved. Licensed by MGM/UA L&M.
+
+Bloodshadows, Shatterzone ™ & © 1996
+West End Games Ltd.
+
+Species © 1996 MGM Pictures, Inc. Licensed by
+MGM/UA L&M. All Rights Reserved.
+
+Tales From The Crypt ™ & © 1996 Tales
+From The Crypt Holdings The World of Aden TM Strategic Simulations, Inc.
+
+MasterBook is a trademark of West End Games Ltd.
+
+West End Games and the West End Games Logo are
+registered trademarks of West End Games Ltd. All Rights Reserved.

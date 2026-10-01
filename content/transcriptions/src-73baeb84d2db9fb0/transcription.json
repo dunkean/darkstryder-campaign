@@ -7,6 +7,20 @@
   "pdfPages": 22,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 22,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Lords of the Expanse Lifestyles of the Rich and Dangerous WEG40215-1.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "ad3e5e1014096007043f99cea74ed56ede13e6b63bf83e597e5379f5d2f6be9d",
   "fileHashes": {
     "book.md": "da95d0f5ca169f4db6ec0ae8251c124971f3c9c514b324d6295896a6d838db8d",
     "pages/0001.md": "e07265829d40d2f36aa0fd97dbb8a5495396796d1e7c58e3b6301b2a11ff06f0",

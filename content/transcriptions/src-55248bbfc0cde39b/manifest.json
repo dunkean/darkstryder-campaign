@@ -1,0 +1,54 @@
+{
+  "sourceId": "src-55248bbfc0cde39b",
+  "sha256": "55248bbfc0cde39b1f39e97ec8e4c664e0aae9ee5c91f36e3babf64f074b7856",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 15990,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/riftbanner.JPG"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/qmaere1.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/kraay.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/qmaere.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "ascii"
+}

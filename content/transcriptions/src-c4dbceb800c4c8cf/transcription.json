@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c4dbceb800c4c8cf",
+  "name": "DSTheSmeltingStationsofTorize",
+  "sha256": "c4dbceb800c4c8cfae0f29648b8ea7c776ef0ff4d9b7dbaf82992e3b34a6d14e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTheSmeltingStationsofTorize.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "18938fff9aa6a16986f2c2eec9a0f0b38264aaebb55dd752eecd9278f5781358",
+  "fileHashes": {
+    "book.md": "6baa5e3b9c7e070bda977833b35a1f0ab83a3f388982bb0727c5aa5667d744bb",
+    "pages/0001.md": "ce76e1e24e46ec25ed68533af544cd01d21437b77ffdca60e36d404f9e0a2032"
+  }
+}

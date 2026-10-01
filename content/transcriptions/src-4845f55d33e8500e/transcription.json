@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4845f55d33e8500e",
+  "name": "DSSLEEPE",
+  "sha256": "4845f55d33e8500e86f746ff7dd51ef225a842ff48cc31e07e7c616e7ec67f81",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSLEEPE.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "00083df1766035bb1a95dc36e505d73ec2ed8a7abd19394902443747b2524754",
+  "fileHashes": {
+    "book.md": "7c18d68185ae03065bad204f41806ec3917a825168b8683f74bbfec9e7430ee6",
+    "pages/0001.md": "8086f3f2abf8464a334bc6f83ccbd3119dc4200e26b055072bbc0e68467a65be"
+  }
+}

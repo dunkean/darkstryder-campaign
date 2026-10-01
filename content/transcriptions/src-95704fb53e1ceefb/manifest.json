@@ -1,0 +1,70 @@
+{
+  "sourceId": "src-95704fb53e1ceefb",
+  "sha256": "95704fb53e1ceefb26079e80acb58f6f1b27c1ab9b9a0b6bd43fdd6921c91ae1",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2755,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/sw.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/home03.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc.gif",
+      "origin": "images/weg.gif",
+      "sha256": "0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

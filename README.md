@@ -166,3 +166,31 @@ l'état des sessions séparément. Ce site sert toutes les données MJ sur loopb
 la visibilité des fiches est une métadonnée, pas un contrôle d'accès joueurs.
 
 Voir [docs/architecture.md](docs/architecture.md) et [AGENTS.md](AGENTS.md).
+
+## Export documentaire avant structuration
+
+Le périmètre est explicite dans `config/corpus-scope.json` : DarkStryder, SourceBooks,
+DarkStryder Addons et Guides_Rules ; Extensions est exclu. Les doublons sont
+identifiés par SHA-256, sans suppression d'originaux ni fusion éditoriale.
+
+```bash
+source tools/environment.sh
+npm run inventory
+npm run corpus:background
+```
+
+Ce processus détaché convertit les documents natifs sans OCR, copie leurs images,
+puis reprend les PDF sur un seul worker CUDA Docling, recyclé tous les 96 pages.
+Chaque document terminé est publié dans `content/transcriptions/<source-id>/`.
+Les checkpoints, journaux, modèles et fichiers d'état restent dans le runtime :
+`corpus-job.json`, `corpus-status.json`, `ocr-status.json` et `corpus-audit.json`.
+Relancer la même commande reprend les checkpoints ; un verrou refuse un second
+traitement simultané. Une erreur arrête le job sans boucle de relance aveugle.
+L'audit final vérifie la provenance, les unités, les scans et les liens d'images.
+
+Les convertisseurs locaux utilisent le venv configuré (Docling, BeautifulSoup,
+python-docx, openpyxl, Pillow). Pour les anciens Word : antiword 0.37 et ses fichiers
+de données sous `runtime/tools/antiword`, olefile 0.47 et striprtf 0.0.33 installés
+avec `pip --no-deps --target <runtime>/tools/document-libs`. Aucun appel cloud,
+aucune exécution des scripts HTML ou des macros. Les tables simples sont conservées ;
+les mises en page complexes et ressources distantes absentes sont signalées.

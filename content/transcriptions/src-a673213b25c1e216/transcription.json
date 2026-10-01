@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a673213b25c1e216",
+  "name": "BRIDGE",
+  "sha256": "a673213b25c1e216524576df30020844a69840afa7b81d1ed35888e827430e2d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/BRIDGE.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "707d74de78bf9a9fb1176574a55e7f3d4ed7e518021c60c8896ef6f2a201f386",
+  "fileHashes": {
+    "book.md": "56d5233fc83ca851de6364a134847b9aa532d0aefb7da2a701de1bba6d134d0a",
+    "pages/0001.md": "835c785719de5482ad774b0870cab1502a2928fdd3660934ef7fd8cd466a941c"
+  }
+}

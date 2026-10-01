@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-df3b71cf249da936",
+  "name": "d6_appendix",
+  "sha256": "df3b71cf249da936509507c653a60bfc35bc43aa1b55c8d20a475e5b376608e4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/d6_appendix.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "df1f0c42af2670b2c6ea4611d096c826646e3ab03c2dab2e1fb03c22631394d7",
+  "fileHashes": {
+    "book.md": "0cb6f2383a9ab01c23bed1dd7f0c189f2f4e97335feab8e13bb9d5c50a7f8a6f",
+    "pages/0001.md": "f60c7a0a65ed58658fca11fffbfee078ade579eb681df57ec89ae9423ba4e95b"
+  }
+}

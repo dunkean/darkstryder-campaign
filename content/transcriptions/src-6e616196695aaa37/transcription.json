@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6e616196695aaa37",
+  "name": "beasty",
+  "sha256": "6e616196695aaa37459bfe6489cf9f1b01f53bc75b6f670b9534fffbd1073a46",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/beasty.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4e7380da738ecf226aa71caa5aaa55f1698e825169a21e9659659f2655144d3f",
+  "fileHashes": {
+    "book.md": "b5b09cef323867ff822c089ef9b09a16c6bd9db2e1ee1e811d12cfb5268d5d3b",
+    "pages/0001.md": "5c29cc91a06ab63058308f19c3a669e05f311d854602794c92c9e4e107e8e363"
+  }
+}

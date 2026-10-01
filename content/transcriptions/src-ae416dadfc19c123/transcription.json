@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ae416dadfc19c123",
+  "name": "DSINTEL5",
+  "sha256": "ae416dadfc19c1230742bf93e17dc7c021a4a79b62a1cfc6191991b6341112d9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL5.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d207a1f5a3cf91da5123e48703848214314a1f5645ec085e58605b9ffeb7d86b",
+  "fileHashes": {
+    "book.md": "5913da212f613de0c273032ae4c4dde4a07e9d5b032eb7ecf104b7e7999684f5",
+    "pages/0001.md": "d8dc6f3e325a9da7688f37bda6219e053b923715bb528c7a0a4629b05e997aa2"
+  }
+}

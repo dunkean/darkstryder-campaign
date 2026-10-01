@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-87119184969a71d1",
+  "name": "lestar",
+  "sha256": "87119184969a71d1d3b6a690c34e865b99f3e96d9e06d76d67208070b162822b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/lestar.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3f1d8c7fe083652a662712f9f8ac981945d08a3b08bf1acc0212788226099b9f",
+  "fileHashes": {
+    "book.md": "659c17fa9002d595908f67681db3ba439e56126a0f54fb1b49b58f83d2a4795e",
+    "pages/0001.md": "e30f2a69dab3b48b2b4367ec09e94da4f35422743f22e1251fc656294c4e8e14"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e556391a87dc48e2",
+  "name": "DSSTARFA",
+  "sha256": "e556391a87dc48e23cb08932b097d436e760a5c097c1a647497399a3ca6b297c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSTARFA.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "32c68a3cad550857487022b557e7b8fdfb168fcd3f58a2e20d27a7dc158de81a",
+  "fileHashes": {
+    "book.md": "d110a250af255c86f1d6d89c84f38e41572dd4246a719d62d92bfb78c1af2670",
+    "pages/0001.md": "d7f0d80e279262ec9df59cdccf69e049c56dae3bc2dd1be94339d1a6e5d51727"
+  }
+}

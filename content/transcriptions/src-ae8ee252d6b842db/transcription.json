@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ae8ee252d6b842db",
+  "name": "masterdeck_combat",
+  "sha256": "ae8ee252d6b842db49dc2740a86b33e1dfbc24936cf1486e3b0c3e80aac403a5",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_combat.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "69fe5e18c5a090f6c002b2da27e049608ecda283c99bb33f51f7c2a22cadaa4f",
+  "fileHashes": {
+    "book.md": "ace1717897925955de6b721efe63aa7a20ca8d21b132b63e39ad73aa058d3b84",
+    "pages/0001.md": "9f17ab8de457d156c3bb34e6ce933fb1089707a1acdf84767fcec11dd834028f"
+  }
+}

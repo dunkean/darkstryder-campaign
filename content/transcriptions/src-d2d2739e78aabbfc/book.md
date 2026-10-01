@@ -1,0 +1,574 @@
+# DSTANQUI
+
+Source: `src-d2d2739e78aabbfc` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-d2d2739e78aabbfc; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Tanquilla Beach"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**"Tanquilla Beach"**
+
+---
+
+The *Farstar* was badly damaged. The Casualties were mounting. 15
+dead, more than 20 wounded with radiation burns. Engineering could not be accessed with
+out a protective suit. Loffryyn was in critical condition, with his left leg and arm
+amputated. He sat suspended in Bacta for days, with most of his fur singed off. Brophar
+was running around chaotically to make up for Loffryyn absence. The back-up hyperdrive was
+still off-line, and it looked like at least 12 hours of work for Brophar and the surviving
+engineers. There was going to be a long dry-dock period when they got to *Tanquilla
+Beach*.
+
+No one was sure the exact location of *Tanquilla Beach*, but
+Loh'Khar, Gorak, and Colonel Heget all were sure that this was the only place that the *Farstar*
+could get the repairs it needed. The Colonel mentioned a man named Spang on the station
+that was the best in the sector. However, they had to get there first.
+
+They remained in orbit around Shin'Res IV, the outer most planet in the
+Shin'Res system (system to Shintel). A salvage team was sent down to the surface to
+recover anything of use from the* Steel Fist's* wreckage. Little recoverable, but
+most of what was, Unda, Gunthar, and a few other loaded up on the assault shuttle and
+brought it onboard. Before they could finish, a sink opened beneath the wreckage, and
+engulfed it. Some parts were useful in repairing the backup-hyperdrive.
+
+| <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/steelfst.jpg]<br> |
+| --- |
+| *Steel Fist* |
+
+While waiting for the backup to be repaired, Gorak asked permission from
+the Captain to interrogate the bounty-hunter prisoners. The Captain permitted it and told
+Gorak *"Get the information however you can, but I don't want to know how you do
+it. Just keep them alive..." *That left Gorak a lot of room to play with.
+
+| <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/kolig.jpg]<br> | <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/sufar.jpg]<br> | <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/padak.jpg]<br> |
+| --- | --- | --- |
+
+*Kolig, Sufar and Padak of Qulok's Fist *
+
+From the interrogation, Gorak was able to determine that they were hired
+by Sarne, to harass and survey the *Farstar*, and report back to Sarne. They were
+able to track the *Farstar* using a hidden signal that Sarne supplied the frequency
+for. This signal apparently has been transmitting from the *Farstar* since it left
+Kal'Shebbol. The prisoners did not give up this information easily, and all three spent
+the rest of their stay in medical recovering from Gorak's attempts at persuasion, under
+tight security. Kolig himself was near death with a nail shot from a nail-gun into his
+intestines. 
+
+*"He shouldn't have called me all those nasty names"*,
+Gorak said in his report.
+
+****
+
+With the information that was supplied by Colonel Heget about the
+Darkstryder "spinal spikes", Dr. Akenseh ordered a physical for all available
+crew, claiming that the radiation leaks from the hyperdrive engine justified them. During
+these physicals, the doctor checked for any "spinal-spikes" on any of the crew.
+He found interesting readings from Dr. Hasslock, who said he had a prior experience with a
+what he suspected was a Darkstryder-derived bio-weapon when he was with a Rebels cell. The
+readings suggested that the field scientist, when near Darkstryder, had high neural
+activity in parts of his brain; the same brain area the telepathy is said to originate. He
+noted the test results in his personal logs, but wanted to watch it before he reported it
+to the captain. She had enough to worry about, and he wanted to know more about it. He had
+two "spinal-spiked" Imperials, so it was a matter of time, research and
+material, and maybe he could synthesize the effect.
+
+It occurred to Dr. Akenseh that he remembers working on a bio-agent
+similar to what was in Hasslock's blood stream, back when he was enslaved by the Moff.
+
+The Doctor, after stabilizing a majority of the injured, got a report from
+a droid assessing the medical inventory. Apparently the droid discovered a missing cyanide
+pill in his stock. Akenseh checked his security scan logs for anything suspicious. He
+watched a vid-cam recording of both Gorak and Jessa Dajus both in the same area, close
+enough to the restricted-drug cabinet to have perhaps lifted the pill. They were both
+there when the doctor was running a routine physical on the prisoner, Lord Comark - the
+same prisoner that died of cyanide poisoning a day earlier. He immediately reported this
+to the captain.
+
+The captain was struggling with the amount of dead and injured. *Was
+there something I could have done?..*. She could hear Captain Ciro's voice...*"Forget
+about it. It's war, and their blood is on Sarne's hands*. *Make him pay for
+it."* She knew that the computer system trap-doors were something that Sarne left
+behind. Evidence of his paranoia. he even thought that a little Corellian corvette could
+be a threat to him if it got in the his enemies hands.
+
+The Doctor walked into her office, and usually when he does, he had bad
+news... casualty reports, psychology profiles telling her the mission is too stressful for
+the crew, things like that. What the Mon Calamari reported wasn't good news either, but it
+definitely was something new and something very disconcerting. Gorak or Dajus could be a
+traitor. The evidence was not clear, but one of the two apparently arranged for the death
+of the prisoner Comark.... a man essential for his knowledge of Darkstryder. She expressed
+a strong warning to Gorak, even though his story seemed to add up. The Rodian claimed that
+he at times took cyanide with him on missions to protect the *Farstar's* mission.
+He had to resort to stealing because he figured the doctor would not be too forthwith in
+allowing him to carry cyanide with him. This did not satisfy the captain, but she had no
+choice. The crew was thin, and she needed every able-sentient on duty. At least until she
+had an opportunity to investigate it further. She knew this rag-tag crew was bringing more
+luggage than she liked.
+
+The NR Intel reports from Kal'Shebbol were coming in, and one discouraged
+her most of all. The New Republic had dedicated a large portion of the Kathol fleet to a
+battle for Oon Tien. Knowing how unpredictable Sarne was, she was afraid this was a
+foolish tactic. As the report read, it was.
+
+--------
+
+Report 10014:A: Alpha - Date: DS 042
+
+Report from Oon Tien
+
+Battle for Oon Tien Update
+
+The first offensive did not go well. The
+Imperials have several modified IPV-1 System Patrol ships, and at least 3 Strike Cruisers.
+All seem to be modified to enable them to make incredibly short micro-hyper jumps, to
+bring their ships within a few hundred meters of our ships, send a devastating volley of
+powerful blaster fire, then micro-jump again out of range. Their weapons also seemed
+modified somehow, because the energy behind the blaster and laser fire measured off the
+normal scales for blaster and laser fire. The Imperial tactics proved very difficult to
+counter. The first strike withdrew after 50% to 60% losses. We are requesting more ships
+from the Minos Cluster for assistance. They should be rendezvous at Gandle Ott in a few
+days. 
+
+The Farstar must remain on coarse. Any
+suggestions they might have for tactics would be helpful. 
+
+--------
+
+She called a command crew meeting to discuss any advice they could pass on
+to the Fleet at Onn Tien. They came up with several tactics, including one which uses the
+storms around the gas giants. If this was part of Sarne's plot, it was ironic they were
+using it against his own forces. ( See [NRS Farstar communiqué to
+NR Fleet at Oon Tien](http://users.vnet.net:80/seawolf/sw/ds/DStrans1.htm))
+
+Another report told her about the gate on Aaris that Bifzik and Gorak
+found and subsequently destroyed. It was a Gree Hypergate. What was the Gree doing in
+Kathol? One of the Farstar's pilot's, Trev Haynor had an up close experience with them at
+one time, and he assured that they will be visiting Kathol again "to sanitize the
+sector of their ancient technology..." If they can't maintain and keep their
+technology secret, they allow no one to learn from it.
+
+The final reports told the captain what she already knew, for the most
+part. The New Republic knew very little about Project Storm Giant and the Coming of the
+Prophet.
+
+Lt. Jessa Dajus, with the little knowledge she had of Darkstryder and the
+new knowledge of the "spinal-spikes", was worried what Sarne might have done to
+her during her time with him. When the doctor checked her out during the physicals, she
+was surprised but relieved he found nothing. But something told her that she was special.
+The nightmare she had that night increased this suspicion. The first opportunity alone she
+had, she grabbed a med-scanner, and adjusted the parameters slightly different from the
+data obtained from the "spinal-spikes", but still with in a range that still
+could be considered Darkstryder-like. The confirmation tone from the scanner made her
+heart stop. *What had Sarne done to me!!?? *The data screen displayed a pebble-size
+device on the nape of her neck, implanted inside one vertebrae. She had to decide whether
+to tell the captain or not. Now wasn't the time.
+
+****
+
+The backup hyperdrive finally was brought back-online, and the radiation
+had been vented out of engineering. Gorjaye recalled the patrols, and the ship prepped for
+jump. Thyte preflighted the nav-comps, with several back-up jump routes just in case with *Tanquilla
+Beach* wasn't a space station but a Star Destroyer. It took them 12-times the normal
+jump time to get to *Tanquilla Beach*, using the back-up hyperdrive they acquired
+on Aaris. About 11 days into the slow-hyperjump, the backup failed under the strain.
+Brophar bellowed aloud in frustration, his curses resonating through-out the hull. He
+cursed Loffryyn for insisting on being such a hands-on lead-engineer, instead of the
+lead-engineer that sits in his office and lets the other engineers do his job. If he was
+that kind of engineer, maybe he'd still be here instead of in a medical bed with one arm
+and one leg... but then again, if he was like that, they probably would never had gotten
+this far. The question is, *Is that a good thing..?*
+
+They sat on the edges of a vast nebula, swirling with a conglomerate of
+colors and debris. They called this the Wastes. They could see why. Sensors were near
+useless in the swirl of EM activity coming from the Wastes. All they could do is transmit
+and use maneuver jets to slowly navigate forward. After several hours of searching, a
+garbled transmission came back...
+
+*"Attention incoming vessel. You have entered a restricted area of
+space. You will broadcast your electronic and visual ID, and statement of intent on
+frequency 934A-3B. Please, maintain your present course until further notification. You
+are being tracked by our main batteries."*
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/tanquil2.jpg]
+The transmission identified the origin as being *Tanquilla
+Beach *station, the shadowport on the edge of the Wastes. *If this was the edge,
+I'd hate to see the inner core*, Thyte thought as he tried to locate the station on
+sensors using the transmission as a point of origin. They were transmitted proper
+coordinates, and charged 1000 cr. per day for parking orbit around the station. *1000!!!??
+For parking orbit!!???* Thyte and the captain were not pleased. They approached the
+shadowport with extreme caution, as they saw that the station was huge and well armed.
+Other ships were docked and in orbit, including a damaged Imperial System Patrol ship,
+fresh from the Minos Cluster battle. The magistrate was adamant in expressing that the
+Beach was a neutral station to all politics, and everyone is expected to observe that
+neutrality while on station.
+
+The Captain and her command crew were invited personally to the station
+commanders quarters for dinner, once the word got to him that the New Republic was coming
+on-board. His name was Bequesh, but people called him *"The Cardinal"*
+because the rumor was that he was once with the Church, and now hides out from them on the
+*Beach*. The command crew made plans for the next evening for a formal meeting of
+the commander of *Tanquilla Beach*. Thyte protested, but the Captain insisted.
+
+Shore-leave was staggered, but many were relieved to get off the *Farstar*,
+even if it was just to go to a space station. *Tanquilla Beach* proved to be a
+bazaar of the underworld; slave traders, pit-fighters, bounty hunters, and crime bosses
+all came through here. There was a station law that it was a place for neutrality, and the
+made the Farstar crew swear that even if *"Sarne were to pass through here, you
+will leave him be..." *Even the underground knows who the* Farstar* is
+after. Loh'Khar wasn't surprised.
+
+Colonel Heget and his men gave their thanks and good-byes, and disappeared
+into the crowd looking for anyone that could help him get his men off Shintel.
+
+Gorak and Loh'Khar both had strong contacts on-board the station, and
+pursued opportunities with them. Meanwhile, Dervious was approached by his old friend
+Clarke again, who he met in an unnamed "wretched hive of scum and
+villainy..."...
+
+*"I hear that you're command staff has a dinner date with the
+Cardinal himself... I want in. I have a few questions for his eminence. Arrange for me to
+be a command crew of the Farstar for this dinner." *Clarke thought that maybe the
+Cardinal might know something about this "Coming of the Prophet". Clarke was
+sure it was related to why Tremayne was here in the sector. *"If dragons failed
+him, he might be begging some prophets for power..."*
+
+*
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/tremayne.jpg]
+*
+
+*
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/clarke.jpg]
+*
+
+Tremayne
+
+Clarke
+
+Dervious felt confident that he could persuade the Captain, and the
+Captain used the opportunity to leave Thyte in charge of the bridge while the were at
+dinner. That pleased the grumpy bridge officer. 
+
+****
+
+Brophar was directed by station command to Spang's shop, where he met
+Spang himself and his daughter Fia. He had heard about Spang, and the rumors he was once
+an Imperial engineer for some the Empires most prized R&D projects stations, including
+the *Arch Hammer*. Upon meeting the gruff old man, he could never imagine the man
+in an Imperial engineers uniform. Brophar dropped the data pad of damage assessments in
+front of the man, and he shrugged. *"I'm busy with the Cardinal's personal assault
+yacht... I'm afraid it'll be a month before I can get to it. I have the hyperdrive systems
+you need, but don't have the time... It's be 50,000 cr., if you are willing to wait.*
+
+*"For the computer problems, you need to see a guy named Drake on
+Pembric II. He knows the best slicers on Pembric II, some who used to work for Sarne
+himself."*
+
+This was unacceptable. Despite his expressions of urgency, Brophar could
+not change the engineer's mind. A young voice from behind an old Y-wing hyperdrive
+motivator piped* "What about me daddy? I can do it, with your secondary team of
+droids..." This girl could not be a day over 16 standard years*.
+
+Brophar raised an eye-brow in doubt. "*I taught her everything I
+know. She's good, don't under estimate her."* he heard the engineer say.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/spang.jpg]
+
+She took the data pad..*"Two weeks. I'm going to need the specs
+for the coil mounting assembly, any specs on modifications done to the hyperspace field
+dampening resonance, plus complete access to primary and secondary engineering. I need you
+nav-comp version number and operating system parameters.... "* Brophar struggled
+to keep up with her. *"... and I can even do it for 45,000 cr...."* she
+smiled. Brophar was impressed.
+
+****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/qesya.jpg]
+Gunthar was wondering about on the station, when he saw something he thought
+he would never see... others of his own race. They were in a pit-fight down new the Lock,
+the cavernous cargo bay of the *Beach*. Something burned deep inside his primitive
+heart... rage. They were enslaved in the pit-fighting ring of *Tanquilla Beach*,
+and with help, he would free them. He went to Qesya Vth'Naar the Sludir Warrior for help.
+Almost a mother to the sometimes-naive Gunthar, the Sludir female accepted the request.
+They both knew what it was like to be enslaved.
+
+They ambushed the pit-fighting slavers after the slavers had been through
+a session of brutal pit-fighting. They were all too tired and fell quickly to the melee
+blows of the two aliens. They freed the small group of slaves. Gunthar comforted the
+frightened creatures, and offered them a place on the *Farstar*. They graciously
+accepted, and he lead the to the shuttle bay. They couldn't stay on board the *Beach*,
+too dangerous.
+
+As Gunthar brought them to the shuttle bay, the two freed slaves gasped at
+what they saw and ran off. Gunthar turned towards the bay to see the command crew
+unloading off the shuttle. He was confused. What had scared them off? he ran after them to
+find out. When he caught them, he insistently requested an explanation. *"The one
+that sold us... the slaver that sold us. He is with you. The green one that sold
+us..." *This enraged Gunthar. He made plans to confront the Rodian after he
+returned from the dinner with the Cardinal.
+
+****
+
+The command crew did not trust this man calling himself Clarke. He was to
+pose as the bridge officer of the Farstar all of the sudden, and they were act like it.
+Clarke told this story of high Inquisitor Tremayne and supposed death. He had gotten
+information that the re-arising Tremayne name is related to the Coming of the Prophet. He
+was concerned that this might be the real Tremayne or a clone, and he had to stop it.
+After a few moments of distrust and awkwardness, the group agreed to allow it. 
+
+The dinner was extravagant and plentiful. It was the best food they had in
+months. The cardinal was a gracious host, only inquiring about the New Republic's
+interests here. He expressed strongly that any information he gets from them remains with
+him, as was the case for anyone, including Sarne. He was not an info-merchant. This did
+not look good for Clarke. he pressed the old man for information about the Coming and it's
+meaning. Before someone could stop him, the cardinal flared up and almost hit Clarke,
+despite the old man's age and physical limitations. He gathered himself and calmed down
+and turned to the group.
+
+*"Apparently, Mr. Clarke here is desperate in finding out
+information about the Coming or the Arrival as some call it. Well, Since it's Church
+information, I am willing to share...*
+
+*"The Church has been buzzing with this event for centuries. They
+listen to the voices in the Sanctuary, which promise of the Coming of the Prophet, who
+will rule Kathol it his benevolence...*
+
+*"Three hundred years ago, the Church was started when several
+explorers found some ancient devices on Gandle Ott. These devices, when used, miraculously
+brought one to an ancient alien fortress in the middle of what is now called the Kathol
+Rift. There, the voices are heard. This fortress came to be called the Sanctuary. And thus
+the birth of the Church of Kathol Prophets. *
+
+*"The Coming is an event the voices promise will come one day, and
+at that time, the Great Prophet will rise to rule the galaxy, and all that follow him will
+he rewarded. This is what the majority of the Church atone... the majority but not all.
+There are those who listen to other more quiet voices... the Voices of the Light Prophets.
+We stand to between the Rift and the Darkness, we are the Church of the Light Prophets...
+we want to stop the Coming, because we know the truth, The prophet the majority listens to
+is dark and ancient. It is and ancient evil that is manipulating the Church and has been
+for centuries. They are resurrecting a dark force more powerful than the Emperor
+himself..."*
+
+*"Resurrecting???" *Clarke said inquisitively.*.."Do
+they need a vessel for this resurrection?"*
+
+*"Yes, the ceremony of the Arrival calls for 'worthy body' to
+receive the Prophet." *the Cardinal shifted in his repulsor chair.
+
+*Could this be why Tremayne (or Tremayne's body) is here?* Clarke
+thought. He turned to Adrimetrum *"Captain, I want to stop the Arrival, and I'll
+need your help. I will follow along with you until our paths diverge. I'll need a few of
+your people to help me stop this from happening, including Dervious. I'm sure your Sarne
+is involved in this in some way."*
+
+The Storm Giant and Death-Hunter Project both were to be completed at the
+time of the "Coming of the Prophet", according to Bifzik's data recovered from
+Shintel and Cuthbert. This was the obvious tie in. She agreed to help Clarke in his
+endeavors.
+
+*"The nearest parish of the Church of the Light Prophets is on
+Galtea. Go there and you might have a way to get to the Sanctuary."* The Cardinal
+said in closing.
+
+The dinner ended as it began; cordial and polite. Thanks were passed
+around and the command crew retired back to their ship to plan the mission ahead.
+
+The *Farstar* was already going through the primarily procedures
+for repairs. Brophar and Fia were working together to get 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/repair.jpg]
+the *Farstar* up and
+running ahead of schedule. 
+
+The word got around that shore leave was going to be extended. The crew
+was told they had roughly two weeks to spend on this station. Most planned on taking
+advantage of it. The doctor with Loh'Khar help, set out to search for limb replacements
+for Loffryyn. Other planned to browse the vast markets and bazaars looking for the one
+piece of black-market merchandise that would make their arsenal complete. Samarion was on
+a mission to find a set of armor that would actually fit him. Dervious was looking to
+improve himself... cybernetically.
+
+****
+
+Upon his return from dinner, Gorak was confronted by Gunthar. He accused
+the Rodian of being a slaver, and Gorak stared back into the aliens face coldly. *"I
+have been as loyal to the Farstar as you have. You should know where my loyalties lie. I
+don't know anything about slaving." *he said. 
+
+*"I'll be watching you"*, the huge alien barked back.
+
+Soon after this conversation, Qesya Vth'Naar disappeared from the crew
+roster.
+
+****
+
+Jessa Dajus found herself wondering about the station at one point, during
+their stay. She was lost in thought, considering the strange and horrifying turn that her
+dreams have taken, and the presence of the "pebble" in her neck. Her hatred for
+Sarne grew with every step she took. She was sitting at another unnamed bar when a voice
+came up from behind her.
+
+*"Jessa Dajus. What brings you to this corner of the Sector?
+Didn't think Sarne would send his most prized..."*
+
+Dajus got up to leave ignoring the voice. She recognized him as Lt.
+Sanronsan, a grunt from the Minos Cluster. He served under Sarne as part of the Moff's
+attempts to tame the Cluster. Dajus had some dealing with this one in the past, and most
+were not pleasant. As she walked past him, she smelled the Corellian Brandy on him. This
+was going to get dangerous quick, if she didn't leave soon. She couldn't afford an
+embarrassment this late in the game.
+
+*"What is Moff Sarne's personal concubine doing on a desolate
+station like the Beach? Has she had a falling out ... of his bed.. Haa ha ha ah..."*
+She hoped no Farstar crew was in that bar. It would be a shame to have to kill them.
+
+Upon leaving, she spotted another Imperial enjoying in the revelry. She
+stopped and stared. It was Commander Bedral Lambross, one of Sarne's cronies responsible
+for the massacre on Charis. What would House Shador do if they could get their hands on
+him? They were nearly wipe out as a result of the Charis incident. Lambross has the blood
+of thousands from House Shador on his hands. She had to contact someone.
+
+She got aboard the Farstar during one the slower repair shifts, and got to
+the bridge communications station. She hoped that the nebula wouldn't interfere with one
+quick encoded hyperwave message to House Shador on Gandle Ott. All she had to do is wait.
+It might take a few hours, but she had all the time in the world. With only the security
+droids to keep her company, she fell asleep on the darkened bridge... and had another
+dream.
+
+****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/fejdaw.jpg]
+SLAVE and Dervious were shopping in one of the 12 levels of the
+bazaar on Beach, when they were approached by a klatoonian that seemed to know SLAVE. His
+name was Fe'j Daw, and he used to work for Chuborro the Hutt, Kathol's resident Hutt boss.
+The exchanged greetings, and Daw got right to the point. he needed their help. There was
+an air of paranoia and fatigue about him. He was disheveled and dirty, and looked like he
+had been hell. 
+
+*"My boss, Nawnam, is willing to pay well within the 6 digits if
+you could provide him passage..."*
+
+Boss? Apparently he had a falling out with Chuborro. Who was this Nawnam?
+SLAVE directed him to Gorak, saying he had no authority to allow any new passengers on
+board. Gorak was reluctant until he heard the credits... 
+
+*"6 digits? What do you want to get away from to pay that
+much?"* Gorak asked.
+
+*"You will have to discuss that with my boss. He is hidden in the
+Lock, I know the way. Please follow."*
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/nawnam.jpg]
+The journey to this "hiding place" was a treacherous one
+threw maintenance corridors, air-shafts, ventilation conduits, and sewer drainage pipes.
+The klatoonian apparently set up several booby-traps along the way. They stopped
+periodically to disarm those. When the reached a remote corner of the cargo area of the *Beach*
+- the Lock - there sat his boss, Nawnam, the Hutt. He was wounded, and not happy. F'ej Daw
+admitted to Gorak that people want them dead, and are hunting them down on behalf of
+Chuborro the Hutt. Nawnam attempted to kill Chuborro, and obviously failed. One of the
+most prominent bounty hunters in the Minos Cluster is after them,... the Twi'lek with One
+Tentacle.
+
+"*Great*", Gorak rolled his eyes. *"This better
+be worth it."* As it turned out, the Hutt was willing to pay 150,000 credits to
+get off the Beach... well worth it. The Farstar's budget will increase by 100,000 cr. (*"I
+had to keep some for myself"*). He would approach the captain after he dealt with
+the bounty hunter prisoners. He was sure they had a bounty on there head too. He contacted
+an old Houk friend of his who worked for his former employer. 
+
+*"I have some people that are wanted, I need to find out by who
+and how much are they willing to pay. I have Qulok's Fist in my hold right now."*
+
+*"Well, Chuborro the Hutt himself wants them for 26,000 Cr. I can
+easily arrange the transaction..."*
+
+*"Good, but don't skim me this time. I know what you are doing
+with the organization's treasury here..."*
+
+The *Farstar* was going to get a boost in it's budget, which it
+needed badly. 
+
+****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/patrol.jpg]
+Gorjaye, realizing that the *Farstar* was vulnerable and there was no
+guarantee that the guns of *Tanquilla Beach* would defend her if Sarne was to drop
+in, ordered regular X-Wing patrols in the near area around the station. With permission
+from the stations security force, the X-Wings patrolled along a predefined coarse. *Tanquilla
+Beach* had certain areas that they didn't want patrolled, most of which were areas
+covered by automated laser battery systems. Sooni Nubera, Cobb Unsor, and Trev Haynor were
+on patrol late in their two week stay when they strayed off into the Wastes deeper than
+before. Sooni had picked up odd readings on his scanners and decided to get a little
+closer. A piece of space debris was not moving like the others, almost completely contrary
+to the others. He comm'ed to Gorjaye for permission to check it out. Unsor and Haynor
+groaned in exasperation. *"What is this Sullustan getting us into now?" *
+
+It didn't take long for Sooni and his wingmen to find out. The piece of
+debris suddenly morphed into an Imperial System Patrol Ship, and opened fire on the
+X-wings approaching. The fighters veered off, taking defensive maneuvers but not firing
+back. The sped towards the station, with the Imperial in pursuit. When they were with in
+range of the station's weapons, the main batteries opened fire, and reduced the Imperial
+ship to vapors. The station also fired ion blasts at the X-Wings, disabling them. Over
+their Comlinks, they heard *"Security Chief Hella Brun will see you after you are
+tugged to dock with your ship. You have violated the neutrality of Tanquilla Beach. Bring
+your Wing commander Gorjaye as well."*
+
+The Security Chief was not pleased with the actions taken out in the
+nebula, accusing the *Farstar *patrol of provoking the Imperial ship. She even
+ignored the in-flight recording showing the ship firing first. She summarily raised the
+docking fees of the Farstar 50%. This did not please Captain Adrimetrum, who brought the
+issue up with the Cardinal. He sympathized with the Captain, and rescinded the order. He
+apologized for the inconvenience.
+
+****
+
+Jessa Dajus had received her communication from House Shador a few hours
+later, and was on her way to meet with her House Shador contact on *Tanquilla Beach *for
+the second time*.* The commination gave her the name of this man, and asked her to
+help them in capturing the Imperial to stand trial. They were willing to pay her for her
+help. In need of money, she decided to do what was against her best instinct; get
+involved. She had planned to just show him where Lambross was, and let the House Shador
+thugs handle it. Of course, that's not how things worked out.
+
+She was able escape the fray that ensued when Shador made it's move, but
+she didn't see Sanronsan when he turned the corner. It was amazing how bad a shot he was
+despite his training. Perhaps he was still drunk. She shot him coldly, saying *"I'm
+no one concubine, scumbag..." *
+
+She was awarded 5000 cr. for her help, and a title in House Shador. She
+really didn't know what to do with the title, but at least she might have someone to turn
+to when things fell apart on the *Farstar*, and she expected that to happen soon.
+
+****
+
+The *Farstar* lumbered away from the *Tanquilla Beach *station
+a new ship. The hyperdrives were expertly installed, and Loffryyn was back on his feet
+after receiving a new leg and arm. Brophar was relieved his friend was well, and that he
+could rest a while. The crew replenished it's stores of food and other consumables, hired
+new crew from the crowds on board the *Beach*. Engineering was back on-line, and
+ships systems were working with in normal parameters. The captain was still not pleased.
+The were more trap-doors, and they had to be dealt with. A huge wounded renegade Hutt was
+in her hold, making thing difficult for her. She had members of her crew with hidden
+agendas. Everything wasn't as perfect as it seemed.
+
+They had a lead to a man named Drake on Pembric II. Loh'khar and Gorak
+both confirmed that Pembric II was the heart of Kathol's underground. With Sarne leaving,
+it is definitely going to be thrown into a power struggle soon.The Noble Houses and an
+organization called the Bombaasa Cartel were vying for control of the planet. This was
+also the planet the Hutt wanted to be dropped off on. They laid coarse and started
+planning an infiltration strategy to find a man called Drake.
+
+---
+
+[Previous](DSShintel.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSShintel.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSPembric2.htm) 
+
+[[Image locale absente : ../../icons/timeline.gif
+Back to Timeline](DStimeline.htm)

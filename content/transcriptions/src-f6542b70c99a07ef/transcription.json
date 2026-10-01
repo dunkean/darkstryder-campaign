@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f6542b70c99a07ef",
+  "name": "DSPembric2",
+  "sha256": "f6542b70c99a07ef6b512277ee253f177b13353c99c9d1460e42850c89121933",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSPembric2.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f563bdc07bcce1bfdbf809f9f781c77cdcbb9121fe4448f1244bf89d55f66953",
+  "fileHashes": {
+    "book.md": "559f9ceceed8ce207be6f3c3f5b0958f51257f4daef2677236b5e9aee7955e1a",
+    "pages/0001.md": "62ae720b603e7e427f4c65361744a3e820649fd864fc3263292a1d1c495a00c4"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d7fd516687cd8a23",
+  "name": "Imperials of the Kathol Sector",
+  "sha256": "d7fd516687cd8a23e649b214fa655e8d62c7146a530731788d2bef7dc39ab38c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Imperials of the Kathol Sector.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Imperials of the Kathol Sector.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "88e48bd03e27d81b405270cbce2c1a1aaff1f183c2c078d26275988426ed911d",
+  "fileHashes": {
+    "book.md": "eeb177cc225ce2dd2867b4df4d9ddd84e88573a2a4a24b2b11f876a091465091",
+    "pages/0001.md": "fdbe5871f1495b6ab9b055a088cb0081350824e7398da5a66727862dbccc07c0"
+  }
+}

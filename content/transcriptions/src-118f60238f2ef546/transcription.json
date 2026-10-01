@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-118f60238f2ef546",
+  "name": "Ron",
+  "sha256": "118f60238f2ef5466f8fb9c0d5f7321525969bd56c4c528520c123526a258df3",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/Ron.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e75bb8b68479b59751c1edafb4d1aa80b244975e433bb05a489dbcd63b3a73cc",
+  "fileHashes": {
+    "book.md": "fc14c031be742902d4fc1deb876fac43b4d85c3bf11cf982e456441e21c52e92",
+    "pages/0001.md": "c1cac37d2a9703b18cd6f85653fdeb409b019defb543f41436da56f201b33089"
+  }
+}

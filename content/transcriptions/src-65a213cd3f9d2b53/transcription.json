@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-65a213cd3f9d2b53",
+  "name": "Dsuukaab1",
+  "sha256": "65a213cd3f9d2b532adbab81b3478762d7f3a7575f12f3f8c9d1023ab0ac422f",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsuukaab1.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a0db2fbccca4bdf7f885a4f2b740db09daef8b7ef47451ba7288430eef1e4b32",
+  "fileHashes": {
+    "book.md": "c5ccf023151e10078aefe84abf78df3027f562faec5fad067e23e23520d91ca6",
+    "pages/0001.md": "bb8fa0291578eb0ef26b7163b95cca9f18bef45502d0bf7c328706cf350e473d"
+  }
+}

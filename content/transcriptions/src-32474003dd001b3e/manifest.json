@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-32474003dd001b3e",
+  "sha256": "32474003dd001b3eff15af00264112605a1c8e63af911f4088e5db4f595f4b00",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8301,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/a58ff1667c37337b922d594670680fc7941d573ab4d3a5405c2705704543ba99.jpg",
+      "origin": "images/lohkhar.jpg",
+      "sha256": "a58ff1667c37337b922d594670680fc7941d573ab4d3a5405c2705704543ba99"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -1,0 +1,44 @@
+{
+  "sourceId": "src-d8d7529ddcb9d31b",
+  "sha256": "d8d7529ddcb9d31b7531d59a4238c7d049d3eece48e6cf81b33450dbd6bb6592",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8859,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/qesya.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif",
+      "origin": "../../icons/yl_l_arr.gif",
+      "sha256": "2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae"
+    },
+    {
+      "file": "images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif",
+      "origin": "../../icons/yl_r_arr.gif",
+      "sha256": "0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064"
+    }
+  ],
+  "encoding": "ascii"
+}

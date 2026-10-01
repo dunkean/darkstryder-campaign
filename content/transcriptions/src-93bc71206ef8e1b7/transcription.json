@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-93bc71206ef8e1b7",
+  "name": "JDRVirtuel • Afficher le sujet - La Saga DarkStryder",
+  "sha256": "93bc71206ef8e1b71dc8cfcde818fd9aa9f17a2ea235ad74d77f956a97d47527",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - La Saga DarkStryder.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a6f446c5ff834df9973365bc5a69377e1cc4c94875fe88130e5880ce8cff6080",
+  "fileHashes": {
+    "book.md": "557b3d76956eedc636a748ab87af76a8bfb95678afc8822a37884b85087cfcc5",
+    "pages/0001.md": "fa1b85823922ce1c47420401c8db548173afa36db589c1affd81fdc371910822"
+  }
+}

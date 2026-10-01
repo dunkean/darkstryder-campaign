@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-25017bfe3dc3fd7b",
+  "sha256": "25017bfe3dc3fd7bbbaa7e0a290e2c4d6ba4ba7a00a42531756a97c81a7b5619",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 9603,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/1c2bdc6836de4c8fcdbdb24e6e94c7fe90245d0ee6270f8263b454f323592131.jpg",
+      "origin": "images/jessa.jpg",
+      "sha256": "1c2bdc6836de4c8fcdbdb24e6e94c7fe90245d0ee6270f8263b454f323592131"
+    }
+  ],
+  "encoding": "windows-1252"
+}

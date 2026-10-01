@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f5d4a3c2972c73e3",
+  "name": "dstime",
+  "sha256": "f5d4a3c2972c73e330cd8fd7a525f993a0cda58562117eee0d8c153afd2e9106",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/dstime.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d5ad08cb229e2ce3010db84a03d32307c66795c09720e606257ca4a1a6db2daf",
+  "fileHashes": {
+    "book.md": "7adbbc7941f07bd19a47dfb790af515bf3b12a83b126c7a813644d8e5e5424a2",
+    "pages/0001.md": "f95a7f569f125ef338608d7fecf8fbc5f358d2c420cd3936bf73e9523032b8f5"
+  }
+}

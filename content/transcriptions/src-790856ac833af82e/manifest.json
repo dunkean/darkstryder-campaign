@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-790856ac833af82e",
+  "sha256": "790856ac833af82e6d73efe7f4e9aa1e54e318a048ca91b3d7653f8baaba35b3",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 27267,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/3ea67e4245b67bca6468f4ef9db7485953de52cfc3eb08a69579ca35398aa605.jpg",
+      "origin": "images/outriders.jpg",
+      "sha256": "3ea67e4245b67bca6468f4ef9db7485953de52cfc3eb08a69579ca35398aa605"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

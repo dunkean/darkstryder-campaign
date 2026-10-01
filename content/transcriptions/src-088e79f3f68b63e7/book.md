@@ -1,0 +1,42 @@
+# TIST
+
+Source: `src-088e79f3f68b63e7` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-088e79f3f68b63e7; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Vegath Tist
+
+# Vegath Tist
+
+## Mineralogist/ Geologist, New Republic Starship *FarStar*
+
+Played by [Jeff Rodger](credits.html#jeff) in Season 2 and in the spin-off *[‘Darkstryder: Resurrection’](resur.html)*
+
+ 
+
+![Tist](images/4a3f72c21b80824b995a1c958eec99b0ad84447383f46ef080c356f0b0eb1c3c.jpg)
+
+Vegath Tist is an outcast Arcona, shunned by his family for some unknown deed, but possibly due to his intense addiction to salt. Tist claims he's a geologist by trade, and has spent many years seeking his fortune.
+
+ 
+
+In reality, Tist is little more than a speculator. While he does have some mining skills, he's mostly used to striking out on his own, following get-rich-quick schemes and investing what money he has in fruitless scams. For a while, he was indentured in the Mestra system, the Minos Cluster - he worked for an asteroid mining company, until he decided to flee the system with whatever he could grab. Tist's expeditions led him to Kal'shebbol, where a local small-time crime boss fed his salt addiction and used his talents with explosives. Tist joined up with the FarStar crew under the guise of a mineralogist. However, he's hoping to strike it rich somewhere out there in unexplored space, where he can stake his own claim to any land rich in gems and precious metals.
+
+ 
+
+Tist's greatest vice is his addiction to salt. He carries a pouch of salt which he is constantly fidgeting with. 
+
+ 
+
+***
+
+The Spin-off ‘Darkstryder: Resurrection’ Update:
+
+ 
+
+***
+
+Tist parted company from the landing party in the final stages of the Battle of Kathol. He struck out on his own to try and find more Darkstryder artifacts, and was left behind when the FarStar left. He joined up with a small party of refugees, but his greed for Darkstryder crystals drove him apart from that group too. Tist allied with the resurrected incarnation of Darkstryder, and met his end at the hands of Corporal Dwain ‘Matey-Boy’ Palme.

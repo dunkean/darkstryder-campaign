@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8b70fdf8275a2959",
+  "name": "ronrules",
+  "sha256": "8b70fdf8275a2959d003c917f462d21f81fb50b86b79afa034d8850f6996bb62",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/ron/ronrules.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "dfee6c7096a13329355b5da19346c4dc5b24dff35638d23856e1fbf01328634c",
+  "fileHashes": {
+    "book.md": "6ccebb006775e703dab8cf4a1378883351d9917899f072b482dab21c762ea312",
+    "pages/0001.md": "3f6758e1545c9af9043bc8971ae299be32473dfdd95fc455753b7edf596ef0ed"
+  }
+}

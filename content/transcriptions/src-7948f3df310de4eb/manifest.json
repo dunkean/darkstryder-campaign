@@ -1,0 +1,26 @@
+{
+  "sourceId": "src-7948f3df310de4eb",
+  "sha256": "7948f3df310de4eb6882d0ab25f2c104eed3d801c9758fccba56de4e8677df16",
+  "engineId": "local-document-conversion-v1",
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "doc",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1683,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "legacy-word-layout-approximate",
+      "note": "Text and tables via antiword; headings/layout require original verification."
+    },
+    {
+      "kind": "legacy-word-media-recovery-limited",
+      "note": "Only decodable embedded PNG/JPEG recovered; original retained for other image types."
+    }
+  ],
+  "media": []
+}

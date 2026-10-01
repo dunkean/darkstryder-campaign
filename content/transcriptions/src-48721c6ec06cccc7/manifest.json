@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-48721c6ec06cccc7",
+  "sha256": "48721c6ec06cccc727e99d715c1c578658cd0825c063e73393faf9846d028dd6",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8371,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/c2c920099da17948cc8814a227983209b3e5be12796b542a5770c5a2ef22b0c1.gif",
+      "origin": "images/tamarasmall.gif",
+      "sha256": "c2c920099da17948cc8814a227983209b3e5be12796b542a5770c5a2ef22b0c1"
+    }
+  ],
+  "encoding": "windows-1252"
+}

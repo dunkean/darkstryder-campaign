@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-34741bd869b41134",
+  "name": "DSTheNobleStar",
+  "sha256": "34741bd869b4113491ed121712bfb4dde4f8e512cc5c3449c724d9aa6b295fbe",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTheNobleStar.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "299560269dbd86ac20a228a23c4d1885500e5389ffbcd4db025fedf6cfadbc2f",
+  "fileHashes": {
+    "book.md": "779752b2ada53bcf7a1eae58ad8d09034d9471543c7789e676160fdb5bfaa9bf",
+    "pages/0001.md": "08843d7e4a15c0c1574d9e3d46daa4dfe35ac962082368fe18e373f4102267c8"
+  }
+}

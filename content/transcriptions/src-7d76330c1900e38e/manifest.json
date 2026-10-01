@@ -1,0 +1,295 @@
+{
+  "sourceId": "src-7d76330c1900e38e",
+  "sha256": "7d76330c1900e38e8fd8e32557d5fba50fde1d73ec9d6eb210881f3767403a9b",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 80144,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1.png",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/site_logo.png",
+      "sha256": "68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1"
+    },
+    {
+      "file": "images/43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_mini_login.gif",
+      "sha256": "43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75"
+    },
+    {
+      "file": "images/65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_mini_register.gif",
+      "sha256": "65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b"
+    },
+    {
+      "file": "images/30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_mini_faq.gif",
+      "sha256": "30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1"
+    },
+    {
+      "file": "images/605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_mini_search.gif",
+      "sha256": "605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/345d325d7f81833454af185da7191c11825f46ccae3830fa81222d72c6e05e4b.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100923070226731126806042.jpg",
+      "sha256": "345d325d7f81833454af185da7191c11825f46ccae3830fa81222d72c6e05e4b"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/60196274c8130f8fe9c89057d1749964e0386cfbc889189b50ed2b75f850186f.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919013128731126776575.jpg",
+      "sha256": "60196274c8130f8fe9c89057d1749964e0386cfbc889189b50ed2b75f850186f"
+    },
+    {
+      "file": "images/133fc54a66376a319aed20080ec10950f802dcefae47020600df4cb7f352d83f.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919013143731126776577.jpg",
+      "sha256": "133fc54a66376a319aed20080ec10950f802dcefae47020600df4cb7f352d83f"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/49579e1240661a07d11e0d26b6475055a50ef0860f44f34b878ec4055ee249a2.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100923065914731126806020.jpg",
+      "sha256": "49579e1240661a07d11e0d26b6475055a50ef0860f44f34b878ec4055ee249a2"
+    },
+    {
+      "file": "images/a0791231fd1ad2b7ba05c7cfa01393d3a434010724fc4de2c8c3372b626d08dc.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919013122731126776574.jpg",
+      "sha256": "a0791231fd1ad2b7ba05c7cfa01393d3a434010724fc4de2c8c3372b626d08dc"
+    },
+    {
+      "file": "images/efa831c99fae4e8da7a3c0213eab2304a13a581866e5a51761552a082466d139.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/110427092604731128066115.jpg",
+      "sha256": "efa831c99fae4e8da7a3c0213eab2304a13a581866e5a51761552a082466d139"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/c31af34fe3161be928f3e87de1b0b0a2067fddec441bdbd7650497923b69e66d.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919013132731126776576.jpg",
+      "sha256": "c31af34fe3161be928f3e87de1b0b0a2067fddec441bdbd7650497923b69e66d"
+    },
+    {
+      "file": "images/c1a6c5f76bc9ebfaed0c64562a52677fb7ba50f5f2fa5d99d69a4bf3f93eb18a.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919013036731126776554.jpg",
+      "sha256": "c1a6c5f76bc9ebfaed0c64562a52677fb7ba50f5f2fa5d99d69a4bf3f93eb18a"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/ac555d1cd557346056488fa1df715e554af3e9b7c295a2df720a73dcde0e0a75.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/100919023448731126777196.jpg",
+      "sha256": "ac555d1cd557346056488fa1df715e554af3e9b7c295a2df720a73dcde0e0a75"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/bb94e2b7bf2765c6bd474faa68a75ecd256ae14dd961d235759588202e7b71d5.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/110702114939731128415427.jpg",
+      "sha256": "bb94e2b7bf2765c6bd474faa68a75ecd256ae14dd961d235759588202e7b71d5"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/5149e637fab41d4e7b88ad43bb6a57dbd6a10460f3bc9d5d72e0943323c66873.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/111015073332731128902688.jpg",
+      "sha256": "5149e637fab41d4e7b88ad43bb6a57dbd6a10460f3bc9d5d72e0943323c66873"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - L'Étoile Lointaine_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    }
+  ],
+  "encoding": "utf-8"
+}

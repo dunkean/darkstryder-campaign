@@ -1,0 +1,42 @@
+{
+  "sourceId": "src-bdb87d9310232540",
+  "sha256": "bdb87d931023254023472463c7b83ef4580fe63bc883f6720f032c43c887abc0",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 12845,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/sprwlesc.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "ascii"
+}

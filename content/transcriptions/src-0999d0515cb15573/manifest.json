@@ -1,0 +1,42 @@
+{
+  "sourceId": "src-0999d0515cb15573",
+  "sha256": "0999d0515cb15573b97881ee902bf75bda601c1c71d596644a28190d7dd1dab2",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7893,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/twr1.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    }
+  ],
+  "encoding": "ascii"
+}

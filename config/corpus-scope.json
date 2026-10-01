@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "include": [
+    {"path": "Material/DarkStryder SourceBook", "collection": "darkstryder", "provenance": "published-source"},
+    {"path": "Material/SourceBooks", "collection": "sourcebooks", "provenance": "published-source"},
+    {"path": "Material/DarkStryder Addons", "collection": "addons", "provenance": "campaign-addition-unreviewed"},
+    {"path": "Material/Guides_Rules", "collection": "guides-rules", "provenance": "reference-unreviewed"}
+  ],
+  "exclude": ["Material/Extensions", "Material/App"],
+  "skipSources": [
+    {"id": "src-13b156cf43fd4f8a", "reason": "Galadinium’s Fantastic Technology : PDF cassé, exclu à la demande de l’utilisateur. Original conservé."},
+    {"id": "src-9924922776fe2cd6", "reason": "Galaxy Guide 1 — A New Hope : aucune page détectable, exclu à la demande de l’utilisateur. Original conservé."},
+    {"id": "src-1af1e1b994ff3683", "reason": "Special Edition Sourcebook : aucune page détectable, exclu à la demande de l’utilisateur. Original conservé."}
+  ],
+  "documentExtensions": [".pdf", ".doc", ".docx", ".xlsx", ".htm", ".html", ".md", ".txt"],
+  "mediaExtensions": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".tif", ".tiff"],
+  "archives": "inventory members, reuse extracted duplicates, extract unique members into runtime only",
+  "interpretation": "No editorial merging or structured campaign data generation at this stage."
+}

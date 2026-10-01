@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-55248bbfc0cde39b",
+  "name": "DSHARMSW",
+  "sha256": "55248bbfc0cde39b1f39e97ec8e4c664e0aae9ee5c91f36e3babf64f074b7856",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHARMSW.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b7a7a15f0953bb6d7260794bd61c79e11c5706e1365da160aa11c40d01648a83",
+  "fileHashes": {
+    "book.md": "fe27c4e48c435ed3556a9793412f6f9e3bc5c34a248ce30742561e8268720fe5",
+    "pages/0001.md": "d69fe1d23a2d98b8125e5d0421e30144d7922d0590cef9e13e577126d07c189d"
+  }
+}

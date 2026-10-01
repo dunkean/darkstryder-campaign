@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-8f351adc4f009592",
+  "sha256": "8f351adc4f009592479a7f4cae8250d7dad4996fe9d0e51c5a008e8705890326",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 9105,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/f3c1fc0e4f4a411b82d9c0dee3270afe89890a7c6cbc2cc99582ce7ed6583aed.jpg",
+      "origin": "images/makezh.jpg",
+      "sha256": "f3c1fc0e4f4a411b82d9c0dee3270afe89890a7c6cbc2cc99582ce7ed6583aed"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -32,85 +32,380 @@
         "id": "d1-r8",
         "deck": "Pont Supérieur",
         "row": 8,
-        "label": "Dispositif Sensoriel"
+        "label": "Dispositif Sensoriel",
+        "kbaseIds": [
+          "kb-05b1ad7cf976dfacbd372dbf"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "c10f08749b2f6a2d9edfe6c91d1a4b1137f2c3c42b379c70358adfbf812bf268",
+            "kbaseId": "kb-05b1ad7cf976dfacbd372dbf",
+            "name": "FarStar — dispositif sensoriel supérieur",
+            "summary": "Une salle circulaire et chaude abrite les principaux équipements de détection et trois opérateurs permanents.",
+            "content": "Un noyau d’équipements remplit le centre de la salle ; les consoles et les trois postes sont répartis le long des parois. L’éclairage faible facilite la lecture des écrans et la proximité de l’ingénierie chauffe la pièce. L’antenne rotative alimente les modes passif, scan et recherche. Les relevés sont transmis au contrôle des senseurs et au centre de commandement.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              30
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d1-r11",
         "deck": "Pont Supérieur",
         "row": 11,
-        "label": "Entrepôt Supérieur Arrière"
+        "label": "Entrepôt Supérieur Arrière",
+        "kbaseIds": [
+          "kb-98119fb43b5e566705a8ae4f"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "2f5a6bddd7295827197d31f64b714ae614dea1e8167bf3b17e65cfb0974c15ff",
+            "kbaseId": "kb-98119fb43b5e566705a8ae4f",
+            "name": "FarStar — soute supérieure arrière",
+            "summary": "Cette soute froide et sombre contient du matériel de survie.",
+            "content": "Masques respiratoires, tentes et lampes sont rangés en caisses. Un poste pris sur le repos couvre les dépôts supérieurs et du pont 1 avec un SE-4. La serrure mécanique se crochette avec un test Facile de sécurité ; l’échec déclenche une sirène audible au pont voisin.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d1-r12",
         "deck": "Pont Supérieur",
         "row": 12,
-        "label": "↑ Poste de Tir Supérieur"
+        "label": "↑ Poste de Tir Supérieur",
+        "kbaseIds": [
+          "kb-944f1592364862fcab30f738"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "48dc005445fba5df948d4a9637523de7d567fdefba1461298c4f6abb0c4352c7",
+            "kbaseId": "kb-944f1592364862fcab30f738",
+            "name": "FarStar — turbolaser supérieur",
+            "summary": "Un artilleur permanent commande la tourelle ; deux techniciens rejoignent leur poste en alerte.",
+            "content": "Les techniciens surveillent l’arme supérieure et les armes tribord, puis distribuent leur énergie. Sans eux, précision et alimentation se dégradent. Les réserves autorisent normalement environ cinquante tirs avant recharge ; une recharge complète prend environ cinquante minutes. Les ordres viennent du commandement, qui peut laisser le choix des cibles à l’artilleur en combat.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d1-r15",
         "deck": "Pont Supérieur",
         "row": 15,
-        "label": "Entrepôt Supérieur Avant"
+        "label": "Entrepôt Supérieur Avant",
+        "kbaseIds": [
+          "kb-40ea304fd2723394cb734c89"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "7a4a66f95b2db09b3286d2ce34617bff64bee73aeaf6449dbcb09e57e275df69",
+            "kbaseId": "kb-40ea304fd2723394cb734c89",
+            "name": "FarStar — soute supérieure avant",
+            "summary": "Le dépôt conserve communications, énergie portable et équipement de terrain.",
+            "content": "On y trouve comlinks, cellules, matériel d’escalade, générateurs à fusion, tentes et générateurs de boucliers portatifs. Ces derniers protègent notamment les postes et armes d’une base au sol.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r5",
         "deck": "Pont 1",
         "row": 5,
-        "label": "Réacteur Principal"
+        "label": "Réacteur Principal",
+        "kbaseIds": [
+          "kb-96b1ca4c8f0405d50f2fea7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ee03e9c8fd6854a8b36eda01c6c7a5415045526bb8a833e674cc064da107e8d8",
+            "kbaseId": "kb-96b1ca4c8f0405d50f2fea7e",
+            "name": "FarStar — réacteur principal",
+            "summary": "Le cœur énergétique occupe quatre ponts de l’ingénierie et alimente tous les grands systèmes du FarStar.",
+            "content": "Le réacteur fournit l’énergie aux moteurs, turbolasers, stations de recharge du hangar, communications, senseurs, boucliers, support vital et ordinateurs. Il s’agit d’un ensemble continu traversant plusieurs ponts, non de réacteurs indépendants à chaque niveau.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r6",
         "deck": "Pont 1",
         "row": 6,
-        "label": "Contrôle Réacteur Principal"
+        "label": "Contrôle Réacteur Principal",
+        "kbaseIds": [
+          "kb-dd7cf7c9b869abf56f83f968"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "fdce9a8503a3e6202b7d7b4978899b4f76790114911298c7277470c820d4b850",
+            "kbaseId": "kb-dd7cf7c9b869abf56f83f968",
+            "name": "FarStar — régulation du réacteur",
+            "summary": "Deux techniciens, trois R3 et un droïde énergétique maintiennent le réacteur ; une défaillance majeure menace tout le vaisseau.",
+            "content": "Le poste régule et entretient le cœur énergétique. Une panne catastrophique peut immobiliser le FarStar et provoquer une surcharge explosive du réacteur : c’est un risque décrit par le livre, non une catastrophe déjà survenue.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              33
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r7",
         "deck": "Pont 1",
         "row": 7,
-        "label": "Accès Direct Répartition Energie"
+        "label": "Accès Direct Répartition Energie",
+        "kbaseIds": [
+          "kb-454d56d4f2a75c69f02bd8fd"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "d80d9fd1608be1b4c81badad8233ebeb295223cf84be32fc6d941d182403a0d3",
+            "kbaseId": "kb-454d56d4f2a75c69f02bd8fd",
+            "name": "FarStar — répartition directe de puissance",
+            "summary": "Un technicien permanent répartit l’énergie vers les systèmes autres que les moteurs selon les directives du commandement.",
+            "content": "Le poste distribue la puissance aux armes, hangar, ordinateurs, communications, senseurs, boucliers et support vital. Les priorités recommandées par le centre de commandement peuvent obliger à arbitrer entre fonctions essentielles.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              33
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r8",
         "deck": "Pont 1",
         "row": 8,
-        "label": "Contrôle Moteurs A"
+        "label": "Contrôle Moteurs A",
+        "kbaseIds": [
+          "kb-cf9e9ce29d091ac7e2c67e28"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "43bfe79055c9babae706557287bbc3ad4990cfafeaae02ec3d5a1478d73cf631",
+            "kbaseId": "kb-cf9e9ce29d091ac7e2c67e28",
+            "name": "FarStar — contrôle moteurs A",
+            "summary": "Deux techniciens, un R3 et un droïde énergétique surveillent en permanence les quatre moteurs de la rangée supérieure.",
+            "content": "Les techniciens répartissent puissance et refroidissement, synchronisent les moteurs avec les autres niveaux et réalisent la maintenance d’urgence. Les passerelles, grilles et puits ouverts donnent une visibilité et une audibilité entre niveaux. L’environnement est chaud, inconfortable et éclairé en rouge par les écrans et l’éclairage d’urgence.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32,
+              33
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r10",
         "deck": "Pont 1",
         "row": 10,
-        "label": "Générateur Turbolaser x 5"
+        "label": "Générateur Turbolaser x 5",
+        "kbaseIds": [
+          "kb-e828c6df332e066e18cf50e9"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "94d6eb3dc66aaaf4345de39b72f80e74a8c8f52bdc66d2a9bea8d384ae07efa9",
+            "kbaseId": "kb-e828c6df332e066e18cf50e9",
+            "name": "FarStar — alimentation et contrôle des turbolasers",
+            "summary": "Générateurs, batteries et distribution depuis le réacteur alimentent les armes, sous contrôle de techniciens.",
+            "content": "Une partie de la supervision technique et de la répartition de puissance se trouve aux grandes tourelles, avec relais vers les armes latérales. Les générateurs reconstituent la réserve après les tirs ; puiser dans le réacteur peut imposer de réduire propulsion ou boucliers. Le livre ne donne pas ici une description séparée pour chacun des emplacements du plan local.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r11",
         "deck": "Pont 1",
         "row": 11,
-        "label": "Batteries Turbolasers"
+        "label": "Batteries Turbolasers",
+        "kbaseIds": [
+          "kb-5959f6b0b248bde091d42aee"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "2af123883e911b68e6f234027d5393265d7453a3641ab415aa75bc51b70e8b8d",
+            "kbaseId": "kb-5959f6b0b248bde091d42aee",
+            "name": "FarStar — batteries des turbolasers",
+            "summary": "Des caissons blindés protègent les batteries qui alimentent les armes.",
+            "content": "Chaque caisson accueille trois batteries d’un mètre cube, remplaçables en environ cinq minutes chacune. Leur durée de service recommandée est d’environ trois mille tirs. Le blindage réduit la propagation d’une surcharge, sans protéger une personne placée tout contre une batterie qui explose.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              33
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r12",
         "deck": "Pont 1",
         "row": 12,
-        "label": "Poste de Tir x 4"
+        "label": "Poste de Tir x 4",
+        "kbaseIds": [
+          "kb-1162ea9f6e9eac2794451f96"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "7740380739f3d5cf01a5a39424d5c5111164d7f7550f3a7b5ae74b6db931b8aa",
+            "kbaseId": "kb-1162ea9f6e9eac2794451f96",
+            "name": "FarStar — postes de tir latéraux",
+            "summary": "Les petites tourelles du pont 1 sont occupées en alerte et dépendent des stations techniques des grandes tourelles.",
+            "content": "Chaque arme dispose d’un artilleur lors des alertes. La maintenance hebdomadaire vérifie circuits, alimentation, éléments optiques, canons et engrenages. Les stations supérieures suivent les armes tribord ; les stations inférieures suivent les armes bâbord.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              33
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r13",
         "deck": "Pont 1",
         "row": 13,
-        "label": "Contrôle Turbolasers"
+        "label": "Contrôle Turbolasers",
+        "kbaseIds": [
+          "kb-e828c6df332e066e18cf50e9"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "94d6eb3dc66aaaf4345de39b72f80e74a8c8f52bdc66d2a9bea8d384ae07efa9",
+            "kbaseId": "kb-e828c6df332e066e18cf50e9",
+            "name": "FarStar — alimentation et contrôle des turbolasers",
+            "summary": "Générateurs, batteries et distribution depuis le réacteur alimentent les armes, sous contrôle de techniciens.",
+            "content": "Une partie de la supervision technique et de la répartition de puissance se trouve aux grandes tourelles, avec relais vers les armes latérales. Les générateurs reconstituent la réserve après les tirs ; puiser dans le réacteur peut imposer de réduire propulsion ou boucliers. Le livre ne donne pas ici une description séparée pour chacun des emplacements du plan local.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r15",
         "deck": "Pont 1",
         "row": 15,
-        "label": "Entrepôt Pont 1 Avant"
+        "label": "Entrepôt Pont 1 Avant",
+        "kbaseIds": [
+          "kb-3e06796925db0e8fc48510b5"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "f704b4e5b3fa396e7c9eb364bfe7238f3219cd91cc30af5ab385a8885de57f02",
+            "kbaseId": "kb-3e06796925db0e8fc48510b5",
+            "name": "FarStar — dépôt avant du pont 1",
+            "summary": "Matériel de terrain et pièces d’ascenseur ou de turbolaser sont regroupés dans ce grand dépôt.",
+            "content": "Comlinks, cellules, matériel d’escalade, générateurs à fusion, tentes et boucliers portatifs côtoient batteries de réserve, convertisseurs, raccords et caissons de batteries.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              34
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r16",
         "deck": "Pont 1",
         "row": 16,
-        "label": "Dépôt Pont 1 - A,B"
+        "label": "Dépôt Pont 1 - A,B",
+        "kbaseIds": [
+          "kb-4b727f5961a8b837840c8ace"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "9917e83d77aee675a1acd6e25a847f66e696bce5777106046482960397f64ade",
+            "kbaseId": "kb-4b727f5961a8b837840c8ace",
+            "name": "FarStar — dépôts du pont 1",
+            "summary": "Deux dépôts conservent les fournitures usuelles, médicales et de survie.",
+            "content": "Le contenu comprend médicaments, matériel médical, couvertures, éclairages, intercoms et rustines de coque. Une partie du dépôt tribord a été transformée en réserve alimentaire en vrac.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              34
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d2-r17",
@@ -122,115 +417,519 @@
         "id": "d2-r18",
         "deck": "Pont 1",
         "row": 18,
-        "label": "Contrôle Informatique"
+        "label": "Contrôle Informatique",
+        "kbaseIds": [
+          "kb-bee01d1871afefd9685357e3"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "d59718595eab963f8f98d19d7162234353bc646d16d0801b474eff83b630f997",
+            "kbaseId": "kb-bee01d1871afefd9685357e3",
+            "name": "FarStar — contrôle informatique",
+            "summary": "Deux techniciens et quatre R3 entretiennent les ordinateurs centraux de calcul et de stockage.",
+            "content": "Les consoles locales préparent et codent leurs données avant de les envoyer ici. Les postes centraux traitent ingénierie, navigation principale et de secours, communications et senseurs. Un diagnostic exige environ une heure par système, indisponible durant l’intervention. La maintenance hebdomadaire prévue est souvent reportée jusqu’à une panne majeure. Le dépôt avant conserve écrans, processeurs et composants de remplacement.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              34
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r3",
         "deck": "Pont 2",
         "row": 3,
-        "label": "Depôt Pont 2 Arrière"
+        "label": "Depôt Pont 2 Arrière",
+        "kbaseIds": [
+          "kb-94b3f18fe05c45d9a79d2422"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "1f190f4b0eb8988c2dda784fb1413a2084b5054c15429225daf66d35e1f2f999",
+            "kbaseId": "kb-94b3f18fe05c45d9a79d2422",
+            "name": "FarStar — dépôt technique du pont 2",
+            "summary": "Le dépôt de l’ingénierie conserve des pièces classées pour les propulsions hyperdrive et ionique.",
+            "content": "Amortisseurs alluviaux, motivateurs, attaches et câblage sont étiquetés. Des datapads donnent schémas et diagnostics pour accélérer les réparations ; les composants moteurs les plus volumineux ne peuvent pas être emportés en remplacement.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r4",
         "deck": "Pont 2",
         "row": 4,
-        "label": "Réacteur Principal"
+        "label": "Réacteur Principal",
+        "kbaseIds": [
+          "kb-96b1ca4c8f0405d50f2fea7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ee03e9c8fd6854a8b36eda01c6c7a5415045526bb8a833e674cc064da107e8d8",
+            "kbaseId": "kb-96b1ca4c8f0405d50f2fea7e",
+            "name": "FarStar — réacteur principal",
+            "summary": "Le cœur énergétique occupe quatre ponts de l’ingénierie et alimente tous les grands systèmes du FarStar.",
+            "content": "Le réacteur fournit l’énergie aux moteurs, turbolasers, stations de recharge du hangar, communications, senseurs, boucliers, support vital et ordinateurs. Il s’agit d’un ensemble continu traversant plusieurs ponts, non de réacteurs indépendants à chaque niveau.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r5",
         "deck": "Pont 2",
         "row": 5,
-        "label": "Contrôle Hyperpropulsion"
+        "label": "Contrôle Hyperpropulsion",
+        "kbaseIds": [
+          "kb-88cfbb0ffb25e76bc243a325"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "95ae2f8056d609d029c1be988a22d8cabcb92d9e58fea0adfaa016654a26b0e6",
+            "kbaseId": "kb-88cfbb0ffb25e76bc243a325",
+            "name": "FarStar — contrôle de l’hyperpropulsion",
+            "summary": "Les ingénieurs équilibrent les moteurs et assurent l’interface avec les motivateurs et les calculateurs de navigation.",
+            "content": "Ils régulent l’alimentation et la puissance de chaque moteur. Certaines réparations nécessitent un accès physique par les passages moteurs. En cas de défaillance majeure, le poste peut reprendre les ordinateurs d’astrogation et arrêter les moteurs pour éviter une surcharge.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r6",
         "deck": "Pont 2",
         "row": 6,
-        "label": "Contrôle Sub-luminique"
+        "label": "Contrôle Sub-luminique",
+        "kbaseIds": [
+          "kb-714d969a2973987e066f3af8"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ede78a052bfb4132195be0dc9f54ef01f1695257135a092376bd9686915bcecc",
+            "kbaseId": "kb-714d969a2973987e066f3af8",
+            "name": "FarStar — contrôle subluminique",
+            "summary": "Deux ingénieurs permanents coordonnent les moteurs ioniques et équilibrent leur puissance.",
+            "content": "Ils ajustent alimentation depuis le réacteur, sortie des moteurs et interface avec les calculateurs de propulsion. Certaines opérations sont télécommandées ; d’autres exigent de ramper dans les accès moteurs.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r7",
         "deck": "Pont 2",
         "row": 7,
-        "label": "Contrôle Moteurs B"
+        "label": "Contrôle Moteurs B",
+        "kbaseIds": [
+          "kb-13ab472487519ecd8adc34e2"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "0f76a16790f9a4ade90af0df53e7ffacf72ccc263a80d8f359fbc8d20bee60ab",
+            "kbaseId": "kb-13ab472487519ecd8adc34e2",
+            "name": "FarStar — contrôle moteurs B",
+            "summary": "Deux techniciens, un R3 et un droïde énergétique surveillent les trois moteurs de la rangée médiane.",
+            "content": "Comme au niveau A, le poste permet de redistribuer l’énergie, régler la dissipation thermique, coordonner les moteurs entre niveaux et assurer les interventions d’urgence.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              34
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r8",
         "deck": "Pont 2",
         "row": 8,
-        "label": "Douches"
+        "label": "Douches",
+        "kbaseIds": [
+          "kb-b630da1125d5b043492bc940"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e4892684f68d4d96af3621ed1979dd35f5dffefe12f7a969654ef6e086797554",
+            "kbaseId": "kb-b630da1125d5b043492bc940",
+            "name": "FarStar — quartiers partagés et sanitaires",
+            "summary": "Les chambres spartiates offrent peu d’espace personnel et sont associées à des sanitaires communs.",
+            "content": "Chaque membre dispose d’un petit casier ; placard, lits et terminaux sont partagés. Les couchettes alternent entre quarts et gardent la chaleur du précédent dormeur, facteur de malaise et de baisse du moral selon le livre. Certains dorment au sol. La source ne détaille pas séparément l’équipement des douches.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35,
+              36,
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r9",
         "deck": "Pont 2",
         "row": 9,
-        "label": "Quartiers Equipage"
+        "label": "Quartiers Equipage",
+        "kbaseIds": [
+          "kb-3159d581b640b6e216c4e215"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "19068d23dcf8f9631326fe4b2d58cfe57b8d5fb8e96bca18cdee506be7bf5efa",
+            "kbaseId": "kb-3159d581b640b6e216c4e215",
+            "name": "FarStar — quartiers de l’équipage",
+            "summary": "Les couchettes se partagent entre les deux quarts ; les logements sont étroits et peu confortables.",
+            "content": "Les trois groupes de cinq chambres du pont 2 comportent deux lits par chambre et quatre occupants alternant les quarts. Le manque d’intimité et le partage des lits sont des sources explicites de tension.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r10",
         "deck": "Pont 2",
         "row": 10,
-        "label": "Mess"
+        "label": "Mess",
+        "kbaseIds": [
+          "kb-334938e5dc5f2806cdf48b1e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e208da602a4f14200110fa8bf61dd5ea983b066d99b38a9fb7716325c07ff260",
+            "kbaseId": "kb-334938e5dc5f2806cdf48b1e",
+            "name": "FarStar — mess",
+            "summary": "Le mess accueille près de quarante personnes et sert également de foyer improvisé entre les repas.",
+            "content": "Trois membres hors quart et quatre droïdes SE-4 assurent le service ; la cuisine occupe environ un quart de la salle. Tables de sabacc, discussions et parfois dormeurs occupent le mess lorsque les quartiers sont trop inconfortables ou la salle d’entraînement pleine.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              36
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r11",
         "deck": "Pont 2",
         "row": 11,
-        "label": "Salle d'Entrainement"
+        "label": "Salle d'Entrainement",
+        "kbaseIds": [
+          "kb-6f20c74d5ea6f255d2baeb1a"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "6433fd48b8d1d2e8c13c3f7e7b025545e2ff3b492fc77a58509d4900c5b802e5",
+            "kbaseId": "kb-6f20c74d5ea6f255d2baeb1a",
+            "name": "FarStar — salle d’entraînement",
+            "summary": "Équipements sportifs, tir sur remotes, entraînement martial et jeux offrent un espace de détente à l’équipage.",
+            "content": "La salle comprend appareils à gravité variable, petite piste de tir, tapis de combat et cage d’entraînement aux armes de mêlée. Une ligue amicale de combat existe à bord. Le coin salon dispose de deux tables de jeu, coussins, petites tables et holovidéothèque ; il communique avec le mess.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              36
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r12",
         "deck": "Pont 2",
         "row": 12,
-        "label": "Contrôle Hangar d'Atterrissage"
+        "label": "Contrôle Hangar d'Atterrissage",
+        "kbaseIds": [
+          "kb-b19221847e6ccf08e44657ba"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "3992f1722bb2299526a39ebd48a8df190fa722b59fe1f9ab6e2128f27725c5d7",
+            "kbaseId": "kb-b19221847e6ccf08e44657ba",
+            "name": "FarStar — contrôle du hangar",
+            "summary": "Le superviseur de vol et R3-K8 coordonnent atterrissages, départs, amarrages et interventions d’urgence depuis le pont supérieur au hangar.",
+            "content": "Le poste est assuré par des rotations de quatre heures prises sur le quart de repos ; un second superviseur rejoint la salle en alerte. R3-K8 possède une voix et communique en Basic. L’hologramme central représente les appareils proches et les écrans montrent tubes et sas. Le superviseur commande l’ascenseur et le champ magnétique, lance les appareils disponibles, déploie secours et sécurité lors d’un crash ou d’un amarrage étranger.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r13",
         "deck": "Pont 2",
         "row": 13,
-        "label": "Quartier Capitaine"
+        "label": "Quartier Capitaine",
+        "kbaseIds": [
+          "kb-7e892b26214d887c7e828d7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "eafa8f7f06a18489c66a6f19022345f838fafaaee4cd8254f0b761511c38ea47",
+            "kbaseId": "kb-7e892b26214d887c7e828d7e",
+            "name": "FarStar — cabine du capitaine",
+            "summary": "La cabine sert également de bureau ; elle est un peu plus grande et surtout non partagée.",
+            "content": "Bureau, terminal et rangements pour documents et disques complètent un aménagement spartiate. Ciro maintient volontairement chaleur et lumière à bas niveau pour donner l’exemple en matière d’économie d’énergie.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r14",
         "deck": "Pont 2",
         "row": 14,
-        "label": "Quartiers d'Urgence"
+        "label": "Quartiers d'Urgence",
+        "kbaseIds": [
+          "kb-f9c66084eafa9038a2b0cbbd"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "9f05ffb2ee579e7f70036d4e873fc93278ee2eaa1f65811cdf598e3d339c1b9e",
+            "kbaseId": "kb-f9c66084eafa9038a2b0cbbd",
+            "name": "FarStar — quartiers d’urgence",
+            "summary": "Douze membres peuvent se reposer près du commandement lors d’alertes prolongées.",
+            "content": "Quatre couchettes doubles et quatre tapis permettent un rappel rapide vers les postes essentiels sans envoyer l’équipage jusque dans les quartiers habituels.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              38
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r15",
         "deck": "Pont 2",
         "row": 15,
-        "label": "Contrôle Droïds Sondes"
+        "label": "Contrôle Droïds Sondes",
+        "kbaseIds": [
+          "kb-0337f24fcdac8dc98caeef28"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "1992e7fcb73ff8f7aa40e795943c273060b9e98e37508fec068371784833ef1f",
+            "kbaseId": "kb-0337f24fcdac8dc98caeef28",
+            "name": "FarStar — contrôle des droïdes sondes",
+            "summary": "Deux membres à temps partiel et un R3 permanent préparent les sondes et les drones messagers.",
+            "content": "Le poste répare et programme les appareils, lance les reconnaissances, rassemble cartes stellaires, coordonnées et résultats de prospection. Ces données sont accessibles aux ordinateurs d’astrogation et au contrôle informatique.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              38
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r16",
         "deck": "Pont 2",
         "row": 16,
-        "label": "Contrôle Environnemental"
+        "label": "Contrôle Environnemental",
+        "kbaseIds": [
+          "kb-f808d1565eaa241e49852196"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "bbbc1b6e124218fbc06fccd6c570888ed933580a299935e5899bf9f24abc046a",
+            "kbaseId": "kb-f808d1565eaa241e49852196",
+            "name": "FarStar — contrôle environnemental",
+            "summary": "Le poste assure air, eau, chaleur, éclairage, gravité et compensation des accélérations.",
+            "content": "Les convertisseurs reçoivent les flux du recyclage et de l’hydroponie. Des relais répartis dans le vaisseau stabilisent l’environnement. Le système pourrait varier les conditions par compartiment scellé, mais le livre indique qu’aucune zone n’a été ainsi reconfigurée.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r17",
         "deck": "Pont 2",
         "row": 17,
-        "label": "Contrôle Senseurs"
+        "label": "Contrôle Senseurs",
+        "kbaseIds": [
+          "kb-d6e1b79f57f6f52baf4d9956"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "239eb2c6d5d78ba7080f1c7e5e81c779d6969d31a96e8af58b3fa74d73531f3e",
+            "kbaseId": "kb-d6e1b79f57f6f52baf4d9956",
+            "name": "FarStar — contrôle des senseurs",
+            "summary": "Un technicien et un R3 coordonnent les deux suites de détection et filtrent les informations pertinentes.",
+            "content": "Le poste envoie les relevés au contrôle informatique, les analyse et sélectionne ce qui mérite l’attention de l’officier senseurs, lequel conserve un accès distant aux données brutes.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r18",
         "deck": "Pont 2",
         "row": 18,
-        "label": "Contrôle Ecrans"
+        "label": "Contrôle Ecrans",
+        "kbaseIds": [
+          "kb-a6aabcd2d344ab32594f758d"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "05e448a50cde2c21a39d0c1dfd246a08ee34c23682f498235865ff34ff6c25ff",
+            "kbaseId": "kb-a6aabcd2d344ab32594f758d",
+            "name": "FarStar — contrôle des boucliers",
+            "summary": "Un technicien et un R3 distribuent les boucliers sur les quatre orientations selon les ordres du commandement.",
+            "content": "Les boucliers à particules restent normalement actifs sauf lors des mouvements de vaisseaux ; ils contribuent à la résistance de coque. Les écrans énergétiques, très consommateurs, sont surtout utilisés en combat et n’arrêtent pas les canons ioniques.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r19",
         "deck": "Pont 2",
         "row": 19,
-        "label": "Centre de Commandement Sup"
+        "label": "Centre de Commandement Sup",
+        "kbaseIds": [
+          "kb-a8232889dbdadba782b056ac"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "359abe4b686b67a3ae556b11f3a815de062e1a444a2bb936751acc132686795f",
+            "kbaseId": "kb-a8232889dbdadba782b056ac",
+            "name": "FarStar — centre de commandement",
+            "summary": "Le centre de commandement occupe deux niveaux et rassemble huit postes permanents et quatre postes d’alerte.",
+            "content": "### Organisation\nLe niveau supérieur accueille le capitaine, la conduite du vol et les opérations tactiques. Au niveau inférieur se trouvent propulsion subluminique, hyperdrive, boucliers, communications et coordination informatique. Des renforts d’alerte assistent senseurs, ressources, ingénierie et armes.\n\n### Ambiance et sécurité\nÉcrans, passerelles, marches et grande baie frontale occupent un espace surchargé. Trois R3 traitent les données principales et des interfaces supplémentaires permettent l’assistance à la navigation. Deux K4 gardent les accès. Le puits relie plusieurs niveaux techniques et de stockage.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37,
+              38
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d3-r20",
         "deck": "Pont 2",
         "row": 20,
-        "label": "Barge de Sauvetage x3"
+        "label": "Barge de Sauvetage x3",
+        "kbaseIds": [
+          "kb-a000c393118a79051936ea1b"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "527dd3e2b1435c5e8b6b8fe47cbbbdb5ef9f6f85b1dd7ff4da54794b1b04b792",
+            "kbaseId": "kb-a000c393118a79051936ea1b",
+            "name": "FarStar — canots de sauvetage",
+            "summary": "Le livre décrit des canots de douze ou vingt places, équipés pour trois semaines de survie.",
+            "content": "Le canot de vingt places emporte air, eau, vivres, armes de chasse, tentes, matériel médical et un signal de détresse subspatial. Il dispose du carburant nécessaire au lancement et à quelques corrections, puis atterrit par jets de freinage et parachute. Une alarme informe la passerelle, qui peut bloquer le lancement. D’autres canots sont donnés à douze places : les nombres et regroupements du plan local ne sont pas modifiés automatiquement.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              36,
+              37,
+              40
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r2",
@@ -242,235 +941,1065 @@
         "id": "d4-r3",
         "deck": "Pont 3",
         "row": 3,
-        "label": "Réacteur Principal"
+        "label": "Réacteur Principal",
+        "kbaseIds": [
+          "kb-96b1ca4c8f0405d50f2fea7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ee03e9c8fd6854a8b36eda01c6c7a5415045526bb8a833e674cc064da107e8d8",
+            "kbaseId": "kb-96b1ca4c8f0405d50f2fea7e",
+            "name": "FarStar — réacteur principal",
+            "summary": "Le cœur énergétique occupe quatre ponts de l’ingénierie et alimente tous les grands systèmes du FarStar.",
+            "content": "Le réacteur fournit l’énergie aux moteurs, turbolasers, stations de recharge du hangar, communications, senseurs, boucliers, support vital et ordinateurs. Il s’agit d’un ensemble continu traversant plusieurs ponts, non de réacteurs indépendants à chaque niveau.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r4",
         "deck": "Pont 3",
         "row": 4,
-        "label": "Contrôle Régulation Energétique"
+        "label": "Contrôle Régulation Energétique",
+        "kbaseIds": [
+          "kb-bb134555abf61f3a3f1a7bd7"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "4a4e9734c262518ff999924ad69b9be7e541d4389f8d27e54b3b00d501e121d3",
+            "kbaseId": "kb-bb134555abf61f3a3f1a7bd7",
+            "name": "FarStar — contrôle chaleur et énergie",
+            "summary": "Le poste évacue la chaleur et absorbe les surcharges avant qu’elles n’endommagent un système vital.",
+            "content": "Des évents et déflecteurs dissipent dans l’espace la chaleur des moteurs et du réacteur. Des bobines détournent les pics d’énergie, y compris ceux causés par des impacts. Deux techniciens assurent la maintenance à temps partiel et rejoignent immédiatement le poste en alerte.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r5",
         "deck": "Pont 3",
         "row": 5,
-        "label": "Contrôle Auxilliaire"
+        "label": "Contrôle Auxilliaire",
+        "kbaseIds": [
+          "kb-8eb0a5919af95be5c8bf6877"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "9307ff702347d8ab38e5890a98e603f00c0a2170989e12e20f519ab1cfe5b9fe",
+            "kbaseId": "kb-8eb0a5919af95be5c8bf6877",
+            "name": "FarStar — contrôle auxiliaire",
+            "summary": "Le contrôle auxiliaire peut reprendre les fonctions de postes d’ingénierie ou du commandement endommagés.",
+            "content": "Deux opérateurs et un R3 assurent le service permanent ; six postes supplémentaires peuvent être ajoutés lors d’une redistribution majeure. Le contrôle oriente également les deux stations auxiliaires du pont 4.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r6",
         "deck": "Pont 3",
         "row": 6,
-        "label": "Contrôle Répartition Energie Moteurs"
+        "label": "Contrôle Répartition Energie Moteurs",
+        "kbaseIds": [
+          "kb-81898c64ac2567ac8d45847c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "74b15b424e676e5ad710a522460273579b33800d257bf5f4ec8c126dc3c41fa0",
+            "kbaseId": "kb-81898c64ac2567ac8d45847c",
+            "name": "FarStar — répartition de puissance moteurs",
+            "summary": "Ce poste distribue l’énergie du réacteur aux onze moteurs ; Lofryyhn y supervise habituellement l’ingénierie.",
+            "content": "Deux postes permanents sont renforcés de trois en alerte. Trois R3 suivent et redirigent les flux, quatre droïdes énergétiques fournissent une réserve et un K4 surveille les signes de sabotage. Une panne peut immobiliser la propulsion et provoquer une surcharge.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r7",
         "deck": "Pont 3",
         "row": 7,
-        "label": "Douches"
+        "label": "Douches",
+        "kbaseIds": [
+          "kb-b630da1125d5b043492bc940"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e4892684f68d4d96af3621ed1979dd35f5dffefe12f7a969654ef6e086797554",
+            "kbaseId": "kb-b630da1125d5b043492bc940",
+            "name": "FarStar — quartiers partagés et sanitaires",
+            "summary": "Les chambres spartiates offrent peu d’espace personnel et sont associées à des sanitaires communs.",
+            "content": "Chaque membre dispose d’un petit casier ; placard, lits et terminaux sont partagés. Les couchettes alternent entre quarts et gardent la chaleur du précédent dormeur, facteur de malaise et de baisse du moral selon le livre. Certains dorment au sol. La source ne détaille pas séparément l’équipement des douches.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35,
+              36,
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r8",
         "deck": "Pont 3",
         "row": 8,
-        "label": "Quartiers Equipage"
+        "label": "Quartiers Equipage",
+        "kbaseIds": [
+          "kb-b630da1125d5b043492bc940"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e4892684f68d4d96af3621ed1979dd35f5dffefe12f7a969654ef6e086797554",
+            "kbaseId": "kb-b630da1125d5b043492bc940",
+            "name": "FarStar — quartiers partagés et sanitaires",
+            "summary": "Les chambres spartiates offrent peu d’espace personnel et sont associées à des sanitaires communs.",
+            "content": "Chaque membre dispose d’un petit casier ; placard, lits et terminaux sont partagés. Les couchettes alternent entre quarts et gardent la chaleur du précédent dormeur, facteur de malaise et de baisse du moral selon le livre. Certains dorment au sol. La source ne détaille pas séparément l’équipement des douches.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              35,
+              36,
+              39
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r9",
         "deck": "Pont 3",
         "row": 9,
-        "label": "Quartiers Officiers"
+        "label": "Quartiers Officiers",
+        "kbaseIds": [
+          "kb-c209c37ddbeb0d95da118a40"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "954468eecdc55db2c7a28e7c5b956bf889c65c83305e25160fdd53ff73d8cbf7",
+            "kbaseId": "kb-c209c37ddbeb0d95da118a40",
+            "name": "FarStar — quartiers des officiers",
+            "summary": "Quatre cabines à deux lits accordent à chaque officier une couchette personnelle, sans alternance de quarts.",
+            "content": "Elles sont un peu plus grandes que les logements ordinaires et disposent de rangements, terminaux, liseuses et petits bureaux pour travailler et conserver documents ou souvenirs.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              40
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r10",
         "deck": "Pont 3",
         "row": 10,
-        "label": "Salle Pilotes"
+        "label": "Salle Pilotes",
+        "kbaseIds": [
+          "kb-75d46b68d86344effd87b054"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "cac52bfd86f252421905a56db56c99b741d5195d95474040551a05ca858eb875",
+            "kbaseId": "kb-75d46b68d86344effd87b054",
+            "name": "FarStar — salle des pilotes",
+            "summary": "Les pilotes de service attendent ici lorsqu’ils ne sont pas au hangar ou en patrouille.",
+            "content": "Projecteur holographique, écrans de suivi et liaisons avec hangar et commandement présentent tactiques et ordres de Gorjaye. Le contingent initial comporte huit X-wing et quatre Defender, avec six pilotes par quart. Deux assurent la patrouille et quatre attendent ; en alerte, tous doivent rejoindre le briefing sous deux minutes. Ces effectifs de départ ne remplacent pas tes affectations personnalisées.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              40,
+              41
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r11",
         "deck": "Pont 3",
         "row": 11,
-        "label": "Hangar d'Atterrissage"
+        "label": "Hangar d'Atterrissage",
+        "kbaseIds": [
+          "kb-5cb26be7cebf97c410cc2a9c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "5c939ea66fe2fade47995dfebdf1840c9388d09680c21d2b2bdf3c5133cc4745",
+            "kbaseId": "kb-5cb26be7cebf97c410cc2a9c",
+            "name": "FarStar — hangar et tubes d’amarrage",
+            "summary": "Le hangar ajouté par Sarne accueille les chasseurs dans un espace saturé ; trois tubes donnent accès au niveau de maintenance.",
+            "content": "Les racks TIE n’étaient pas encore installés lors de la capture. Quatre X-wing tiennent dans le hangar, un cinquième sur l’ascenseur ; jusqu’à quatre Defender peuvent être intercalés, mais rendent les mouvements et lancements rapides impossibles. Le grand sas sert notamment au chargement de l’Aegis. Les trois tubes au niveau inférieur peuvent recevoir chacun trois appareils ; les sas terminaux permettent aussi un raccordement entre vaisseaux.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              26
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r12",
         "deck": "Pont 3",
         "row": 12,
-        "label": "Centre Tactique"
+        "label": "Centre Tactique",
+        "kbaseIds": [
+          "kb-a5fa6b9565c4a16d5ea5aa96"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "80df920c0a971ed9f3c4f266179b83cb1c7084337a04a5c6d186799424ff0473",
+            "kbaseId": "kb-a5fa6b9565c4a16d5ea5aa96",
+            "name": "FarStar — salle tactique",
+            "summary": "La salle tactique sert à la stratégie, aux réunions et à l’analyse holographique.",
+            "content": "Deux postes pris sur le repos et un R3 exploitent des panneaux plastex et une table holographique centrale d’environ trois mètres. Les affichages réunissent risques de navigation, orbites, situation technique, affectations et énergie. La faible lumière et les lueurs rouges ou vertes lui donnent une ambiance inquiétante.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              42,
+              43
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r13",
         "deck": "Pont 3",
         "row": 13,
-        "label": "Infirmerie"
+        "label": "Infirmerie",
+        "kbaseIds": [
+          "kb-ae6685a32bf6769dcdaccc4e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "0f3a67f15291a5d56f12aeffbc9a013ac2336977f48e2c6a4ef7274a4ea65781",
+            "kbaseId": "kb-ae6685a32bf6769dcdaccc4e",
+            "name": "FarStar — infirmerie",
+            "summary": "Akanseh, ses assistants et trois droïdes 2-1B disposent d’une infirmerie chaude et bien éclairée.",
+            "content": "Trois soignants restent disponibles. Dix lits de convalescence, quatre postes de premiers secours, deux cuves bacta et une salle d’opération scellée composent l’équipement initial. Si l’infirmerie déborde, des quartiers voisins accueillent les patients et leurs occupants sont déplacés. La qualité du chauffage, de l’éclairage et des repas inspire des plaisanteries sur l’envie d’être malade.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              39,
+              40
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r14",
         "deck": "Pont 3",
         "row": 14,
-        "label": "Quartier Repos Officiers"
+        "label": "Quartier Repos Officiers",
+        "kbaseIds": [
+          "kb-6946d9ea7175b8c75383b8cd"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "fa5963e47f240ca7c7001bdcf9f77881c3a9c4ae55dffe3c86b427ca60aea519",
+            "kbaseId": "kb-6946d9ea7175b8c75383b8cd",
+            "name": "FarStar — salon des officiers",
+            "summary": "Un ancien dépôt sert de salon personnalisé et de salle de réunion de remplacement.",
+            "content": "Les non-officiers peuvent entrer mais doivent sortir si un officier le demande. Caisses techniques et souvenirs encombrent la pièce. Parmi les curiosités figurent un casque de stormtrooper troué, un œuf de krayt stérile et une cellule prétendument issue du sabre de Vador : cette dernière attribution est une plaisanterie douteuse de Loh’khar, non un fait établi.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              42
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r15",
         "deck": "Pont 3",
         "row": 15,
-        "label": "Lab A (zoologie, botanique, xénobio)"
+        "label": "Lab A (zoologie, botanique, xénobio)",
+        "kbaseIds": [
+          "kb-1fd27c06be23378b4f9786aa"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "b0c43e53e810831bd68c71f38188ec2f1967a22c96ffb62aaa88e6e98e59791c",
+            "kbaseId": "kb-1fd27c06be23378b4f9786aa",
+            "name": "FarStar — laboratoire A",
+            "summary": "Un scientifique et deux assistants à temps partiel analysent plantes, animaux et risques biologiques.",
+            "content": "Stations de zoologie, botanique, xénobiologie et toxicologie, cages de stase, dissections et calculateurs servent notamment à déterminer la comestibilité et les dangers des organismes rencontrés.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              43
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r16",
         "deck": "Pont 3",
         "row": 16,
-        "label": "Lab B (géologie, météo, chimie, phy)"
+        "label": "Lab B (géologie, météo, chimie, phy)",
+        "kbaseIds": [
+          "kb-89e45511cccb4b15004ad60c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "3754d0f7de600adfe553e7e5ea91a2390c1285051c02a73f37e2e458c8a5e955",
+            "kbaseId": "kb-89e45511cccb4b15004ad60c",
+            "name": "FarStar — laboratoire B",
+            "summary": "Un scientifique et deux assistants analysent géologie, atmosphère, météorologie, océans, chimie et phénomènes spatiaux.",
+            "content": "Les scanners recherchent toxicité et usages possibles des échantillons, notamment pour fabriquer des pièces. Le laboratoire examine aussi astéroïdes, poussières, nébuleuses et étoiles à partir des relevés du navire.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              43
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r17",
         "deck": "Pont 3",
         "row": 17,
-        "label": "Centre de Recyclage"
+        "label": "Centre de Recyclage",
+        "kbaseIds": [
+          "kb-5fa3cac89366e7e152a2b0d7"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "dd8e8adaa6f4e873c39b30fa14d53187ee1e157c8293f7a968491b0b9f11ae8e",
+            "kbaseId": "kb-5fa3cac89366e7e152a2b0d7",
+            "name": "FarStar — recyclage",
+            "summary": "Le recyclage récupère l’air, l’eau et les déchets pour prolonger l’autonomie du bâtiment.",
+            "content": "Deux techniciens interviennent à temps partiel. Eau et air purifiés retournent aux réserves et au support vital ; les effluents nutritifs alimentent l’hydroponie. Les matériaux récupérables vont aux ateliers ; les déchets non récupérables sont incinérés dans le réacteur. Une panne obligerait à ravitailler plus souvent.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              43
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r18",
         "deck": "Pont 3",
         "row": 18,
-        "label": "Centre Opérationnel d'Urgence"
+        "label": "Centre Opérationnel d'Urgence",
+        "kbaseIds": [
+          "kb-6f427d91befc005362688efb"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "efcee99ab2e2f535b898b65b1395566160174b52df4ca50fc004b274d96512e0",
+            "kbaseId": "kb-6f427d91befc005362688efb",
+            "name": "FarStar — réparation d’urgence",
+            "summary": "Le poste redirige énergie et liaisons informatiques pour maintenir les fonctions vitales après une avarie.",
+            "content": "Un poste permanent, quatre postes d’alerte et un R3 peuvent reprendre des contrôles rendus inutilisables ailleurs, mais les performances de ces fonctions de secours sont généralement réduites.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              42
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r19",
         "deck": "Pont 3",
         "row": 19,
-        "label": "Centre de Communications"
+        "label": "Centre de Communications",
+        "kbaseIds": [
+          "kb-ac3f568aadaf80f83597f15c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "328f4ea094350bdc06e8a06b1dbe7f95d6a49f5e4e4a7851e33dab04b2caad1d",
+            "kbaseId": "kb-ac3f568aadaf80f83597f15c",
+            "name": "FarStar — communications",
+            "summary": "Un technicien permanent, renforcé en alerte, exploite les réseaux de communication et le transcepteur subspatial.",
+            "content": "Les calculateurs permettent d’émettre sur les fréquences connues et de rechercher celles de civilisations inconnues. Un ordinateur tente de déchiffrer les communications impériales et chiffre les émissions du FarStar.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              42
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r20",
         "deck": "Pont 3",
         "row": 20,
-        "label": "Centre de Commandement Inf"
+        "label": "Centre de Commandement Inf",
+        "kbaseIds": [
+          "kb-a8232889dbdadba782b056ac"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "359abe4b686b67a3ae556b11f3a815de062e1a444a2bb936751acc132686795f",
+            "kbaseId": "kb-a8232889dbdadba782b056ac",
+            "name": "FarStar — centre de commandement",
+            "summary": "Le centre de commandement occupe deux niveaux et rassemble huit postes permanents et quatre postes d’alerte.",
+            "content": "### Organisation\nLe niveau supérieur accueille le capitaine, la conduite du vol et les opérations tactiques. Au niveau inférieur se trouvent propulsion subluminique, hyperdrive, boucliers, communications et coordination informatique. Des renforts d’alerte assistent senseurs, ressources, ingénierie et armes.\n\n### Ambiance et sécurité\nÉcrans, passerelles, marches et grande baie frontale occupent un espace surchargé. Trois R3 traitent les données principales et des interfaces supplémentaires permettent l’assistance à la navigation. Deux K4 gardent les accès. Le puits relie plusieurs niveaux techniques et de stockage.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              37,
+              38
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d4-r21",
         "deck": "Pont 3",
         "row": 21,
-        "label": "Barge de Sauvetage x3"
+        "label": "Barge de Sauvetage x3",
+        "kbaseIds": [
+          "kb-a000c393118a79051936ea1b"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "527dd3e2b1435c5e8b6b8fe47cbbbdb5ef9f6f85b1dd7ff4da54794b1b04b792",
+            "kbaseId": "kb-a000c393118a79051936ea1b",
+            "name": "FarStar — canots de sauvetage",
+            "summary": "Le livre décrit des canots de douze ou vingt places, équipés pour trois semaines de survie.",
+            "content": "Le canot de vingt places emporte air, eau, vivres, armes de chasse, tentes, matériel médical et un signal de détresse subspatial. Il dispose du carburant nécessaire au lancement et à quelques corrections, puis atterrit par jets de freinage et parachute. Une alarme informe la passerelle, qui peut bloquer le lancement. D’autres canots sont donnés à douze places : les nombres et regroupements du plan local ne sont pas modifiés automatiquement.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              36,
+              37,
+              40
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r4",
         "deck": "Pont 4",
         "row": 4,
-        "label": "Armurerie"
+        "label": "Armurerie",
+        "kbaseIds": [
+          "kb-5bf33bb0332f0a5638944964"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "bd2efb7066b0c1ff530a994f6ec93a93b6033302248a6c6cac144d614789cd3e",
+            "kbaseId": "kb-5bf33bb0332f0a5638944964",
+            "name": "FarStar — armurerie",
+            "summary": "L’armurerie conserve les armes collectives sous garde d’un K4 ; les armes personnelles sont soumises à l’autorisation du capitaine.",
+            "content": "Un membre de l’équipage assure le poste à temps partiel. La serrure électronique exige un test Modéré de sécurité ; un échec alerte la sécurité au commandement. Blasters, armes lourdes, munitions, grenades et protections constituent un stock initial de scénario, pas les quantités restantes de ta partie.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r5",
         "deck": "Pont 4",
         "row": 5,
-        "label": "Réacteur Principal"
+        "label": "Réacteur Principal",
+        "kbaseIds": [
+          "kb-96b1ca4c8f0405d50f2fea7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ee03e9c8fd6854a8b36eda01c6c7a5415045526bb8a833e674cc064da107e8d8",
+            "kbaseId": "kb-96b1ca4c8f0405d50f2fea7e",
+            "name": "FarStar — réacteur principal",
+            "summary": "Le cœur énergétique occupe quatre ponts de l’ingénierie et alimente tous les grands systèmes du FarStar.",
+            "content": "Le réacteur fournit l’énergie aux moteurs, turbolasers, stations de recharge du hangar, communications, senseurs, boucliers, support vital et ordinateurs. Il s’agit d’un ensemble continu traversant plusieurs ponts, non de réacteurs indépendants à chaque niveau.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              32
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r6",
         "deck": "Pont 4",
         "row": 6,
-        "label": "Batteries Principales"
+        "label": "Batteries Principales",
+        "kbaseIds": [
+          "kb-b5acbfcf6d3b3ddb6ec6a93b"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "9d9c4dfc7a4c7dba4852a414b5cd7683e97ee99f5efef6d405b295e88fe4a19b",
+            "kbaseId": "kb-b5acbfcf6d3b3ddb6ec6a93b",
+            "name": "FarStar — batteries principales",
+            "summary": "Les batteries principales assurent une alimentation de secours limitée lorsque le réacteur tombe en panne.",
+            "content": "Elles offrent environ six heures sans turbolasers ni hyperdrive. Un saut et deux heures d’hyperespace peuvent épuiser la réserve. La recharge demande six heures si toute l’énergie y est consacrée, douze avec les fonctions normales non combattantes maintenues.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r7",
         "deck": "Pont 4",
         "row": 7,
-        "label": "Batteries de Réserve"
+        "label": "Batteries de Réserve",
+        "kbaseIds": [
+          "kb-ad06e8f59776edf693006e82"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "d252f6a582b9c27e649013854f485f138578affc1819033a9be96c93bb2b91aa",
+            "kbaseId": "kb-ad06e8f59776edf693006e82",
+            "name": "FarStar — batteries de réserve",
+            "summary": "Les batteries de réserve sont plus encombrantes et moins efficaces que les principales.",
+            "content": "Elles assurent environ quatre heures de puissance ordinaire, ou un saut et quarante-cinq minutes d’hyperespace avant retour forcé dans l’espace réel.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r8",
         "deck": "Pont 4",
         "row": 8,
-        "label": "Contrôle Auxiliaire Secondaire x2"
+        "label": "Contrôle Auxiliaire Secondaire x2",
+        "kbaseIds": [
+          "kb-a63d841692ee58f0f989f00b"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e25cd4a6568cf913ded5ee3c5920fe024f202a3fbae2bd4a722200638107c99a",
+            "kbaseId": "kb-a63d841692ee58f0f989f00b",
+            "name": "FarStar — contrôle auxiliaire secondaire",
+            "summary": "Deux stations secondaires peuvent absorber une partie du travail d’un poste surchargé ou reprendre un poste défaillant.",
+            "content": "Le contrôle auxiliaire principal dirige ces stations. Elles partagent deux techniciens permanents et un R3 ; quatre membres supplémentaires les renforcent en alerte. Elles ne sont pas des postes de commandement indépendants en fonctionnement normal.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              43,
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r9",
         "deck": "Pont 4",
         "row": 9,
-        "label": "Contrôle Moteurs C"
+        "label": "Contrôle Moteurs C",
+        "kbaseIds": [
+          "kb-a5cb532aee3241a132cb1ca3"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "d3342d434a259e46a5b6b35170ab89eff365160dee75dae6983d2bbb8490cfc6",
+            "kbaseId": "kb-a5cb532aee3241a132cb1ca3",
+            "name": "FarStar — contrôle moteurs C",
+            "summary": "Deux techniciens, un R3 et un droïde énergétique surveillent les quatre moteurs inférieurs.",
+            "content": "Le poste coordonne ces moteurs avec les autres niveaux, règle alimentation et dispersion thermique et permet les interventions d’urgence.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              43
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r10",
         "deck": "Pont 4",
         "row": 10,
-        "label": "Atelier Mécanique"
+        "label": "Atelier Mécanique",
+        "kbaseIds": [
+          "kb-d24a2491193f9221058724f4"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "4db6bada0ef960489c9fb50c561e2d75f044903f797e4827b0a10587844f82e6",
+            "kbaseId": "kb-d24a2491193f9221058724f4",
+            "name": "FarStar — atelier mécanique",
+            "summary": "L’atelier de Lofryyhn fabrique des pièces mécaniques mais pas les circuits ou puces sophistiqués.",
+            "content": "Deux postes à temps partiel, un treadwell et trois R3 usinent des pièces pour moteurs, véhicules et chasseurs à partir des plans informatiques. Les composants électroniques doivent provenir des réserves ou être achetés sur un monde équipé.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r11",
         "deck": "Pont 4",
         "row": 11,
-        "label": "Chambre froide"
+        "label": "Chambre froide",
+        "kbaseIds": [
+          "kb-779270f0f45f7527c63c57a1"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "3dd51d2eb7a7ff6373d873b076d1a6828d96417e3a937980efa4deb18e1fa8a0",
+            "kbaseId": "kb-779270f0f45f7527c63c57a1",
+            "name": "FarStar — chambre froide",
+            "summary": "La plupart des vivres sont stockés en vrac dans ce compartiment organisé par R-97.",
+            "content": "Des bacs réfrigérés préservent les denrées périssables ; les autres aliments sont traités pour durer. Un SE-4 reste sur place. L’agencement des caisses paraît labyrinthique aux organiques mais facilite la répartition des ressources par le droïde.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r12",
         "deck": "Pont 4",
         "row": 12,
-        "label": "Entrepôt Pont 4 - A,B"
+        "label": "Entrepôt Pont 4 - A,B",
+        "kbaseIds": [
+          "kb-660d5bf44b0c55148c1d10c5"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "1e865eee5090c397051d7f2fdd4908f52e12649d582a9d41bfe25aa05ed48dc5",
+            "kbaseId": "kb-660d5bf44b0c55148c1d10c5",
+            "name": "FarStar — entrepôt du pont 4",
+            "summary": "Le plus grand dépôt contient un éventail de fournitures emportées en vrac.",
+            "content": "Puces, uniformes, graines, tapis de couchage, médicaments, bacta, pièces de répulseur et cellules de blaster y sont stockés. Ce stock de départ ne représente pas un inventaire actuel de partie.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              44
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r13",
         "deck": "Pont 4",
         "row": 13,
-        "label": "Réservoir d'eau"
+        "label": "Réservoir d'eau",
+        "kbaseIds": [
+          "kb-19f2b1d9c29e8ec0ce3fa56f"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "00da40ac3b9f251c348872bfe8be9d51317155ec6ff41d5874389ce44e187af5",
+            "kbaseId": "kb-19f2b1d9c29e8ec0ce3fa56f",
+            "name": "FarStar — réservoirs d’eau",
+            "summary": "Douze réservoirs indépendants réduisent les conséquences d’une contamination ou d’une perforation de coque.",
+            "content": "Chaque cuve possède sa propre alimentation et des cloisons internes limitent le ballottement. L’eau perd sa fraîcheur après quelques semaines ; son renouvellement est prioritaire lors d’un atterrissage sur un nouveau monde.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              45
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r14",
         "deck": "Pont 4",
         "row": 14,
-        "label": "Hangar de Maintenance"
+        "label": "Hangar de Maintenance",
+        "kbaseIds": [
+          "kb-ea7dfe85ce7f75c90a275981"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "d74309f604bb30427004aca7002f9d987e497268fd0387d02e83d45676167dad",
+            "kbaseId": "kb-ea7dfe85ce7f75c90a275981",
+            "name": "FarStar — maintenance des véhicules",
+            "summary": "Le principal atelier de réparation stocke véhicules terrestres et pièces de chasseurs ou de navettes.",
+            "content": "Un mécanicien, des assistants, deux R3 et trois treadwells travaillent au milieu des composants. T’achak y modifie les véhicules. L’ascenseur permet d’envoyer les pièces au hangar : les X-wing et navettes ne descendent pas à ce niveau, contrairement aux Defender.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              45
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r15",
         "deck": "Pont 4",
         "row": 15,
-        "label": "Hangar Réparation Droides"
+        "label": "Hangar Réparation Droides",
+        "kbaseIds": [
+          "kb-5761cd528ee194a7f433949f"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "1c47828a4dc6f8d01607921381020628a2fd27e98b473a692a9e5633bbd2b762",
+            "kbaseId": "kb-5761cd528ee194a7f433949f",
+            "name": "FarStar — réparation des droïdes",
+            "summary": "Quatre grandes stations entretiennent les droïdes sous la direction de DD-19 et de l’assistant SE-4-I7.",
+            "content": "Un technicien permanent et des renforts disposent de membres, cerveaux, vocabulaires et composants. Les droïdes traitent les techniciens organiques comme des intrus simplement tolérés.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              45
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r17",
         "deck": "Pont 4",
         "row": 17,
-        "label": "Laboratoire Hydroponique A"
+        "label": "Laboratoire Hydroponique A",
+        "kbaseIds": [
+          "kb-63bf42a3d012fd43d36ad339"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "c87a4006ae35716252e5019c23b6a9e81b9b9fc84a57c7cacff5757bde715ad9",
+            "kbaseId": "kb-63bf42a3d012fd43d36ad339",
+            "name": "FarStar — hydroponie A",
+            "summary": "Les cultures hydroponiques complètent les provisions et fournissent des aliments frais.",
+            "content": "Le laboratoire A simule un climat tempéré, le B un milieu tropical chaud et humide. Chaque laboratoire compte deux postes à temps partiel ; les trois droïdes ouvriers Roche J9 participent aux cultures, capables d’en assurer seuls l’exploitation sous supervision.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d5-r18",
         "deck": "Pont 4",
         "row": 18,
-        "label": "Laboratoire Hydroponique B"
+        "label": "Laboratoire Hydroponique B",
+        "kbaseIds": [
+          "kb-35cb8cdd54fe639447546cc1"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "fa12e13561042e002ff14ebe9cbf636b835e18eb6c56503c8b717b5a5ee51449",
+            "kbaseId": "kb-35cb8cdd54fe639447546cc1",
+            "name": "FarStar — hydroponie B",
+            "summary": "Le laboratoire B reproduit les conditions tropicales pour cultiver des aliments frais.",
+            "content": "Chaleur et humidité distinguent ce laboratoire du milieu tempéré du laboratoire A. Deux postes à temps partiel et les droïdes Roche J9 participent à l’exploitation, complétant les provisions conservées du bâtiment.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r6",
         "deck": "Pont Inférieur",
         "row": 6,
-        "label": "Dispositif Sensoriel"
+        "label": "Dispositif Sensoriel",
+        "kbaseIds": [
+          "kb-6f6999a9e01e3d458bd4220e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e02c8da76b78ed59dc79774c36af08c0df9fe4d6350426ea442c184e23d7c4ac",
+            "kbaseId": "kb-6f6999a9e01e3d458bd4220e",
+            "name": "FarStar — dispositif sensoriel inférieur",
+            "summary": "Un opérateur assure les senseurs de précision et les antennes de communication.",
+            "content": "Le mode focus dépend aussi du dispositif supérieur pleinement opérationnel. Le poste fournit les données de visée ; sans opérateur, les attaques de turbolasers subissent une difficulté accrue. Les communications externes requièrent également sa présence.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r8",
         "deck": "Pont Inférieur",
         "row": 8,
-        "label": "Soute Arrière"
+        "label": "Soute Arrière",
+        "kbaseIds": [
+          "kb-cb2b4e88447145ca07002858"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ebe6d5d43ef5db2c31c5c2c7cc697610f18a62d2c94b802c42f4a5816accced1",
+            "kbaseId": "kb-cb2b4e88447145ca07002858",
+            "name": "FarStar — soute inférieure arrière",
+            "summary": "Vivres et pièces de senseurs, turbolasers, chasseurs et navettes sont rangés dans cette soute.",
+            "content": "Un SE-4 aide R-97 à garder l’ordre. Matériel de survie et fournitures diverses s’accumulent ; une pièce introuvable ailleurs peut encore être enfouie dans une caisse de ce dépôt.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r9",
         "deck": "Pont Inférieur",
         "row": 9,
-        "label": "↓ Poste de Tir Inférieur"
+        "label": "↓ Poste de Tir Inférieur",
+        "kbaseIds": [
+          "kb-77d7abd240431e316cae1fc0"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "bad728167f79b45a7fde2ba835f4dd2b6cdd6421c016750260d0ef02605201c5",
+            "kbaseId": "kb-77d7abd240431e316cae1fc0",
+            "name": "FarStar — turbolaser inférieur",
+            "summary": "La tourelle inférieure dispose d’un artilleur permanent et de deux postes techniques activés en alerte.",
+            "content": "Les techniciens installés entre le pont 4 et le pont d’armes inférieur surveillent et alimentent cette arme ainsi que les deux turbolasers bâbord du pont 1.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r11",
         "deck": "Pont Inférieur",
         "row": 11,
-        "label": "Capsule Sauvetage x4"
+        "label": "Capsule Sauvetage x4",
+        "kbaseIds": [
+          "kb-a3b34693e78004cddaa3242c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "3ca016c5e391a5b2795cebd89171437f04bf3836d2f5edf01c3409e6a2c76381",
+            "kbaseId": "kb-a3b34693e78004cddaa3242c",
+            "name": "FarStar — capsules de sauvetage",
+            "summary": "Huit capsules prévues dans le livre accueillent chacune quatre personnes et trois semaines de provisions.",
+            "content": "Elles fonctionnent sur le même principe que les canots du bâtiment. La source donne une capacité et des réserves initiales, mais ne permet pas d’inventer leur utilisation ou leur disponibilité actuelle.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r13",
         "deck": "Pont Inférieur",
         "row": 13,
-        "label": "Capsule Sauvetage x4"
+        "label": "Capsule Sauvetage x4",
+        "kbaseIds": [
+          "kb-a3b34693e78004cddaa3242c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "3ca016c5e391a5b2795cebd89171437f04bf3836d2f5edf01c3409e6a2c76381",
+            "kbaseId": "kb-a3b34693e78004cddaa3242c",
+            "name": "FarStar — capsules de sauvetage",
+            "summary": "Huit capsules prévues dans le livre accueillent chacune quatre personnes et trois semaines de provisions.",
+            "content": "Elles fonctionnent sur le même principe que les canots du bâtiment. La source donne une capacité et des réserves initiales, mais ne permet pas d’inventer leur utilisation ou leur disponibilité actuelle.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "d6-r17",
         "deck": "Pont Inférieur",
         "row": 17,
-        "label": "Soute Avant"
+        "label": "Soute Avant",
+        "kbaseIds": [
+          "kb-d8a7bb2b04e0d99e366b56f6"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "b128a31f2b053791d470861a04e6d5b3db5edc5492a5a32e935f8321a4e6551c",
+            "kbaseId": "kb-d8a7bb2b04e0d99e366b56f6",
+            "name": "FarStar — soute inférieure avant",
+            "summary": "Cette soute rassemble vivres, pièces d’hydroponie, support vital et droïdes de récupération.",
+            "content": "Lampes, conduites, graines, pompes, éléments de gravité et échangeurs thermiques côtoient plusieurs vieux R3 partiellement démontés. Un SE-4 est présent en permanence.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              46
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       }
     ],
     "deckPlans": [
@@ -11323,6 +12852,82 @@
         "scale": "Fighter",
         "count": 24
       }
+    ],
+    "kbaseIds": [
+      "kb-5659d1d2774e7cd3fe2344fb",
+      "kb-34f27934d2590f2b403120fa",
+      "kb-15e35bfdd79cc85fa89e9fee",
+      "kb-eecbfad7878889a37963f9e7"
+    ],
+    "referenceKnowledge": [
+      {
+        "fingerprint": "17c01060150a3201f583f8bb5e1fd70b30727f815497dc469db623dc6a23adb3",
+        "kbaseId": "kb-5659d1d2774e7cd3fe2344fb",
+        "name": "FarStar",
+        "summary": "Corvette corellienne transformée en bâtiment d’exploration armé, capturée sur Kal’Shebbol et confiée à Keleman Ciro pour poursuivre le Moff.",
+        "content": "### Origines et changements de rôle\nConstruit pour Chandrila près de soixante ans auparavant, le Freedom’s Messenger est d’abord un navire diplomatique. Il accueille l’intégration de la Confédération de Marzoon à la République et transporte des Jedi lors du soulèvement de Vaykaaris. Transformé en bâtiment militaire, il permet une évacuation massive à Ord Torrenze, mais une surcharge du réacteur entraîne sa chute.\n\n### Sous contrôle impérial\nL’Empire récupère l’épave et la remet en service sous le nom de Renegade, avec Kentor Sarne comme commandant. Le navire rejoint plus tard ses forces dans le secteur de Kathol et participe à la répression sur Charis. Sarne le transforme ensuite en explorateur capable de retrouver des artefacts DarkStryder et de soumettre des colonies isolées.\n\n### Capture et mission\nAprès l’assaut républicain sur Kal’Shebbol, Ciro n’a que 28 heures pour terminer la remise en état et recruter l’équipage. Le bâtiment est rebaptisé FarStar. Les espaces de vie servent aussi au stockage ; les couchettes sont partagées et le hangar intérieur, les senseurs perfectionnés et l’équipement bricolé déterminent les contraintes de la mission.",
+        "sourceId": "src-1678b1eb8c4bd691",
+        "pages": [
+          24,
+          25
+        ],
+        "provenance": "official",
+        "usage": "darkstryder_scenario",
+        "authoredBy": "manual",
+        "status": "source-reference",
+        "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+      },
+      {
+        "fingerprint": "b86739e2aa244dafda8d3b3f26ab6df013ac4008de9c22aba54bc644e1d503c4",
+        "kbaseId": "kb-34f27934d2590f2b403120fa",
+        "name": "FarStar — senseurs et communications",
+        "summary": "Le FarStar bénéficie de senseurs exceptionnellement sensibles et d’un émetteur subspatial renforcé, au prix d’un encombrement et d’une consommation élevés.",
+        "content": "Les nouveaux senseurs doublent presque la portée antérieure et peuvent révéler un adversaire avant que celui-ci ne détecte la corvette. Ils consomment davantage d’énergie et occupent plus de place.\n\nL’émetteur subspatial porte à près de 100 années-lumière, mais ne constitue pas une hyperradio. Les correspondants ordinaires, limités à environ 25 années-lumière, peuvent recevoir sans pouvoir répondre jusqu’au FarStar. L’équipe tente de changer canaux et chiffrement pour éviter la surveillance impériale ; l’écoute du réseau de Sarne reste une possibilité, pas un accès acquis.",
+        "sourceId": "src-1678b1eb8c4bd691",
+        "pages": [
+          25,
+          26
+        ],
+        "provenance": "official",
+        "usage": "rules",
+        "authoredBy": "manual",
+        "status": "source-reference",
+        "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+      },
+      {
+        "fingerprint": "9fb77b57d275c4dbb54cece55602622ebcd215ce2573abbb0626a95c34eb0b8b",
+        "kbaseId": "kb-15e35bfdd79cc85fa89e9fee",
+        "name": "FarStar — vie à bord",
+        "summary": "Le manque d’espace, les quarts alternés, les équipements bricolés et les restrictions d’énergie mettent l’équipage sous tension.",
+        "content": "Les quartiers sont froids et peu éclairés ; seules des zones essentielles restent entièrement alimentées. Les ingénieurs privilégient l’accès rapide aux composants plutôt que l’esthétique : câbles et conduites demeurent visibles. Les réserves de pièces techniques priment sur les vivres, susceptibles d’être obtenus sur les mondes visités.\n\nTrente chambres à deux couchettes doivent accueillir un équipage d’environ 120 personnes grâce au partage des lits entre deux quarts de douze heures. Certains préfèrent dormir sur des tapis au sol. Cette promiscuité fournit des tensions à jouer, sans imposer que des bagarres ou ruptures aient effectivement eu lieu.",
+        "sourceId": "src-1678b1eb8c4bd691",
+        "pages": [
+          27,
+          28
+        ],
+        "provenance": "official",
+        "usage": "darkstryder_scenario",
+        "authoredBy": "manual",
+        "status": "source-reference",
+        "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+      },
+      {
+        "fingerprint": "c501df8a7462153fe8c30cf8ff1fb7553cc9c4e6381727ecdf409bc7a49ef44d",
+        "kbaseId": "kb-eecbfad7878889a37963f9e7",
+        "name": "FarStar — sabotage informatique de Sarne",
+        "summary": "Sarne a caché une balise de position et des routines de sabotage dans les ordinateurs et les interfaces des droïdes.",
+        "content": "### Deeplink\nUn programme transmet la position et le cap du FarStar pendant le quart descendant, à une heure aléatoire entre 22 h et 3 h 30. Il reste limité par la portée subspatiale de 100 années-lumière.\n\n### Pièges du système\nLes routines s’activent si l’ordinateur ne reçoit pas le code personnel de Sarne tous les dix jours. Le scénario propose de masquer leurs effets derrière les pannes du matériel bricolé et de révéler leur ampleur progressivement, notamment autour de Shintel Downtime et Crisis.\n\n### Droïdes\nL’interface astromécano peut modifier la programmation d’un R2 ou R3 et provoquer des sabotages : détour d’hyperespace, batteries vidées, eau expulsée. Ce sont des suggestions d’incidents futurs, pas un journal de la partie.",
+        "sourceId": "src-1678b1eb8c4bd691",
+        "pages": [
+          29,
+          30
+        ],
+        "provenance": "official",
+        "usage": "darkstryder_scenario",
+        "authoredBy": "manual",
+        "status": "source-reference",
+        "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+      }
     ]
   },
   "crew": {
@@ -11677,7 +13282,44 @@
             }
           ],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-99a0b4d2f2eed67f68569e53"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "0318bf37705f446f890ba50bb071826cce0d5509718144a8ee03ac87c456d0d2",
+            "kbaseId": "kb-99a0b4d2f2eed67f68569e53",
+            "name": "Keleman Ciro",
+            "summary": "Ancien étudiant de Dolomar devenu résistant puis commando, Ciro commande le FarStar grâce notamment à sa résistance aux effets mentaux DarkStryder.",
+            "content": "Sur Dolomar, Ciro délaisse une carrière de programmeur pour la résistance qui renverse le gouverneur impérial. Il rejoint la Nouvelle République, se distingue dans le secteur de Brak et entre chez les Commandos de Page ; Noell, son frère, choisit le corps des pilotes.\n\nRéservé mais ferme, Ciro écoute les avis puis exige l’exécution rapide des ordres. Il fait confiance à ses compétences, surtout informatiques, mais ne possède pas encore l’expérience d’un commandant de grand équipage. Page voit dans sa résistance mentale un atout pour la mission.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              48
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          },
+          {
+            "fingerprint": "76b885800c420c19b4916e1d02957e84f1b6542e4db68f7a817e51897b0f14ea",
+            "kbaseId": "kb-99a0b4d2f2eed67f68569e53",
+            "name": "Keleman Ciro",
+            "summary": "Endgame prévoit la mort de Ciro des suites de ses blessures avant l’arrivée dans le système de DarkStryder.",
+            "content": "### Évolution prévue dans le supplément\nLe capitaine est décrit comme catatonique depuis son sauvetage de captivité impériale. Cette mort appartient au déroulement original prévu ; elle ne modifie pas son statut dans ta campagne.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              24
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "DIR-KA",
@@ -12085,7 +13727,60 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-1948b35f0d78ebbfc7686d7e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "53a3e789b1139f7dd6b1101ba25d978954763708a5b14a298cc69a9af0df2e58",
+            "kbaseId": "kb-1948b35f0d78ebbfc7686d7e",
+            "name": "Kaiya Adrimetrum",
+            "summary": "Veuve à la suite de l’occupation impériale de Siluria III, Kaiya devient cheffe de résistance, combattante de l’Alliance et premier officier du FarStar.",
+            "content": "Après la mort de son mari, Kaiya rassemble parents et amis en cellule de résistance et attaque le gouverneur de Siluria III. Corwin Shelvay la recrute pour l’Alliance. Son efficacité finit par lui ouvrir les Commandos de Page.\n\nElle inspire une loyauté personnelle forte et protège son unité, tout en acceptant les risques du combat. Son calme apparent masque une fatigue et des doutes sur le poids du commandement. Elle complète le style réservé de Ciro par une fermeté capable de devenir agressive lorsque la mission ou ses proches sont menacés.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              49
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          },
+          {
+            "fingerprint": "083288aac3fd0b48a42a34c13495b2ac8bfa2cecb3c9ebf47eabc7acb62fa26a",
+            "kbaseId": "kb-1948b35f0d78ebbfc7686d7e",
+            "name": "Kaiya Adrimetrum",
+            "summary": "Kaiya prend confiance dans le commandement mais exige des explications de Jessa sur son ancien grade.",
+            "content": "### Évolution prévue dans le supplément\nLe livre recommande sa survie jusqu’au dénouement et utilise Rogue Elements pour ébranler ses certitudes. Les projets de vengeance de Dajus, Kl’aal et Qesya compliquent la préparation d’une bataille contre Sarne dont les forces restent inconnues.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              18
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "df7267a8b584903fcc1b2904f670dbd511d2e403f42a50b90a22df1330977153",
+            "kbaseId": "kb-1948b35f0d78ebbfc7686d7e",
+            "name": "Kaiya Adrimetrum",
+            "summary": "L’approche du domaine de Sarne et la mort prévue de Ciro accroissent la nervosité de Kaiya.",
+            "content": "### Évolution prévue dans le supplément\nLe livre recommande sa présence parmi les premiers groupes débarqués et son isolement du FarStar pendant Ambush!. Elle peut progressivement reconnaître DarkStryder comme une menace plus grande encore que Sarne.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              21
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "NAV-DT",
@@ -12333,7 +14028,44 @@
             }
           ],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-ad292a75affce63fd2c2002e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "b58c1681f34902b9ad23f4fed76b58bc05ce222a2959239ba85dc3a6dbd0231a",
+            "kbaseId": "kb-ad292a75affce63fd2c2002e",
+            "name": "Darryn Thyte",
+            "summary": "Ancien pilote mutilé à Vaenrood, Thyte maîtrise navigation, senseurs et communications mais vit mal sa réaffectation à la passerelle.",
+            "content": "Un crash causé par l’artillerie impériale lui coûte main et bras droits. Sa prothèse rudimentaire permet une interface informatique mais manque de finesse. Retiré du pilotage, il exige son transfert au FarStar pour prouver sa valeur.\n\nThyte considère la passerelle comme son territoire et tolère mal l’ingérence. Son expertise d’astrogateur rend son attitude difficile à sanctionner. Il désire reprendre le vol mais souffre d’un manque de confiance ; Gorjaye refuse de l’affecter aux chasseurs, ce qui nourrit sa rancœur.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              51
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          },
+          {
+            "fingerprint": "e343e1d8048996d29ae60a76e43d548a3d652cd416d0bc8b07fa094b48838bed",
+            "kbaseId": "kb-ad292a75affce63fd2c2002e",
+            "name": "Darryn Thyte",
+            "summary": "La rudesse de Thyte commence à s’atténuer et un attachement à Gorjaye se développe.",
+            "content": "### Évolution prévue dans le supplément\nSon amertume de pilote privé de vol subsiste. Le livre n’impose plus de rôle décisif à Thyte, mais encourage à le maintenir impliqué dans la mission.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              18
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "NAV-AR",
@@ -15378,7 +17110,44 @@
             }
           ],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-142503cc25d2e464cf6f8f2b"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "7d2e4785ea3df7791045a04f711568ac7263a1cf4c2967f54a286f027c9aa067",
+            "kbaseId": "kb-142503cc25d2e464cf6f8f2b",
+            "name": "Ranna Gorjaye",
+            "summary": "Gorjaye développe une amitié potentiellement amoureuse avec Thyte et un respect réticent pour Kaiya.",
+            "content": "### Évolution prévue dans le supplément\nElle partage des parties de sabacc avec Thyte et Dasha, tout en restant solitaire. Elle réprime les critiques contre le commandement même lorsqu’elle les comprend. Une promotion et le choix d’une affectation sont envisagés seulement si ses performances et la survie du FarStar le permettent.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              19
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "7b1acebd861b856c3c1fcba4839c4ebc1b4e0cb2aa45a28eac6268663d0b9543",
+            "kbaseId": "kb-142503cc25d2e464cf6f8f2b",
+            "name": "Ranna Gorjaye",
+            "summary": "L’attachement entre Gorjaye et Thyte reste agité par leurs tempéraments et son goût du risque.",
+            "content": "### Évolution prévue dans le supplément\nSous réserve de sa survie jusque-là, le livre laisse désormais les développements libres au joueur et au MJ.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "DEE-TZ",
@@ -15922,7 +17691,44 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-0b4a44821039fb3004e27363"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "46bbf3f2e8df4564213ae3de03b395caba9548aa4b85675b4da2b9b3ecc21d26",
+            "kbaseId": "kb-0b4a44821039fb3004e27363",
+            "name": "Dasha Defano",
+            "summary": "Dasha reste proche de Gorjaye mais se rapproche de Thanis, dont les griefs contre Scoryn l’influencent.",
+            "content": "### Évolution prévue dans le supplément\nThanis se présente comme une victime ayant besoin d’écoute. Leur lien n’est pas encore amoureux, même si le livre laisse cette possibilité ouverte. Dasha devrait plutôt soutenir Kaiya lors de la mutinerie, malgré un éloignement progressif de Gorjaye.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "b0fa89c303f091672e0d1d08c85361102f4b0c294315744f197bedc8dad4cb74",
+            "kbaseId": "kb-0b4a44821039fb3004e27363",
+            "name": "Dasha Defano",
+            "summary": "Dasha peut reprendre le commandement des chasseurs si Gorjaye n’est plus en mesure de l’assurer.",
+            "content": "### Évolution prévue dans le supplément\nSes liens avec Thanis influencent son regard sur Kaiya, même si la position du chasseur de primes pendant la mutinerie a ébranlé sa confiance. Son évolution reste ouverte.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "PRI-HS",
@@ -20686,7 +22492,44 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-aa9a12abd3c2ba8f31877062"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "c0f5ed9a67abc066e06dd025dae8fbdcc3f1f57cf6cea4577d74d4fa6c1a5642",
+            "kbaseId": "kb-aa9a12abd3c2ba8f31877062",
+            "name": "Lofryyhn",
+            "summary": "Lofryyhn s’épuise à maintenir le FarStar et reste furieux que l’ancien esclavagiste Khzam ait échappé à l’équipage.",
+            "content": "### Évolution prévue dans le supplément\nIl doit aider discrètement Brophar à réparer le Muvon II. Si l’alliance entre Loh’khar et Khzam est découverte, sa haine des esclavagistes fournit un conflit majeur, sans résultat imposé à la partie.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "d297191d7195afbef138226e405bf6e36d28c23a02a10b1d443f88ab75f44513",
+            "kbaseId": "kb-aa9a12abd3c2ba8f31877062",
+            "name": "Lofryyhn",
+            "summary": "La trahison de Loh’khar et son alliance avec Khzam peuvent déclencher la colère de Lofryyhn.",
+            "content": "### Évolution prévue dans le supplément\nIl veut achever la mission malgré la fatigue et peut chercher à retrouver Loh’khar pour régler l’affaire. Le résultat de la confrontation n’est pas fixé.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "MOT-KP",
@@ -26982,7 +28825,28 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-b3791b9c40d1874e41e3be69"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "64bd91ac0a86961845406dccac771d0ca3f72e674d5d79d7add73e7d46fe48ad",
+            "kbaseId": "kb-b3791b9c40d1874e41e3be69",
+            "name": "Gorak Khzam",
+            "summary": "L’officier de sécurité rodien cache son passé de responsable des Sabiador Slavers et embarque pour échapper à d’anciens esclaves.",
+            "content": "Khzam se présente comme un commerçant connaissant les mondes de Kathol. Il évite le contact physique et les espèces anciennement asservies. En secret, il dirigeait la sécurité d’un groupe qui fournissait des esclaves aux arènes de Sarne ; ce groupe s’est dispersé.\n\nIl accepte mensonge et meurtre discret pour protéger son identité et recherche un refuge possible. Jessa Dajus connaît son passé, mais Khzam connaît aussi le véritable rôle qu’elle jouait chez Sarne. Il chasse avec Kl’aal, dont l’amitié pourrait changer si ses motivations étaient dévoilées.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              50
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          }
+        ]
       },
       {
         "id": "TUR-IO",
@@ -27799,7 +29663,28 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-4cc2aa9b2e5f562d328b5350"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "854b43e23e48a4adf1df01bbdc3f358504a4caf15a91cb15a263a91545ffac31",
+            "kbaseId": "kb-4cc2aa9b2e5f562d328b5350",
+            "name": "Kl'aal",
+            "summary": "Le Rift exacerbe l’impatience de Kl’aal, employé à la sécurité après la défection de Khzam.",
+            "content": "### Évolution prévue dans le supplément\nIl répond à Kaiya et Scoryn sans reprendre entièrement le poste de Khzam. Rogue Elements doit opposer son devoir au commandement à son désir de combattre. S’il tue des mutins, le livre suggère sa révocation de la sécurité et son retour à l’éclairage.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "SEC-Sc",
@@ -28006,7 +29891,28 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-9c2158daebe44001257acc98"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "27f7bf8cbb41f41671a6c5939759ea15da2a26a5ebfa803b97f7a71ec4f242d2",
+            "kbaseId": "kb-9c2158daebe44001257acc98",
+            "name": "Scoryn",
+            "summary": "La querelle entre Scoryn et Thanis peut aboutir à une confrontation finale sur la planète.",
+            "content": "### Évolution prévue dans le supplément\nLe livre évoque un règlement de comptes mais laisse son développement et son issue ouverts.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              24
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "TUR-EF",
@@ -28599,7 +30505,44 @@
             }
           ],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-92e77fe95dcd3465f2df760e"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "09547928addb12568f7c5a1223c640a7c7e815a803f974255b3f7da4f861c335",
+            "kbaseId": "kb-92e77fe95dcd3465f2df760e",
+            "name": "Krudar",
+            "summary": "L’impatience et les bagarres placent Krudar au bord d’une sanction disciplinaire.",
+            "content": "### Évolution prévue dans le supplément\nUne nouvelle altercation peut lui coûter son poste et le confiner à ses quartiers. Le MJ peut éprouver sa maîtrise de soi par des provocations ; ces scènes sont des propositions, pas des incidents obligatoires.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "7992aea3ea13837b719695f44861cffa753cf77f129d819237eec880a72909a5",
+            "kbaseId": "kb-92e77fe95dcd3465f2df760e",
+            "name": "Krudar",
+            "summary": "Krudar peut être utile dans les affrontements au sol comme dans la bataille spatiale.",
+            "content": "### Évolution prévue dans le supplément\nLe livre envisage sa perte avec le FarStar mais laisse au MJ et au joueur le développement du personnage ; aucune mort n’est enregistrée dans l’état de campagne.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "ECR-LR",
@@ -29035,7 +30978,44 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-43151b5214af128a70f61c22"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "f3ea8b1a9d2b951d0f9386ecde6ae17e3cf280d1935ea98f3fe2ab7643ba881c",
+            "kbaseId": "kb-43151b5214af128a70f61c22",
+            "name": "Thanis Gul-Rah",
+            "summary": "Thanis voit la promotion de Scoryn comme une menace et cherche un soutien parmi les pilotes.",
+            "content": "### Évolution prévue dans le supplément\nScoryn connaît son implication dans la mort du mari de Kaiya. Il entretient les dissensions pour renforcer sa position, tout en étant tenté de l’éliminer. Leur confrontation finale est réservée au tome suivant.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "002a404947b6fd587e5c9c69bcd6a6c52169d666e909d79db191b1b8b2377b01",
+            "kbaseId": "kb-43151b5214af128a70f61c22",
+            "name": "Thanis Gul-Rah",
+            "summary": "Thanis est rongé par son rôle dans la mort du mari de Kaiya et reporte sa culpabilité sur Scoryn.",
+            "content": "### Évolution prévue dans le supplément\nIl envisage de l’attaquer dans un endroit isolé sur la surface ; ce passage décrit une intention et une proposition de scène, pas un meurtre accompli.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              24
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "TUR-WW",
@@ -29628,7 +31608,28 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-0d9c7d854a3df577a940d58c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e4a2fe776347c1532cc946c1e7971d24c1ca8bee255f5ed892ad33fde37f3bd3",
+            "kbaseId": "kb-0d9c7d854a3df577a940d58c",
+            "name": "Boom",
+            "summary": "Les expériences pyromanes de Boom deviennent un irritant majeur pour l’équipage.",
+            "content": "### Évolution prévue dans le supplément\nKrudar, qui a soutenu son embarquement, les supporte particulièrement mal. Le livre propose d’utiliser Boom pour accroître ses tensions et mettre sa patience à l’épreuve.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              21
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "INT-UL",
@@ -29955,7 +31956,28 @@
           "intervention": [
             "Escouade (10)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-16802f30c3ad4270bee085f8"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "47de808dbee8f31a9ea971542f9431188369d626f205dc2d9a9a7dce37043256",
+            "kbaseId": "kb-16802f30c3ad4270bee085f8",
+            "name": "Gunthar",
+            "summary": "L’intelligence de Gunthar augmente à l’approche de son peuple, dont il partage une conscience collective.",
+            "content": "### Évolution prévue dans le supplément\nSon éloignement de l’esprit-ruche explique ses difficultés cognitives. Dans Home, il doit retrouver les siens ; des phrases plus complexes apparaissent avant l’arrivée mais ses facultés complètes ne reviennent qu’après la réunion physique.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              21
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "SEC-LV",
@@ -30692,7 +32714,44 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-b662b7354c160bda8af16008"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "af213250415fef9fe7da15d74034f0a31e55e7ca91e523834a8cad23ee555795",
+            "kbaseId": "kb-b662b7354c160bda8af16008",
+            "name": "Tanner Carzyn",
+            "summary": "Tanner croit trouver en Turgah emprisonné un allié favorable à l’Empire.",
+            "content": "### Évolution prévue dans le supplément\nTurgah peut manipuler le jeune homme pour se tenir informé. Le livre réserve à leur relation un rôle important dans Endgame et recommande de préserver Tanner pendant le Rift.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              21
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "c01298ed953f2b322f00a7d2a2e17a77c3c9ec44cce805a126b31ae502fec00e",
+            "kbaseId": "kb-b662b7354c160bda8af16008",
+            "name": "Tanner Carzyn",
+            "summary": "Tanner peut être persuadé de transmettre pour Turgah ce qu’il croit être un message destiné aux Impériaux.",
+            "content": "### Évolution prévue dans le supplément\nS’il accepte malgré sa peur d’accéder au réseau, les coordonnées partent vers une armada bothane proche juste avant l’entrée dans le système binaire. C’est une branche conditionnelle du scénario.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              24
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "PAS-JD",
@@ -31035,7 +33094,28 @@
             }
           ],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-4723151f021dfd1a672f9723"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "048e49b21bb68c70ec949b6d463077a93781a663d1d10e207685ee1ee626797b",
+            "kbaseId": "kb-4723151f021dfd1a672f9723",
+            "name": "Jessa Dajus",
+            "summary": "Le passé de colonel et de spécialiste du chantage de Jessa explique sa connaissance des rivaux politiques de Sarne.",
+            "content": "### Évolution prévue dans le supplément\nJessa veut confronter DarkStryder pour mettre fin aux cauchemars mais reste tentée par sa technologie. Le livre recommande sa survie ; l’arbitrage entre ambitions, loyauté impériale et respect de Kaiya appartient au joueur et au MJ.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "MED-GS",
@@ -31228,7 +33308,28 @@
           "intervention": [
             "Exploration (7)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-273e387e764899c3b651445c"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "13256cf12740e9a1fb21904275b360c5c92eb868e2a92825bedbc27562f9c0ba",
+            "kbaseId": "kb-273e387e764899c3b651445c",
+            "name": "Genna Seedar",
+            "summary": "Genna souffre des tensions de l’équipage et peut les signaler directement à Kaiya, qu’elle admire.",
+            "content": "### Évolution prévue dans le supplément\nDurant Rogue Elements, devoir soigner des mutins ayant blessé les loyalistes crée un conflit professionnel et moral à jouer plutôt qu’à résoudre automatiquement.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "CUI-SR",
@@ -32835,7 +34936,28 @@
           "intervention": [
             "Exploration (7)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-5a3d280c85ac662c040fd5b2"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "e3c56f2625df36003f2332a46fb9e3401b81c8609f66243aab0e6925d752705e",
+            "kbaseId": "kb-5a3d280c85ac662c040fd5b2",
+            "name": "Gammer Firdaaz",
+            "summary": "Le livre prévoit que Gammer reste sur Demonsgate pour entretenir le relais à travers le Rift.",
+            "content": "### Évolution prévue dans le supplément\nEn dehors de ce rôle dirigé dans la dernière aventure du tome, son évolution demeure libre pour le MJ.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          }
+        ]
       },
       {
         "id": "ENV-Qu",
@@ -33505,7 +35627,44 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-896f5ff21005ddb2fa673815"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "db71b2c6ea2541b698edd76f491d337b5b7f809dfcc9209c662dcaaea7a03d01",
+            "kbaseId": "kb-896f5ff21005ddb2fa673815",
+            "name": "Vegath Tist",
+            "summary": "Le tome recommande de préserver Vegath pour son rôle dans le supplément final.",
+            "content": "### Évolution prévue dans le supplément\nAucune évolution supplémentaire n’est imposée ici ; le MJ conserve une marge de développement personnel.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "187d7ebbacf87b876063faf66e6806a601e41b483110b732becf80e1810c9ad1",
+            "kbaseId": "kb-896f5ff21005ddb2fa673815",
+            "name": "Vegath Tist",
+            "summary": "Vegath doit accompagner l’équipe débarquée ; des habitants peuvent le prendre pour une création supérieure de DarkStryder.",
+            "content": "### Évolution prévue dans le supplément\nIl pourrait rester comme invité honoré des Yapi et chercher un pouvoir Ta-Ree capable de guérir son addiction au sel. Ce séjour et cette guérison restent des possibilités.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              24
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "LAB-WK",
@@ -34469,7 +36628,60 @@
           "intervention": [
             "Exploration (7)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-6daaf9317b69bccfc53a30ac"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "ce063d76aa8ec0816a3a7ad0e9a8edb8bbc5b25e42b88ddead3399ebf1749647",
+            "kbaseId": "kb-6daaf9317b69bccfc53a30ac",
+            "name": "Loh'khar the Finder",
+            "summary": "Le spécialiste twi’lek de l’approvisionnement exploite réseaux, information et chantage ; Sarne a confisqué son transport sur Kal’Shebbol.",
+            "content": "Loh’khar dit avoir quitté Ryloth à cause d’une conspiration de clan, version non confirmée. Marchand itinérant puis intermédiaire d’astroports, il construit des réseaux d’agents, espions et voleurs pour trouver marchandises rares ou illégales. Trois Turazza issus d’œufs obtenus en échange d’informations deviennent ses auxiliaires.\n\nAprès la confiscation de son appareil par Sarne, il commerce sur Kal’Shebbol. Page refuse d’abord son recrutement ; sa capacité à trouver rapidement des condensateurs de turbolaser lui ouvre finalement le FarStar. Il cultive les faveurs, secrets et moyens de pression tout en affichant une façade d’homme d’affaires respectable.",
+            "sourceId": "src-1678b1eb8c4bd691",
+            "pages": [
+              54
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+          },
+          {
+            "fingerprint": "8cb265faedc7c31f54d8d61fc6814f7954c66eea9478ba11792b6ad7111c0787",
+            "kbaseId": "kb-6daaf9317b69bccfc53a30ac",
+            "name": "Loh'khar the Finder",
+            "summary": "Loh’khar prépare une désertion profitable avec Khzam et cherche à faire réparer un cargo qui lui servira de véhicule de fuite.",
+            "content": "### Évolution prévue dans le supplément\nDans Harm’s Way, il défend l’utilité d’un YT-1300 endommagé afin que Brophar et Lofryyhn le remettent en état. Il compte partir avec Rizzal et Vizzal, retrouver la source de DarkStryder et partager les bénéfices avec Khzam. Le moment de son départ reste ouvert et ses bons rapports avec l’équipage servent aussi ce plan.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              19
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "78a9fb2878b2054f4bc8b22b8ef0888d7e8ca2d1556bd7d5d4eed2de381f8744",
+            "kbaseId": "kb-6daaf9317b69bccfc53a30ac",
+            "name": "Loh'khar the Finder",
+            "summary": "Loh’khar attend une occasion de déserter pour retrouver Khzam et récupérer les artefacts.",
+            "content": "### Évolution prévue dans le supplément\nLa bataille spatiale ou l’arrivée des Skandrei peuvent couvrir sa fuite, éventuellement à bord du Muvon II avec les Turazza. Le livre suggère un retour opportuniste lors du dénouement et une vente à un émissaire du Soleil Noir dans le Minos Cluster ; la fiabilité des appareils au-delà du Rift risque de ruiner ce projet.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              22
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "RES-Ni",
@@ -36405,7 +38617,44 @@
           "intervention": [
             "Escadrille Sol (8.2)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-6292b8fab523eb6bebb153fa"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "cd4cc7f8729ac8a39481ebce238bc0ac12f35d1e3f459b37b98d357ae11a202a",
+            "kbaseId": "kb-6292b8fab523eb6bebb153fa",
+            "name": "Brophar Tofarain",
+            "summary": "Brophar supporte mal le vol du Muvon par Khzam ; la réparation du futur Muvon II peut lui redonner un objectif.",
+            "content": "### Évolution prévue dans le supplément\nD’ordinaire extraverti et apprécié, il devient irritable. La remise en état du YT-1300 trouvé dans Harm’s Way est prévue comme une activité absorbante, éventuellement après quelques encouragements.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "2dc7366baf92b4a4c7969fcd8934e85eecc93586acea52f62fb9e9e9ca748609",
+            "kbaseId": "kb-6292b8fab523eb6bebb153fa",
+            "name": "Brophar Tofarain",
+            "summary": "Le Muvon II réparé rend Brophar plus heureux, mais sa propriété l’oppose à Loh’khar.",
+            "content": "### Évolution prévue dans le supplément\nUn vol du cargo par le Twi’lek peut le pousser à poursuivre les fugitifs jusque sur la planète. Le reste de son développement est libre.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "SLI-DD",
@@ -37774,7 +40023,44 @@
           ],
           "extra2": [],
           "intervention": []
-        }
+        },
+        "kbaseIds": [
+          "kb-07f77077f431138713bd023a"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "81da3fb120f87af171bf5e08f90a54273f1750ff7082bad12eac43b86a13078f",
+            "kbaseId": "kb-07f77077f431138713bd023a",
+            "name": "Brandis Turgah",
+            "summary": "Turgah espionne pour les Bothans sous la menace et profite du projet Lifeline pour envoyer ses rapports.",
+            "content": "### Évolution prévue dans le supplément\nIl craint autant ses employeurs que la réaction des compagnons. Le livre prévoit qu’un message clandestin soit découvert ; refusant de dénoncer les Bothans, il peut être pris pour un agent impérial et emprisonné par Kaiya. Ce déroulement est une direction de scénario, pas un état de captivité déjà appliqué.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              21
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "50f87997f3e512d7381998dbd0519fddc0d5390de2a1297a0265581d0813bdf7",
+            "kbaseId": "kb-07f77077f431138713bd023a",
+            "name": "Brandis Turgah",
+            "summary": "Turgah emprisonné veut utiliser Tanner pour transmettre les coordonnées du FarStar aux Bothans.",
+            "content": "### Évolution prévue dans le supplément\nIl indique l’emplacement d’un ordinateur de chiffrement caché dans ses anciens quartiers et cherche à dicter un message. Son espoir que les précédents rapports aient traversé le Rift demeure incertain.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       },
       {
         "id": "DRO-CN",
@@ -39792,7 +42078,44 @@
           "intervention": [
             "Escadrille Sol (8.2)"
           ]
-        }
+        },
+        "kbaseIds": [
+          "kb-1cc0d07a04ae5caacd3a09f5"
+        ],
+        "referenceKnowledge": [
+          {
+            "fingerprint": "029b734da9974cd1186439b5ea6111fe3793596b3437430bc0cda10c5c70ec59",
+            "kbaseId": "kb-1cc0d07a04ae5caacd3a09f5",
+            "name": "Cobb Unser",
+            "summary": "Retrouver sa sœur réduit la motivation personnelle de Cobb à poursuivre la mission.",
+            "content": "### Évolution prévue dans le supplément\nIl voudrait pouvoir partir mais reste dépendant des possibilités de transport. Le choix de sa sœur de demeurer à bord devrait l’inciter à rester également.",
+            "sourceId": "src-e76020e4b32da626",
+            "pages": [
+              20
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+          },
+          {
+            "fingerprint": "5f2a6130272f4821df79d1306595ad6aa32551da955c5088a124d36284876472",
+            "kbaseId": "kb-1cc0d07a04ae5caacd3a09f5",
+            "name": "Cobb Unser",
+            "summary": "Ses compétences rudimentaires de pilotage pourraient servir pendant la bataille finale.",
+            "content": "### Évolution prévue dans le supplément\nLe livre évoque sa mort ou sa capture comme probables, sans les établir comme des faits : le sort réel reste à jouer.",
+            "sourceId": "src-c86af6abdc3184c5",
+            "pages": [
+              23
+            ],
+            "provenance": "official",
+            "usage": "darkstryder_scenario",
+            "authoredBy": "manual",
+            "status": "source-reference",
+            "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+          }
+        ]
       }
     ]
   },

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-11236a714716d512",
+  "name": "katholresurrect",
+  "sha256": "11236a714716d5123fa4e8ee1243a1a143584a77805cb614f76da99cb539bc6e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/katholresurrect.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bc57e4d7bf4f5c801f9b570f09311a244abf9ac310969f17b92a1f03665c7cf6",
+  "fileHashes": {
+    "book.md": "8711076ff8b2da8bce816ce52c9e3d82fb45e95ebb81f3ad02f0a3b0e1f9eea2",
+    "pages/0001.md": "abf5baf909dfdd45209b36ae274c1921726491fa09fa6607f772baab47fc2619"
+  }
+}

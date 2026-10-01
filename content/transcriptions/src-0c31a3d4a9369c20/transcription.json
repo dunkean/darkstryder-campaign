@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0c31a3d4a9369c20",
+  "name": "lifarstar",
+  "sha256": "0c31a3d4a9369c20897d8b2e51004b65dc9e7da58a2c01d3ed88771d78896113",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "txt",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/lifarstar.txt"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "5b766cb0dd413170c23797848b6aa516b21d2fe8ec4c55482491da6a4fbf54cb",
+  "fileHashes": {
+    "book.md": "595c77fb57150611dded48b8531b6053041f98e7fa7d3269ac7a906120e92a7c",
+    "pages/0001.md": "8ec62bc5e8d6d7e94b3ab4938506adefc5091ed65c9d997dcef6b8478293168f"
+  }
+}

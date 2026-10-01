@@ -1,0 +1,102 @@
+# MAKEZH
+
+Source: `src-8f351adc4f009592` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-8f351adc4f009592; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Erkenwald Makezh
+
+# Erkenwald Makezh
+
+## Oddball Navigator, New Republic Starship *FarStar*
+
+Played by [Jamie Thom](credits.html#jamie)
+
+*
+
+ 
+
+![Makezh](images/f3c1fc0e4f4a411b82d9c0dee3270afe89890a7c6cbc2cc99582ce7ed6583aed.jpg)
+
+*
+
+"…ehh, this is Makezh to, ahh, FarStar… we’ve crashed on this planet, it’s sort of hot and sunny… what’s it called again?… bbzzzzzhhhhhhh…"
+
+ 
+
+Erkenwald Makezh is a troubled individual with a mysterious, enigmatic past belaboured by alien abduction, psychic conditioning and social discrimination. As might be imagined, these experiences have left him a little excitable and prone to some unusual behaviour.
+
+ 
+
+Makezh is thirty-six years of age when he joins the FarStar crew in their quest across time and space. He appears much older than his years, with prematurely gray hair, once black, hanging lank and straight down over his shoulders. His widow’s peak is so pronounced that he is almost bald on top of his head. He is tall and gangly, with long arms and legs, a thin face and a perpetually nervous expression.
+
+ 
+
+He doesn’t remember much about his life before six years ago. Sometimes he gets flashes of childhood memories, his most pronounced being of his father, who was a famous navigator, strong in the Force, able to successfully navigate the Kathol Rift, and the first of the Danoorian people to make contact with the mysterious Sanhedrim. Makezh remembers his father being taken away into the Kathol Rift by the Sanhedrim when the boy was just ten, and remembers the driving force of his childhood being the desire to become a Rift-navigator like poppa, and to go get him back. He assumes that he must have done this, but been abducted himself. His first actual, bona fide, confirmable memories were of climbing into a small ship, the cockpit bathed in stark, beautiful white light from outside the window, powering up, and exiting a huge glowing-white Sanhedrim ship, heading for the Rift’s edge and Danoor.
+
+ 
+
+He landed on Danoor, and attempted to build a life for himself. As his childhood flashback-memories returned, he asked questions, and found that there were some people still on the planet that remembered him and his family. He learned that he went into the Rift in a small ship (purchased with the funds his father left behind) when he was sixteen, attempting to rescue the elder Makezh. That had been fourteen years ago. He had lost fourteen years of his life! And then, the folks he had asked about his past started going missing, or worse still, turning up dead. The name Makezh became a jinx. People began to avoid him. He drank a lot, and spent a lot of time alone in his apartment. He got the occasional odd job navigating the Rift – most notably for the large amounts of Imperial capship traffic heading in there with arms, troops, materiel and equipment. By this stage, Makezh was too poor and drunken and feckless to ask questions about this, he merely served.
+
+ 
+
+Then, three years ago, he did his last job for the Imperials. He had escorted the ISD *Bastion *to the other side of the Rift, when he overheard a transmission between its Captain and someone named Moff Sarne regarding his fate. He was to be prevented from leaving and given as a gift to someone named Darkstryder. Makezh had had enough of abductions for one life, thank you very much, and he blasted out of the *Bastion*’s hangar in his small scoutship. He was badly shot up by the ISD on leaving, and barely made it back to Danoor alive. 
+
+ 
+
+His ship was written off, and sold as scrap. He was not paid by the Imperials for all his nav-runs through the Rift. His life was a mess. Then, the nightmares began, and he began to see the true nature of his abduction. Every night, he was assailed by the images of Sanhedrim monks, burning the image of a pyramidal crystal named the Codex into his mind. He knew he would die if he did not get the Codex, and bring it to them. They would make him suffer greatly if he failed. It was in the Rift, in a holy place where they could not walk. He knew where. He was to go and fetch it. 
+
+ 
+
+But he had no ship and no money. And the nightmares were driving him insane.
+
+ 
+
+The only calming influence in these dreams was a Sanhedrim who talked to him quietly, privately. He was Qrygg, and he called himself an ‘agent of balance’, who was there to see that none of the warring Sanhedrim factions got their hands on the Codex. He insisted that Makezh bring the Codex to him, to be destroyed – to prevent the obliteration of the Sanhedrim race by whoever attained the Codex. Qrygg showed him a map in his mind, which Makezh recreated on the wall of his quarters. A map of the Rift. To exorcise the nighmares, Makezh painted an image of Qrygg in the centre of the map. It helped a little, and he began to sleep again.
+
+ 
+
+Driven to distraction by these dreams, Makezh was a recluse, never venturing onto the city streets. Until, two years ago, starving, he was forced to steal a basket of fruit from the marketplace. He was a poor thief, and an even poorer liar, and when he was caught, he was imprisoned. The government of Danoor discovered his talent for navigation, and he was poked, prodded and subjected to painful experiments as government agents attempted to isolate what gave him his powers of instinctive astrogation. They failed, and Makezh was released after serving a twenty-three-month sentence in a high-security hellhole. He left prison a broken, twisted, paranoid, haggard shell of a man. Then, a month later, agents of Sarne working with the government initiated their ‘navigator purge’. All of Danoor’s Rift-navigators were killed over the course of three nights, to preserve the security of Moff Sarne’s operation beyond the Rift. Makezh was the last to be attacked, but he had a premonition of the attack, and left his apartment. He was still attacked by a Danoorian Assassin Droid and two of Sarne’s men, but quick action on the part of the FarStar crew and Mist the Bounty Hunter saved his life. He then fled Danoor with the FarStar, gaining a job and a life, and perhaps, on the journey, he could get the Codex for Qrygg, hand it over… and make the nightmares go away.
+
+ 
+
+Since then, he has not gained the Codex, but has distinguished himself. A little cautious and cowardly by nature, he has found himself doing things he never would have dreamed of – facing the Sanhedrim, and standing up to them. Telling them the Codex would not be theirs. Helping to defeat Darkstryder and Sarne. In short, gaining a new cause and a place in legend, like his forefathers. The nightmares are gone now. He met Qrygg after he defied the Sanhedrim, and Qrygg made them stop. Qrygg also told him that every skill he knew was taught to him by the Sanhedrim so that he would be able to retrieve the Codex, and that some more special abilities would develop now his mind was free of Sanhedrim grasp.
+
+ 
+
+But recently, as he accompanies the FarStar back in time to stop Gorak from using the Codex to take over the galaxy, dreams have begun to plague him once more. But not really dreams. They feel more like past-life memories, of Jedi and ancient battles and long dead heroes…
+
+ 
+
+And a mysterious race of shapeshifting aliens, strong in the dark side, terrifying in battle, howling for the blood of Makezh!
+
+ 
+
+Perhaps here in the past, this tortured man can discover his past, his heritage, and his legacy – and finally find peace?  
+
+ 
+
+***
+
+Season Three Update: 
+
+ 
+
+***
+
+Makezh, with the aid of the mysterious time-travelling Kerenlin shapeshifter Daria, has finally found his legacy. He is descended from the Jedi Master Thorian Nimbanel Makezh, who lived four thousand years ago. Incredibly, Daria knew this man, and led Makezh to his tomb on the moon of Alderaan. Thorian Makezh had been buried in his ship, the *Out Of The Dark, *which, along with Thorian's Lightsaber and Holocron, had been preserved in an underground cavern with a light-side well, and are now in Erkenwald Makezh’s possession. His past-life memories have now become waking hallucinations! In the cavern, Makezh disposed of the Codex also, and the souls trapped therein can now find peace.
+
+ 
+
+Now, Daria has called upon Makezh to right a four thousand year old wrong, to help her find the lost leader of her race, Kerenlin of the Kerenlin. Whether Erkenwald Makezh, the last of his line, will take up this mission remains to be seen…
+
+ 
+
+**
+
+GM’s NOTE: This plotline is the most interesting tag-team GM-ing exercise I’ve ever been involved in. Sinclair (who plays Defano) runs a *Tales Of The Jedi *game on Monday nights, in which I play the aforementioned Thorian Nimbanel Makezh. I take elements of his plot and weave his history into my *Darkstryder *campaign on Tuesday nights, for instance the *Out Of The Dark, *and Thorian’s tomb. So the adventures of Thorian reflect on the destiny of Erkenwald, and the Makezh Jedi dynasty continues and thrives! One week I even got the Monday group to come over on Tuesday to assist me in a ‘flashback’ scene to the previous evening’s events, this time with Jamie as Makezh, not me. Weird, but cool.
+
+**

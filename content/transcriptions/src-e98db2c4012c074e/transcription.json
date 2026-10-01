@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e98db2c4012c074e",
+  "name": "Quest on Shantuun",
+  "sha256": "e98db2c4012c074e965c406269a82e4546230664092a69db22548dcf13e44e50",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "runtime",
+    "path": "imports/archives/68fe1aabff202e6c89edbf0989b3a8be3addb6ef01f18e8773cb11caddbee657/Quest on Shantuun.doc"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/shantuun/Quest on Shantuun.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "616bfd675458af92a19bbd791f3a89b59513909a4f88cc4d66a32f259b94cee0",
+  "fileHashes": {
+    "book.md": "6ca1caebc4a386d1f521c9728ad6143fe297e8241360749b7271149f01ac06ff",
+    "pages/0001.md": "0e3fdad73ab6a8d096ec16f22c59b10462b4e697c31f0560f92c7e16ed1641cb"
+  }
+}

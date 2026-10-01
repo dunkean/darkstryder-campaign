@@ -1,0 +1,31 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e0e70419b211b127",
+  "name": "darkstryder_astro",
+  "sha256": "e0e70419b211b127fbc199d0f39de3a8aed4d2e18fdbdfbe8ca8530c182257e3",
+  "pdfPages": 4,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 4,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/darkstryder_astro.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6b7ac637cbba662e8f5a5d6e1eb5599df0bf4594c4ef508bdedb97035fa6c42d",
+  "fileHashes": {
+    "book.md": "14bd63730e9f6ccc832ed6e11ac15232a5963b884d4330dc84e184dd07988687",
+    "pages/0001.md": "73ba079341a468732e93d7625ff6cc663c831fc3cded74ada51f4f222779368a",
+    "pages/0002.md": "43534674e6c3783951fb6236c5713e4b1b5c9899c76eb51d1760fbfcb92e51ee",
+    "pages/0003.md": "a873ae4afa34794b8a36dd12f08a00b069afed548ca10697fa5ee0b9b88a8f4c",
+    "pages/0004.md": "f6f2ceeaa07d6d3040535a9e1efacb31f65217cf74927ac6f0823d39222b0984"
+  }
+}

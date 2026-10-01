@@ -1,0 +1,271 @@
+# masterdeck
+
+Source: `src-db9cfa1cd150b246` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-db9cfa1cd150b246; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Masterdeck
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/d6.jpg]
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/mb.jpg]
+
+---
+
+[Back 
+![Image](images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif)](interaction.htm)
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Forward](masterdeck_enhancecards.htm)
+
+**The Card Deck
+
+**(Portions of pg 118-120 - Masterbook)
+
+**Anatomy
+    of a Card**
+
+webbot bot="ImageMap" startspan
+    rectangle="(262,261) (333, 300)  #Action+Line+Effect"
+    rectangle="(6,261) (67, 300)  #Approved+Action+Line"
+    rectangle="(13,206) (65, 241)  #Initiative+Lines"
+    rectangle="(259,212) (349, 246)  #Critical+Skill+Resolution+Line"
+    rectangle="(262,170) (342, 198)  #The+Enhancement/Subplot+Line"
+    rectangle="(258,125) (301, 159)  #The+Card+Name"
+    rectangle="(261,86) (311, 119)  #The+Card+Number"
+    src="http://users.vnet.net/seawolf/sw/d6mb/img/anat.jpg" alt="anat.jpg (20772 bytes)"
+    border="0" 
+[Image distante non téléchargée : http://users.vnet.net/seawolf/sw/d6mb/img/anat.jpg]
+>webbot bot="ImageMap" i-checksum="33314" endspan 
+
+    (Click on the caption of the feature to get the explanation)
+
+*(Borrowed from Masterbook Core Rulebook, WEG)*
+
+If you purchased MasterBook as part of a
+    boxed set, then you have one the MasterBook card deck, also known as the Action Deck.
+
+**The Card Number**
+
+The Card Number is at the top of the card's face. *Used
+    in the same way as Masterbook*.
+
+**The Card Name**
+
+This identifies the type of card.  *Used in the
+    same way as Masterbook*
+
+**The
+    Enhancement/Subplot Line**
+
+This short paragraph outlines the effect the card has on
+    gameplay. There are 2 types of cards in this respect: [Subplot](masterdeck.htm#Subplot%20Cards)
+    and [Enhancement](masterdeck.htm#Enhancement%20Cards).  Both are explained below There are
+    also [Picture Card](masterdeck_pic_cards.htm)which look totally different than
+    the diagram above.  They  are explained later .
+
+**Critical
+    Skill Resolution Line**
+
+Critical Skill Resolution is explained later, for sake of
+    consistency.  This line is used only for this system. I have never found a use for
+    the system, but if you have, then here it is.
+
+**Initiative Lines**
+
+Here is where the Masterdeck makes its major change into
+    Star Wars/D6.  The Star Wars/D6 initiative system is basically thrown out, and
+    replaced with the Masterdeck system.  It bases the initiative more on chance than on
+    the players ability, but the system over all adds so much to combat that is worth the
+    sacrifice.  It makes things easier on GMs because he doesn't have to keep up with who
+    has the highest Perception.  Percpetion rolls still can effect the order of combat,
+    however, as explained in the optional rule in Initiative. 
+
+There are two Initiative Lines on each card. One is
+    labelled "S:" and the other "D:." The first indicates a Standard scene
+    and the second indicates a Dramatic scene.  The GM determines which to use, based on
+    the plot of the adventure, and how things are developing.  Dramatic basically is
+    defined as a pivotal moment or scene with in the adventure, and anything else is Standard.
+
+**Action Line Effect:
+    **"P:" stands for Player Characters and "G:" stands for
+    Gamemaster Characters. These abbreviations are followed either by a dash ("-")
+    or a word (called an Action Line Effect).
+
+For a full explanation of [Cards in Combat and Interaction](masterdeck_combat.htm), it explained in the page
+    by that title.
+
+**Approved
+    Action Line**
+
+The last tag on the card is the Approved Action Line.
+    This is abbreviated "Act:" and shows what actions, if any, are approved during a
+    particular combat round. This line is explained later.  
+
+**The Anatomy of the Card Deck**
+
+If you have a standard Masterdeck set, it is made up of
+    108 cards. Of these cards, 83 are enhancement cards, 17 are subplot cards, and six are
+    picture cards. There are also two blank cards. All are used differently at some point
+    during the game. But all have some similarities as well.
+
+[**Enhancement Cards**](masterdeck_enhancecards.htm)
+
+Enhancement cards are colored black on the top and red on
+    the bottom. The black area of the card is the enhancement side. Players only have to worry
+    about the top of the card (black side).
+
+[**Subplot Cards**](masterdeck_subplotcards.htm)
+
+Subplot cards are distinctive because they are all red,
+    rather than red and black. When a player is dealt a red card, he should turn it face up on
+    the table and alert the gamemaster *immediately. *The gamemaster will then tell the
+    player whether or not that particular subplot can be used during the adventure. If it can,
+    then the player keeps the card in front of him for later use (as described below).
+    Otherwise, he puts it in the discard pile and the gamemaster awards the character one 3
+    Character Points. Regardless, the player draws one more card (if it's a subplot card,
+    repeat the procedure above; if its an enhancement card, the player keeps the card in his
+    hand).
+
+If the player draws a subplot card and
+    simply has no interest in pursuing it, he may choose to discard it. Again, he can receive
+    a 3 Character Points for doing this.
+
+No character can have more than two
+    subplots in effect at any one time, and no more than *six* Character Points can be
+    awarded to any one character for having subplots that cannot take effect - all other
+    subplot cards are lost. The gamemaster can overrule either of these rules if he feels the
+    need.
+
+Subplot cards *do not *count as
+    cards in the character's pool/ hand. A character who receives a subplot card should draw
+    another to put into his hand - regardless of what happens to the subplot.
+
+**Number of Cards**
+
+The number of cards given to each
+    character is based on the number of player characters in the party.  This is included
+    for consistency.  This is the Masterbook standard, while the conversion says to just
+    give out 3 to each player, regardless of the amount of characters.  The GM can opt
+    either way.
+
+**Card
+    Distribution Chart**
+
+**Number of
+        Player Characters**
+
+**Number of
+        Cards for Each**
+
+1
+
+5
+
+2-5
+3
+
+6+
+2
+
+**The Hand vs. The Pool**
+
+The card "hand" and
+    the"pool" are mentioned several times. It is a major part of the Masterbook Card
+    system, and is explained here in terms of D6.  It encourages action during combat
+    turns, plus dynamic interaction between players.  
+
+Whenever player characters are not in
+    combat rounds (round-by-round combat), the cards are in the player's hand. They can be
+    played at any time simply by throwing them into the discard pile and applying their
+    bonuses or effects. Any number of cards may be played in this manner, as long as this does
+    not violate any other rule.  However, in Combat Rounds, it is explained below.
+
+Cards may be traded between players on a
+    one-for-one basis only. No player may give or receive a card without receiving or giving
+    an equal number of cards.
+
+**'In' and 'Out' of Rounds**
+
+Most of the time, characters are
+    "out" of rounds during an adventure. A round is any time period where something
+    very important to the adventure is happening - or, at least, something very intense.
+    Whenever fighting breaks out in an adventure, the characters are automatically
+    "in" rounds (normally five second *combat rounds); *sometimes, the
+    gamemaster will put the characters "in" rounds when the tension of the adventure
+    has grown to a peak, or when something time-critical is happening (called interaction
+    rounds, which can cover any period of time from five seconds to representing much longer
+    periods of time).
+
+**Combat Rounds**
+
+Once the action of the adventure enters a
+    *round *sequence - always during combat, but sometimes during tense interaction or
+    critical skill resolution as well - the players "pick up" their cards and should
+    hold them in their hands. At this point, players cannot play or trade any of their cards
+    until they have been put into the player's *card pool.*
+
+How this works is simple. After a
+    character performs an action during a combat round - a simple or complex action, he may
+    place a card face up into his *pool *(on the table in front of him). At this point,
+    all the players and the gamemaster can see the card. At time after the player has placed
+    the card into his pool, he can then play it or trade it with other players on a
+    one-for-one basis.
+
+There is no limit to the number of cards
+    a player may have in his character's pool at any one time.
+
+Cards received as part of a trade are
+    placed in the character's pool. Cards received from approved actions must go into the
+    player's hand first, and can only be played into a hand at least one round later. Other
+    means of receiving cards (use of *leadership or rally *cards, or the *inspiration *effect)
+    are discussed in other areas of the text.
+
+During rounds, there is no limit to the
+    number of cards a player may have in his hand or pool.
+
+After rounds are over (the combat or the
+    interaction is resolved), the players pick up their cards. They may have to discard cards
+    because cards in their hands may not exceed the total on the [Card Distribution Chart](masterdeck.htm#Card%20Distribution%20Chart) (or three, dependingon the
+    system the GM chose).
+
+Gamemaster or subplot (all red)** **cards
+    and most joker cards *never *count toward the player's hand total (the *wild *card
+    is an exception).
+
+**Playing for the Critical
+    Moment**
+
+This is an exception to the "in
+    rounds" hand vs. pool rule. During a crisis situation while in rounds, a player may
+    announce he is "playing for the critical moment" and play all his cards in that
+    round. He *must *discard any cards he does not want to play - at the end of the
+    round, the player has no more cards.
+
+When a character plays for a critical
+    moment, he can only obtain new cards through the normal rules. In addition, a character
+    may play for only one critical moment per *adventure.*
+
+The only reason characters can only
+    "play for the critical moment" during rounds is because they can throw any
+    number of cards from their hand when not in rounds so there is never a need to declare a
+    "critical moment' when not in rounds. If a character were, for example, trying to run
+    quickly down a street in non-rounds time and he had three adrenaline cards, he could use
+    them all to increase his *running *skill without having to declare a critical moment.
+
+---
+
+[Back 
+![Image](images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif)](interaction.htm)
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Forward](masterdeck_enhancecards.htm)
+
+[![home03.gif (983 bytes)](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+ Home](index.html)
+
+[Back to Star Wars Page
+![starwars.gif (6035 bytes)](images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg)](../homepage.html)

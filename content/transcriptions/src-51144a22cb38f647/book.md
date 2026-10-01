@@ -1,0 +1,168 @@
+# RonRPGs
+
+Source: `src-51144a22cb38f647` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-51144a22cb38f647; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Ron's Current Gaming Activity
+
+---
+
+**My Current Gaming Activity**
+
+[![swsmall.jpg (2171 bytes)](images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg)](sw/ds/homepage.html)
+
+**[Star
+    Wars: Darkstyder](sw/ds/homepage.html)
+
+Is FINALLY FINISHED (11/7/1998)**
+
+**Call Of Cthulhu: Horror's
+    Heart**
+
+    When:   Next session: Oct 23
+
+    Where: My Place
+
+    Current Number of Players: 5
+
+    Opening: 5
+
+**Guild One-nighers**
+
+    When: Designated Friday Nights
+
+    Where: Guild Meeting room, UNCC Campus
+
+    Current Number of Players: 6
+
+    Opening: 6
+
+**Will be running the following games:**
+
+Fading Suns
+
+      Deadlands
+
+      Babylon 5 CGS Boardgame
+
+      Bloodshadows
+
+      Star Wars: Lord's of the Expanse
+
+      Call of Cthulhu
+
+      Dark Conspiracy 2nd Ed.
+
+      Star Blazers Fleet Battle System
+
+RPGs I run: 
+
+- [Star Wars RPG](sw/homepage.html)
+
+- [Shatterzone](sz/_._.html)
+
+- 2300AD
+
+- [Dark Conspiracy](dc/dc.htm)
+
+- Star Frontiers/Other Suns (I combined them into my own set of rules)
+
+- [Reich Star](rs/homepage.html)
+
+- Aliens, the Adventure Game
+
+- Fading Suns
+
+- Deadlands
+
+- Call Of Cthulhu
+
+**My Gaming Calendar**
+
+**Last Updated webbot bot="Timestamp" startspan
+S-Type="EDITED" S-Format="%m/%d/%y" 11/17/98webbot bot="Timestamp" i-checksum="13927"
+endspan  - **As of recent, most of my campaigns are coming
+to a close.  My Star Wars finally ended, and my Call of Cthulhu is closing as of
+December 11.  I plan to start a campaign of both up soon again, peobably after the
+first of the year, but for now, I am taking a short break from gaming.
+
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+Nov 8
+Nov 9
+Nov 10
+Nov 11
+Nov 12
+Nov 13
+
+MACE
+
+Nov 14
+
+MACE
+
+Nov 15
+Nov 16
+Nov 17
+Nov 18
+Nov 19
+Nov 20
+
+*Deadlands (maybe)*
+
+Nov 21
+
+ 
+
+Nov 22
+Nov 23
+Nov 24
+Nov 25
+Nov 26
+
+*Thanksgiving*
+
+Nov 27
+Nov 28
+
+Nov 29
+Nov 30
+Dec 1
+Dec 2
+Dec 3
+Dec 4
+Dec 5
+
+Dec 6
+Dec 7
+Dec 8
+Dec 9
+Dec 10
+Dec 11
+
+Call of Cthulhu
+
+Dec 12
+
+D's Birthday
+
+---
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+**Back to
+Seawolf's Den & Greyslayer Lair **](Ron.htm)
+
+Some Icons obtained [Graphics
+Station](http://www.geocities.com/SiliconValley/6603/).

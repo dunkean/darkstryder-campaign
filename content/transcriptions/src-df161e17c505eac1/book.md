@@ -1,0 +1,284 @@
+# DSuukaablisEpilogue
+
+Source: `src-df161e17c505eac1` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-df161e17c505eac1; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Wildfire: Epilogue
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+***"Wildfire:
+Epilogue"***
+
+---
+
+It was confirmed.  The Imperials were in the neighborhood.  
+However, it looked like they were in a hurry to leave.  Rather than confront the *Farstar*,
+Sarne apparently had ordered his research facility and all support personnel out of there.
+  The Imperials were making their move.
+
+The Chillweaver Team finally returned, in small groups, on-board
+free-trader ships.  However, the Qumok team had not.  Patrols were sent out to
+watch for the Muvon.  
+
+As for the Chillweaver Operation, reports were coming back of the results
+of the Night Terror's meddling. Chuborro's operation was in shambles.  It was a house
+of glass and the Night Terrors were a perfect stones to throw.
+
+One ship was detected leaving Uukaablis, however, and it was coming from
+the area of the construction site.  Gorak recognized it as the ship Uluala had been
+using in the past.... and then realized it was also Analia's ship years before.
+  Analia's voice came over the comm-link. "Thanks for the ride, Farstar.  I
+found what I was looking for. Take care of Mavia for me."  Analia had found her
+ship, and took it back from under Uluala's nose.  *I wonder how she plans on
+getting off planet now*, Gorak thought.
+
+*****
+
+Trev and Sooni were on patrol again.  Once word got out there were
+Imperials around, the range of the patrols were extended.  They had to be spotted
+visually, because reports said they had special Darkstryder masking fields.  They had
+just finished off a small group of Imperial shuttles heading off towards the Qek
+Confederation when sensors picked up another hyperspace jump point opening.  Moments
+later, not far from their position, the *Muvon* dropped out of hyperspace.
+
+"Forsaken patrol, this is the *Muvon*. Call all your buddies
+in, we got company coming in behind us, and their not coming for tea." the voice of
+Brophar resounded.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/qekcrus.jpg]
+A second sensor reading confirmed his
+statement.  A much larger ship was coming through.  The *Farstar* had
+already sent out the remaining Forsaken Squadron when Samarion detected the ships in
+hyperspace.  When it finally dropped into normal space, it was met with the full
+force of the *Farstar's* Forsaken Squadron.
+
+The ship was cruiser-size, with an strange array of weaponry. It also
+launched odd-looking fighters, which half the Forsaken took on.  The other half
+concentrated on the cruiser.  The Muvon sped off to the *Farstar*.  
+
+In a storm of blaster fire, and Qek-Bio-energy weapon fire, the battle
+rages. The inferior Qek fighters, easy prey for the Forsaken, fell easy to the aces of the
+*Farstar*.  A concentration of proton torpedoes showered the Qek cruiser,
+which could not fend off the barrage, even after taking out one of the X-wing Fighters.
+  The ship sustained heavy damage, and was listing very badly.  Suddenly, a torp
+struck directly on their primary weapon system, which caused a serious reactor over load.
+  The explosion was spectacular.
+
+"Enemy threat neutralized" Gorjaye reported.
+
+*****
+
+Dajus awoke in her cabin days after the worst weeks of her life.  It
+was all thrown in her face on that swamp world.  It was almost a dream, and in fact
+some of it was;  a nightmare come to reality.  She left something in Shantuun,
+while the world gave her something in return. The question remained was she worthy of the
+gift.
+
+Another question came to mind as well. *How the hell did I get back
+here?*
+
+She stood up straight in her bed.  She thought at first it *was*
+all a dream.  However, the soreness in her muscles told her otherwise.  The
+scars were still there.  *Damn Rancor*.  She then remembered Hasslock and
+Gunthar.  She opened her door and found them lumbering down the hall towards her
+cabin. They had similar looks on their faces; as if a AT-AT had just hit them.  
+
+They sat and talked. They all agreed that things had changed.  Jedi
+was never a word in Dajus's vocabulary until then.  But now it was.  They had
+chosen their own paths; Dajus chose the path of the investigator or information brokering
+Jedi; Gunthar ironically chose the druidic naturalist Jedi; and Hasslock chose scholarly
+investigator.  Their master was of the old school of Jedi, where the Jedi studied in
+specific areas of study.  They understood little of their burden, but soon would face
+challenges unsurpassed.  Their Master could only prepare them the best he could.
+
+After everything that could be said was said, Dajus decided she needed a
+drink.  She was pleasantly surprised to find that the ship had landed, and there was
+a cantina near by, at some starport construction sight.  She didn't care where it
+was, she just needed to get away from everyone.
+
+She took a air-speeder out to the construction site.  Things looked
+like they were closing down suddenly, because workers were packing up, shuttles were
+loading up with supplies, but the starport was nowhere near done.  The cantina looked
+quite busy, with many celebrants clanging mugs together. Apparently, something had
+happened for these grunt to celebrate.  She pulled her long coat over her Imperial
+uniform and decided to join them.
+
+Going in, she noticed that the bar was somewhat damaged, with scorch marks
+all over the back wall, a few blaster holes, and a big hole in the far back.  She
+shrugged.  She sat down, and not long after she ordered a drink from the servant
+droid, a couple of rough-looking aliens sat with her.  One was a Gamorrean, the other
+was Kerestian. She looked at them with a long cold stare. She wanted to be left alone, and
+was hoping they were smart enough to guess that.
+
+"We are looking for someone, and we have a feeling you might know
+where he is." the Kerestian said.
+
+"I'm just passing through. I am not from around here." Dajus
+said passively.
+
+"We know where you are from.  Look at this holo and tell us
+where this one is"
+
+The holo was of Kl'aal, from a long time ago.  "What do you want
+with him?"
+
+"He's wanted for the murder of his brother.  We heard he was
+seen hear, working with the New Republic.  We figured we would rain on his little
+parade."
+
+"Haven't seen..."  Dajus was interrupted from a familiar
+voice behind her.  
+
+"What are you doing here?"  It was Mist.  She froze.
+  The bounty hunter she had dealt with on Shantuun was back.
+
+"Mist!!  My friend!  Just doing a little business!!"
+  The Kerestian piped up.  Mist hadn't seen her yet.  *And he won't see
+me  either.  *
+
+She reached deep within herself and remembered the teachings of her
+master.   She focused on Mist's senses, and his perception of her.  It
+would be distorted, blurred. He would think nothing of it, as she slipped away.
+  Dropping the hologram on the table, which in turn further distracted the bounty
+hunters, she slipped away as if she was a shadow.  *I am going to have to talk
+with that wraith.*
+
+*****
+
+Before rapping things up on this world, Gorak had one more thing to take
+care of.  He wasn't sure if he should, considering the manner at which he departed
+the last time he had met her, but he did want to see Uluala again.  She was rather
+insistent.  His decision was made for him when she beeped him on his comlink.
+
+"Gorak, please meet me in my quarters at the construction site.
+  Please.  All is forgiven for the other day."
+
+Even through the comlink, she was almost irresistible. "Of course, my
+lady."
+
+He took the a speeder bike, and was soon at the construction site, and in
+her quarters, eating dinner.
+
+"Gorak, I have a big favor of to ask of you.  It seems someone
+has taken my ship, and I am sure you know who it was.  When I bought it from an
+associate, I had no idea it was stolen, so I understand why she took it.  I would
+have done the same thing. However, it seems also that my employment with a mutual
+acquaintance of ours has also ended.  It seems he blames me for an assassination of
+this Skandrei bandit leader-person.  You know I wouldn't do such a thing, but
+Chuborro just doesn't believe me.  You believe me, don;t you?"
+
+Because he knew in the Chillweaver reports, of  Wilkes' suspicions
+that Mavia had something to do with the assassination of the Skandrei leader, he had to
+chuckle."Yes, I believe you."
+
+"I need to get passage aboard the *Farstar*.  You think
+you can convince your captain."  The request took Gorak aback.  After the
+shock wore off, he realized what exactly she was asking.
+
+The Captain had recently reawakened from her battle with the Qek invasion
+in her body, and was taking minimal command duties, sharing them with Gorak. He would
+probably have to runt his by her. With the recent mutiny, a questionable crew member would
+be tough to get in. 
+
+"I can try."
+
+Not long afterwards, Gorak brought the Falleen to the Captain.
+  Noting that she might help in stabilizing the underground of Kathol, Gorak was able
+to convince the Captain that Uluala would be an asset.  Loh'Khar, however seemed to
+think otherwise, and avoided the Falleen at all costs.  *Anything that bugged the
+Twi'lek that much couldn't be all that bad*, the captain thought.
+
+*****
+
+Acting-Captain Gorak had ordered a report of the Qumok mission, along with
+a report of the Chillweaver mission.  What caught his attention was the theories of
+the Xeno-archeologist, Dr. Fasha Dansun.  There was something odd about it.  So
+he asked for Dansun to report to tactics.
+
+Gorak reviewed his own report of the Nuniok Dak facility, and the
+explanation of the new cargo he had brought on board; six new Nuniok Dak pods.  
+Along with that report was the map that pinpointed places in the Rift these Nuniok Dak
+Sullustans were capable of jumping to. The report was extensive and included all the
+information they were able to extract and store in Slave.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/rift1a.jpg]
+
+**Nuniok Dak Rift Jump Points**
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/dansun.jpg]
+The Xeenarch (short for Xeno-Archeologist) had
+another interesting map.  She claimed it was what the Qek were interested in, and why
+she was in the custody of them.  She and her partner, Jensen Makezh, were working on
+a project to hunt down something called the "Ferryboat of the Rift".  This
+was a legend of yet another ghost ship that traveled the Rift.  This legend, however,
+originated from the Aing Tii Monks.  Technically, this was the "ghost ship"
+legend of the "ghost ship" of the Kathol Outback. Dansun first came to Kathol to
+investigate the original "ghost ship".  When she finally was able to get
+the Aing Tii to trust her, she learned of the "ferryboat".  She had been in
+search of any sign of this "ferryboat" ever since. 
+
+In her search, she was able to find out that many centuries ago, this
+ferryboat traveled to many of the planets in the sector and beyond.  Before the Rift
+was formed, it would take ships and cargo across great distances.  It was created by
+an unnamed race, which the Aing Tii worshipped and feared. When the Rift was formed, it
+disappeared.  Every world it visited had a waystation; a port for it to dock.  
+Most are in ruins now, but  few still exist.  She was in search of an
+operational one, to summon the ferryboat and take it to where it ends up perhaps
+"beyond the vale of the Rift".
+
+Some of the most recent ruins she had found had maps of places the
+ferryboat visited.  She cross-referenced  them with known sightings of the ship
+in the Rift, from information she got from the Aing Tii.  Thus, her map of way
+points.  She was convinced the "ferryboat" was trapped in the Rift, and
+waiting for ships to pick up.  She was also convinced that only that ship could
+survive the Rift.  It had amazing adaptation abilities, and was run by an self-aware
+intelligence.  They just had to get to one of the way points.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/rift2a.jpg]
+
+**Dansun's "ferryboat" way point
+    map**
+
+The Aing Tii supplied her with a  human they had aboard their ship.
+  It was Jensen, a human born with powerful abilities not dissimilar from the
+Sullustan abilities of navigation. The monks had modified him to help navigate the Rift.
+  This arrangement almost looked like slavery to her, but she refrained from
+commenting at the time.  Makezh was free now.
+
+Gorak super-imposed the two holographic images of the maps together and
+immediately saw Sarne's plan.  He was using the ferry.  It was hard to estimate
+how long it would take Sarne to get across, if this ferry was real.  The Imperials
+were willing to gamble it was.  The *Farstar* would have to as well. 
+However, the *Farstar* needed repairs, and a serious overhaul.  The New
+Republic was on its way to meet the *Farstar* at Shantuun.  
+
+The Xeenarch said they needed to stop at a planet called Danoor to get her
+partner, Makezh.  He could help with navigating the Rift when they weren't using the
+Nuniok Dak Sullustan's or the Ferry.  It was inevitable that they would have to spend
+some time in raw Rift.  Things would get dangerous, and they needed someone that knew
+it.  They also needed to make plans to get the rest of the New Republic fleet across.
+The Rift-navigator could help in that, because he knew the routes that the Aing Tii took
+through it.  However, those routes could take more than 40 days.  Until they
+found an alternative, it was their only choice.
+
+Along with Slave's report about assassins on Danoor, it looked like they
+had a destination.
+
+---
+
+[Previous 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_l_arr.gif](DSExocronEpilogue.htm)
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_r_arr.gif
+Next](DSEdgeoftheGalaxy.htm)
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/timeline.gif
+Back to](DStimeline.htm)Timeline
+
+[Some images borrowed
+    from the SWMA](http://www.surfthe.net/swma/)

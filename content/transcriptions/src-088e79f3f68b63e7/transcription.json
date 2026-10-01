@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-088e79f3f68b63e7",
+  "name": "TIST",
+  "sha256": "088e79f3f68b63e780fe1ba0bf227d90c5cc7020001b7c9bbd6eea1499ae6c52",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/TIST.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ac3cba1b4f95d651eeb48972305dc4e84afaee3c3468d820cc6638de38b2850f",
+  "fileHashes": {
+    "book.md": "d24c4bebecf0f894523b80049890e7cb020616624149484776c41a4b8830e125",
+    "pages/0001.md": "a24422040bb4a86e6b8b3e7b7e75e855a97906dfaef9d1ba7ddb2513707baf86"
+  }
+}

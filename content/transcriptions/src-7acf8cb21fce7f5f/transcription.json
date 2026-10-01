@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-7acf8cb21fce7f5f",
+  "name": "JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles",
+  "sha256": "7acf8cb21fce7f5f1345886e1ed6335fd35ddcb95954cda5b5d8ebfb8251cc1f",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fc5940e176653ca79d66218e97a1a69fd39d40c66cfc6d3646e5f3593bce58c7",
+  "fileHashes": {
+    "book.md": "78d47480f4570feb63eeb8b4888358cbe215d427441e42874328e927a3516c50",
+    "pages/0001.md": "cd4026c5a853207369bb107be1686b018786b8a4aa4ee8055b352a47d9925847"
+  }
+}

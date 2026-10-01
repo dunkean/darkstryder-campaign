@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f2060a01b919851a",
+  "name": "DSSEBIRI",
+  "sha256": "f2060a01b919851ae7375e2c6bdd06ade1a56a702ac8bcf8a09718bc8225f7bb",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSEBIRI.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7f021d05cfce0d4c9ef2951edd3b5dd2c3fac4cfe89bbb0e30ee084acc481a44",
+  "fileHashes": {
+    "book.md": "cd8d8a6c9f7ea450f266ae65adb2c0ff984817271dee5862573bb025b5edf6cf",
+    "pages/0001.md": "664127392960200271c1b9c6696bc12326818c936ea9f7fac2428122db7153c3"
+  }
+}

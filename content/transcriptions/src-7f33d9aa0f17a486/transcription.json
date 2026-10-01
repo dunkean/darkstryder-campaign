@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-7f33d9aa0f17a486",
+  "name": "Starwolves2",
+  "sha256": "7f33d9aa0f17a4869992f100c9a640b25b6e4e588a13fbe17ac378574e8997b8",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Starwolves2.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Starwolves2.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "496da9b450a3c55a37a40b398bd068751cd57d79cc0c0d0cf1d050d8f66cbcbf",
+  "fileHashes": {
+    "book.md": "58b9497ed5623d06f039002922f2430c3329019db609e2742142fd799579bbea",
+    "pages/0001.md": "686d1ca1c7ed04ca8521d8f872b9d1fdafcd537127cb6adb6565a39a5e2d1bdf"
+  }
+}

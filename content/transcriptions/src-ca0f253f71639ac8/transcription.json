@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ca0f253f71639ac8",
+  "name": "DSKATHOL",
+  "sha256": "ca0f253f71639ac89465f8d238a1790415d0016628c454856996cff24ebbcf12",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSKATHOL.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "dccdc98aeb5fcaf5581641260f80b6a89726efb6d53f759e11bf74fe24f93289",
+  "fileHashes": {
+    "book.md": "db243972d2bbbd0c245c4d867cf3c354aa9c1aed78c8f855d3ce709e6e417e8b",
+    "pages/0001.md": "0ac830a6075fa5a595d79254e9b94eaa91ad061ce5646ed2484d056586fd9abd"
+  }
+}

@@ -1,0 +1,1169 @@
+{
+  "sourceId": "src-b14898025ab6814c",
+  "sha256": "b14898025ab6814c1f1f813eac4a3234e4c81b15d2898013680017fe6f5a96c7",
+  "engineId": "docling-rapidocr-torch-cuda-v1",
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "versions": {
+    "docling": "2.91.0",
+    "docling-core": "2.74.1",
+    "torch": "2.11.0",
+    "rapidocr": "3.8.1",
+    "transformers": "5.6.2"
+  },
+  "languages": [
+    "english"
+  ],
+  "nativeTextPreserved": true,
+  "tableMode": "accurate",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 41,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 0,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 4.45,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.680706242720286,
+        "table_score": null,
+        "ocr_score": 0.89813,
+        "mean_grade": "fair",
+        "low_grade": "fair",
+        "mean_score": 0.789418121360143,
+        "low_score": 0.6915774305842717
+      }
+    },
+    {
+      "page": 2,
+      "characters": 78759,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 36.32,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8369896409125076,
+        "table_score": null,
+        "ocr_score": 0.9418076774193548,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8893986591659312,
+        "low_score": 0.8422305427378499
+      }
+    },
+    {
+      "page": 3,
+      "characters": 7568,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 1,
+      "flags": [],
+      "seconds": 17.42,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8990384284781586,
+        "table_score": null,
+        "ocr_score": 0.9738784343434344,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9364584314107964,
+        "low_score": 0.9027804287714224
+      }
+    },
+    {
+      "page": 4,
+      "characters": 3569,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 18.75,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.6187055110931396,
+        "table_score": null,
+        "ocr_score": 0.9520680174927115,
+        "mean_grade": "fair",
+        "low_grade": "fair",
+        "mean_score": 0.7853867642929255,
+        "low_score": 0.6353736364131183
+      }
+    },
+    {
+      "page": 5,
+      "characters": 1295,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 3,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 8.34,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7770886527458827,
+        "table_score": null,
+        "ocr_score": 0.9853475609756097,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8812181068607462,
+        "low_score": 0.787501598157369
+      }
+    },
+    {
+      "page": 6,
+      "characters": 4634,
+      "nativeCharacters": 0,
+      "tables": 7,
+      "images": 3,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 11.7,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7405941977220423,
+        "table_score": null,
+        "ocr_score": 0.9702297368421055,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8554119672820739,
+        "low_score": 0.7520759746780454
+      }
+    },
+    {
+      "page": 7,
+      "characters": 6531,
+      "nativeCharacters": 0,
+      "tables": 2,
+      "images": 2,
+      "flags": [],
+      "seconds": 19.13,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8955757591872414,
+        "table_score": null,
+        "ocr_score": 0.9595117412935323,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9275437502403869,
+        "low_score": 0.898772558292556
+      }
+    },
+    {
+      "page": 8,
+      "characters": 1003,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.47,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7688481748104096,
+        "table_score": null,
+        "ocr_score": 0.9453199999999999,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8570840874052048,
+        "low_score": 0.7776717660698891
+      }
+    },
+    {
+      "page": 9,
+      "characters": 2558,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 6.04,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8538952240577111,
+        "table_score": null,
+        "ocr_score": 0.966256346153846,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9100757851057786,
+        "low_score": 0.8595132801625178
+      }
+    },
+    {
+      "page": 10,
+      "characters": 2621,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 7.21,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8344342483056558,
+        "table_score": null,
+        "ocr_score": 0.9589683333333333,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8967012908194946,
+        "low_score": 0.8406609525570397
+      }
+    },
+    {
+      "page": 11,
+      "characters": 2681,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.61,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8085838483933842,
+        "table_score": null,
+        "ocr_score": 0.9585187179487179,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.883551283171051,
+        "low_score": 0.8160805918711509
+      }
+    },
+    {
+      "page": 12,
+      "characters": 2487,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.7,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8239809429335594,
+        "table_score": null,
+        "ocr_score": 0.9455335576923077,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8847572503129335,
+        "low_score": 0.8300585736714968
+      }
+    },
+    {
+      "page": 13,
+      "characters": 2385,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.55,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8129712407658896,
+        "table_score": null,
+        "ocr_score": 0.95882,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8858956203829448,
+        "low_score": 0.8202636787275951
+      }
+    },
+    {
+      "page": 14,
+      "characters": 2228,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.24,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8308192534106118,
+        "table_score": null,
+        "ocr_score": 0.9643473,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8975832767053059,
+        "low_score": 0.8374956557400812
+      }
+    },
+    {
+      "page": 15,
+      "characters": 2696,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 5.91,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8783053159713745,
+        "table_score": null,
+        "ocr_score": 0.962971238938053,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9206382774547137,
+        "low_score": 0.8825386121197084
+      }
+    },
+    {
+      "page": 16,
+      "characters": 2090,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.51,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7765221479606629,
+        "table_score": null,
+        "ocr_score": 0.9608518691588784,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8686870085597707,
+        "low_score": 0.7857386340205736
+      }
+    },
+    {
+      "page": 17,
+      "characters": 2233,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 5.45,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8573759041334453,
+        "table_score": null,
+        "ocr_score": 0.960489405940594,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9089326550370196,
+        "low_score": 0.8625315792238027
+      }
+    },
+    {
+      "page": 18,
+      "characters": 3478,
+      "nativeCharacters": 0,
+      "tables": 2,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 8.3,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8332075792200425,
+        "table_score": null,
+        "ocr_score": 0.9576317054263567,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8954196423231996,
+        "low_score": 0.8394287855303583
+      }
+    },
+    {
+      "page": 19,
+      "characters": 3296,
+      "nativeCharacters": 0,
+      "tables": 2,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 7.66,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.732465386390686,
+        "table_score": null,
+        "ocr_score": 0.9618228666666668,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8471441265286764,
+        "low_score": 0.743933260404485
+      }
+    },
+    {
+      "page": 20,
+      "characters": 3495,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 4,
+      "flags": [],
+      "seconds": 5.71,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.871548128755469,
+        "table_score": null,
+        "ocr_score": 0.925631030927835,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8985895798416521,
+        "low_score": 0.8742522738640873
+      }
+    },
+    {
+      "page": 21,
+      "characters": 3631,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 6,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 6.3,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8471823293587257,
+        "table_score": null,
+        "ocr_score": 0.930807435897436,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8889948826280809,
+        "low_score": 0.8513635846856612
+      }
+    },
+    {
+      "page": 22,
+      "characters": 2998,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 3,
+      "flags": [],
+      "seconds": 5.62,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9040335279244643,
+        "table_score": null,
+        "ocr_score": 0.9211855172413792,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9126095225829218,
+        "low_score": 0.9048911273903101
+      }
+    },
+    {
+      "page": 23,
+      "characters": 2092,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 7,
+      "flags": [],
+      "seconds": 5.17,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9150325179100036,
+        "table_score": null,
+        "ocr_score": 0.9246031944444444,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.919817856177224,
+        "low_score": 0.9155110517367256
+      }
+    },
+    {
+      "page": 24,
+      "characters": 2233,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 1,
+      "flags": [],
+      "seconds": 8.84,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8891026914119721,
+        "table_score": null,
+        "ocr_score": 0.9762931654676258,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9326979284397989,
+        "low_score": 0.8934622151147548
+      }
+    },
+    {
+      "page": 25,
+      "characters": 2938,
+      "nativeCharacters": 0,
+      "tables": 3,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 9.32,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7758102118968964,
+        "table_score": null,
+        "ocr_score": 0.9707262686567163,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8732682402768064,
+        "low_score": 0.7855560147348873
+      }
+    },
+    {
+      "page": 26,
+      "characters": 2564,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 4.91,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8747564174912192,
+        "table_score": null,
+        "ocr_score": 0.9506309090909091,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9126936632910642,
+        "low_score": 0.8785501420712037
+      }
+    },
+    {
+      "page": 27,
+      "characters": 713,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 5,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.83,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7984632430849848,
+        "table_score": null,
+        "ocr_score": 0.9611991489361703,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8798311960105776,
+        "low_score": 0.8066000383775441
+      }
+    },
+    {
+      "page": 28,
+      "characters": 1189,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 7,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.96,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7944145670958928,
+        "table_score": null,
+        "ocr_score": 0.9490740000000002,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8717442835479465,
+        "low_score": 0.8021475387410981
+      }
+    },
+    {
+      "page": 29,
+      "characters": 661,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.02,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7623430714011192,
+        "table_score": null,
+        "ocr_score": 0.9709373684210523,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8666402199110858,
+        "low_score": 0.7727727862521159
+      }
+    },
+    {
+      "page": 30,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 4.12,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8045395135879516,
+        "table_score": null,
+        "ocr_score": 0.958827142857143,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8816833282225474,
+        "low_score": 0.8122538950514112
+      }
+    },
+    {
+      "page": 31,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 4.32,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7525658488273621,
+        "table_score": null,
+        "ocr_score": 0.9542994117647058,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.853432630296034,
+        "low_score": 0.7626525269742293
+      }
+    },
+    {
+      "page": 32,
+      "characters": 4556,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 5.53,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9440070494361545,
+        "table_score": null,
+        "ocr_score": 0.9378495145631068,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9409282819996307,
+        "low_score": 0.9381573913067592
+      }
+    },
+    {
+      "page": 33,
+      "characters": 5255,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 6.1,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9356843612410806,
+        "table_score": null,
+        "ocr_score": 0.9383864912280704,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9370354262345755,
+        "low_score": 0.93581946774043
+      }
+    },
+    {
+      "page": 34,
+      "characters": 4353,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 5.44,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9099473428726196,
+        "table_score": null,
+        "ocr_score": 0.9410327884615385,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.925490065667079,
+        "low_score": 0.9115016151520655
+      }
+    },
+    {
+      "page": 35,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 4.32,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8246186971664429,
+        "table_score": null,
+        "ocr_score": 0.904816,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8647173485832214,
+        "low_score": 0.8286285623081208
+      }
+    },
+    {
+      "page": 36,
+      "characters": 4303,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 5.98,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9062697514891624,
+        "table_score": null,
+        "ocr_score": 0.9402439655172414,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9232568585032019,
+        "low_score": 0.9079684621905664
+      }
+    },
+    {
+      "page": 37,
+      "characters": 3754,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 0,
+      "flags": [],
+      "seconds": 5.25,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9403149463512279,
+        "table_score": null,
+        "ocr_score": 0.9389175268817204,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9396162366164742,
+        "low_score": 0.9389873978551957
+      }
+    },
+    {
+      "page": 38,
+      "characters": 0,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 3.93,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.826489520072937,
+        "table_score": null,
+        "ocr_score": 0.9336354545454547,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8800624873091958,
+        "low_score": 0.8318468167965628
+      }
+    },
+    {
+      "page": 39,
+      "characters": 1599,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 4.75,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9059954047203064,
+        "table_score": null,
+        "ocr_score": 0.9460175000000001,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9260064523601532,
+        "low_score": 0.907996509484291
+      }
+    },
+    {
+      "page": 40,
+      "characters": 282,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 3,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 3.4,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8031927570700645,
+        "table_score": null,
+        "ocr_score": 0.9806492592592595,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.891921008164662,
+        "low_score": 0.8120655821795243
+      }
+    },
+    {
+      "page": 41,
+      "characters": 635,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 21,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.64,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7895861454533308,
+        "table_score": null,
+        "ocr_score": 0.950381304347826,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8699837249005784,
+        "low_score": 0.7976259033980556
+      }
+    },
+    {
+      "page": 42,
+      "characters": 599,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.25,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.694417405128479,
+        "table_score": null,
+        "ocr_score": 0.9159935185185185,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8052054618234987,
+        "low_score": 0.705496210797981
+      }
+    },
+    {
+      "page": 43,
+      "characters": 5207,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 6.03,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9013732959484232,
+        "table_score": null,
+        "ocr_score": 0.9545277064220183,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9279505011852207,
+        "low_score": 0.9040310164721029
+      }
+    },
+    {
+      "page": 44,
+      "characters": 5175,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 5.82,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9044179618358612,
+        "table_score": null,
+        "ocr_score": 0.9503395652173914,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9273787635266263,
+        "low_score": 0.9067140420049378
+      }
+    },
+    {
+      "page": 45,
+      "characters": 49,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "low-text-or-illustration",
+        "layout-low-confidence"
+      ],
+      "seconds": 4.59,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7349119424819947,
+        "table_score": null,
+        "ocr_score": 0.9394741463414632,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8371930444117289,
+        "low_score": 0.7451400526749681
+      }
+    },
+    {
+      "page": 46,
+      "characters": 716,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 4,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.5,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.6920905311902364,
+        "table_score": null,
+        "ocr_score": 0.9237647916666667,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8079276614284516,
+        "low_score": 0.703674244214058
+      }
+    },
+    {
+      "page": 47,
+      "characters": 4691,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 5.86,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.9175481161763591,
+        "table_score": null,
+        "ocr_score": 0.9520528571428573,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9348004866596082,
+        "low_score": 0.9192733532246841
+      }
+    },
+    {
+      "page": 48,
+      "characters": 2182,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 6.37,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8805311647328463,
+        "table_score": null,
+        "ocr_score": 0.8809322602739725,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8807317125034094,
+        "low_score": 0.8805512195099027
+      }
+    },
+    {
+      "page": 49,
+      "characters": 3672,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 3,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.85,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.835034956803193,
+        "table_score": null,
+        "ocr_score": 0.946594705882353,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.890814831342773,
+        "low_score": 0.8406129442571509
+      }
+    },
+    {
+      "page": 50,
+      "characters": 3579,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 3,
+      "flags": [],
+      "seconds": 6.63,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8694155187899726,
+        "table_score": null,
+        "ocr_score": 0.9381172566371682,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9037663877135704,
+        "low_score": 0.8728506056823324
+      }
+    },
+    {
+      "page": 51,
+      "characters": 2595,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 5.27,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.7832675355452078,
+        "table_score": null,
+        "ocr_score": 0.9474840298507463,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8653757826979771,
+        "low_score": 0.7914783602604847
+      }
+    },
+    {
+      "page": 52,
+      "characters": 3849,
+      "nativeCharacters": 0,
+      "tables": 1,
+      "images": 1,
+      "flags": [],
+      "seconds": 6.92,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.85767810091369,
+        "table_score": null,
+        "ocr_score": 0.9568847863247862,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9072814436192381,
+        "low_score": 0.8626384351842449
+      }
+    },
+    {
+      "page": 53,
+      "characters": 1919,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 6.03,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8635482961932818,
+        "table_score": null,
+        "ocr_score": 0.946866904761905,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9052076004775934,
+        "low_score": 0.8677142266217129
+      }
+    },
+    {
+      "page": 54,
+      "characters": 1877,
+      "nativeCharacters": 0,
+      "tables": 3,
+      "images": 2,
+      "flags": [],
+      "seconds": 6.97,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.87443592060696,
+        "table_score": null,
+        "ocr_score": 0.9683305128205131,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9213832167137366,
+        "low_score": 0.8791306502176376
+      }
+    },
+    {
+      "page": 55,
+      "characters": 4241,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 2,
+      "flags": [],
+      "seconds": 6.45,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8917167373001575,
+        "table_score": null,
+        "ocr_score": 0.9564873684210525,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.924102052860605,
+        "low_score": 0.8949552688562022
+      }
+    },
+    {
+      "page": 56,
+      "characters": 5852,
+      "nativeCharacters": 0,
+      "tables": 2,
+      "images": 1,
+      "flags": [],
+      "seconds": 14.72,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8676593989133835,
+        "table_score": null,
+        "ocr_score": 0.9588731474103587,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.913266273161871,
+        "low_score": 0.8722200863382322
+      }
+    },
+    {
+      "page": 57,
+      "characters": 940,
+      "nativeCharacters": 0,
+      "tables": 0,
+      "images": 4,
+      "flags": [],
+      "seconds": 4.79,
+      "confidence": {
+        "parse_score": null,
+        "layout_score": 0.8560864296224382,
+        "table_score": null,
+        "ocr_score": 0.961201724137931,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9086440768801847,
+        "low_score": 0.8613421943482128
+      }
+    }
+  ]
+}

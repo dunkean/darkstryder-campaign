@@ -1,0 +1,381 @@
+# SWDragon
+
+Source: `src-0859227413d72ddd` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-0859227413d72ddd; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Star Wars: Dragon Wars
+
+**Star Wars: Dragon Wars &
+The Dirty Pair vs. The Empire** 
+
+**Cast (PCs)** 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/dp-32.jpg]
+**Kei & Yuri a.k.a.
+The Dirty Pair (DP) a.k.a. the Lovely Angels (LA) - *****[Mike
+Goines & Wayne Delisle]*** 
+
+Human "trouble consultants" from the Corporate
+Sector; employees of the now collapsed 3WA. - (From Jap-Anime
+fame…) The Lovely Angels, as they like to be called, are two
+female freelance enforcers from the WWWA (3WA) Corporation in the
+Corporate Sector. The 3WA, a major corporation in the business of
+investigation and freelance law enforcement, is a maverick corp.
+that has been a thorn in the Corporate Authorities side since the
+Empire took power. It's rapid growth and support among the CS
+Fringe worlds has worried the CSA that they would have their own
+Rebel Alliance soon. 
+
+The DP themselves have had a rocky past in the employment of
+3WA. Specially trained mercenary enforcers and investigators,
+they have been plagued with catastrophic events that always seem
+to happen when they are around. Cities lay waste, thousands of
+innocence killed, space station fall from orbit, and sometimes
+planets explode when the Dirty Pair are around. In fact, they
+have built a reputation and a cult following throughout the
+galaxy because of these mishaps, of which they have not been
+found responsible for in any way. They are usually accompanied by
+Mughi, their large panther-like creature, but he was left behind
+in the CS to keep an eye on things. 
+
+Once 3WA collapsed, the DP were on their own to collect the
+pieces. There are thousands of safe houses, and hiding places
+where much of the 3WA assets were hidden, and it's up to them to
+get the material back to the Rebel Alliance. 
+
+- [**Dirty Pair Profiles: Who are the
+        Lovely Angels?**](http://users.vnet.net:80/seawolf/sw/dragon/dp.htm)
+
+- [**Star Wars: History of the
+        Lovely Angels**](http://users.vnet.net:80/seawolf/sw/dragon/dirtypr2.htm)
+
+- [**The Dirty Pair, 3WA & Star
+        Wars: How they fit together.**](http://users.vnet.net:80/seawolf/sw/dragon/la_dpsw.htm)
+
+**Mishavek the Shistavenen Scout/Engineer *****[John
+Reavis]***** 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/mish.jpg]
+** 
+
+The Wolfman Mishavek, son of a once great Jedi Knight (now in
+hiding), longs to follow in his fathers foot steps in whatever
+way fate sees fit. He never showed much talent in the ways of the
+Force, and so he left his home world in search of his fate. He
+was hired by the LA as an engineer and a scout to guide the DP
+through Imperial Space. He had no idea of their reputation. 
+
+He saw his destiny in the service of the Dirty Pair, but he
+soon finds that he must serve a greater purpose, the purpose of a
+Dragon Rider. He must follow the Dragon Way, and destroy an old
+family enemy reawakened from his hiding place. He also discovers
+that not all Jedi powers are obvious, and surface at an early
+age. 
+
+- [**Mishavek's Personal Background **](http://users.vnet.net:80/seawolf/sw/dragon/mishavek.htm)
+
+**Parax the Jedi Defel *****[Chris
+Fisher]***** 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/parax2.jpg]
+** 
+
+Parax was considered a failed Jedi because of his lack of self
+control. Once under the tutelage of one of the Emporer's Dark
+Jedi trainers, he escaped and began training under a lightside
+Jedi. However, his lack of control got the best of him and he
+killed his master in a sudden flare of anger. Since then, he has
+been searching to redeem himself and complete his training. The
+Rebel Alliance seemed like a good palce to start. However, things
+were troubling him, voices calling him to his destiny. He knew he
+was destined for something, but nothing so great as the Dragon
+Destiny. 
+
+- [**Parax's Persepective:
+        The Grey Holocron**](http://users.vnet.net:80/seawolf/sw/dragon/thegrayholocron.htm) 
+
+        The Campaign as told through the Grey Holocron, the
+        library of knowledge created by the Defel Jedi Master,
+        Parax.
+
+**"George" the Wookie (deceased) *****[Mike
+Ryan]*** 
+
+"George" (wookie-name unpronounceable) was
+blood-bound to Parax for saving him from the Imperial base. He
+was on a quest when he was brutally murdered on Bofa II. However,
+his death was only the beginning.
+
+**Alexander the Ewok Rebel Pilot *****[Paul
+Talbert]
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/alex.jpg]
+*** 
+
+Raised by a human freighter-pilot, he was one of the first of
+his kind to venture off planet. He was the first of his kind to
+become a Rebel X-Wing pilot. When he was told to scout out the
+Bofa system for Imperial activity, he was unprepared for what
+happened. 
+
+He now has had powers awakened in him that he only new in
+myth. He now serves a greater cause, and his skills as a pilot
+serve to benefit the cause. He too, will serve as a DragonRider,
+and apprentice to the Jedi Parax.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/bastian.jpg]
+**Bastian Dawnrider,
+Human Punk-kid, aspiring con-artist/bargaineer and heir to the
+DawnRider Legacy *****[Christian Hine]*** 
+
+His very-rich parents apparently abandoned him at an early age
+on Stend IV, where he became an adept swoop-pilot. He followed
+his brother, also abandoned, for several years until trouble
+forced him to stow away on a pirate ship, which later crash
+landed on Bofa II. 
+
+His adopted-parents died in an accident, they say, and now
+they leave him nearly their entire estate. This has not made his
+adopted-brother Eric happy.
+
+**Clarke, the ex-Stormtrooper-turned Bounty
+Hunter/Mercenary *****[Ed Stokes] 
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/clarke.jpg]
+*** 
+
+He escaped from the Empire through dark circumstances, and has
+been running ever since. Jodo Kast was hired by the Empire to
+hunt him and those like him down. Clarke only recently found out
+that he was part of a cloning project and some of his clones had
+escaped through an "underground railroad" set up by an
+unknown cloning scientist consortium. However, the tale of how he
+found out about his clones was quite interesting. His encounter
+with Jodo Kast, which forced Kast into retirement, revealed to
+Clarke that there was more to him than just another escaped Storm
+trooper. 
+
+He prides himself now in modifying armor, and he has started
+by modifying Jodo Kast's Armor. As part of his victory over the
+bounty hunter, he was able to take the armor and integrate into
+his own. He is rather proud of his handy work. 
+
+- [**Clarke's Personal Background **](http://users.vnet.net:80/seawolf/sw/dragon/clarke.htm)
+
+**
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/harry.jpg]
+****"Harry" the Wookie - Brother to
+"George" *****[Mike Ryan]*** 
+
+"Harry" (wookie-name unpronounceable) was a simple
+wookie until he had heard his brother was killed by a dark evil.
+Little did he know that his brother was strong in the Force, and
+would lead him to his brother's killer. 
+
+Harry pride and joy is his swoop-biker leather jacket, and his
+abilities to rig any engine, no matter the damage, and no matter
+the supplies. He has recently published schematics of his last
+rigging… use of a droid motivator to replace a hyperdrive
+motivator. It saved their lives.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/tathis.jpg]
+**Tathis, Human
+"Rebel" Spy/Freelance Information Agent *****[Neil
+Spicer]*** 
+
+Tathis is a simple man, who like to pass on information for a
+price. His loyalties are shaky at times, so to try to prove
+something, he joined the Rebellion. Unfortunately for the rebels,
+this only fed his hunger to sell information. He over confident,
+and at times arrogant about what he knows, and sometimes he
+doesn't realize the power behind the information he knows.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/krull.jpg]
+**Krull,
+Kerestian Bounty Hunter *****[Chris Jarrett]*** 
+
+Relatively new to the party, they have yet to fully understand
+Krull's significance. He is a very good bounty hunter, with a
+mysterious past that even he knows little of. All he knows is he
+is after Quinton, a rogue treasure hunter with strong ties to the
+group he is with now. Once that job is done, he could care less
+what happen to the group. When his job is done… 
+
+![Image](images/4ad23becb4d66132d2937e9a3d28e7f3fbb3b762e2b9188574f9e1cb6a967264.jpg)
+**Dervious the
+Mandaloran *****[Chris Fisher]*** 
+
+He survived the destruction of the Mandalorans. He has been in
+stasis since the battle on Onderon, after the defeat of Ulic. He
+now seeks out more Mandalorans, and has no idea of the universe
+he is in. 
+
+---
+
+**Gamemaster Characters (NPCs)**
+
+**BAD GUYS
+
+**
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/tremayne.jpg]
+**High Inquisitor
+Tremayne - <Galaxy Guide 9: Fragments of the Rim>**
+
+Tremayne has been sent by the Emperor to find him Force
+sensitive creatures. With the rumors of a strange Force-resistant
+creature, the Emperor would like to eliminate any threat they
+might pose. Tremayne has been drawn into the strange world of
+myth and legend. He uses his interrogation abilities to seek out
+the information he needs, sorting through fact and fiction.
+Little did he know he would find a new enlightenment in this
+quest, and this would drum up thoughts of conspiracies he thought
+were long dead.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/cybofurr.jpg]
+**Ahnjai Rahmma -
+<Galaxy Guide 9: Fragments of the Rim>** 
+
+Tremayne's felinoid bodyguard, Ahnjai was badly injured
+following his master's bidding on Bofa II. The creature has sworn
+a blood-oath for vengeance on the ones that hurt him, and has
+modified his body in order to guarantee success.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/shasti.jpg]
+**Shasti - Renegade 3WA
+Agent, Tremayne's new wife and Second-in-command.** 
+
+Shasti followed the Dirty Pair into Imperial space, seeking
+revenge for all the trouble they had caused her. She sought to
+torment the Dirty Pair in whatever their endeavors, and found a
+twisted way to do it. She seduced Bastian, while they were on
+Omze's Traveling Starport, and impregnated herself with Bastian's
+son. She then investigated the Dirty Pair's recent activities and
+found that Tremayne was hunting them. She arranged a meeting with
+Tremayne, proposed a business deal, and got a Imperial field
+commission to Tremayne's Second-in-Command. Tremayne got the
+Dirty Pair's worst enemy as a second, a new lover, plus an heir.
+It was a fringe-benefit to find out that Shasti was Force
+Sensitive, and her son was also. 
+
+**Baxter, Son of Bastian & Shasti, Dark
+Jedi Apprentice to Tremayne** 
+
+Son of Shasti and Bastian, now being raised by Tremayne.
+Tremayne used a cloning chamber to quickly age the child, and put
+the child through the same initial training that a Stormtrooper
+child would receive. He also used his skill in the force to hone
+the child's own force skills. Soon, the child was a young adult,
+well on his way to being the perfect Dark Jedi, in Tremayne's
+eyes. Unfortunately for all, there were some side effects to
+Tremayne's rapid growth and learning process..
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/marax.jpg]
+**Marax** 
+
+Brother to Parax, a Defel and a Dark Jedi who was under the
+Emperor's own special trainers, now is in league with Mobarius
+and the ShadowDrakes. He was once ally to Tremayne until be
+betrayed him by stealing the essence of the ancient evil
+Mobarius. He now shares his mind and spirit with Mobarius, but
+for how long? Marax has promised Mobarius a new body soon, and
+Mobarius likes the idea of being a Defel. Marax knows of another.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/images/mobarius.jpg]
+**Mobarius - Evil
+Force-essence of a once Tyrannical being** 
+
+Evil tyrant of an age long past, he destroyed a world with his
+ambitious move to become a god. Billions of lives fed his soul,
+which kept it "alive" in this plane, until the death of
+a young Jedi brought him enough power to summon an ally. Now he
+is free to reawaken the evil that has been long dormant, unleash
+the Chaos side of the Force…
+
+**Drake Mandrakor - Alderaanian Human Artist
+and occultist** 
+
+Before the coming of the Empire, he was banished from Alderaan
+when be dabbled in forbidden powers and art. The Jedi Knights
+attacked his home, and some died in a flail of dark flames from
+the powers he had summoned. The knowledge he had tapped was of
+the ShadowDrakes, and only a few Jedi knew the true nature of
+this lore. His art was confiscaited and stored away, and he was
+banished, and sent to the Outer Rim.
+
+**Quinton, Human Treasure Hunter from Corellia**
+
+Quinton was on the trail of his latest treasure when he crash
+landed on Bofa II. He only found out recently that his treasure
+was a person. He was infuriated… leave this kind of hunt to
+the Bounty Hunters… treasures don't usually shoot back.
+Despite his oath never to do another bounty hunt, he continued
+onward, searching for the boy. This would be the last time. The
+treasure was the boy's inheritance, and he needed the boy to get
+to it, or rather his employer did. However, any treasure he might
+find along the way was his. And Bofa was full of them.
+
+**7D6, former Imperial Protocol/Assassin droid
+(once a PC, now under GM control) **
+
+The droid had secrets. It had the typical 7 million languages
+of all protocol droids, but it also had something else. It was
+designed as an infiltration/assassin droid, and this particular
+model had two heavy-explosives implanted in its legs. One of
+these explosives had enough power to take out a Star Destroyer,
+both had enough to destroy a SSD. His Imperial programming still
+existed with in his droid-brain. It was just a matter of time for
+it to be re-triggered and he in turn become loyal to the Empire
+once again. 
+
+The fact he went renegade and why is also a mystery?
+Apparently his maker dropped an AI virus in him, and also
+implanted several targets for the explosives to be triggered off
+of, one being Darth Vader himself. Unfortunately, his plans did
+not completely come to fruition. 
+
+**NEUTRALS & GOOD GUYS** 
+
+**Ithorian Order of Dragon Lore** 
+
+The keepers of the Dragon-Lore, the Ithorian monks travel with
+the homeships, watching for the signs. When the Lovely Angel
+dosked with the Bazaar, they saw more signs than they ever wanted
+to. 
+
+**Khitan (aka Ketan), Leader of Khtian's Axe,
+a crime organization/mercenary group **
+
+Crime lord hired by a coalition of forces that wanted the
+Dirty Pair "out of picture". He had no idea what this
+indeavir would cost him. His attempts to kill or capture the Pair
+have met with failure, and now he has fallen from the graces of
+many important allies. It is times like these that a man like
+Khitan must re-think is allegiances. 
+
+**THE STELLAR DRAGONS & THE DRAGON WAY**
+
+The Dragon Way is what defines the secret Jedi Warrior Order
+of the Dragon Riders. Stellar Dragons are ancient creatures, of
+unknown origin, that are only talked of in legend, if at all.
+little is known about the Dragon Order, and it is considered to
+be a myth. But there is a reason for all this mystery, for the
+power of the Dragon Order must not be unleashed at the level it
+was thousands of years ago, during the first Dragon War, when
+planets were destroyed, and many perished. The chaos of the
+Dragon War must not be realized again in this universe… but
+it might already be too late. 
+
+---
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/timeline.gif](timeline.htm)[**Campaign
+Timeline**](timeline.htm) 
+
+[![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)](_._.html)[**Back to Star War's Page**](_._.html) 
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)](../../Ron.htm)[**Back to my Homepage, Greyslayer's Lair
+& Seawolf's Den**](../../Ron.htm) 
+
+Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).

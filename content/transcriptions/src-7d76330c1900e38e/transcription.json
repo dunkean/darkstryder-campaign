@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-7d76330c1900e38e",
+  "name": "JDRVirtuel • Afficher le sujet - L'Étoile Lointaine",
+  "sha256": "7d76330c1900e38e8fd8e32557d5fba50fde1d73ec9d6eb210881f3767403a9b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - L'Étoile Lointaine.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b9f7183a5dc321e91ee0b8b76c628c9983900df61532509ffbbceaab73ba64fe",
+  "fileHashes": {
+    "book.md": "ff82d1c9989f88ae844ba0e328807916b681b6a3fb8f73dfe56235a811f1f19d",
+    "pages/0001.md": "04cd82f2f6cdac0b0d6a6c8cc8a7f08091f18dabdb438ea25542f4b6e9898b29"
+  }
+}

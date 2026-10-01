@@ -1,0 +1,95 @@
+{
+  "sourceId": "src-5ebeaa8b0930ea7d",
+  "sha256": "5ebeaa8b0930ea7d095489a295d7451fb98b210c63a9dfb1c71cf2b554d876a2",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 39864,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1.png",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/site_logo.png",
+      "sha256": "68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1"
+    },
+    {
+      "file": "images/43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_mini_login.gif",
+      "sha256": "43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75"
+    },
+    {
+      "file": "images/65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_mini_register.gif",
+      "sha256": "65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b"
+    },
+    {
+      "file": "images/30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_mini_faq.gif",
+      "sha256": "30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1"
+    },
+    {
+      "file": "images/605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_mini_search.gif",
+      "sha256": "605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/472671c7681aa82b384e10a9d96c1c24cddac8a9bd1703d2befec46d48dfc6ff.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/111012091852731128892219.jpg",
+      "sha256": "472671c7681aa82b384e10a9d96c1c24cddac8a9bd1703d2befec46d48dfc6ff"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    }
+  ],
+  "encoding": "utf-8"
+}

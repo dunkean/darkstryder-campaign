@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4de8972318251320",
+  "name": "WeapTableofContents",
+  "sha256": "4de8972318251320be71e8053d4289ee6091a6e3fc9fbcab28413917da0fb673",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/WeapTableofContents.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "cdcf29b110578bf894c0cf697df1636aedb967d6eb42c4e0c268bf1778b7523c",
+  "fileHashes": {
+    "book.md": "02c0172cb1dacff856133582beb0b6fc48e8360cce5b586fccc5e371cea5344b",
+    "pages/0001.md": "8807da8d239bfc9013ddbe28333b192fdceecddd49906dd1a70503161e9f8695"
+  }
+}

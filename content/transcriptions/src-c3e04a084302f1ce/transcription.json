@@ -7,6 +7,26 @@
   "pdfPages": 74,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 74,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide.pdf"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide.pdf"
+    }
+  ],
+  "collections": [
+    "sourcebooks",
+    "guides-rules"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "93267e9ecb8762baf8d41f9aa8955c75715cad6938a5b53beed3f797b689b5ab",
   "fileHashes": {
     "book.md": "340c6fc7e236d6a9463280edc0e4dc2a02449a47ee9dd8cf22e4ed9e1a00826f",
     "pages/0001.md": "d0edd55a7c8f598896b26969a6dd3f263200cc4dcb2a6411a301784043716ccd",

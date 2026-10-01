@@ -37,6 +37,38 @@ export function createServer(){return http.createServer(async(req,res)=>{
       return json(res,200,{campaign:campaign.data,entities:entities.data,portraits,assets,sources,revisions:{campaign:campaign.revision,entities:entities.revision}});
     }
     if(['/api/campaign','/api/entities'].includes(route)&&req.method==='PUT')return json(res,200,await store.update(route.split('/').at(-1),await body(req),req.headers['if-match']));
+    if(route.startsWith('/api/kbase/')){
+      const {openKBase}=await import('../../packages/kbase/store.mjs');
+      const database=openKBase(ROOT,RUNTIME);
+      try{
+        if(route==='/api/kbase/summary'&&req.method==='GET'){
+          let stage;try{const data=JSON.parse(await readFile(path.join(RUNTIME,'kbase/stage.json'),'utf8'));stage={id:data.stageId,status:data.status,sourceIds:data.sourceIds,stopAfterCompletedBooks:data.stopAfterCompletedBooks,error:data.error};}catch{}
+          return json(res,200,{...database.getSummary(),extractionStage:stage});
+        }
+        if(route==='/api/kbase/nodes'&&req.method==='GET'){
+          const limit=Number(url.searchParams.get('limit')||60),offset=Number(url.searchParams.get('offset')||0);
+          if(!Number.isInteger(limit)||limit<1||limit>100||!Number.isInteger(offset)||offset<0)return json(res,400,{error:'Pagination invalide'});
+          return json(res,200,database.listNodes({q:url.searchParams.get('q')||'',family:url.searchParams.get('family')||'',usage:url.searchParams.get('usage')||'',limit,offset}));
+        }
+        if(route==='/api/kbase/node'&&req.method==='GET'){
+          const node=database.getNode(url.searchParams.get('id'));return json(res,node?200:404,node||{error:'Nœud inconnu'});
+        }
+        if(route==='/api/kbase/node'&&req.method==='PUT'){
+          const header=req.headers['if-match'];
+          if(typeof header!=='string'||!/^\d+$/.test(header))return json(res,409,{error:'Révision KBase manquante ou invalide'});
+          return json(res,200,database.updateNode(url.searchParams.get('id'),await body(req),Number(header)));
+        }
+        if(route==='/api/kbase/export'&&req.method==='GET'){
+          res.setHeader('Content-Disposition','attachment; filename="kbase-v1.json"');return json(res,200,database.exportGraph());
+        }
+        return json(res,404,{error:'Route KBase inconnue'});
+      }catch(error){
+        if(/Revision conflict|expectedRevision/.test(error.message))error.status=409;
+        else if(/Unknown node/.test(error.message))error.status=404;
+        else if(/Unsupported editorial|Editorial patch|must be|must identify|must not|must remain|reviewStatus/.test(error.message))error.status=400;
+        throw error;
+      }finally{database.close();}
+    }
     if(['/api/room-media','/api/media'].includes(route)&&req.method==='POST'){
       if(Number(req.headers['content-length'])>MAX_ROOM_IMAGE)return json(res,413,{error:'Image trop volumineuse (8 Mo maximum)'});
       const chunks=[];let size=0;for await(const chunk of req){size+=chunk.length;if(size>MAX_ROOM_IMAGE)throw Object.assign(new Error('Image trop volumineuse (8 Mo maximum)'),{status:413});chunks.push(chunk);}
@@ -58,7 +90,7 @@ export function createServer(){return http.createServer(async(req,res)=>{
         const report=manifest.pages?.find(report=>report.page===page);
         if(report)extraction={engine:manifest.engine||manifest.model,flags:report.flags||[]};
       }catch{}
-      return json(res,200,{markdown,source,page,extraction,image:`/runtime/${source.output}/pages/${String(page).padStart(4,'0')}.jpg`});
+      return json(res,200,{markdown,source,page,extraction,image:source.format && source.format!=='pdf'?null:`/runtime/${source.output}/pages/${String(page).padStart(4,'0')}.jpg`});
     }
     if(route==='/api/source-search'&&req.method==='GET'){
       const q=(url.searchParams.get('q')||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
@@ -76,7 +108,12 @@ export function createServer(){return http.createServer(async(req,res)=>{
     }
     if(route.startsWith('/original/')&&['GET','HEAD'].includes(req.method)){
       const s=(await readJson('catalog/sources.json')).find(a=>a.id===route.slice(10));
-      if(!s)return json(res,404,{error:'Source inconnue'});return await serveFile(req,res,s.locator.root==='drive'?DRIVE:ROOT,s.locator.path);
+      if(!s)return json(res,404,{error:'Source inconnue'});
+      if(s.format && s.format!=='pdf'){
+        res.setHeader('Content-Disposition','attachment');
+        res.setHeader('Content-Security-Policy',"sandbox; default-src 'none'");
+      }
+      return await serveFile(req,res,s.locator.root==='drive'?DRIVE:s.locator.root==='runtime'?RUNTIME:ROOT,s.locator.path);
     }
     if(route.startsWith('/runtime/')&&['GET','HEAD'].includes(req.method)){
       const relative=route.slice(9);if(!/^(media|extracted)\//.test(relative))return json(res,403,{error:'Chemin interdit'});

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6efa487839fa3db0",
+  "name": "sfCAS",
+  "sha256": "6efa487839fa3db0be8457bca04f239909cd5ef6ae7e7fb0fbe946d7bd8b180e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/sfCAS.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "155a967b83b314617634e12420dd08aa7bc543745911d656974f688bd06e59b9",
+  "fileHashes": {
+    "book.md": "51aebfe068262c048289dca142647046daa20596bfd9e6d849f0175a87b58e99",
+    "pages/0001.md": "ccd53aa21de3c8104eea53cc39af0019ced7300e2a0aea0f591d5152ce540c1e"
+  }
+}

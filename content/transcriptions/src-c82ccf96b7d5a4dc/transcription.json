@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c82ccf96b7d5a4dc",
+  "name": "starwolv",
+  "sha256": "c82ccf96b7d5a4dce777d9aa4114137d5d8a60b4dbb59732705a1e082bf73652",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/starwolv.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4507e4f0509f5021683a8aa13bbd7f67bc5d11e9d06ec0d6831047150a429d42",
+  "fileHashes": {
+    "book.md": "20e9322a0f11c85a09f509c079e8d9b7b7d585595d91d62331ff8b8b8ef4ee97",
+    "pages/0001.md": "b8f02eb5ee106c2774985bcca6554f2c2c64a95101011c858eae6a81d710ac7d"
+  }
+}

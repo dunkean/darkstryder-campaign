@@ -1,0 +1,143 @@
+# DSomens
+
+Source: `src-328240f613fe6b94` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-328240f613fe6b94; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Omens"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**"Omens"**
+
+---
+
+Upon dropping out of hyperspace, sensors could already detect the inferno that was once
+Domaz. Even after four days, the city was still a flaming hell. Distress calls from all
+over the city were being received. An emergency away team was launched, and emergency
+procedures were initiated. 
+
+A contingent of peace-keeping soldiers were sent down, along with Boom for his
+demolitions expertise, Raso Lao Hasslock for his bio-chem experience, Thane B'Dorbeck to
+cover the political ends, and the field medic to handle the wounded. Loh'Khar set out to
+arrange for extra supplies that would obviously be needed, and Dervious and Samarion were
+put in charge of the recovery action over-all. Kl'aal was the commanding officer of the
+away-team.
+
+Teams were formed to search the city for unexploded bombs,and as it turned out, there
+were many. As the search went on, it came quite apparent that this was no accident. They
+were placed in concentric circles, throughout the city, and some contained a bio-catalyst.
+This catalyst was apparently to be introduced into the area, and react with a future
+agent. Where that future agent would come from worried them. The disarming process was
+going to take days. Boom had his work cut out for him.
+
+The squibs stowed away on one of the shuttles, and set out to have there own adventure.
+That they did. They went about "finding stuff" (read: Looting), and were able to
+facilitate first aid to more of the remote areas that the central effort couldn't get to.
+They even earned a Kolitall Metal of Valor for it, in the end.
+
+As efforts continued, supplies were getting short, especially medical. Loh'Khar was
+working hard to solve that problem. Supplies from other cities were coming in by land, but
+many of the roads were cut off, and there was a danger of raiders. While the New Republic
+team formed a security detail for the shipments, Loh'Khar was able to contact a small
+smuggler group in the Kolatill asteroid belt, called the Kolatill Rock-Hoppers, who had
+access to a lost Imperial Supply Cache hidden in the asteroids. Through some dealings with
+the New Republic diplomat, the smugglers agreed to trade with the crew of the *Farstar.
+*
+
+Other complications arose as time went on. First, word had gotten through that their
+was a significant faction of Imperial-Sympathizers being lead by a scar-faced Imperial
+General, causing trouble in areas. Some skirmishes with them had broken out, and some NR
+casualties were reported. They were very well organized, and seemed to have a purpose.
+Kl'aal dispatched himself to investigate.
+
+Another problem came up when the planetary council requested that they have a
+holo-vised meeting with Captain Ciro on planet. With some strong resistance, the Captain
+agreed to meet. On top of wrapping up the recovery effort, now Dervious and Samarion had
+to make sure the meeting place was secure. The council insisted on this meeting to ensure
+that unrest doesn't continue. The time and place were chosen, and plans were made. The
+broadcast would take place in another city, from a military broadcast station. Samarion
+was sent ahead to scout the area. 
+
+Kl'aal followed the Imperial-sympathizer group deep into the city, and found out that
+they had stolen 2 of the unexploded bombs. Kl'aal watched as they loaded up several
+transport Repulsor-planes with the bombs and several groups of armed insurgence. He
+noticed that all the soldiers were wearing odd pendants, small insignificant stones on
+leather strings. The significance of these were unclear, but the stones looked oddly
+familiar.
+
+Samarion was ensuring the meeting site was clear, when he was surprised to see the *Farstar's*
+Assault Shuttle land in the Repulsor-air-port, and the Captain walk out....12 hours early.
+He was told that it was the Captain's idea to head up any mole that might have leaked the
+time and place. They moved the time table up as soon as they could.
+
+Kl'aal was hidden well, and was making attempts to commandeer the craft he was on.
+Things didn't quite go that way, and it wasn't long before the bridge crew of the aircraft
+were dead, and the plane was slowly lurching out of formation. Kl'aal grabbed the nearest
+parachute ("parachute....how primitive"). Even though he got out before the
+plane slammed into the one below it, he was unable to escape the fireball that resulted.
+The remainder of the formation of planes were able to land in the airport below... the
+same airport Samarion was at, greeting the Captain as he came in. He watched as the 2
+planes collided and burst, and saw a dark shadowy form float down from the fireball. He
+recognized the figure and set out to rescue him while the Captain and a security detail
+headed by Gorak found the quickest and safest transportation to the broadcast station. 
+
+The information was obvious. Their was going to be an attempt on the Captain's life by
+these Imperial-Sympathizers. Security had to be tight. 
+
+A joint security effort between Gorak, Samarion, and Dervious was set up around the
+station, as the others inside worked hard to get the broadcast over-with. The attack came
+out of no-where, literally. Dozens of armed soldiers appeared out of the shadows as if
+they were cloaked. As they did, they were removing their hands from something near their
+neck. The pendants....had to be Darkstryder tech. The battle raged fiercely. 
+
+Meanwhile, in orbit, almost on cue, an Imperial Escort Carrier dropped out of
+hyperspace, using the planets gravity well to drop in close proximity to the *Farstar*
+(Not an easy task). Swarms of TIEs launched towards the *Farstar* and the Planet.
+In the swarms were 48 TIE Bombers loaded with planetary siege bombs with some kind of
+bio-agent integrated into their explosives. All fighters launched, and an orbital battle
+ensued.
+
+The Captain was rushed to a shuttle for immediate evacuation, as the ground battle
+raged. The shuttle lifted off with him and a few security guards. Gorak stayed behind to
+join the ground battle. In orbit, the Escort Carrier picked up the shuttle coming up from
+the surface and maneuvered to intercept. The TIEs kept the X-wings busy, so the *Farstar*
+moved to do battle with the Carrier. Blasts volleys crisscrossed between the two capitol
+ships. Several turbolaser shots found their mark on the Carrier, and some internal damage
+could be seen. Krudar, the Duros Gunner, knew that all he needed was one lucky shot, and
+he would have him a cap-ship on his vest. He concentrated on finding his mark so hard that
+he didn't see the carrier seize the Captain's shuttle and tractor it on board. The shot
+did find its mark a few moments later. The Carrier lurched hard, as it began it's
+hyperspace procedures. The engines began to disintegrate, as the ship switched to
+hyperdrive. The shuttle had enough time to load up an Imperial detail, when the rear of
+the carrier went up. Realizing their situation, the shuttle launched and jumped into
+hyperspace before the Carrier finally exploded just before part of it entered hyperspace.
+
+With the Imperial threat gone, and the city of Domaz well on it's way to recovery, the *Farstar*
+stayed long enough to resupply, and replace lost crew. They all received commendations
+from the Kolatill Planetary Council. They lost some good people, including the Captain's
+brother in the fighter dogfight. The *Farstar* left Kolatill with the sense that
+Sarne was definitely not leaving the Kathol sector quietly. He was definitely going to be
+a challenge, as well as overcoming Imperial propaganda, and sympathizers in the sector.
+All bad *Omens* for the mission ahead.....
+
+---
+
+Intel Report that came in after this session: [Intel Report for Days 14- 19](http://users.vnet.net/seawolf/sw/ds/DSintel1.htm)
+
+---
+
+[Previous 
+[Image locale absente : ../../icons/yl_l_arr.gif](DSsoitbegins.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSTheSmeltingStationsofTorize.htm) 
+
+[[Image locale absente : ../../icons/timeline.gif
+Back
+    to Timeline](DStimeline.htm)

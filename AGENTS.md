@@ -10,12 +10,22 @@ crew, NPCs, factions, events, planets, stellar maps, FarStar decks and assignmen
 - Editable canonical site data: content/campaign.json (existing FarStar schema 2.1),
   content/entities.json (knowledge entities, pins and shift schedule).
 - Stable IDs, not names/paths, connect entities and the future mastering project.
+- Structured reference KBase: SQLite under runtime/kbase/knowledge.sqlite, schema
+  and importer in packages/kbase. This is separate from campaign.json/entities.json
+  and future mastering live state. Every extracted assertion and relationship must
+  retain a verified source ID, actual page/unit, exact excerpt and Markdown hash.
+- Luna extraction agents consume bounded Markdown fragments, never entire books.
+  Imports remain unreviewed; original scenario, reference lore, rules, inspiration
+  and fan/personal adaptations are distinct. No live campaign state is inferred.
+  Re-imports append source claims and never overwrite personal editorial overlays.
 - catalog/sources.json and assets.json reference originals. Do not copy PDFs into Git.
 - OCR checkpoints, images, models, logs and backups live outside this repository in runtime.
 - At the user's explicit request, completed OCR Markdown is published in
   content/transcriptions/<source-id>/ with page provenance and quality manifests.
-  It is evidence for database authoring, not editable editorial truth. Image links
-  point to runtime and are excluded from Git; never overwrite a locally edited transcript.
+  It is evidence for database authoring, not editable editorial truth. At the user's
+  subsequent explicit request, images, page scans and extraction structure are also
+  physically published alongside Markdown, but remain excluded from Git. Runtime
+  retains authoritative checkpoints. Never overwrite a locally edited transcript.
 - Keep the legacy console for comparison; never silently delete original inputs.
 - Extracted text is evidence, not editorial truth. Do not overwrite edited content when re-importing.
 - During content production, use extracted Markdown first and open the original PDF

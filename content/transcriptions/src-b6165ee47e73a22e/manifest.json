@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-b6165ee47e73a22e",
+  "sha256": "b6165ee47e73a22e3de4adfc3e90dec0c28a9900cd76ae6304b3a3fab9ced910",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1840,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/6ff171773e1a4b9ea6525d114e3125028a90f4a3538f35e953407df65d77efc9.jpg",
+      "origin": "images/season3.jpg",
+      "sha256": "6ff171773e1a4b9ea6525d114e3125028a90f4a3538f35e953407df65d77efc9"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

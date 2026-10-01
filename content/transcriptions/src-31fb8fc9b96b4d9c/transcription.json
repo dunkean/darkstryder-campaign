@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-31fb8fc9b96b4d9c",
+  "name": "KatholAddons",
+  "sha256": "31fb8fc9b96b4d9ce01ae7e4cdbf6a4d8ab6ba73a4e39a3fc8d3ca207c0943bd",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "docx",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/KatholAddons.docx"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7d77050fb74cc0682c256fa91249419eeced6fd0f829ef4ebc3e43db634f28e5",
+  "fileHashes": {
+    "book.md": "e1576f2e4192501cf0d8b78ecb6f59436b5b89fea6e2d410873982d53cd34f54",
+    "pages/0001.md": "ee06ca90fdf7fdfb337a3b052e1209623ab1a96a2ec79499ab59bbd8db57815b"
+  }
+}

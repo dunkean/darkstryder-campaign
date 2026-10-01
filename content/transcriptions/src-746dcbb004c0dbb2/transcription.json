@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-746dcbb004c0dbb2",
+  "name": "VRUSK",
+  "sha256": "746dcbb004c0dbb2d980203c8b8263d5c7dbc969e73ccdc6ac553595f1801631",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/VRUSK.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4641eb90aa1d501ecafea97f8c81736bb8fc0a24af4d2438e29d5522b948bbfe",
+  "fileHashes": {
+    "book.md": "13b494a3054139d4b3d99963c5583c34df9925f118e93c92b7af577af70c55e6",
+    "pages/0001.md": "f75a7240d175d500fb2800a121382a89294f8f26fe605498959551de5a6b02a5"
+  }
+}

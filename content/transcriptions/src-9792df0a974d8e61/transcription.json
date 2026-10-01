@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9792df0a974d8e61",
+  "name": "dsincident",
+  "sha256": "9792df0a974d8e614a624aa7c0344a80f60bc88dbbad0f600fabad45a2edfd15",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/dsincident.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3b45c652500797452fe5f242118e08377f8d0306975234a63a1df55b37caf31b",
+  "fileHashes": {
+    "book.md": "e908d8cf872f64855cd353d0bf5044883156a96c7a4b63599adf0d7f18757db8",
+    "pages/0001.md": "1a360a96f81f3c1e7eef2c4f4729f8bfe30d29e5865f1fa5e0ab33293fdbf395"
+  }
+}

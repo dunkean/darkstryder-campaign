@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-b1529738aa9e2f54",
+  "name": "ruleupgrade",
+  "sha256": "b1529738aa9e2f54e49ebbd61c780e1793364c2d0332332138dfe81f6f42ef80",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ruleupgrade.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "41b0a66cece3120ef76a21cd34f4b6953dfe951abed421467ba4a59c79af1413",
+  "fileHashes": {
+    "book.md": "ffbe0874f0ca4296b507fa56c39cfab587c93360fa5879f0d25ef92433d729f6",
+    "pages/0001.md": "544c119632d15cbd704d95be4f6e221c3880c024306921db97b4ca98f1841777"
+  }
+}

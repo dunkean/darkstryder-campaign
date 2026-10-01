@@ -1,0 +1,82 @@
+# lestar
+
+Source: `src-87119184969a71d1` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-87119184969a71d1; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Lieutenant Vail Lestar
+
+# Lieutenant Vail Lestar
+
+## Ship’s Quartermaster, Republic Starship *Freedom’s Messenger*
+
+ 
+
+Played by [Phil Rodger](credits.html#phil)
+
+![Lestar](images/fb56d89bf641ee3911399693630c24beb768b62c770801e0c006cd740d93601c.jpg)
+
+*
+
+"Snappy tune. Shame about the regime, really."
+
+ 
+
+*
+
+When Vail Lestar joins Captain Ciro and his crew, he is forty years of age. Vail Lestar was born on Coruscant seventy-seven years before the Darkstryder mission left Kal’Shebbol for the unknown. His father, Thab, was a chartered accountant – and a good one, entirely capable of cooking the books a little when the situation demanded it. It was probably from spending time around him that Vail picked up the basics of his business acumen and his mastery of the stockmarket. Vail’s mother, Berril, due to long bouts of illness, was unfit to work and stayed home looking after her son and the modest family home.
+
+ 
+
+By virtue of the fact that young Vail had to spend so much time at home with his ailing mother as a child, he dabbled in the world of computers. This dabbling soon became an obsession, leading to Vail all but cutting himself off from the outside world. As a model, but not particularly remarkable child, his dull parents showed little interest in him or his prospects, and as long as he was safe at home, and not running with gangs and such in the worse neighbourhoods of his home sector on Coruscant, his paranoid mother was happy.
+
+ 
+
+So, as was expected by his family, rather than bother going into higher education, young Lestar decided to find gainful employment. He began as office junior in his father’s accountancy firm, Alyans & Lestar, where he remained, happy, for some time. 
+
+ 
+
+Thus could a young man’s life have been mapped out to its conclusion – were it not for General Ibrahim Dajus. Dajus was a Jedi Knight and famed warrior of the Republic who was involved in many acts of heroism in the name of justice. It was Dajus who pioneered the project to unite the Jedi of three worlds, Coruscant, Chandrila and Alderaan, by building three sister Jedi Warships, well before the Clone Wars took place. But even Jedi heroes need creative accountants, and the connection between Dajus and Lestar was that Dajus used the Alyans & Lestar firm to handle his tax records and expenditures during the project (the firm had been recommended to Dajus by his old friend, Obi-Wan Kenobi).
+
+ 
+
+So it was that the Freedom’s Messenger, the Freedom’s Angel and the Freedom’s Cry were in danger of being held up by bureaucracy and shortage of funds. It was when Thab Lestar was away on business on Corellia that General Dajus brought this to the firm’s attention. He went to the offices and demanded to see Lestar on a matter of utmost urgency, and was directed to a bemused Vail. Young Vail, twenty years of age, proceeded to sort out Dajus’ problems by zeroing in on the lowest-cost construction firms, cutting off fripperies and getting down to brass tacks on the project. Where he couldn’t do that, unbeknownst to Dajus, he sliced into computer nets and changed cost prices. Within two days, Dajus had a report on his desk telling him the three warships could be paid for within the time allotted, and the Jedi General would still have enough left in his account to take a holiday to Dantooine.
+
+ 
+
+So the honourable Jedi did the only thing he felt he could in return – he offered the talented young man a job and a commission aboard his personal ship, the Freedom’s Messenger. 
+
+ 
+
+Lestar mulled over the proposition for a long time. After all, this was space travel! Lestar had only been off planet once, accompanying his father on a business trip to Raltiir when he was thirteen, and he’d been space-sick all the way. It was also potentially dangerous, and while not a coward as such, Lestar had a considerable aversion to pain. So, in the end, he weighed up the pros and cons, and one day he took time off work to go and compose a communique to Dajus telling him that he had to decline.
+
+ 
+
+Vail, somewhat carelessly, composed the communique at home. His mother walked in on him, overreacted, called his father, and there was what the Lestar family referred to as a ‘scene’. Vail’s father admonished him for not taking this chance at greatness (something the elder Lestar had never had the courage to strive for), and Vail, the dutiful son, relented quietly. So the next day, Vail left for the Corellian shipyards where the Freedom’s Messenger was just about to be christened. He even got called up to stand beside General Dajus and the command crew on the podium, and General Dajus said that without Vail’s help, none of this could have happened. Vail beamed with pride.
+
+ 
+
+For twenty years following that, Vail served with distinction aboard the Messenger, beginning as Warrant Officer at a computer station on one of the lower decks, and rising to the rank of Lieutenant in charge of stores. His confidence and people skills improved in leaps and bounds as his reputation spread throughout the three sister ships and thence throughout the fleet. He became known for a time as the man who could get hold of anything for a price. However, that said, he never really rose above himself or his position to do anything truly worthy of note.
+
+ 
+
+Then the Clone Wars began, and people started dying. No longer was Vail’s life taken up with ferrying Jedi this way and that to diplomatic functions or peace treaties. People he knew started to get hurt, and a rattled Vail withdrew once more into his duties, becoming more scared by the day. And on the Freedom’s Messenger’s approach to Corellia to save it from bombardment by a massive Mandalorian fleet, when the ship was attacked and nearly crippled, losing half its crew, Vail swore his combat career was over before it had begun. When Dajus led his crew aboard their new allies’ ship, the FarStar, to proceed to Corellia, Lestar remained behind on the Messenger with the new crew, those who had been offloaded from the FarStar. It was there that he was discovered cowering in the air vents by First Officer Lofryyhn and Security Chief Gorak.
+
+ 
+
+**
+
+Season Three Development: 
+
+ 
+
+**
+
+When Dajus and his crew went down over Corellia, Lestar was rather stuck with the crew of the Former FarStar. This crew repaired and renamed the Freedom’s Messenger (as FarStar II), and prepared to take her back to the future where they had come from. Once Lestar had adjusted to this wild tale, he decided to buy into it. Thus, he started to assert his authority onboard by rationing the pilots’ soap and towels, and so forth. He also had a flutter on the galactic stock exchange before leaving the past, and put all his assets (and those of his friend Hix the Duros pilot) into shares. He didn’t tell Ciro, as he thought the captain would have refused to let him do it, but it turned out that, had he told Ciro of his scheme, Ciro would have been able to tell him that Alderaanian Real Estate was not a good investment. Lestar and Hix lost the lot. Lestar proved his bravery by intimidating several notable Mandalorians on the FarStar’s approach to Mandalore Prime, and bluff his way inside the planet, all the while impersonating a Mandalorian Loyalty Officer, Ango. Lestar also showed the captain how to make the ship impersonate a Mandalorian corvette by altering transponders and such.
+
+ 
+
+Back in the future, Lestar is putting his code-slicing genius to work by helping Han Solo crack Bothan Government files at New Republic Headquarters. As Solo said, having a dead man around can be very useful (Lestar was assumed to have been lost on the Messenger over Corellia). He has also found that his family home still exists, left to him by his father and untouched since the Clone Wars. He has taken up residence there once again.

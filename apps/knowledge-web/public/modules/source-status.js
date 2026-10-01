@@ -18,7 +18,7 @@ export function watchSourceStatus(sources, { interval = 5000 } = {}) {
       if (!element) return;
       const total = status.totalPages ?? sources.reduce((n, source) => n + source.pages, 0);
       const current = sources.find(source => source.id === status.currentSource);
-      element.textContent = `OCR : ${states[status.state] || status.state || 'en attente'} · ${status.completedPages ?? 0} / ${total} pages`
+      element.textContent = `Extraction : ${states[status.state] || status.state || 'en attente'} · ${status.completedPages ?? 0} / ${total} unités (pages PDF / segments / feuilles)`
         + (status.engine ? ` · ${status.engine}` : '')
         + (status.state === 'running' && current ? ` · ${current.name}, page PDF ${status.currentPage ?? '…'}` : '')
         + (status.error ? ` · ${status.error}` : '');

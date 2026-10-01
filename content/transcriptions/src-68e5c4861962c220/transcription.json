@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-68e5c4861962c220",
+  "name": "dglpix",
+  "sha256": "68e5c4861962c220c179860dd464db889815d4dcf378a4671d3bde15a035aeec",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/ron/dgl/dglpix.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6cd63b8d88bad0d428409e597681f5934891b3cfdcaaf4e77d1ce7824dc8cb05",
+  "fileHashes": {
+    "book.md": "d26752b1377b346dce808c1ff64e91c6bc7feaf2dd61a8955ef2e767222cb083",
+    "pages/0001.md": "324912e311eb754cb552c77737930909a721d3b3b43d95e586fe7affca789a4b"
+  }
+}

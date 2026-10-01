@@ -1,0 +1,141 @@
+# DSINTEL4
+
+Source: `src-78a5391e8324ce39` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-78a5391e8324ce39; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Intel Reports: NR Intel Log 4: Kathol Campaign"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**NR Intel Log 4: Kathol Campaign**
+
+ 
+
+---
+
+**Report 10008:A: Alpha - Date: DS 032**
+
+**Report from Minos Cluster**
+
+**The Minos Cluster campaign, where the majority of the Kal'Shebbol
+battle group has been re-assigned, is going well. Reports from the ground battles say that
+some Darkstryder technology has been encountered in use by some Sarne-loyal Imperials in
+the Cluster. These items have yet to be recovered unused, but have proven to be a factor
+in some major battles. There have also been reports on the edges of the Cluster, near the
+Kathol side, where there was found some Sarne sponsored concentration camps, and
+torture-reeducation camps. These camps are even more heinous than regular Imperial camps.
+He apparently experimented with implanting some Darkstryder tech within sentient hosts.
+Some did not go well, as several NR soldiers were killed trying to subdue some of his
+surviving mistakes. The *Farstar* should consider this a forewarning. **
+
+**Despite these horrors, the NR has been able to take back large
+sections of the Cluster from Sarne-Loyal and Empire-Loyal forces.**
+
+---
+
+**Report 10008:A: Alpha - Date: DS 032**
+
+**Report from Kolatill.**
+
+**After the successful rescue of thousands from their bombed out
+capitol city of Domaz, and due to swift action by the crew of the *Farstar*, the
+quick defusing of civil unrest on Kolatill, the New Republic has been successful in
+establishing Kolatill as a New Republic World. The Noble Houses of Kolatill have agreed to
+assist in any way in the mission to hunt down Sarne, and restore the Kathol Sector. In
+that vein, a few of the houses revealed a secret to the New Republic. The houses were able
+to hide several of their hyperspace drive systems in hidden bunkers when the Empire took
+over this sector, and are right now refitting some of the larger in-system ships to used
+in a fleet to join the battle against Sarne and his minions. **
+
+**Current orders for this fleet are to act as mop-up force for the *Farstar*,
+and to cover anything the *Farstar *is forced to over look due to their primary
+mission. Some of the minor planets will be contacted by this fleet, as well as some
+remaining Imperial forces in the Rim worlds. This fleet answers to the New Republic Kathol
+Command on Kolatill.**
+
+**The Farstar is making great strides in joining the battle. Kolatill
+is the first step. The *Farstar* is to continue its efforts to contact each major
+world and gain as many allies as possible in this battle. Intelligence reports about his
+strength are few and far between, but we do know now that he has more than one Star
+Destroyer, and my have at least one Interdictor. The battle will not be won by one single
+Corvette.**
+
+---
+
+**Report 10009:A: Alpha - Date: DS 032**
+
+**Report From Torize**
+
+**Despite the unrest that plagued the planet, and a near diplomatic
+catastrophe as a result of some "misunderstandings" with the *Farstar*
+crew, the Noble Houses of Torize has negotiated with the New Republic, and have agreed to
+help in the restoration of the Kathol Sector, although still stands fast against joining
+the New Republic. The first things that they have agreed to do is convert the stations
+orbiting the mining planet to shipyards. More ships are going to be needed to fight Sarne
+if he decides to come back. The new Torize Shipyards will be run by a conglomerate of
+House officials, and this will form a new corporation, which is currently called Torize
+Yards Inc. The yards are expected to be relatively operational for smaller capitol ship
+construction in a month. it will take longer for larger scale ships.**
+
+**Once again, through the valiant efforts of the *Farstar*, the
+New Republic has brought a new ally in the fight against the Empire. **
+
+---
+
+**Report 10010:A: Alpha - Date: DS 032**
+
+**Report from Aaris**
+
+**New Republic Scientists have received readings from probes sent to the two gas
+giants in the Aaris system. Apparently, the scientists believe there is a chance that the
+"hyperspace distortional storms" the *Farstar* detected around the two
+gas giants are not naturally occurring. One thing that was noted was that the storms do
+not grow or fade in intensity, but are constant. More will be known when more precise
+measurements can be taken. The *Farstar* is asked to report any similar anomalies
+immediately and drop probes around the site to monitor. the Prov. Gov is requesting more
+science teams from the nearby sectors to help investigate.**
+
+ 
+
+---
+
+**Report 10010:A: Alpha - Date: DS 033**
+
+**Report from Kal'Shebbol**
+
+**New Republic Fleet in the Minos Cluster Campaign has freed up a small
+contingent of ships to help in the support of the Kathol campaign. Things have a taken a
+better turn in the Minos Cluster, and so, much of the attention will soon be turned to the
+Kathol Sector and the fight against Sarne. It is important that the *Farstar*
+continues to find allies as well as reports all information about Sarne's activity. This
+way, as the New Republic builds up their forces with in this sector in preparation for his
+counterattack, we will know what is coming.**
+
+**The new ships will be used in the mop up operations following the *Farstar's*
+mapping of the Sector. The following is a list of the ships and their designations:**
+
+| **SHIP NAME** | **SHIP TYPE** |
+| --- | --- |
+| NRS Angelheart | Corellian Corvette |
+| NRS Courage | Corellian Gunship |
+| NRS Jal Mothma | Corellian Gunship |
+| NRS Trans-Cargo Delta-4 | Transport |
+| NRS Trans-Cargo Alpha-7 | Transport |
+| NRS Centurion's Sword | Modified YT-1300 Assault Freighter |
+
+---
+
+[Previous](DSintel3.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSintel3.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSintel5.htm) 
+
+[![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)
+Back
+    to Intel Main](DSintel.htm)

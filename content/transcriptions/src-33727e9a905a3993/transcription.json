@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-33727e9a905a3993",
+  "name": "resurrquotes",
+  "sha256": "33727e9a905a3993963e752f0418bf9a0be3dd98b72fb1235bf489a93de453f6",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/resurrquotes.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "12952aa730a929a22fe6e823c212178c5f29758479a2472d42c56eaec0558ec2",
+  "fileHashes": {
+    "book.md": "4db1b9291bf18a148a9c9734f1b1ad099004ecb7fb8562feeb4869a206e2fb33",
+    "pages/0001.md": "221df3e08492a9ebc03072c49ec0d73595998b48c7839b193f9a296ee072191f"
+  }
+}

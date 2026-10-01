@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["jobId", "nodes", "relationships", "segments", "notes"],
+  "properties": {
+    "jobId": { "type": "string", "minLength": 1 },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["key", "type", "family", "usage", "name", "summary", "content", "tags", "scope", "visibility", "propertiesJSON", "existingId", "evidence"],
+        "properties": {
+          "key": { "type": "string", "minLength": 1 },
+          "type": { "type": "string", "enum": ["Character","Faction","Organization","Location","Planet","System","Ship","Vehicle","Species","Item","Artifact","HistoricalEvent","Rule","Mechanic","Skill","Ability","Equipment","StatBlock","RandomTable","HouseRule","Difficulty","Arc","Plot","Thread","Episode","Adventure","Scene","Event","Objective","Secret","Clue","Revelation","Consequence","NPCSeed","LocationSeed","EncounterSeed","Complication","Rumor","NameList","DescriptionFragment","DialogueFragment","SceneSeed","Reward","Media"] },
+          "family": { "type": "string", "enum": ["WORLD","RULES","NARRATIVE","INSPIRATION"] },
+          "usage": { "type": "string", "enum": ["darkstryder_scenario","rules","inspiration"] },
+          "name": { "type": "string", "minLength": 1 },
+          "summary": { "type": "string" },
+          "content": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "scope": { "type": "string", "enum": ["source"] },
+          "visibility": { "type": "string", "enum": ["gm_only"] },
+          "propertiesJSON": { "type": "string" },
+          "existingId": { "type": ["string", "null"] },
+          "evidence": { "$ref": "#/$defs/evidence" }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["sourceKey", "targetKey", "type", "notes", "evidence"],
+        "properties": {
+          "sourceKey": { "type": "string", "minLength": 1 },
+          "targetKey": { "type": "string", "minLength": 1 },
+          "type": { "type": "string", "pattern": "^[a-z][a-z0-9_]{0,47}$" },
+          "notes": { "type": "string" },
+          "evidence": { "$ref": "#/$defs/evidence" }
+        }
+      }
+    },
+    "segments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["key", "title", "kind", "nodeKeys", "evidence"],
+        "properties": {
+          "key": { "type": "string", "minLength": 1 },
+          "title": { "type": "string", "minLength": 1 },
+          "kind": { "type": "string", "minLength": 1 },
+          "nodeKeys": { "type": "array", "items": { "type": "string" } },
+          "evidence": { "$ref": "#/$defs/segmentEvidence" }
+        }
+      }
+    },
+    "notes": { "type": "array", "items": { "type": "string" } }
+  },
+  "$defs": {
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["unitId"],
+        "properties": {
+          "unitId": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "segmentEvidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["unitId"],
+        "properties": {
+          "unitId": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

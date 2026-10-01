@@ -1,0 +1,43 @@
+{
+  "sourceId": "src-1cc8cdb4d5ca8d85",
+  "sha256": "1cc8cdb4d5ca8d85824d01491b604afb633b5e79c5e50adb65b63b811558635d",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2815,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/034898e8e278a23c7a037d8f70ddbf9985280c3bb740a992566c7eaec1e57f78.jpg",
+      "origin": "images/farstar1.jpg",
+      "sha256": "034898e8e278a23c7a037d8f70ddbf9985280c3bb740a992566c7eaec1e57f78"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

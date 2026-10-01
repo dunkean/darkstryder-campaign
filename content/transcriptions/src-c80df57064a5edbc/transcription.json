@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c80df57064a5edbc",
+  "name": "swcasters",
+  "sha256": "c80df57064a5edbcd4db78c9b43ca448518c079f2147e4bb47796d619ae6b351",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/swcasters.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "50164112336db2e003821dfc75b2f0c441bdaa645bb904b8c997c0f1cb273fe5",
+  "fileHashes": {
+    "book.md": "198d3328d8cf251945e8032681afd066b6a3f3b7687a4874a7557e8ac43a35a9",
+    "pages/0001.md": "7c85f449a73260ff9c890dbb0fee741ee6f75032ccf3977382a083c415c3d60f"
+  }
+}

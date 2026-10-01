@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-eadf1927c3b5e12c",
+  "name": "_._",
+  "sha256": "eadf1927c3b5e12c3e9c37eccc6ab63dff1d27e6bc03011417ea17efe286c50c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/ron/_._.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "34faad452283c4594233f4665c568965e106dedd17d6625f1bb6213f9e38ff72",
+  "fileHashes": {
+    "book.md": "20bfd19b583c603d9f3325c0119c7169d71523d355fc8f90ffd483b827b0f051",
+    "pages/0001.md": "730179f92398d96f6e5219f33d97178f1640d5bab012ce666960e246bdaf263a"
+  }
+}

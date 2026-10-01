@@ -7,6 +7,25 @@
   "pdfPages": 129,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 129,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder SourceBook/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+  },
+  "copies": [
+    {
+      "root": "project",
+      "path": "sourcebooks/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+    }
+  ],
+  "collections": [
+    "darkstryder"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "67939bf233a0e82c1e9915ba10a5e1292c836680d1f8b2cd1d7774930d425d6f",
   "fileHashes": {
     "book.md": "1650262e3060eed98e5058d71267a5f813fde964fe3a1c57b7957a38a5ac89f6",
     "pages/0001.md": "28915b1e967ed9b5b6d052e292100625630ac9ceb48142f020907a9925e30468",

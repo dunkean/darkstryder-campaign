@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-52fb0ff7cdf60f22",
+  "name": "DSHomeShowdown",
+  "sha256": "52fb0ff7cdf60f2212215b31dc0eb471147e5c7ee5f7542d0089a863e90bdcd2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHomeShowdown.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHOMESH.HTM"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "69be12ac46df8a1b659723fe7a810b01aa6fa89f1a0acc44fdbd33ad6f1c76fd",
+  "fileHashes": {
+    "book.md": "78e6b7426f0115c68358f1dfbf0edf33781ef9a537a1811d257ac12309848172",
+    "pages/0001.md": "ac8437ed6e8ce1bbf88c69a31be26b910f0230b6ed1df742301aeea5f49304f1"
+  }
+}

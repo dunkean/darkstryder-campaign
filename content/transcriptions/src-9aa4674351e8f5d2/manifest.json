@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-9aa4674351e8f5d2",
+  "sha256": "9aa4674351e8f5d28232395a1a3779f29dbbdcbaa3a5c269d820bb658682d8db",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7097,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/8550603f8916c6f2e123f5051ff7838f5082e242fa956582d12a51d960d75507.jpg",
+      "origin": "images/zuckuss.jpg",
+      "sha256": "8550603f8916c6f2e123f5051ff7838f5082e242fa956582d12a51d960d75507"
+    }
+  ],
+  "encoding": "windows-1252"
+}

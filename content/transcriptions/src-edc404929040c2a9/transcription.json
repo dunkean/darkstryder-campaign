@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-edc404929040c2a9",
+  "name": "starwolv",
+  "sha256": "edc404929040c2a92a665a1705c97442e3f6a6562501cd806d83bff5bb498b04",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/starwolv.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c3f3af005cf7b4df1771c6557dd269129ff5135631730b68e33045658c8c8ade",
+  "fileHashes": {
+    "book.md": "04fb9f077e1ae460b9673d3a7c7cabdab17f53d9845c9f796bb6ec85a355c671",
+    "pages/0001.md": "121cd80a29835277d896f5f34eb478dac27bcd5632f1428a1b469a2af1fbe8cc"
+  }
+}

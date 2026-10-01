@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c8899243e70f57ba",
+  "name": "DSSleeper",
+  "sha256": "c8899243e70f57ba4155a92ee9c5f6aef0aee22a0fbdf6e7f2ab9057115a50d4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSleeper.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f1adf63dd140be048ab33eb24d269f5b81dce1c9c34ead1eba61d87aca340b89",
+  "fileHashes": {
+    "book.md": "63476e60355b7381d67feb1963d1b3d9e80697a0ee4680375c17eda76a17ca59",
+    "pages/0001.md": "be5b8a46890e1aaf7f9670d6d875dc36c928821e0550237085a014232fb60c1f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-17b355370e632bb5",
+  "name": "personnel",
+  "sha256": "17b355370e632bb5385fb3301e8294e10c9c18711b8745b255dd91f9491cb2a4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/personnel.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "52a83089cd5fd3152bec833d37cccdcd3e83057eebaadcb24b684ad542ccb454",
+  "fileHashes": {
+    "book.md": "2f2822a6ee0d8ece7562906cde894963a5dc6df54c86589e160e3114f7fc8368",
+    "pages/0001.md": "2230f04a2a893b9ef60b20adb50dabecc40f5046d6f12619149984215b3025e9"
+  }
+}

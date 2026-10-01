@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1c09f569daeff013",
+  "name": "DScaplog",
+  "sha256": "1c09f569daeff0136e112fd33c9d11d33c3768fee8e439c92a5fa5ee200bf90e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DScaplog.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DScaplog.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b6711efcf581c432fe8095a70425d36ef65cd58d281862b9c3e16324020a9ff9",
+  "fileHashes": {
+    "book.md": "a488f6ffa8186e2664c28eb08bb08ca252244525008cae2ab78c0c841debdab1",
+    "pages/0001.md": "caa32b44ec622895efa33f157c9a4b6ead87d3e954ab84f947035fc638582291"
+  }
+}

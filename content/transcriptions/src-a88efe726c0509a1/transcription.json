@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a88efe726c0509a1",
+  "name": "SZtoSW1",
+  "sha256": "a88efe726c0509a17a9d4997390de29329c24a39564767b90439af3c83352a68",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/SZtoSW1.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a02b4e311da94e256084f4e4463705e76db6da11e3ac6ef0c9b1d562f9033ddb",
+  "fileHashes": {
+    "book.md": "0ee8b14929913cddd5537aa3a0222ee611d5eeab6d8fc05575e31d4d10709456",
+    "pages/0001.md": "f06401bbdaea193fcb304a74c49f23ebe2bdf44d341d8c7c1c31a4216f7ca96b"
+  }
+}

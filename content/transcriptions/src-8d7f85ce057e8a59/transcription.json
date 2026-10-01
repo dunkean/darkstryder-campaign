@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8d7f85ce057e8a59",
+  "name": "DSHarmsWay",
+  "sha256": "8d7f85ce057e8a592c2833ce156efa9cf6e8e7af9435a50b434976e55e470b2c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHarmsWay.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fdc7f9ab814aeb7bbd10de11a6c32287a1b1fddc6f7a03bd576b4c8793992b5a",
+  "fileHashes": {
+    "book.md": "519ebf9987762a81cfd11d005d32b7fe15cdbdceaeecb3e3ac7e8247b1bdddcc",
+    "pages/0001.md": "8a0ad5bc247e1ab30fb1bc49c9f9c9612bb862bd23af4b3391d494d62fb03e25"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "sourceId": "src-ebbb3791e4f8e749",
+  "sha256": "ebbb3791e4f8e749de4d42182909cc14c2cd8b9b21d78cc7bf0c7d62fa34d7a8",
+  "engineId": "docling-rapidocr-torch-cuda-v1",
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "versions": {
+    "docling": "2.91.0",
+    "docling-core": "2.74.1",
+    "torch": "2.11.0",
+    "rapidocr": "3.8.1",
+    "transformers": "5.6.2"
+  },
+  "languages": [
+    "english"
+  ],
+  "nativeTextPreserved": true,
+  "tableMode": "accurate",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 2196,
+      "nativeCharacters": 2196,
+      "tables": 0,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 0.69,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8168291321822575,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9084145660911287,
+        "low_score": 0.8259876755731447
+      }
+    },
+    {
+      "page": 2,
+      "characters": 2244,
+      "nativeCharacters": 2249,
+      "tables": 0,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 0.64,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8434338885195115,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9217169442597557,
+        "low_score": 0.851262194093536
+      }
+    }
+  ]
+}

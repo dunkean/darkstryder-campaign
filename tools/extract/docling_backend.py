@@ -38,7 +38,8 @@ def manifest_reports(folder, source):
             raise RuntimeError(f'Unmanifested outputs require review: {source["id"]}')
         return {}
     old = json.loads(manifest.read_text(encoding='utf-8-sig'))
-    if old.get('engineId') != ENGINE or old.get('sha256') != source['sha256']:
+    expected_engine=ENGINE if source.get('format','pdf')=='pdf' else 'local-document-conversion-v1'
+    if old.get('engineId') != expected_engine or old.get('sha256') != source['sha256']:
         raise RuntimeError(f'Archive previous engine outputs before conversion: {source["id"]}')
     return {str(p['page']): p for p in old.get('pages', [])
             if (folder / 'pages' / f'{p["page"]:04}.md').exists()
@@ -47,7 +48,7 @@ def manifest_reports(folder, source):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--collection', choices=['all', 'darkstryder', 'sourcebooks'], default='all')
+    parser.add_argument('--collection', choices=['all', 'darkstryder', 'sourcebooks', 'addons', 'guides-rules'], default='all')
     parser.add_argument('--source', help='Single stable source ID')
     parser.add_argument('--start-page', type=int, default=1)
     parser.add_argument('--limit-pages', type=int, default=0)
@@ -68,9 +69,11 @@ def main():
     lock.write(str(os.getpid()))
     lock.flush()
     sources = json.loads((ROOT / 'catalog/sources.json').read_text(encoding='utf-8-sig'))
+    scope = json.loads((ROOT / 'config/corpus-scope.json').read_text())
+    skipped = {entry['id'] for entry in scope.get('skipSources', [])}
     sources.sort(key=lambda s: (s['collection'] != 'darkstryder', 'WEG40209' not in s['name'], s['name']))
     selected = [s for s in sources if (args.collection == 'all' or s['collection'] == args.collection)
-                and (not args.source or s['id'] == args.source)]
+                and (not args.source or s['id'] == args.source) and s['id'] not in skipped]
     if not selected:
         parser.error('No sources selected')
     reports_by_source = {s['id']: manifest_reports(runtime / s['output'], s) for s in selected}
@@ -151,7 +154,7 @@ def main():
             for directory in [pages_dir, images, structure]:
                 directory.mkdir(parents=True, exist_ok=True)
             locator = source['locator']
-            base = Path(CONFIG['sourceRoot']) if locator['root'] == 'drive' else ROOT
+            base = Path(CONFIG['sourceRoot']) if locator['root'] == 'drive' else runtime if locator['root']=='runtime' else ROOT
             pdf = (base / locator['path']).resolve()
             if not pdf.is_relative_to(base.resolve()):
                 raise RuntimeError('Source path escapes configured root')
@@ -161,6 +164,9 @@ def main():
                 raise RuntimeError('Source changed; rerun inventory: ' + pdf.name)
             reports = reports_by_source[source['id']]
             current = status['sources'][source['id']]
+            if len(reports)==source['pages']:
+                current['state']='complete';refresh();continue
+            if source.get('format','pdf')!='pdf':raise RuntimeError('Run direct document conversion first: '+source['id'])
             status['currentSource'] = source['id']
             current['state'] = 'running'
             refresh()

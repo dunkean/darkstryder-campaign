@@ -7,6 +7,26 @@
   "pdfPages": 82,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 82,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Lords of the Expanse Players Guide to Tapani WEG40155.pdf"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/Guides_Rules/Tapani/WEG40155 - Star Wars - Player_s Guide to Tapani.pdf"
+    }
+  ],
+  "collections": [
+    "sourcebooks",
+    "guides-rules"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "cb5376837f6927d89db67e0d05e905cd740c49c7a2edd1da88005903f67da9f3",
   "fileHashes": {
     "book.md": "30128f712193dbffbb26f5311de5d4cec45d3d56e3fd9b8caf4db380f16a9c01",
     "pages/0001.md": "1f59e8ea07b24b40c6783ca7b202e75954e5bf66dc936dae86d5c4d7d44bb4ed",

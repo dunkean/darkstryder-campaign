@@ -1,0 +1,37 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c08d1872276a8bbc",
+  "name": "DStimeline",
+  "sha256": "c08d1872276a8bbcef016564345098eab34add03f28ea5a222ea79af0c94c99d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DStimeline.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTIMELI.HTM"
+    },
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DStimeline.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a54446ca86f2e9fa9fc6b64a00a75e85b46a9a862e102c17bf0054b67a845244",
+  "fileHashes": {
+    "book.md": "3b4c382652fdff207d87b04135c11562390c768256c6d6c5bc9cf4b2100f1cee",
+    "pages/0001.md": "59318647482ee9330efdfae427b7d8efc48ccf020d207329bd6ba04adbca5a3c"
+  }
+}

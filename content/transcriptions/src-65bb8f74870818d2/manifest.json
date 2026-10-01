@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-65bb8f74870818d2",
+  "sha256": "65bb8f74870818d2a2a3b3eca45b1e7027ebc687ccccc6aa83b36894558e6215",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1444,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/2e01c8ba8baef43dfd8bef0dfbf97ebcc1c5024e6cf4279879ae792d747761b1.gif",
+      "origin": "images/bothans.gif",
+      "sha256": "2e01c8ba8baef43dfd8bef0dfbf97ebcc1c5024e6cf4279879ae792d747761b1"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

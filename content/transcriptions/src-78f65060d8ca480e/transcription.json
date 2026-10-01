@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-78f65060d8ca480e",
+  "name": "DSVirusOfQek",
+  "sha256": "78f65060d8ca480e553eb0078aa71fd195f518fee7d8aecf70a55d6ae1242a5c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSVirusOfQek.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4702c9e8241d3f4f7d84c48757b17ad596cd5c9492e8afe49fb98178cf9b4310",
+  "fileHashes": {
+    "book.md": "47f8f0d25e63eaed08046533c66919cd548039e33a82dbcf990d54190e8d11f2",
+    "pages/0001.md": "bb8b9d28617d6696bac103f3eb5577f1d84047504a06c056cac3e8df2f5e25d1"
+  }
+}

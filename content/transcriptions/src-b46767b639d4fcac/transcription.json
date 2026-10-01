@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-b46767b639d4fcac",
+  "name": "gorjaye",
+  "sha256": "b46767b639d4fcacf891f0aa55e5b1a52c33aeffb60b45e5d3985948a481526d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/gorjaye.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "82a41569eea4b97b58b33870914460ad630abc38bad617b3b729de7954e0b5b7",
+  "fileHashes": {
+    "book.md": "f08046115d82441f60133c29f5149f9317377a88a452c598efbcbb7f65b2e676",
+    "pages/0001.md": "fd39cbb95176a94c9da16fa99f6ddd83569f69a1f405b61306a52ce88d3c2a1f"
+  }
+}

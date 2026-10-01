@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-1639e40958099e9d",
+  "sha256": "1639e40958099e9d305b0e6534af70599e01c72e87f776f6e4d718a0d94fa5f0",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 9656,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/44a8d063b737a591cd266136b99afc848f5f3a89eaf4e37eeb7ac10d132d6de6.jpg",
+      "origin": "images/akanseh.jpg",
+      "sha256": "44a8d063b737a591cd266136b99afc848f5f3a89eaf4e37eeb7ac10d132d6de6"
+    }
+  ],
+  "encoding": "windows-1252"
+}

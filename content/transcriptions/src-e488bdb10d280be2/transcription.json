@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e488bdb10d280be2",
+  "name": "DSCast",
+  "sha256": "e488bdb10d280be261b2fcf7bb32451999ac140ee7ce248e5391fa029bb1d6d8",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCast.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "cfab930fb1fe60a88885041208c32ec828bb34870e4fc1284d98942de90e9bbf",
+  "fileHashes": {
+    "book.md": "0f0df96d7fc09ef49d9f8f372467d6f95143f5e8caee42f4cd54804f9570f21c",
+    "pages/0001.md": "85fa8811a784c494f5542a988b4f434c7acbc5b1a600392e6f203b14190ccc21"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-5ebeaa8b0930ea7d",
+  "name": "JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2",
+  "sha256": "5ebeaa8b0930ea7d095489a295d7451fb98b210c63a9dfb1c71cf2b554d876a2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e316f91f79309e6f3efe8c55e611fc06d9eec6b96ce3f1f67d9d6f67d4bc5e46",
+  "fileHashes": {
+    "book.md": "099d413ec4c9f25ee901dca33ccff94e5d2e034a6695dac8fb573055d2e1b7c4",
+    "pages/0001.md": "3c38c3c7fcab80a9ddbe009d775cc4d1b06c35f4e021c1ac5e80baf33c17c89d"
+  }
+}

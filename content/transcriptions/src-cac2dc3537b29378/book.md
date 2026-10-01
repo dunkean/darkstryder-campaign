@@ -1,0 +1,101 @@
+# DSINT11
+
+Source: `src-cac2dc3537b29378` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-cac2dc3537b29378; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Intel Reports: NR Intel Log 11: Kathol Campaign"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+[Image locale absente : images/nrlogo.jpg]
+
+**NR Intel Log 11: Kathol
+    Campaign**
+
+[Image locale absente : images/nrlogo.jpg]
+
+---
+
+Report 10045: Beta - Sapella Report 
+
+Date: DS 121
+
+Thane B'Dorbeck was able to hammer out a more binding accord with the clans of Sapella,
+once the more radical factions collapsed.  The clans have agreed to allow for a New
+Republic Garrison to be stationed on their planet, however the New Republic will not until
+the clans have gotten their rogue elements under control. 
+
+The NCSF has been fully repaired.  Ships records show that they were attacked on
+the rim of the Kathol Outback by a shadowy ship of alien design.  They attack came
+unprovoked when the NCSF misjumped nearby.  The missing destroyer was severely
+damaged, and abandoned their at the attack site.  It might be recoverable. The
+problem is the coordinates of the attack are ambiguous, because of the misjump.  It
+will take a search effort to find it.
+
+---
+
+Report 10046: Beta - Project Nuniok Dak
+
+Date: DS 122
+
+More and more rumors of Nuniok Dak are surfacing.  The is reference to a planet
+called Sabros Nim.  We are not sure there is a connection, but we know it is a remote
+Sullustan world that was ruled by a subsidiary of SoroSuub, and a small group of Sullustan
+Noble houses.  We believe that some of the Noble Houses had connections here in the
+Kathol Core.  
+
+---
+
+Report 10047: Beta - Binaros Update
+
+Date: DS 122
+
+Long range sensors have lost contact with the enemy probe readings.   No last
+known coordinates can be determined, because of interference from the Rift.  Deep
+Scans into the Outback are becoming more and more useless because of the Rift.
+
+---
+
+Report 10047: Beta - Jangelle Situation Update
+
+Date: DS 123
+
+Jangelle, from what we can determine, a arid world, with little value.  It is
+colonized, and it is reasonable advanced.  It lies on the outside of  a region
+of space called the Kathol Republic.  No coordinates of the Kathol Republic are
+available.  All we know is that it is just beyond Jangelle.
+
+Jangelle has it own small fleet of armed freighters, and a reasonable planetary
+defense.  Free traders frequent that planet because it's good protection from
+raiders.    What this means is that the ships that are disappearing are not
+disappearing within range of Jangelle.  Use Jangelle as a jumping off point to
+investigate the disappearances.
+
+---
+
+Report 10048: Alpha - Sarne is missing
+
+Date: DS 124
+
+Reports from our most reliable spies in the Outback have been sparse and very few.
+However, what we can gather from rumors through the Outback is that Sarne has gone way
+underground.  He can not be found.  From the rumors, it is suspected me might be
+hiding in an area of the Outback that our sensors and spies can't penetrate.  The *Farstar*
+is advised to investigate all possibilities.
+
+---
+
+[Previous](DSintel10.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSintel10.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSintel12.htm)
+
+[![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)
+Back
+    to Intel Main](DSintel.htm)

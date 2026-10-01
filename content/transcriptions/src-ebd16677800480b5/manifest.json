@@ -1,0 +1,19 @@
+{
+  "sourceId": "src-ebd16677800480b5",
+  "sha256": "ebd16677800480b550841770bfafba3f4621ac11f8fb55ba489139f13889fe7d",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 3235,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [],
+  "encoding": "windows-1252"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-868544b2f2896e00",
+  "name": "DSWhere",
+  "sha256": "868544b2f2896e0022b75ffa41fa0218f1c34e8d7159563f9ca2bdb3660e1f09",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWhere.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "db122530518965d6404c28036ef3b1875d2d6a9fea8c63393a6a03726be93d87",
+  "fileHashes": {
+    "book.md": "256f9c9a29713075542c2fe17b86cc83f8fb393fea9e7a7ef5d21d0d1186b647",
+    "pages/0001.md": "61b04a35eca62eb8c2136f88999ad238c6c5fd1b14695842c36137953749d40e"
+  }
+}

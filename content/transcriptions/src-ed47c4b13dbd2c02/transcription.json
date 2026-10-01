@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ed47c4b13dbd2c02",
+  "name": "DEFANO",
+  "sha256": "ed47c4b13dbd2c02fd83bd107ff1575f818b8574a5cae903398bf7cd8763e37d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/DEFANO.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "835094a312e12413acde263f3ea396a9779193504e7f463ea8324a8c375869eb",
+  "fileHashes": {
+    "book.md": "6fd1391b9daad1c57bb9747caa36962bfeb0cb4c53fab959bc7d9b22e31a3d58",
+    "pages/0001.md": "ff653e96c4a6fa34ce4e72b2c3b18293be6b48093c8aaa797b88cd2936d579ff"
+  }
+}

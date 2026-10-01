@@ -1,0 +1,87 @@
+{
+  "sourceId": "src-d1bfd8defd9cca0a",
+  "sha256": "d1bfd8defd9cca0ad622a6f4f5259fcb9e0480d99d177127a169d287c1c4ac78",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 10619,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/chub_smbl.JPG"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/quolok1.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/iktal_small.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/karadol_small.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/shador_small.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/brakia_small.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/kathor_small.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/tradeguilds.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/church3.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/church2.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/rift2a.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif",
+      "origin": "images/nricon.gif",
+      "sha256": "cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-d21b2ed175172f7b",
+  "sha256": "d21b2ed175172f7b674f2e509c372ccf3e107bba1032f19418fefdfb46357cf9",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 9538,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/b8e16e8aa67037779b7798daef8b0e8a73d7dcc404592541f1dff779a252fd32.jpg",
+      "origin": "images/ciro.jpg",
+      "sha256": "b8e16e8aa67037779b7798daef8b0e8a73d7dcc404592541f1dff779a252fd32"
+    }
+  ],
+  "encoding": "windows-1252"
+}

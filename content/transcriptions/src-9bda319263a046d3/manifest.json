@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-9bda319263a046d3",
+  "sha256": "9bda319263a046d3bc4df231903037c6e1c1c5f2d508b225962c73c33cb6e861",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2681,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/4131b917ceb12dae413952fafe0316257aacdadf7b61e833bd88203669f0a2d3.jpg",
+      "origin": "images/lopak.jpg",
+      "sha256": "4131b917ceb12dae413952fafe0316257aacdadf7b61e833bd88203669f0a2d3"
+    }
+  ],
+  "encoding": "windows-1252"
+}

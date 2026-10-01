@@ -1,0 +1,38 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-b9ae28cfec344815",
+  "name": "2985_Qu-allez_vous_prendre_ce_soir",
+  "sha256": "b9ae28cfec344815e0de8f5d7cd64ffcf184dff17a96ef4c1a43c50c4e3415db",
+  "pdfPages": 11,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 11,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/2985_Qu-allez_vous_prendre_ce_soir.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "08151828ff8b871695e0fd66eb7cabbe1c1a160e7b6b92117690ec68f4313a5d",
+  "fileHashes": {
+    "book.md": "f40c87340b261f3f4982aa2db4f56e178b0a40ee92a4089812cd9059d4937f9a",
+    "pages/0001.md": "55ab54914951c9e657c6b7477d9db21d6608a3ad42a3b58f0aa924b3ce756567",
+    "pages/0002.md": "9b421938ccd8aa75e7567f24ef2fe3ac8447fd6ed136d9f4f4120ac2786c9d3f",
+    "pages/0003.md": "b21d5d6304b588f534591afa02fd43c146c281edba7bca105496f198b5b913de",
+    "pages/0004.md": "3e2a66825bb1a64a58c167085dbf2ca0c5631369bee2aa80f5ea820797b03108",
+    "pages/0005.md": "d465a1f38a0053fd3770fd8349dcfda9eeb35f790a71b5919253ae090184ddec",
+    "pages/0006.md": "a54a4b4050194ae852f0c61664bd5c03e73acf13d7197d685b13c5974ab28b32",
+    "pages/0007.md": "0cfa607b30d6a4cb5fdcf2c525755e37100e38a9fba2f9385dadc37a7f9e4cfe",
+    "pages/0008.md": "a2f41dc3bc20dfe7464ac711ec9d46993e31ee850fc5f9ad064c9ada2170f807",
+    "pages/0009.md": "24905c1479a8d0cc7db0c330a31f8f5f6a9153db21746f03b3dc2e5470d0f9e8",
+    "pages/0010.md": "ddb73ad28ba4e7ed2ae09cc13a37a88de0b421d531590393df378806aaaf46f0",
+    "pages/0011.md": "b1c8440992fed415b3a15b66726574df2edb4041adb79db978cf3a7a396f9d77"
+  }
+}

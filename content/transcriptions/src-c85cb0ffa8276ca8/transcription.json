@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c85cb0ffa8276ca8",
+  "name": "DSChillweaver",
+  "sha256": "c85cb0ffa8276ca80d7c7561ef4526db8da6db47cea632969d45f27c2b629368",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSChillweaver.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "259b0ede03736dba84a1ad1cce00f49a417a68264ebb695aaf31deeafdbe0914",
+  "fileHashes": {
+    "book.md": "c2f3fd128bbeac0658cab5f905c9677936c22e48dbcd05afe8176f2e88c97727",
+    "pages/0001.md": "d48ec11f237b26a27e3bc7bf4daae13733d5ec78cf6a9656e62b35e64050aaab"
+  }
+}

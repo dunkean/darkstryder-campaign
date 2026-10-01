@@ -1,0 +1,406 @@
+# SWSZAddons
+
+Source: `src-2d4ed5577dc57055` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-2d4ed5577dc57055; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Add-ons
+
+| <br>[Image locale absente : ../../sz/images/szsmall.jpg]<br> | <br>![Image](images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg)<br> |
+| --- | --- |
+
+---
+
+**ADD-ONS** 
+
+When the add-on was born, the idea was that arms and armor manufacturers
+would produce basic systems that would have the capacity for additional subsystems to be
+tacked on later. That meant the buyer could customize his purchase however he saw fit. And
+if it so happened that he had to buy all the add-ons he wanted from you, so much the
+better. So when you go into a weaponsmith's shop, don't be surprised if he starts pushing
+the extras even before you buy the gun. 
+
+Of course, all weapons and suits of armor have limits on how many
+add-ons they can support. With armor, the limits are included with each entry, but weapons
+have fixed numbers. For example, a holdout or pistol can have one extra component above
+the barrel and one below. Urban environment, carbine, military issue and civilian/sniper
+weapons have room for four components (two above and two below the barrel/firing
+mechanism). 
+
+| **Add-Ons ** |   |   |
+| --- | --- | --- |
+| **Feature ** | **Price ** | **Notes ** |
+| **Thermal Imager ** | **500 ** | **+1D to Perception in
+<br>    darkness or near darkness ** |
+| **Light Amplification
+<br>    Image ** | **375 ** | **+1D to Perception in
+<br>    near dark conditions ** |
+| **Magnification ** | **875 ** | **+1D to Perception for
+<br>    observing images at long distance ** |
+| **Laser Display ** | **1750 ** | **Displays data on
+<br>    faceplate or eyepiece ** |
+| **Smartgun Link ** | **1500 ** | **+1D+2 to relevant
+<br>    weapons skill ** |
+| **Weapon Expert ** | **1375 ** | **+1D to the relevant
+<br>    weapons skill ** |
+| **Peripheral Sensor ** | **1000 ** | **+1D toPerception
+<br>    checks to the sides and rear ** |
+| **Flexi-Cam ** | **375 ** | **Allows user to peer
+<br>    around corners, over obstacles, etc. ** |
+| **Ultra Sound
+<br>    Communications System ** | **750 ** | **Signals can penetrate
+<br>    most materials ** |
+| **Helmet Scanner ** | **500 ** | **+1D to Perception when
+<br>    seeking something ** |
+| **Helmet Cam ** | **250 ** | **Allows others to
+<br>    monitor suit's user ** |
+| **Identify Friend and
+<br>    Foe System ** | **1000 ** | **Sends out coded signal
+<br>    to identify suit's user ** |
+| **Drug Injection System ** | **1500 ** | **Holds six doses of any
+<br>    combination ** |
+| **Bio-Medical Scanner ** | **750 ** | **Monitors user's
+<br>    condition ** |
+| **Booster Pack ** | **750 ** | **Allows flight through
+<br>    positional jets. Requires vehicle piloting: jetpack ** |
+| **Hydraulic Glove ** | **1500 ** | **+1D to Strength when
+<br>    in use ** |
+| **Reflective Paint ** | **1250 ** | **+1D to Sneak vs.
+<br>    sensors checks to locate user ** |
+| **Thermal Masking ** | **1000 ** | **+1D to Sneak vs.
+<br>    sensors checks to detect the user with heat-senstive means ** |
+| **Electronic Counter
+<br>    Measures ** | **1500 ** | **+1D to Sneak vs.
+<br>    sensors checks to detect the user by electronic means ** |
+| **Enhanced Strength ** | **750 ** | **+1D up to +3D increase
+<br>    to Strength bonus of armor. Each +1D unit requires one add-on space
+<br>    in the suit.** |
+| **Integrated Weapon ** | **Weapon cost plus 10% ** | **Attach holdout or
+<br>    sidearm to armor ** |
+| **Magnetic Boots ** | **375 ** | **Allow user to adhere
+<br>    to metallic surface ** |
+| **Suit Integrity
+<br>    Micro-Preservation System ** | **1500 ** | **Amputates limbs to
+<br>    prevent fatal breaches in armor ** |
+| **Laser Sight ** | **100 ** | **+1D to hit at any
+<br>    range greater than short; requires aiming ** |
+| **UV Sight & Scope ** | **250 ** | **+1D to hit at any
+<br>    range greater than short; requires aiming ** |
+| **Telescopic Sight ** | **75** | **+1D to hit at any
+<br>    range greater than short; requires aiming ** |
+| **Gyrostabilizations ** | **10% of base ** | **+1D to hit at any
+<br>    range weapon with recoil** |
+| **Quick-Draw Holster ** | **65** | **+1D to quick draw or
+<br>    Dexterity when drawing a weapon quickly; no "changing weapons" penalties ** |
+| **Gas Venting ** | **300 ** | **+2 to Firearms Skill ** |
+| **Gyrostabilization
+<br>    Harness ** | **2500 ** | **Allows the firing of
+<br>    heavy weapons without being in a braced position ** |
+| **Monofilament Edge ** | **100 ** | **+1D to damage of
+<br>    unpowered edged weapon ** |
+| **Recognition Pad ** | **250 ** | **Keys weapon to single
+<br>    firer ** |
+
+**Armor Add-Ons** 
+
+The commmon substitute for cyberware, add-ons are cheaper and easier to
+resell.   An augmented suit can be sold again and again without having to go
+through a chop shop, as long as you recalibrate it for the new owner.  The cost
+listed for each item includes the price of installation. Energy is provided by the suit's
+own power systems. [Engaging an add-on is a simple action.]
+
+**Thermal Imager
+
+**A sighting system that allows the user to see in complete darkness by
+detecting the infrared patterns given off by the surrounding environment.
+Unlike its cyberware counterpart, flare compensators are built into the
+unit so that sudden flashes of heat will not blind the user or burn out the unit. Cost:
+500. [Adds +1D to **Perception*** *totals to see in darkness or near darkness.] 
+
+**Light Amplification
+
+**This system amplifies the ambient light within the environment to allow
+near to normal vision for the user. While it is not effective in total darkness, it is a
+great help in many other conditions that would otherwise limit sight. Like the Thermal
+Imager, the Light Amplification system has built in flare compensators. Cost-. 375. [Adds
++1D to **Perception* ***totals when attempting to see in near dark conditions.] 
+
+**Image Magnification
+
+**This allows the user to increase the magnification of the vision unit
+by up to 50 times. Unfortunately it also reduces the arc of vision proportional to the
+magnification level used. Cost: 875. [Add +2 to ***Perception ***totals for
+observing images far away. Add +1D to the difficulty numbers of ***Perception ***totals
+when attempting to use peripheral vision.] 
+
+**Laser Display
+
+**Uses a laser projection unit to display information (maps, orders
+medical reports etc.) on either the armor's face plate or an eyepiece. The display system
+also includes four ports for standard information slugs. Cost: 1750. 
+
+**Smartgun Link
+
+**Allows for the integration of smart weapon technology into the power
+armor. Requires that the weapon used be equipped with a smartgun system. Once linked, a
+target selector is projected on to the face plate showing where the weapon is pointed,
+what the weapon is pointing at, the range from the user, and the probability of a hit
+given "ideal" conditions. Cost: 1500. [Add +1D+2 to relevant weapons skill.] 
+
+**Weapon Expert
+
+**A sort of poor man's smartgun. A sensor is placed upon the wrist of the
+user's firing hand. This sensor acts as a sighting system, eliminating the need for a
+smartgun system. Once the type of weapon being used is input, the computer uses its data
+on that weapon's characteristics to determine targeting accuracy. This bonus can not be
+combined with a laser sight, but can be combined with the bonuses gained through gas
+venting or gyrostabilization. Cost: 1375. [Add +1D to the relevant weapons skill.] 
+
+**Peripheral Sensor
+
+**This system is great to have if you're stuck in power armor. Small
+wide-angle video cameras are placed upon the side **of **the helmet. The image is then
+projected onto one corner of the face plate, allowing the **user **to keep an eye on
+his flanks. An expert system can also be installed with this which will recognize any
+potential threats and warn the user of them. Cost: 1000 for basic system, 2000 with expert
+system included. [Add +1D to ***Perception ***bonus checks to spot anyone
+approaching from the sides or rear. With the expert system, the bonus is increased to +1D]
+
+**Flexi-Cam
+
+**This system's popular with the few scouts I still call friends. It's a
+small camera attached to a two meter long, semi-flexible cable. The camera allows the user
+to peer around corners, over obstacles, etc. without having to expose himself to any
+danger. The camera has a built-in thermal imager to allow it to see in total darkness.
+Cost 375. 
+
+**Ultra Sound Communications System
+
+**This is a powerful, high frequency comm system first used by Imperials
+while engaged in urban fighting on Evets 11. Although its range is limited to 100 meters,
+its signal can penetrate most materials and it operates above the frequency of most
+available monitoring and jamming equipment. Cost: 750. 
+
+**Helmet Scanner
+
+**Works just like a hand scanner, but is built into the helmet of armor.
+Cost: 500. [Adds +1D to **Perception **checks when seeking something. Can be blocked by
+cover over three meters thick.] 
+
+**Helmet Cam
+
+**An external camera that allow others to monitor what the person in the
+armor is doing. It is usually tied into the suit's communication system to allow two way
+communication. Cost: 250. 
+
+**Identify Friend and Foe System
+
+**This add-on broadcasts a coded signal at a specific frequency. Any
+automated electronic system that receives the signal knows that the user is friend and
+therefore will not fire. If the single is not received, then the user is seen as a foe and
+is fired upon. They system also includes a receiver to allow for the identification and
+location of comrades. Cost:1000 
+
+**The add-ons below are attached to the suit itself, and are
+usually larger and slightly more expensive than helmet add-ons: **
+
+**Drug Injection System
+
+**Combat drugs are a big part of a soldier or merc's life. The most
+popular drugs include AdrenoCharger, EndophoCharger, QuickKill, MindEnhance and
+PainShield. The Drug Injection System can hold a total of six doses of any combination.
+Computer coding allows the user to verbally command that a particular drug be injected.
+Also, if the armor has a biomedical system, the drugs can be automatically injected if the
+scanner indicates it is required. Cost: 1500. 
+
+**Bio-Medical Scanner
+
+**This scanner allows soldiers to monitor their vital signs. There is
+also an external screen that will allow others to to check upon the user's condition. This
+system can be tied into the suit's communication system so that those with the proper
+receiver can monitor the user from a distance. This system also requires space within the
+helmet of the armor. Cost 750 for scanner, 500 for receiver system. 
+
+**Booster Pack
+
+**This system, built into a harness attached to the back of the armor,
+allows for travel in zero gravity through the use of positional jets. Maximum movement is
+10 meters a round. Due to its size, this system takes up two add-on spaces in a suit.
+[Requires *jetpack operation* to* *operate.] Cost: 750. 
+
+**Hydraulic Glove
+
+**A popular item among power armor users, the Hydraulic Glove allows the
+user to manipulate an object with increased strength. Many combat engineers love the item
+because it takes the place of many heavy tools that would otherwise have to be carried.
+Cost: 1500. [Add +1D to Strength when using glove to perform an action.] 
+
+**Reflective Paint
+
+**This paint reflects many wavelengths of light, including radio waves,
+making it harder for sensors to pick up the object it covers. This particular add-on does
+not take up space within the suit. Cost: 1250. [Add +1D  to Sneak vs. *sensors*
+checks to locate the user.] 
+
+**Thermal Masking
+
+**This system dissipates much of the heat produced by armor, making it
+harder to see with thermal imagers. Cost: 1000. [Add +1D to Sneak vs. *sensors *checks
+to detect the** **user with heat-sensitive devices.] 
+
+**Electronic Counter Measures
+
+**This system masks much** **of the electronic signature of the armor,
+and automatically attempts to jam active radars that hit it. The system also has ESM
+capabilities, so it can detect an active radar at a 110% of the range of the radar. Cost:
+1500. [Add +1D to Sneak vs. *sensors *checks to detect the user by electronic means.]
+
+**Enhanced Strength
+
+**Usually, a power armor exoskeleton only offsets the weight of the suit
+and provides no strength bonus. This system provides the user with amplified muscle power
+for a variety of tasks. Cost: 750 per unit. [Strength is increased in +1D increments, up
+to a maximum of +3D. Each +1D unit requires one add-on space in the suit.] 
+
+**Integrated Weapon
+
+**Any holdout or sidearm class of weapon can be integrated onto the wrist
+of a suit of power armor. An energy weapon will draw off the power in the suit. Once
+integrated, the weapon can only be fired through the suit's circuitry. Cost: Weapon cost +
+10%. 
+
+**Magnetic Boots
+
+**These allow the user to adhere to a metallic surface (such as a
+spaceship hull) in zero gravity. The boots are computer assisted to allow for maximum
+freedom of movement by the user. This system can only be used with fully ENVI-capable
+armor. Cost: 375. 
+
+**Suit Integrity Micro-Preservation System
+
+**This system is designed to be used on suits with ENVI capabilities.
+When the armor suffers a major breach in one of the limbs (the armor suffers five wounds),
+a sphincter closes, amputating the limb. While this may seem drastic, it must be
+remembered that in a hostile atmosphere or in zero gravity this is the only way that a
+user may survive. [Losing a limb causes the victim to suffer four wounds - if he has
+already taken four or more wounds to the limb in question, he suffers no further damage as
+a result of the amputation.] 
+
+Included within the system are four doses of PainShield, to prevent the
+user from going unconscious. (Some people refer to both the system - and the people who
+use it - by the acronym SIMPS.) This system takes up two add-on spaces. Cost: 1500. 
+
+**Weapon Add-Ons** 
+
+The following little gizmos are slapped on to your weapon to make it
+even nastier than it was before: 
+
+**Laser Sight
+
+**These can be mounted on any heavy or personal weapon, slugthrower or
+projectile (hand grenades are out). The laser sight projects a small, coherent spot of
+light that can be seen by the weapon's user though after 100 meters, the character using
+the weapon must be equipped with binoculars or other visual aids (like the telescopic
+sight). The advantage is the character firing the weapon can see where the shot is going
+to go. The laser sight can also be used with indirect fire weapons (such as grenade
+launchers), though an indirect fire observer must be "spotting" the sight while
+the weapon holder watches. Some characters may have access to-electronic targeters that
+perform this function for them. 
+
+There are only two disadvantages to the laser sight: one, certain gases
+can refract the beam and, two, if the character uses the sight to aim*, *the target
+may see the little laser-light as well and be alerted. When using this sight to fire at
+anything other than point-blank or short range, the character must* *take an action
+to aim* *or forfeit the bonus of the laser sight. It is simply too hard to see the
+"dot" at medium or long range (or extended range) with a "quick shot."
+Cost: 100 [+1D to weapon skill if attacker takes a turn to aim] 
+
+**UV Sight & Scope
+
+**Much more expensive, this "SNS" combination is also much more
+deadly than the laser sight. The character using the weapon has a UV scope mounted on the
+weapon(or ,less likely, is wearing ultraviolet goggles) and can see the UV laser dot. No
+one else can (unless they, also, are so equipped). The bonuses are the same, but the UV
+scope can also be used to track the dot at long distances. 
+
+This sighting combination only affects shots taken at medium or long
+range (or extended range), and only if the character takes the time to aim* *the
+weapon. The character gets the aiming bonus as well. Cost:250 [+1D to weapon skill if
+attacker takes a turn to aim] 
+
+**Telescopic Sight
+
+**Only an advantage at medium or long range (or extended range), the
+standard telescopic sight is equipped to make seeing the weapon's target at those ranges
+much easier. Individual scopes are fitted to different weapons - so a weapon with a long
+range of 250 meters would have a different sight than a weapon with a 1000 meter range.
+The scope can be adjusted slightly, but the maximum range is always just a little more
+than the weapons maximum effective range. When using this sight on a weapon, the character must aim to get the bonus (though the
+character also gets the aiming bonus as well) . Cost: 75 [+1D to weapon skill] 
+
+**Gyrostabilization
+
+**This can be built into any personal or heavy weapon (except hand
+grenades) and provides synchronized stabilization for the wielder. The unit supplies that
+small amount of "extra" stabilization that often makes the difference between a
+hit and a miss. This gyro-stabilization bonus is *not *used if the character aims* *first
+- aiming provides better stabilization than the gyro can. Cost: 10% of base [+1D to weapon
+skill for weapons with recoil] 
+
+**'Quick-Draw" Holster
+
+**A favorite among would-be "gunslingers," the spring-loaded QD
+is only available for pistol weapons or melee weapons. It allows the character to get the
+gun out of the holster without experiencing the "drawing or changing weapons"
+penalties. In addition, if the character is engaged in a "quick-draw" contest,
+the character can add +1D to his or her quick draw specialization or Dexterity when doing
+so. It does not provide any special "initiative bonus" during normal combat. 
+
+Some accomplished weaponsmiths have made special QD holsters and sheaths for those
+characters interested in producing small weapons (throwing sticks, throwing knives, and
+"hold-out" pistols) seemingly from "nowhere." These holsters cost
+roughly 500% more than the standard QD, but add +2D to all *Prestidigitation *attempts
+to conceal the weapon in the holster. They have the same bonuses as the normal QD as well.
+Cost: 65 
+
+**Gas Venting
+
+**Usable only on chemical slugthrowers, gas venting reduces the recoil of
+the weapon when it is fired. Cost-. 300. [Add +2 to Firearms skill.] 
+
+**Gyrostabilization Harness
+
+**This harness allows the user to fire weapons that could normally only
+be fired from abraced position or require a tripod, including plasma lasers, medium
+repeating blasters, and some forms of machine gun. Anything larger is too heavy for the
+harness. Cost: 2500. 
+
+**Monofilament Edge
+
+**This add-on is intended for use with edged weapons. A line of
+monofilament wire is grafted onto the edge of any type of unpowered cutting weapon. [The
+wire provides a +1D to the damage bonus of the weapon.] Putting a monofilament edge upon a
+weapon costs an additional 100 credits. 
+
+**Recognition Pad
+
+**Found on many official weapons, the recognition pad is linked by either
+a palmprint DNA code, or electrical output to a single firer. If anyone else grabs the
+weapon and tries to use the weapon, the weapon will not work. These pads can be linked to
+explosive or electrical discharges to do even more harm to the person who attempts to use
+the weapon, at 25% extra cost. Cost: 250. (DNA Recog. Cost: 500) 
+
+---
+
+| [![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)<br> Weapons](WeapTableofContents.htm)  |
+| --- |
+| [![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)<br>
+<br>    Back to Shatterzone to Star Wars](../SZtoSW1.htm)  |
+| [![Image](images/17f090801bfbaf2b2c8f81fb083acbb8a635a56c8323f6f295917c305b07f6b8.gif)<br>Back
+<br>    to Source Material](../source.htm)  |
+| Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).  |

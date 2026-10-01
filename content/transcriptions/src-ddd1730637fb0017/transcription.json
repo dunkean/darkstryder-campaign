@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ddd1730637fb0017",
+  "name": "DSastromap",
+  "sha256": "ddd1730637fb00170c314bcc3d2e20a6fb23cf8a4852ecc59345317e3db1a371",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSastromap.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "dcbb84c82d31b8979aa15ef61e849fc74b2b74c3f9d3ad590d0ef38d7fc80f25",
+  "fileHashes": {
+    "book.md": "c8ab514ba41fef1922b7c1a2530e0e81cb09a737f4dc687ded558797ee067cfb",
+    "pages/0001.md": "6b7c29538aa89efb9010fb70b44934cdd1f40af1dabf31c1f298c462db4f4a36"
+  }
+}

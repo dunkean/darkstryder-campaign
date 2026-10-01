@@ -7,6 +7,20 @@
   "pdfPages": 74,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 74,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Lords of the Expanse Instant Adventures Tapani Sector WEG40147.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "bd60822fcdfccd0fa4dbfe42ec80ebd47fec0d2233c11e23d1cc6d1e48fdcda4",
   "fileHashes": {
     "book.md": "d0eb0b17b3a36955c1acddb601a7e04ab29a45ba21fe99baadfe5aac6f1a7070",
     "pages/0001.md": "0ef5c272de6aceaeb8f5b6a009b129f39023974440ab0d350d4daa6022d75cf8",

@@ -16,7 +16,7 @@ test('Every navigation view and crew detail renders without browser errors',asyn
   await import('../apps/knowledge-web/public/modules/app.js');
   for(const key of ['openPerson','openRoom','closeModal','showStats','generateRandom','roomIdByLabel','roomIdsByLabel','rand','randLocationFrom','extraRoom','renderRandomSnapshot'])globalThis[key]=dom.window[key];
   assert.match(document.getElementById('overview').textContent,/120/);
-  for(const id of ['ship','crew','hierarchy','skills','relations','droids','random','map','library','npc','faction','event','adventure','planet']){
+  for(const id of ['ship','crew','hierarchy','skills','relations','droids','random','map','library','kbase','npc','faction','event','adventure','planet']){
     location.hash=id;window.dispatchEvent(new dom.window.HashChangeEvent('hashchange'));assert.ok(document.getElementById(id).innerHTML.length>50,id);
   }
   window.openPerson(campaign.crew.members[0].id);assert.match(document.getElementById('modalContent').textContent,/Keleman Ciro/);assert.match(document.getElementById('modalContent').textContent,/Modifier ce personnage/);

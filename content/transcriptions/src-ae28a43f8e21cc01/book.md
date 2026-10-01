@@ -1,0 +1,41 @@
+# Gandle Ott Itinerary
+
+Source: `src-ae28a43f8e21cc01` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-ae28a43f8e21cc01; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+
+Gandle Ott Itinerary
+Day 1
+|0800           |Informal Breakfast with Imperial Cabinet (Lang)                                                          |
+|1000           |Declaration of Independence Ceremony: Ceremonial Mushroom Cutting (Dade)                                 |
+|1200           |Trade Guild’s Global  Organization of Interstellar Shipper’s Luncheon                                    |
+|1430           |City Tour (Duffit)                                                                                       |
+|1800           |Private Dinner at Dade’s Estate (Dade)                                                                   |
+
+
+Day 2
+|0800           |Meeting with the Noble Council Leadership (Noble Parliament leaders)                                     |
+|1000           |Meeting with the full Noble Council (Noble Parliament)                                                   |
+|1300           |Press conference with media representatives (Media)                                                      |
+|1400           |Private lunch with Lang and key supporters (Lang)                                                        |
+|1600           |Ganther dances at cultural center (business community)                                                   |
+|2000           |Mayor Duffit’s dinner Party (Mayor Duffit)                                                               |
+
+
+Day 3
+|0800           |Meeting with defense forces representatives (Dade)                                                       |
+|1000           |Flower Garden brunch (Lansel)                                                                            |
+|1300           |Meeting with Noble Council Foreign Relations committee (Parliament)                                      |
+|1800           |Theatre Dankse performance of Madra Teene (Business community)                                           |
+
+Key Players
+Vice Governor Marja Lang - Imperial Vice-Governor of Gandle Ott and a Baroness in the House Karadol
+General Herron Dade - Imperial General of Gandle Ott’s planetary militia and a Baron in House Kathor
+Colonel Olaver Lansel - Imperial Liaison to Gandle Ott and Knight in House Brakia
+Mayor Stanfeld Duffit - Mayor of Montrol City and Baron in the House Kathor
+The High Noble Coucil - Parliamentary body of Gandle Ott.
+

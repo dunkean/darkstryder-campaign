@@ -1,0 +1,40 @@
+{
+  "sourceId": "src-19ce46f7705859b0",
+  "sha256": "19ce46f7705859b0d4f6c02e7dbcdfaad4746df78be6daab367884a453942f2c",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7449,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/152689ff326ce9d69a912d4dc117daca6454177fa72f28aca7891fa6bd8e1f2b.gif",
+      "origin": "images/bazatron.gif",
+      "sha256": "152689ff326ce9d69a912d4dc117daca6454177fa72f28aca7891fa6bd8e1f2b"
+    },
+    {
+      "file": "images/6b92e4ccffe8a5b1584fea8fcebd4122c210250a6a0a53ba3089086a0e58b523.gif",
+      "origin": "images/philpic.gif",
+      "sha256": "6b92e4ccffe8a5b1584fea8fcebd4122c210250a6a0a53ba3089086a0e58b523"
+    },
+    {
+      "file": "images/051d4c44ed7a70aff2e92bd9e990b513336a75745dd08981123646dd72cea2a0.gif",
+      "origin": "images/jamiepic.gif",
+      "sha256": "051d4c44ed7a70aff2e92bd9e990b513336a75745dd08981123646dd72cea2a0"
+    },
+    {
+      "file": "images/9b8af10fdc8416f89597f0aec5869fd4fd4d34f4771c5b75233b398a3b0d7132.gif",
+      "origin": "images/malcolmp.gif",
+      "sha256": "9b8af10fdc8416f89597f0aec5869fd4fd4d34f4771c5b75233b398a3b0d7132"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

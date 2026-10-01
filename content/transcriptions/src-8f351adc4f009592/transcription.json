@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8f351adc4f009592",
+  "name": "MAKEZH",
+  "sha256": "8f351adc4f009592479a7f4cae8250d7dad4996fe9d0e51c5a008e8705890326",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/MAKEZH.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "2495d4e689d2b1c4193f56f70a760000d995d2764a74e0006803f61fa26f0f87",
+  "fileHashes": {
+    "book.md": "c1ad9a404edc267c243e85ecde24eae79d7dc5cbe31b83bc8482977bce894311",
+    "pages/0001.md": "da4d0c646ba813c479431ed85b23f6c9fd1c1fbf34839e0e56d89d56306e7806"
+  }
+}

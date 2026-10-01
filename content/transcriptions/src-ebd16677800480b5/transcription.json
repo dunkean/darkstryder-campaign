@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ebd16677800480b5",
+  "name": "SEW MY HAND",
+  "sha256": "ebd16677800480b550841770bfafba3f4621ac11f8fb55ba489139f13889fe7d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/SEW MY HAND.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ddae462b16ab5419a9ee97d85bd0a7b3c1aabf9a4b428c74bb0b8c7ae8b766ba",
+  "fileHashes": {
+    "book.md": "56e9e5107cd25cc37f56719ff47b166a92abae37362944ceb4aa5214c687456c",
+    "pages/0001.md": "967a751f440ef3e6c8af7c8555f223296fa39c2b20b02b34354fc598728f6afc"
+  }
+}

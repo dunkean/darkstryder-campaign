@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-812ccff03650d210",
+  "name": "Starfall",
+  "sha256": "812ccff03650d2102739bfc7615951265d57067e495847d2f6a010e50aac52d8",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "runtime",
+    "path": "imports/archives/5d7ce11d0f300581563306dac9a9d8b7333919aa96c841ade6987718f12159db/Starfall.doc"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/starfall/Starfall.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1465b2ea1fd2855ab0dc8c2641e43b522b97a76b9f6e3ada764cd9aee5e9ef2c",
+  "fileHashes": {
+    "book.md": "a56b7861ebef241476e6844421fd86a1638956650a9aead3b8cc499b8f1b4e75",
+    "pages/0001.md": "0361494aa3aedafd64cf8d408d47ab017f413b2742ff033fe7ec8152e6134d60"
+  }
+}

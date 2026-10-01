@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-ed47c4b13dbd2c02",
+  "sha256": "ed47c4b13dbd2c02fd83bd107ff1575f818b8574a5cae903398bf7cd8763e37d",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 5071,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/34d023bb0cd942bd333f80a0ba4cb2ff61606990cf84da068196c9e3a1c82280.jpg",
+      "origin": "images/defano.jpg",
+      "sha256": "34d023bb0cd942bd333f80a0ba4cb2ff61606990cf84da068196c9e3a1c82280"
+    }
+  ],
+  "encoding": "windows-1252"
+}

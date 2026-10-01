@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-51144a22cb38f647",
+  "name": "RonRPGs",
+  "sha256": "51144a22cb38f64719ebfdf4d7d2c0ae674a261f6a3c63f3073b5417350ab420",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/RonRPGs.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b792c057ebedf3d043c9dd1c3a53a4f8251a507c8f6e699d51ff5ad53406a38e",
+  "fileHashes": {
+    "book.md": "cc8a44f38c054ec686967996238b0dc563d13726e7e67711b45cfa746a6eef66",
+    "pages/0001.md": "85403e1898b1e9d0b331250a59ff00dfcf85893785b5926c77c9c56c2c589b99"
+  }
+}

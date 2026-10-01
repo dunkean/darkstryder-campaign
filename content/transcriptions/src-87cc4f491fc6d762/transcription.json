@@ -1,0 +1,29 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-87cc4f491fc6d762",
+  "name": "HouseCharacteristics",
+  "sha256": "87cc4f491fc6d7623bddbe7513e3360bc2d3f01741299c4d5787c6a9da966e05",
+  "pdfPages": 2,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 2,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/HouseCharacteristics.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ce8731ff5962cbd2a3f9f5d14bbbfb6f6f16161169d0a22b24106892c996492c",
+  "fileHashes": {
+    "book.md": "10d2678675958063987a8aa9966b29dd2d570f0b15056009bd90f1505c86632c",
+    "pages/0001.md": "5d137bf820fe109c81ef4403fe103ebd030fffc3feb2d08b77259eae71a57d38",
+    "pages/0002.md": "040086bd777a4661dc7db94c5644575e5e012d52cf7752edd1ab3ffb95c045d2"
+  }
+}

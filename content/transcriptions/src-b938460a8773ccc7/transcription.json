@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-b938460a8773ccc7",
+  "name": "Kathol Underground",
+  "sha256": "b938460a8773ccc7e9a441e75679ce8969d07d11e38fa8bd3df99a8249728909",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Kathol Underground.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Kathol Underground.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "14e7c1d507ce5d8f83a3a006e2d32ef6b97f3588632cc91f6a3c8f986dac2e4d",
+  "fileHashes": {
+    "book.md": "ec3d9a706ef34171e48546165ada64bc1bc35d5825fe7a879cf12f098f898330",
+    "pages/0001.md": "d3f154787896f4f4a06ace2c8855a89c5c04a1b15e4522a6b4809a0d63a5d7ae"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a6542f64db5bb287",
+  "name": "DSQUESTO",
+  "sha256": "a6542f64db5bb287b874b82126289fabce217e4cb99c2c08ea6312073a6c52b8",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSQUESTO.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "288d036ece2fbf9fdcf45375f4cf290c5d641c1ec97f0f89353bf094a8432e4f",
+  "fileHashes": {
+    "book.md": "a0191c95235b7718f8a1d6a1d052703efabb718a387e742037fe208a9f85f1e2",
+    "pages/0001.md": "13385465d1be10f95f88f72bf5663ce20d2549c7474276fcb50eeae7877223e4"
+  }
+}

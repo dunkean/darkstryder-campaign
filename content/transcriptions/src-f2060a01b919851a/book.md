@@ -1,0 +1,369 @@
+# DSSEBIRI
+
+Source: `src-f2060a01b919851a` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-f2060a01b919851a; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Battle at Sebiris - Storm Giant"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**"Traitor in Our Midst"**
+
+***"Part Two - Battle at
+Sebiris"***
+
+---
+
+Gorak stood at the bridge, staring out into the vast void of space displayed on the
+view screen, to the planet in front of them. He remembers a little about this planet, but
+not a lot to remember it for. It was a thick jungle world, mostly, with large land masses,
+marshes and a few mountainous areas. It was littered with ruins of an ancient race, one
+that doesn't seem to have any evolutionary relationship with it's current inhabitance.
+Loh'Khar remembers a trader that is known to have a cabin on this world and bases a small
+trading syndicate out of his home. This individual's name was Veild-Danol , an individual
+of a species Loh'Khar could never identify. They say he was a species older than some
+stars. He apparently had good relations with the locals and could be most useful in
+finding what they needed on planet.
+
+Gorak formed a small away team, with Kl'aal and Loh'Khar in charge. Loh'Khar made a
+quick list of ships needs and told the ships sensor-tech to scan the surface for a ship or
+a moderately modern dwelling. Soon after, the away team was en route to a spot near the
+equator, on board the assault shuttle.
+
+The away team consisted of Gunthar, who seemed to feel a calling to the surface; Drake
+and his bodyguards, Drake saying he could help in finding the plants since he had been to
+the planet before; Jenna Seedar and Raso Lao Hasslock, two who have developed a warm
+rapport, were in charge of developing the antidote; Unda the Aqualish, anxious to get in
+some ground time; Sooni, for his scouting abilities; and Cobb Unser, to pilot the assault
+shuttle.
+
+They passed over several areas of large pyramid-like temples, with large stone effigies
+of some long forgotten god at the top. The jungle seemed to be alive with thousands upon
+thousands of life forms. The sensors tracked the location of the trader to a mountain
+side, where they landed in a clearing near the cabin.
+
+The trader greeted the group warmly, and after a short time of negotiation with
+Loh'khar, the strange alien agreed to help them. He suggests that they meet with a local
+tribe of natives, and talk with the tribal mage. The plants they seek he thinks are the
+rare plants that only grow near the pyramids. 
+
+Upon meeting Gunthar, the trader stopped inquisitively. He looked up at the large
+alien, and said "Welcome back, warrior…" When he saw the blank look in
+Gunthar's eyes, he looked deeper, pulling from some inner strength, the repelled. "By
+the Maker, Sarne has done such damage to you…" He touched Gunthar's forehead.
+"There, the damage will heal over time." 
+
+Gunthar's mind slowly cleared, and suddenly, he felt different.
+
+"We are going to have go over land to the tribal lands. They trust me, so we can
+take my repulsor truck. Not many, though. The rest can stay and wait." . 
+
+Cobb Unser stayed back to help maintain the ship, along with the bulk of the security
+detail.  Danol had traded with Loh'khar, supplies for some rare artifacts from Aaris.
+  Many of the specialized needs would be satisfied with these supplies.  Unser
+and the security team would be busy loading those supplies on the assault shuttle.
+
+****
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/sebiri.jpg]
+
+The trek was long and hot, the jungle unrelenting to the strangers.  The world had
+strange air about it.  This world was just another backwater world, but there was a
+feeling of ultimate destiny in the air.  Gunthar especially felt something.
+
+They reached a clearing, much to there relief, which opened up to a small village, with
+mud/grass huts and natives milling about.  They greeted the trader with warmth and
+trust, but were wary of the strangers.  
+
+There was several hours of negotiation with the aliens, who seemed to claim the temple
+as their holy ground.  No non-sebiri were allowed up there.   Danol and
+Loh'Khar both negotiated while the others waited.
+
+The Sebiri seemed to take an interest in Gunthar, almost treating him with reverence.
+  A small group of what seemed to be holy men started chanting and dancing around the
+tall, dumbfounded alien.  Not realizing what was going on, he decided to join them.
+  
+
+"Welcome back, great warrior."  The bowed and produced a ornate jeweled
+sword.
+
+"Ooooh....pretty"  Gunthar grunted. He took the sword, totally
+bewildered by this. Something in the back of his mind told him it was his.  It seemed
+to hum when he gripped it. 
+
+Danol got the Sebiri to concede and allow them to travel to the temple, as long as they
+did not remove or use their modern weapons in the vicinity of the temple, and they walked
+to the temple, and not use any modern equipment to make the
+"pilgrimage". They all agreed and  started off 
+
+The trek to the temple seemed to be worse.  The jungle was thicker, and more
+"predatory". Thorns and vines made the journey more difficult.  After a
+full day of hiking, the reached the edge of the valley where the largest of the temple
+sat.   From the top of the hill they were on, they could view one huge temple
+surrounded by four smaller ones. The ground seemed to have odd shapes and patterns carved
+into it.   IT was an eerie site, in the pre-dusk light.  In the morning, they
+would hike down the slope into the valley.
+
+While Gunthar slept, he heard voices in his mind.  He didn't recognize them, and
+so much had changed for him, that he wasn't sure what it meant.  The voices told him
+that he had reached one of his destinies....
+
+"You must stop it, guardian.  The Heart of the Trigger is here, and soon the
+Storm will ride and bring destruction to this universe.  The giants sleep now, but
+they will awaken when the Trigger is complete.  Stop the awakening,  destroy the
+trigger...  The Heart is in the one called the Wraith. To find him, you must pass
+three tests, and beyond the Trigger will await."   In his mind he saw the
+temple they were headed towards.
+
+"StormGiant is here..."  he woke screaming.  But no one heard him
+over the blaster fire.
+
+The camp awoke to the sight of a dead Sebiri.  It was the chief's personal
+medicine man and high priest. The Sebiri were not happy.  Not only was one of their
+own kind dead, but they violated the agreement.  But who?  The search turned up
+one man missing...one of Drake's bodyguards.  He was the Wraith... right under
+Drake's nose.  The frustration in his face contorted his face to almost alien
+proportions.
+
+"He's mine...!!!!"  Drake said.    
+
+The Sebiri were out numbered and out gunned, so they left the group, promising to
+return, with help.  Their final words were.."We will go to war with your people
+now..."
+
+They had bigger things to worry about.  If what Gunthar said was true, the Trigger
+is here, and in that Temple.  It also means that have been lead here by the Wraith
+all along.  Using the poison from this planet was just a ploy to get them to
+transport him there. With no further choice, they hastily marched towards the temple.
+
+*****
+
+On the bridge, Thyte felt uneasy.  He was very familiar with space and it's
+silence.  But it seemed almost too quiet.  Breaking that silence was a crackling
+voice across the comlink "Samarion to Bridge, something's dropping out of hyperspace.
+  Four ships, Imperial design..."  
+
+The Starwolf seemed to have a knack for "feeling" the currents of hyperspace.
+  He hadn't been wrong yet.  Thyte prepared the ship for battle.  The
+carrier and her friends were coming back to finish the job.
+
+******
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/temple.jpg]
+The Temple was ominous and  foreboding.  There was no sign of the
+Wraith, other than the dust he disturbed while entering the temple.  His tracks lead
+to a wall inscribed with odd hieroglyphics, and end.  The wall was a door, and the
+hieroglyphics were the key.  Who could translate the writing though?  
+
+Gunthar peered intently at the stone figures and characters. "I know this.  
+It's a test... a challenge, a...puzzle."  *Three challenges...*
+
+This was not going to be easy.
+
+*****
+
+The Imperials dropped out of hyperspace; one escort carrier, slightly wounded, but full
+of fighters; one strike cruiser; one assault frigate; and a Imperial class Star Destroyer
+- the ISD *Obliteration*.  The ships launched their fighter immediately and
+engaged the already launched New Republic fighters.  The battle at Sebiris had
+started.
+
+Samarion didn't feel right though.  Something in hyperspace was stirring but he
+could not identify it. He felt this once before... on Aaris.  The last time, it was
+some kind of hyperspace cloaking device used by Ned'Lx.  Maybe he was coming back.
+  Last he remembered he was heading back to Aaris with a heavily modified medium
+transport.  If it was him, what was he up to?  Had his obsession for Darkstryder
+lead him along the same path the Farstar took?  He knew at least he had to warn the
+bridge...
+
+"More company, in bound.  I think it's going to be a medium
+transport..."
+
+*He thinks?* thought Thyte. *He's never been unsure before.*
+
+Seconds later, a ship vaguely resembling a medium transport drops out of hyperspace.
+  As soon as it became stationary outside the heat of battle, it began to drop
+pod-like vehicles onto the planet.  Sensors picked up life signs in the pods.  
+
+"This message is for my good friend Bifzik.  If you can hear me, Bifzik, this
+will be the last thing you will hear...  I have my army now, and I will learn the
+ultimate secret I the universe.  And you will die  Meet my friends from Aaris.
+  They were savage mindless beasts when you first met them, but they are my slaves
+now."  
+
+The Aarisian mutant creatures... a genetic merging of the blood of fallen warriors and
+alien victims who were caught in-between; warriors of a ancient war between the Starwolves
+and the Mandalorians, and civilians of a semi-hive minded race.  They were merged by
+alien technology, creating a mindless creature of incredible rage and power.  to
+control them was to control an army of incredible strength.
+
+Bifzik, enraged that his rival dared taunt him, worked hard to find a kink in Ned'Lx's
+armor.  *The pods were linked by a nav-network, probably linked to some kind of
+automated strategy system.  Perhaps his error lies in there...  he always has an
+error... *The swarm of strange pods began to rain down on the planet.  The stakes
+of this battle was just raised.
+
+*****
+
+The Imperial did not know what hit them on the planet.  They had sent down a large
+force, including AT-ATs and AT-STs, along with repulsor tanks and troops.  However,
+when the alien death rained from the sky, the tide of battle was definitely changed.
+  Nothing to these creatures was an ally.  Loh'Khar and his group had to get out
+alive, somehow.  
+
+The tests were not easy, and took several minutes at times to figure out.  Once
+they were through, the walked into a vast courtyard, the center of the Temple.  On a
+dais was a throne, and leading to this dais were stone walkways.  Above the throne
+was a large inverse pyramid, pointing straight down at the throne.  A strange hum was
+emanating from somewhere.  
+
+The Wraith sat in the throne, in convulsions.   Blood was trailing from his
+mouth, and he did not look conscious.  Something was forcing its way through his
+chest. Tendrils were reaching out, and attaching to the structure above.  An alien
+wail came from within the Wraith's chest.
+
+*The Trigger awakens... *Gunthar heard in his mind.
+
+*****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/swship.jpg]
+The battle raged on the ground and in space.  Bifzik managed to find a
+hole in the nav-net programming, and programmed a large portion of the pods to re-direct
+towards the Imperial Star Destroyer, and Ned'lx's own ship.  The Imperial ships were
+pounding on both the Farstar and Ned'Lx's medium transport.  The fighters were
+tangled in a viscous dog fight.  
+
+Samarion suddenly felt something oddly familiar enter hyperspace nearby.  And it
+was dropping out in the heat of their battle..."More company..."  
+
+It was a full size Starwolf Carrier.   Friends had finally arrived.  The
+Starwolves began to immediately deploy to the surface, to battle Ned'Lx's forces.  
+Thousands of Aarisian mindless  super-mutants versus trained viscous battle-armored
+Starwolves.  An epic battle for an epic time. One could only feel sorry for the
+Imperials who were caught in the middle.
+
+The Imperials were doing their best to hold their ground, while the evacuated to their
+shuttles.  Against orders, they intended to abandon the mission.  Even if it
+meant being captured by the New Republic, it was better than be shredded by the beasts
+they were now facing.
+
+******
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/trigger.jpg]
+The Creature that immerged from the chest cavity of the Wraith was a large
+sphere with several dozen tendrils twisting and slithering through the air.  It was
+pulling itself up towards the inverted pyramid in the ceiling, and growing larger as it
+did.   The tip of the pyramid opened up as it drew near.  The hum was growing
+louder.   The sword on Gunthar's back began to vibrate in tandem.  Gunthar drew
+it, and saw it was glowing.  The group open fire on the trigger, already alerted of
+its significance.  Gunthar, with only his sword as a weapon, charged the sphere.
+  With a great heave, Gunthar lofted the weapon into the air, at the sphere.
+
+*****
+
+Cobb Unser was already in the air when his sensors picked up the Imperials in orbit.
+  He was in the middle of another supply run when the 4 ships began their attack run
+on the *Farstar*.  He then shifted his attention to finding his passengers and
+getting them back to the Farstar...  if it was still there.  After several
+minutes of searching, his sensors picked up a massive energy build up in some ruins.
+  He steered the shuttle in that direction.  That had to be them.
+
+*****
+
+Loh'Khar and his companions all were unloading their blasters into the sphere.  It
+was frantically flailing about, picking up or spearing people with it's tendrils.
+   The sword had penetrated the sphere deep, with only it's hilt visible.  
+Energy streams were arching all over the chamber, creating another hazard.   The
+resonance was now irregular, as pulses of energy exploded from an expanding fissure in it
+side.  Fires were starting in random places around the chamber.
+
+Gunthar was thrown down from the grip of one of the tendrils, as an explosion of power
+empathic energy surged in his head.  The sphere was building up energy, out of
+control.  They had to get out of there. He looked up the shaft the sphere was headed
+through and saw a familiar shape... the assault shuttle, hovering over the top of the
+temple, preparing to fire it's cannons at the sphere.  
+
+"We must leave NOW!!!!"  Gunthar screamed with his booming voice.  
+He stood up, grabbing the nearest fallen comrades (Loh'khar and his three Turazza). 
+
+A pulse of energy knocked them all down as  they ran for the exit.  Walls
+around them were crumbling. Gunthar looked up to see Danol screaming something, waving his
+arms.  The sound of the sphere self-destructing was too loud to hear. He heard the
+cannons of the shuttle fire, then a bright flash.
+
+*****
+
+Cobb was unaware that the sphere was already building up a lot of energy and preparing
+to self-destruct.  His cannon fire only added to an already huge energy build up.
+  Once he saw his cannon fire absorb into the now glowing sphere, he pulled the
+shuttle away, and looked for his comrades.  They were no where to be scene.  
+Sensors were screaming at him to get away from the temple, but he could not leave without
+them.  Then he heard something that was not an alarm... *"Leave.   We
+will follow shortly..."  *It was the voice of the trader, Danol.   It
+reassured him that his crew mates would be fine.  He pulled the shuttle to a vertical
+incline, and threw the engine on full. 
+
+In the middle of the chaotic swarm of the Aarisian creatures and the Starwolves
+battling it out around the temple, a bright flash interrupted the fray. Hundreds of
+Aarisians and Starwolves were caught in the explosion, as the Temple disintegrated in a
+flash of alien energy.  After a pause, the remaining survivors continued their
+battle.
+
+The creatures were a mutation of three creatures.  The shard on Aaris merged the
+bloods of the fallen from the Battle of Aaris millennia ago.  The starwolves were
+battling a mutation of three creatures, on of them being their own race.  This battle
+was soon going to turn for the worse.
+
+*****
+
+The battle in space turned to an out-of-control blaze.  The Imperial Star
+Destroyer, outgunned greatly, fired it primary batteries at the carrier.  The
+carrier, returned fire at a fraction of what it could appear to return.  *Farstar's*
+sensors picked up an energy surge within the carrier.  They were re-routing all
+weapon power to one area, but what was it?  A bright flash came from a spinal-mounted
+column of the carrier. A fraction of a second later, the destroyer was gone.  The
+carrier turned to face the other Imperials and Nedl'Lx's ship, who began to turn to
+retreat.  Before they could exit to hyperspace, all but one, the escort carrier, were
+vaporized in seconds.  
+
+The space battle was one, but the *Farstar* was heavily damaged.  Once
+Samarion was able to contact the carrier, the starwolves graciously offered dry-dock
+privileges to the Farstar.
+
+"We are heading to Aaris, to retrieve a lost ship of ours.  On the trip, you
+can perform repairs with our engineers help."
+
+*****
+
+Cobb steered the shuttle towards orbit once he regained control of it.  The
+explosion knocked out a few systems, but nothing vital.  Smoke filled the cock pit,
+and a few of his flight crew lay unconscious in the cock pit.  He looked back in the
+bay to check for any breaches before he hit space.  He was surprised to find Danol
+and the others laying unconscious on the floor of the cargo area.  Danol was in
+serious shape, his life-signs fading.  The others were only minorly hurt, except for
+a few horrid puncture wounds as if they had been speared by something.  He performed
+immediate medical attention on the more serious cases, while wondering how they were able
+to get on board without him landing. He looked at Danol, and wondered...*Teleport???.....
+Naaaaaa.*
+
+*******
+
+The* Farstar *collected  crew it's wayward and boarded the Carrier before
+it jumped into Hyperspace towards Aaris.  The Starwolves abandoned all hope of
+defeating the Aarisian creatures on the surface and pulled back, collecting the surviving
+Imperials as they did.  Aaris awaited them, as did their destiny.
+
+---
+
+[Previous](DSGaltea.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSGaltea.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSSanctuary.htm)
+
+[[Image locale absente : ../../icons/timeline.gif
+Back to Timeline](DStimeline.htm)

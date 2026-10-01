@@ -1,0 +1,147 @@
+# a_c_list
+
+Source: `src-aa9b4c975477db23` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-aa9b4c975477db23; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Advrantages & Compensations List
+
+---
+
+**The
+    Advantages **
+
+**Advantage**
+**Point Value**
+
+[**Alien or Special
+        Abilities**](background_advantages.htm#Alien%20or%20Special%20Abilities)
+
+[Special Abilities](background_advantages.htm#Additional%20Special%20Abilities)
+1-5
+
+[Psionic Powers](background_advantages.htm#Psionic%20Powers)
+5-10
+
+[**Knowledge**](background_advantages.htm#Knowledge)
+
+[Contacts](background_advantages.htm#Contacts)
+1-4
+
+[Cultures](background_advantages.htm#Cultures)
+1-4
+
+[Secrets](background_advantages.htm#Secrets)
+1-6
+
+[Supranormal Knowledge](background_advantages.htm#Supranormal%20Knowledge)
+3
+
+[Latent Abilities](background_advantages.htm#Latent%20Abilities)
+1-5
+
+**[Material Gain](background_advantages.htm#Material%20Gain) **
+
+[Cybernetics](background_advantages.htm#Cybernetics)
+1-5
+
+[Equipment](background_advantages.htm#Equipment)
+1-5
+
+[Patron](background_advantages.htm#Patron)
+1-3
+
+[Ships](background_advantages.htm#Ships)
+3 or 6
+
+[Wealth](background_advantages.htm#Wealth)
+2-5
+
+[**Numbers**](background_advantages.htm#Numbers)
+
+[Increased Attribute Points](background_advantages.htm#Increased%20Attribute%20Points)
+3
+
+[Increased Attribute Limit](background_advantages.htm#Increased%20Attribute%20Limit)
+2
+
+[Increased Skill Pips](background_advantages.htm#Increased%20Skill%20Adds)
+1
+
+[More Force Points](background_advantages.htm#More%20Life%20Points)
+5
+
+[**Quirks, Perks,
+        and Oddities**](background_advantages.htm#Quirks,%20Perks,%20and%20Oddities)
+
+[Authority](background_advantages.htm#Authority)
+1-3
+
+[Fame](background_advantages.htm#Fame)
+1-3
+
+[Good Luck](background_advantages.htm#Good%20Luck)
+1
+
+[Law Enforcement](background_advantages.htm#Law%20Enfomement)
+2-4
+
+[Money Management](background_advantages.htm#Money%20Management)
+1
+
+[Noble Birth](background_advantages.htm#Noble%20Birth)
+3
+
+[Trademark Specialization](background_advantages.htm#Trademark%20Specialization)
+1,2
+
+[Personality Quirks](background_advantages.htm#Personality%20Quirks)
+
+1-3
+
+**The
+    Compensations **
+
+| **Compensation** | **Point Value** |
+| --- | --- |
+| [**Age**](background_compensations.htm#Age) |  |
+| [Elder](background_compensations.htm#Elder) | 1-4 |
+| [Youth](background_compensations.htm#Youth) | 1-4 |
+|  |  |
+| [**Alien**](background_compensations.htm#Alien) |  |
+| [Alien Prejudice](background_compensations.htm#Alien%20Prejudice) | 1-5 |
+| [Xeno-Flaws](background_compensations.htm#Xeno-Flaws) | 1-4 |
+|  |  |
+| [**General Compensations**](background_compensations.htm#General%20Compensations) |  |
+| [Advantage Flaw](background_compensations.htm#Advantage%20Flaw) | 1-5 |
+| [Attribute Limitations](background_compensations.htm#Attribute%20Limitations) | 1 |
+| [Handicap](background_compensations.htm#Handicap) | 1-5 |
+| [Skill Limitations](background_compensations.htm#Skill%20Limitations) | 1-5 |
+|  |  |
+| [**Mental Limitations**](background_compensations.htm#Mental%20Limitations) |  |
+| [Amnesia](background_compensations.htm#Amnesia) | 2-4 |
+| [Language](background_compensations.htm#Language) | 1-2 |
+| [Personality Flaws](background_compensations.htm#Personality%20Flaws) | 1-4 |
+| [Psychosis](background_compensations.htm#Psychosis) | 1-2 |
+|  |  |
+| [**Social Compensations**](background_compensations.htm#Social%20Compensations) |  |
+| [Bigotry](background_compensations.htm#Bigotry) | 1-3 |
+| [General Prejudice](background_compensations.htm#General%20Prejudice) | 1-5 |
+| [Criminal](background_compensations.htm#Criminal) | 1-5 |
+| [Debt](background_compensations.htm#Debt) | 1-5 |
+| [Enemy](background_compensations.htm#Enemy) | 1-4 |
+| [Pursued](background_compensations.htm#Pursued) | 1-5 |
+| [Reputation](background_compensations.htm#Reputation) | 1-4 |
+
+---
+
+[Back 
+![Image](images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif)](background_compensations.htm)
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Forward](d6_appendix.htm)
+
+[Back to Star Wars Advantage/Compensation System Main](index.html)

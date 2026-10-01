@@ -1,0 +1,36 @@
+# DSCalendar
+
+Source: `src-588ddc84aa3dd64d` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-588ddc84aa3dd64d; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Ron's Star Wars: Darkstryder Gaming Schedule
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**Ron's Star Wars: Darkstryder
+    Gaming Schedule**
+
+***Last Updated: webbot
+bot="Timestamp" startspan S-Type="EDITED" S-Format="%m/%d/%y" 10/16/98webbot
+bot="Timestamp" i-checksum="13909" endspan ***
+
+---
+
+| **Game Dates** |
+| --- |
+| November 7, 1998 (Last session!!) |
+|  |
+
+---
+
+|  |  |
+| --- | --- |
+| [![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)<br>Back to Darkstryder Main](homepage.html) |  |
+| [![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)<br>Back
+<br>    to Darkstryder Archives & Reports](DSplayer.htm) |  |

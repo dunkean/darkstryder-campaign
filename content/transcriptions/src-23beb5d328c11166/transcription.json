@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-23beb5d328c11166",
+  "name": "DSENDGAM",
+  "sha256": "23beb5d328c111664615f8e45c5ebf8d601fcc9e78f63f6d189b6ec55bca3a75",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSENDGAM.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "af47e12923cc98492d795f65f049f55b871269a5435b1a3e7702c76e39f1f219",
+  "fileHashes": {
+    "book.md": "929158d9e9eaab86803a09a8bf2c8c872ebb1b69e2162fcecdde37faea6ff997",
+    "pages/0001.md": "9dc2e38e6efe9d856a3cb4d003608a7d890f3845bb92a723ee27651c0d2fd20e"
+  }
+}

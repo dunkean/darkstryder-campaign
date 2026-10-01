@@ -1,0 +1,29 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ebbb3791e4f8e749",
+  "name": "7536_Contribution_id_7536_Argot_et_expressions_usuelles",
+  "sha256": "ebbb3791e4f8e749de4d42182909cc14c2cd8b9b21d78cc7bf0c7d62fa34d7a8",
+  "pdfPages": 2,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 2,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/7536_Contribution_id_7536_Argot_et_expressions_usuelles.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e3383ee2cd14e471703ed4a48278aedf19987d4054f1fe5ab2da0f395f196594",
+  "fileHashes": {
+    "book.md": "bfff709d9af70e87d1c72e0c0e36ddd07ca3488719fa8608ed7fdae6917e193e",
+    "pages/0001.md": "23057da3d66495dae879833ec94ba4a174e798a16d110bcaf6af118e8d8b393d",
+    "pages/0002.md": "9ee8cfe92c0b8c4b71c4eb972d0d2c825ff2487a4300a029a5205932b88c4e05"
+  }
+}

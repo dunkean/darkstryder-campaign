@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-5ddd7936e6477e3c",
+  "name": "VALLENS",
+  "sha256": "5ddd7936e6477e3c75f99a4cf8d87239353113cd786496b65e7b583c77010e87",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/VALLENS.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "42eb0a3c1b2773ff108a3f613872576b74d83e78978c50ba555b2552e32230ee",
+  "fileHashes": {
+    "book.md": "a2acc94870709ab18bdb4d03a68c7a07aea789375e9900bfae114ce9a8691f27",
+    "pages/0001.md": "a8676f0ca712bfa335bf567a6bce0989eda64f177d58a32011596a978d07f2ac"
+  }
+}

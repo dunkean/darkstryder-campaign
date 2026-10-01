@@ -1,0 +1,47 @@
+{
+  "sourceId": "src-aa33040c833d0167",
+  "sha256": "aa33040c833d0167c62a7b1ff373ffe5b92bb182fdec6ff7b6ef34977b395d08",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2411,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif",
+      "origin": "images/nricon.gif",
+      "sha256": "cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

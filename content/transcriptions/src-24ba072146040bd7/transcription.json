@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-24ba072146040bd7",
+  "name": "ROF",
+  "sha256": "24ba072146040bd778bf9ab8ffb25d79da733e85ae02f98d9e3130c9182df829",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ROF.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "95866d6d40bfcdd8aabe81632425da3c745c32e10e3b9872ba02ae5272782f7d",
+  "fileHashes": {
+    "book.md": "50e0c118ddc451d8aee7c8bd36d93a94e8431781e4c9ab72398efbc797ed60ec",
+    "pages/0001.md": "cf90ee56e91b701a29bbcd2c93c98a0faef0f5d2076e766a6267de136f7b459e"
+  }
+}

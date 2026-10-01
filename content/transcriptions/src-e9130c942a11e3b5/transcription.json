@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e9130c942a11e3b5",
+  "name": "DSSebiris",
+  "sha256": "e9130c942a11e3b5161a5463e815d0750dc70eda0079bc36ced34685f1fa445e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSebiris.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ee3d4717bd4bf61e3f8e5224af7ea85464cb2db12c20389bcadf085359e5b8bc",
+  "fileHashes": {
+    "book.md": "e8d3d55427f5f08d055c3b8a379b148427a706c460c4b23305fd86e45107e12d",
+    "pages/0001.md": "eb93b2e2312b56d994c0710f80717129b1d70bc233b6e6d1b0e6965de8438935"
+  }
+}

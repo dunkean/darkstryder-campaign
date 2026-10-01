@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f8884f3b57433aa6",
+  "name": "DSEndGameAsunder",
+  "sha256": "f8884f3b57433aa6b6f1724adf5b04c2a899acbbc37c2797f67b287fae8edd78",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEndGameAsunder.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "842970204c3651cbb14dafb3c65053fef48c3d916e0cb4ca22c571a00f54367f",
+  "fileHashes": {
+    "book.md": "bef2dec23c1e18ede991b214bc5a526d50d9b46a35b955c4fa7f471e89d9f389",
+    "pages/0001.md": "301955f64dffb542168203075a8a2ba1a45e75090651bfcd432b1031f8b92050"
+  }
+}

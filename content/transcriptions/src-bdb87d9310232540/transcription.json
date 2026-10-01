@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-bdb87d9310232540",
+  "name": "DSVIRUSO",
+  "sha256": "bdb87d931023254023472463c7b83ef4580fe63bc883f6720f032c43c887abc0",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSVIRUSO.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4e0334d16463ca53e568dd4f55fc10e491965ced7fad0021a6b663284a658758",
+  "fileHashes": {
+    "book.md": "8a00eeae1d551e8ff5240e552a0803f7f47a4382dcc19f6d989e5d0c8021ef26",
+    "pages/0001.md": "9a3986e69a94487611c8a963bb1e3d802f83ba6985ba76abeee7577b83aaea64"
+  }
+}

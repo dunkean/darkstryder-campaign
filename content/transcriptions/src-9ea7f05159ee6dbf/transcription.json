@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9ea7f05159ee6dbf",
+  "name": "success_chart",
+  "sha256": "9ea7f05159ee6dbfdfd0ccdad8004e6befc662d42890d85a772574ab0b591b88",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/success_chart.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a9a196215247b4657400a41397d1730a69cbd34c5143aeacf3c3f9ade9c3e447",
+  "fileHashes": {
+    "book.md": "3c39228376d0ea7c74e979b7d0de4e3d8e25c30bdbfd28316d8aff464b12b0ac",
+    "pages/0001.md": "336e3566eec4eb50c9c72946ae33ef0bbadb0bc78dcf91a3fc636b8a2534a7ae"
+  }
+}

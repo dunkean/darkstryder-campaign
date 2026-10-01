@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-65a5bf99c8f40ca4",
+  "name": "weg_erratta1",
+  "sha256": "65a5bf99c8f40ca4ca94fdcfb255c4e1e4b7635a3f08c0223b32395a26f9f1f1",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/weg_erratta1.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "32475e7fcba4f5483895509a5a5acae6668a458120244810cfc3a9d70142acb8",
+  "fileHashes": {
+    "book.md": "bd775f3efe44e43715408dd42c26ebb534b6c3a02d524259f03c67209946ff85",
+    "pages/0001.md": "9732f2ea88f85e788cfd5a6d0cf59f44f598638ca7baef4db5ed5531b830d9dc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-790856ac833af82e",
+  "name": "OUTR",
+  "sha256": "790856ac833af82e6d73efe7f4e9aa1e54e318a048ca91b3d7653f8baaba35b3",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/OUTR.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fd5e421ba17ac0c3d58116f12ebbf5fe305cc61511161c60ae0d6d2fe38a211e",
+  "fileHashes": {
+    "book.md": "7aa5aef19e926e099f71e15830cecaddd2ef25e3b13671cd4be9b38b222d27b6",
+    "pages/0001.md": "76869b1a65f35e280373673bba0e9b7b164b5d2f27e6a1b98de41542fe75c710"
+  }
+}

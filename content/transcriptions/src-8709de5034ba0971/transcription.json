@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8709de5034ba0971",
+  "name": "SWSZArmor",
+  "sha256": "8709de5034ba0971e50372efa0ac03e203c6e1284910a5448df199d3ba895096",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/SWSZArmor.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f20cadbf1e5779e3b11f650ccaad7a72236d64eaadfd9c01b1af8bfd3ca0775c",
+  "fileHashes": {
+    "book.md": "01f878b2d133a58405e90e723bdcf6ea0697371ac9b6f45469d3d53ad3f64711",
+    "pages/0001.md": "319ee0e2891bf5483f0150651d4b09e893a411b8481b134e4cca06b3c0a6abc8"
+  }
+}

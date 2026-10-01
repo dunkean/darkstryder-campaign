@@ -7,6 +7,26 @@
   "pdfPages": 50,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 50,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide.pdf"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide.pdf"
+    }
+  ],
+  "collections": [
+    "sourcebooks",
+    "guides-rules"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "5fe06bcdc705aae5995e8877ab65ac7ba7058c330797e88d256f43101fa1df62",
   "fileHashes": {
     "book.md": "8eccbda55561416a1197da06010ec063274d8c697b85ee7366c8c95bfffd9f53",
     "pages/0001.md": "a7c718f8936018bbc3de71f0bf05436d94bac0f13f996f8db488ec0dbfcc0d16",

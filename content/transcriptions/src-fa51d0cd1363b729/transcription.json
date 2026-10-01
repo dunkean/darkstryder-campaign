@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-fa51d0cd1363b729",
+  "name": "DSPEMBRI",
+  "sha256": "fa51d0cd1363b729b8f9c549fd747f259158ae3d5a1cd7cd02aa9bd2feecfc04",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSPEMBRI.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e18b0bb7829ca7d05cfbe8f64220d84afc48f7847beeafb3499e8da3f04e3a99",
+  "fileHashes": {
+    "book.md": "6a7785585534974b53f778860f199f7634e5588cf6c9bd748ee59667f180eeee",
+    "pages/0001.md": "2981a92393cd37526f44864e254fd1a853980e00bff0c666bddfbb292e0975eb"
+  }
+}

@@ -7,6 +7,20 @@
   "pdfPages": 147,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 147,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/Adventure Journal 9.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "1aa2d48983862c03d880347ce123609b2f9b16200f884ba815ac57e5daaba785",
   "fileHashes": {
     "book.md": "00ef1c9456f71e79880c2c7350f147950b35b7080448e80f9609b1968c130340",
     "pages/0001.md": "bb03e407c9f484598733de75e5b6892424f2aaead4883f8132dae238d453f8d7",

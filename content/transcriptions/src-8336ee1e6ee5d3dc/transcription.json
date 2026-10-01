@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8336ee1e6ee5d3dc",
+  "name": "writers",
+  "sha256": "8336ee1e6ee5d3dc13d6bfe68e1bc16d0f770d9f6387a775ca21d46230eb493d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/writers.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1c89eb2a5193a1cae4381c42fc32e5b597a1c42aa31e866a0d81dc5b3ac87521",
+  "fileHashes": {
+    "book.md": "8ece49c70c12984fff65efb2bdbd8b5f48c3c9127a1b833ad9cafd56bf31c979",
+    "pages/0001.md": "c72f3ed8c8a9c998713a7f538d1568bbe91f70d117bb114255e9decd47aa4b7b"
+  }
+}

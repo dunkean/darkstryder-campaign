@@ -30,7 +30,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-935ba6e90fc4bddc7d3b289d"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "1d6de4cd5c3bd6d9c7a4776252090bd698991bc317d12476b694fba34f7c4c9e",
+          "kbaseId": "kb-935ba6e90fc4bddc7d3b289d",
+          "name": "Kal'Shebbol",
+          "summary": "Capitale du secteur de Kathol, colonisée par des Twi’leks fugitifs puis transformée en centre du pouvoir de Sarne.",
+          "content": "### Colonisation et société\nDes esclaves twi’leks évadés s’installent quatre siècles auparavant sur les plaines humides. Ils développent agriculture et élevage des chollas. Les nouveaux arrivants doivent être adoptés par un clan ; le relais commercial devient une grande place de négoce. Sa proximité relative avec l’espace républicain motive son choix comme capitale.\n\n### Empire et libération\nLes préfets impériaux remplacent l’autonomie des clans et cités. Sarne nationalise les industries, contrôle les déplacements et réprime les cultures. Au début de la campagne originale, la gouverneure elomin Monjai construit un gouvernement provisoire et une défense à partir des moyens survivants ; l’arrivée d’une flotte républicaine est annoncée, pas déjà réalisée.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            102
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-brolsam",
@@ -61,7 +82,29 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-a86d127ee8c367c745ce9db2"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "43100e331f50ca9662a5145c61f3747373b1d4104f3fe4da27f27b30ae081fc7",
+          "kbaseId": "kb-a86d127ee8c367c745ce9db2",
+          "name": "Brolsam",
+          "summary": "Monde agricole proche de Kal’Shebbol, mais éloigné de la grande route et faiblement peuplé.",
+          "content": "Le livre indique environ quinze millions d’habitants répartis à peu près également entre Humains, Rodiens et Fefze. Les Fefze participent largement au développement agricole ; festivals, sculpture et chant ont attiré une communauté artistique.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            102,
+            103
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-torize",
@@ -92,7 +135,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-5f5c41f518b0748ce2d52896"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "a37ab0aee423c599ee457ad97616d242125de17fb38bfa45706cad4d6cc05f1d",
+          "kbaseId": "kb-5f5c41f518b0748ce2d52896",
+          "name": "Torize",
+          "summary": "Monde industriel majeur de la route Trition, marqué par le volcanisme et une catastrophe industrielle.",
+          "content": "La population est donnée à 1,5 milliard au début de la campagne. L’atmosphère de type II justifie des masques respiratoires ; activité volcanique et polluants libérés trois ans auparavant la dégradent. Stations orbitales et astroports soutiennent les échanges. En retraite, Sarne renforce sa flotte avec des appareils de la défense planétaire.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            102
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-aaris",
@@ -123,7 +187,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-7e00e85b49c725dbf3618cd6"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "0019680d1553f4f091b905f2e095e210e5a043942570f33bd08bc8c5b6145442",
+          "kbaseId": "kb-7e00e85b49c725dbf3618cd6",
+          "name": "Aaris",
+          "summary": "Système éloigné non colonisé ayant reçu au moins une expédition scientifique.",
+          "content": "Le dossier introductif renvoie à Artifact of Aaris pour développer l’expédition et les découvertes. Le nom du système n’autorise pas à attribuer automatiquement toutes ses données à un monde précis.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            103
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-kolatill",
@@ -154,7 +239,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-4cc91f3fb71b63fae93560e5"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "508c38395297641be9fc9b1a4057c4ebff874a396412c6bad736a9edc7628d3b",
+          "kbaseId": "kb-4cc91f3fb71b63fae93560e5",
+          "name": "Kolatill",
+          "summary": "Centre de fabrication de répulseurs sur la route Trition, important pour les véhicules terrestres et atmosphériques.",
+          "content": "Le monde compte environ 400 millions d’habitants et a subi la loi martiale de Sarne. Son industrie présente un intérêt stratégique pour la Nouvelle République. L’aventure Omens développe sa situation.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            102
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-charis",
@@ -185,7 +291,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-9d8164bcb6ab0be92fe6e33c"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "5e6e605b8d15945b91670107f2825cd7ad9532af57b64eae8df28e2f4c20fa6d",
+          "kbaseId": "kb-9d8164bcb6ab0be92fe6e33c",
+          "name": "Charis",
+          "summary": "Monde industriel et informatique dont le soulèvement contre Sarne a été écrasé.",
+          "content": "La population, proche d’un milliard avant la répression quatre ans auparavant, est évaluée à environ 850 millions. Des villes sont devenues des ruines bombardées. Des sympathisants républicains seraient prêts à une nouvelle révolution, mais attendent des encouragements : il s’agit d’une possibilité, pas d’une libération accomplie.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            103
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-corjain",
@@ -216,7 +343,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-5e371006aef31309216d3822"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "8857541c0a6b2b5c32fddf14d2d627b6a0fc8bd89e9e71995f11edf1650bbb14",
+          "kbaseId": "kb-5e371006aef31309216d3822",
+          "name": "Corjain",
+          "summary": "Monde minier riche en métaux mais doté d’une atmosphère toxique, habité dans des complexes souterrains.",
+          "content": "Les communautés twi’leks, jarells et svivreni exploitent des mines dangereuses et lucratives. Secret MJ : un poste d’écoute bothan surveille le FarStar et le gouvernement de Kal’Shebbol sans que la Nouvelle République le sache.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            104
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-oon-tien",
@@ -247,7 +395,29 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-87b4a4ca49ea651202c13b2a"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "33b4a796163a3e03c5e9fecabbdd574e7f47b7381fd9aaf7abb44817aa6d4515",
+          "kbaseId": "kb-87b4a4ca49ea651202c13b2a",
+          "name": "Oon Tien",
+          "summary": "Monde montagneux et humide des Jarells, abritant les principaux chantiers navals impériaux du secteur.",
+          "content": "Les monarchies jarells échangent gemmes et travail sous contrat de jeunes sujets contre des technologies, notamment des armes. Les changements politiques violents restent initialement internes à leur société. Industrie et agriculture prennent ensuite de l’importance.\n\nTrois docks orbitaux peuvent réparer des bâtiments jusqu’à 300 mètres. Le gouverneur Manon Flint reçoit l’ordre de les tenir ou de les détruire plutôt que les céder. Mines, patrouilleurs IPV et chasseurs TIE forment une défense strictement locale, permettant de soutenir la flotte de Sarne.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            103,
+            104
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-gandle-ott",
@@ -279,7 +449,28 @@
             "provenance": "personal"
           }
         ]
-      }
+      },
+      "kbaseIds": [
+        "kb-9e608cb83e990baaf6048944"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "913bcfa1e93b97461a7e6bf184916863fa1b3777f72e91165f131f1fd675ab92",
+          "kbaseId": "kb-9e608cb83e990baaf6048944",
+          "name": "Gandle Ott",
+          "summary": "Dernier grand monde industriel du secteur, dans le système Ott, partagé entre sympathies impériales et républicaines.",
+          "content": "Sa population se compte en milliards et sa relative autosuffisance lui donne un rôle politique déterminant. Death is Remotely Possible exploite l’incertitude de ses orientations lors de l’arrivée prévue du FarStar.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            104
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-mairne",
@@ -358,7 +549,28 @@
       "properties": {
         "region": "sector",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-a4fe944058aaa210dc392991"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "aa9d1d55e13cfcbf3cdb6bbe07a52bb3e26725a3bdd82990c09d9389eee59d02",
+          "kbaseId": "kb-a4fe944058aaa210dc392991",
+          "name": "Shintel",
+          "summary": "Au-delà de Gandle Ott, un système réputé vide cache une base impériale de ravitaillement et de patrouille.",
+          "content": "La réputation d’absence d’habitants ne décrit pas la réalité militaire. Le site constitue le cadre de Shintel Downtime.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            105
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-ivatch",
@@ -437,7 +649,28 @@
       "properties": {
         "region": "sector",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-bbc1d8c676162d4ad5fd7ab5"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "8ab72a0a9547bc08169960cb51618264845bbdab0bd3afaad1c53c037b6c3223",
+          "kbaseId": "kb-bbc1d8c676162d4ad5fd7ab5",
+          "name": "Pembric II",
+          "summary": "Monde semi-indépendant de contrebandiers et criminels, contrôlé par la Pembric Security Legion.",
+          "content": "La légion se distingue des autres organisations criminelles par uniformes et badges, sans que cela en fasse une autorité républicaine. L’aventure Crisis développe ce cadre.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            105
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-galtea",
@@ -461,7 +694,28 @@
       "properties": {
         "region": "sector",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-e36a3d71ea4a4d7676cda7b8"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "06200294aa14351881bd82ba1ec30f4e8cf79d9b66ccd2e3efc0e60a73f38ea8",
+          "kbaseId": "kb-e36a3d71ea4a4d7676cda7b8",
+          "name": "Galtea",
+          "summary": "Petite colonie non alignée offrant surtout vivres et fournitures de base.",
+          "content": "Le marchand Veild-danol peut y être rencontré. Le monde est développé dans Traitor in Our Midst.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            105
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-sebiris",
@@ -485,7 +739,28 @@
       "properties": {
         "region": "sector",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-3ffb35bf10c64d20d0c630b8"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "822786981f7af3c2c395af5cba1f65aeabaea341c6e61e6298c1446b54e94ea6",
+          "kbaseId": "kb-3ffb35bf10c64d20d0c630b8",
+          "name": "Sebiris",
+          "summary": "Monde peu technologisé situé à la bordure du secteur de Kathol.",
+          "content": "Le dossier régional renvoie à Traitor in Our Midst pour son rôle dans la campagne ; aucune population ou infrastructure supplémentaire n’est déduite ici.",
+          "sourceId": "src-1678b1eb8c4bd691",
+          "pages": [
+            105
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "1678b1eb8c4bd6917eaeabd52ec6cf799fdc9d11c14396a2c4a4f46cba381847"
+        }
+      ]
     },
     {
       "id": "place-timbra-ott",
@@ -509,7 +784,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-0f7c744875858871db863368"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "705e048aca9770bbdfb57e6d099551e491c749a946db9a22cec553e111d49c04",
+          "kbaseId": "kb-0f7c744875858871db863368",
+          "name": "Timbra Ott",
+          "summary": "Ancienne colonie sœur de Gandle Ott, devenue colonie pénitentiaire puis société autonome après son abandon par l’Empire.",
+          "content": "Des séismes et raz-de-marée détruisent les colonies côtières. Kal’Shebbol installe des camps pénaux pour reconstruire les infrastructures ; l’Empire abandonne ensuite les détenus. Après émeutes et famines, une société autosuffisante se forme.\n\nLe commerce et la contrebande sont ouverts, mais la police protège les habitants. Deux générations sont nées depuis les dernières déportations : le stigmate criminel est trompeur. Un mouvement encore faible souhaite chasser les contrebandiers et pourrait s’allier à la Nouvelle République. Timbra Ott se trouve au terme de la Galtea Run.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            6
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-dolstan",
@@ -533,7 +829,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-7f1d718159ac6a805b4a9e69"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "5955b772f2b4ff7a46852bf872063e5e735a2bb99a09b3408d568967d571e503",
+          "kbaseId": "kb-7f1d718159ac6a805b4a9e69",
+          "name": "Dolstan",
+          "summary": "Premier monde de la Ligue pimbrellane et principal producteur de nourriture grâce à l’irrigation.",
+          "content": "Savanes, déserts et grands lacs salés composent ce monde sec dont les sols irrigués sont fertiles. Son ancienneté lui donne une position dominante dans la politique de la Ligue. Dolstan, Swedlan et Bresan sont trois mondes de systèmes distincts : ils ne doivent pas être fusionnés en une seule planète.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            6
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-bresan",
@@ -557,7 +874,29 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-ba38436d59a00f7a19d898c8"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "d936697f03cc0b060a28aab1b1e54a8c667a1d290f764ea7a6ffd4901d9b7118",
+          "kbaseId": "kb-ba38436d59a00f7a19d898c8",
+          "name": "Bresan",
+          "summary": "Colonie peu hospitalière de la Ligue pimbrellane, dépendante d’installations de support vital.",
+          "content": "Comme sur Swedlan, les habitants utilisent des masques et vivent sous dômes ou dans des complexes souterrains. Les trois mondes maintiennent ensemble une petite flotte de corvettes contre pirates et esclavagistes.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            6,
+            7
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-swedlan",
@@ -581,7 +920,29 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-2c276fc3ae4c14c800fe9907"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "d302c75b985fc844ba75d575c91ac00aef5d5097d2e8af44456def1a14ed9dbd",
+          "kbaseId": "kb-2c276fc3ae4c14c800fe9907",
+          "name": "Swedlan",
+          "summary": "Colonie de la Ligue pimbrellane dont l’atmosphère n’est pas directement respirable pour les Humains.",
+          "content": "Masques respiratoires, dômes et habitats souterrains rendent la colonisation possible ; une part importante des ressources entretient le support vital. La Ligue privilégie autonomie, éducation et modestes industries locales.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            6,
+            7
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-sapella",
@@ -605,7 +966,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-baef784bf1638b7a9ee88518"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "5d5c2b8f86df3b4bb74e139df6316b671990833c39eac0e60e418a81f0e3ae06",
+          "kbaseId": "kb-baef784bf1638b7a9ee88518",
+          "name": "Sapella",
+          "summary": "Monde entrant dans une glaciation, dont la colonie exploite une bande équatoriale encore tempérée.",
+          "content": "Les colons vivent sur des îles côtières vallonnées et produisent fruits, grains, bétail et vin pour acquérir des fournitures. Un trajet de cinq jours depuis Timbra Ott est mentionné par la source ; cette durée ne permet pas de déduire une distance géométrique. Un pacte de défense lie les deux mondes. Deux anciens bâtiments lourds demeurent ; un troisième a été perdu dans une collision accidentelle avec les Aing-Tii, cause que le gouvernement ignore.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            7
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-binaros",
@@ -629,7 +1011,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-dd1d3650801950347dfd04ac"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "bdf972ec6412dcce8bf03bd032da26f43dbf5376564009fbe49da1307fe1ec52",
+          "kbaseId": "kb-dd1d3650801950347dfd04ac",
+          "name": "Binaros",
+          "summary": "Jeune monde sauvage riche en végétation et animaux, sans formes de vie intelligentes identifiées dans ce dossier.",
+          "content": "Des plantes comestibles peuvent ravitailler le FarStar. Plant Food développe les circonstances et les dangers de cette ressource : la possibilité de ravitaillement n’est pas un stock déjà acquis.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            7
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-episol",
@@ -679,7 +1082,28 @@
         "systemId": "place-episol",
         "parentId": "place-nepe",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-c1e6e0fc01b30a8e5a239193"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "27f6d9508fd38d8973c32afc2f8cfa16c381f548870ae43a88c7190b1751cfb1",
+          "kbaseId": "kb-c1e6e0fc01b30a8e5a239193",
+          "name": "Dayark",
+          "summary": "Monde agricole le plus peuplé de la République de Kathol et siège de son gouvernement.",
+          "content": "La République rassemble plusieurs planètes pour assurer leur protection mutuelle. Little Empires développe les implications politiques de Dayark.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            8
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-nepe",
@@ -728,7 +1152,29 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-5a9bc408d2dbcbc5b7c39cc0"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "910dc1b36ea88449d37d2916b95276c82762cffb615b3cd8bd74d5c067808020",
+          "kbaseId": "kb-5a9bc408d2dbcbc5b7c39cc0",
+          "name": "Jangelle",
+          "summary": "Colonie de réfugiés sur un monde chaud de plaines sableuses, rivières et deltas.",
+          "content": "La colonie entretient des voyages discrets vers Gandle Ott et Pembric II pour obtenir les pièces nécessaires aux installations vitales. Elle connaît surtout la propagande impériale et peut se méfier de la Nouvelle République.\n\nUne économie largement autosuffisante, des transports armés, canons ioniques de défense, satellites et générateurs soutiennent le monde. Jangelle partage un pacte de défense avec la République de Kathol ; ses deux bâtiments lourds complètent les corvettes de cette dernière.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            7,
+            8
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-pitann",
@@ -752,7 +1198,28 @@
       "properties": {
         "region": "republic",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-bcd778f8f92b88c863d875fc"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "39a1c411c83928a2bb7c9ce5854a64eeacedc5c254c61b3d46871de5e68cbb09",
+          "kbaseId": "kb-bcd778f8f92b88c863d875fc",
+          "name": "Pitann",
+          "summary": "Monde désertique difficile, membre de la République de Kathol, vivant essentiellement de ses mines.",
+          "content": "Les habitants sont décrits comme réservés et peu accueillants envers les étrangers. Le monde est détaillé dans Little Empires.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            8
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-ehjenla",
@@ -776,7 +1243,29 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-3bd1471f99808cd0e044b1c2"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "eac9fc55333f55587ac954b80d800c40f65a949a1fcb315ba3d2f6b4d36278fb",
+          "kbaseId": "kb-3bd1471f99808cd0e044b1c2",
+          "name": "Ehjenla",
+          "summary": "Monde sortant d’une longue glaciation, peuplé par les Tuhgri qui refusent la propriété individuelle.",
+          "content": "Grandes calottes, océans profonds, plaines fertiles et fjords témoignent des anciens glaciers. Les Tuhgri attribuent leurs ressources au Grand Créateur : chacun emprunte ce dont il a besoin jusqu’à ce qu’il n’en ait plus l’usage. Les incompréhensions avec les autres sociétés ont conduit plusieurs mondes à leur interdire l’accès.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            8,
+            9
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-qumock",
@@ -824,7 +1313,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-66649d86c539b851c211115c"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "c60b12913b46b8b5a3a3f34babf7371f65b1908cb8295ae0c76036fa1f7ac032",
+          "kbaseId": "kb-66649d86c539b851c211115c",
+          "name": "Uukaablis",
+          "summary": "Monde accueillant, menacé par la Confédération Qektoth, dont les habitants disposent de connaissances médicales précieuses.",
+          "content": "Les Uukaabliens ne possèdent pas encore d’hyperpropulsion mais peuvent apporter une aide médicale à la Nouvelle République. Wildfire développe ce contexte.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            9
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-shatuun",
@@ -848,7 +1358,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-1fc58cde81fe0dd5e7b2183e"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "4c8065b3c9ed0c0f2b25f1243a0236a83df1ba255797926d441078c000fd41f4",
+          "kbaseId": "kb-1fc58cde81fe0dd5e7b2183e",
+          "name": "Shatuun",
+          "summary": "Montagnes et orages électriques dominent ce monde rarement visité sur la route vers Danoor.",
+          "content": "Un couple de Duinuogwuins s’y est installé pour se reproduire. Les dragons des étoiles veulent garder leur présence secrète, mais pourraient recevoir des visiteurs garantissant leur tranquillité.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            9
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-exocron",
@@ -872,7 +1403,28 @@
       "properties": {
         "region": "outback",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-544c71a46b25ff36d598d57a"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "9b5bfa583fd00f8ae5b15fbe0a3d06b66608f9177b87b4f7ba456d989d916ed7",
+          "kbaseId": "kb-544c71a46b25ff36d598d57a",
+          "name": "Exocron",
+          "summary": "Monde caché par une nébuleuse brouillant les senseurs et absent des cartes normalement obtenues par le FarStar.",
+          "content": "La plupart des habitants de l’Outback ignorent son existence. The Masters of Exocron développe sa découverte ; la référence ne permet pas d’attribuer au FarStar une connaissance préalable de sa position.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            9
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-nah-malis",
@@ -921,7 +1473,28 @@
         "region": "rift",
         "systemId": "place-nah-malis",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-ab8bde3cba2376c0ba7c1fc9"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "d8e80e4bba6835a8b24c4249478138c4dae5d9988dea9226a38ef3a0fae36dbd",
+          "kbaseId": "kb-ab8bde3cba2376c0ba7c1fc9",
+          "name": "Danoor",
+          "summary": "Ancien poste scientifique d’étude du Rift, ravagé trente ans auparavant par un impact d’astéroïde.",
+          "content": "Fondée environ un siècle auparavant, la colonie attire ensuite des habitants pour sa beauté et ses ressources. L’impact tue des centaines de milliers de personnes. La reconstruction et les rares contacts expliquent les lacunes des informations extérieures ; Galaxy’s Edge détaille la situation.",
+          "sourceId": "src-a3a28719eed85a70",
+          "pages": [
+            9
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "a3a28719eed85a707b23207412f9ababea5325ba2aa27cc3d888d1c98cf7e9f4"
+        }
+      ]
     },
     {
       "id": "place-qmaere",
@@ -945,7 +1518,29 @@
       "properties": {
         "region": "rift",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-ff4cc41b0ce38365ce3ab264"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "4bcf68424d21f21532dc9235f0551e465e1108987e5583afcc02de868a3086ad",
+          "kbaseId": "kb-ff4cc41b0ce38365ce3ab264",
+          "name": "Q'Maere",
+          "summary": "Ancienne station scientifique convertie clandestinement par Sarne en prison et centre de rééducation.",
+          "content": "Le docteur Kraay propose un traitement de la contamination alimentaire et des provisions, tout en évitant les questions précises. La recherche en planétologie laisse place à des prisonniers qualifiés de patients. Six dômes reliés en hexagone abritent administration et punitions, botanique, logements du personnel, deux blocs de détention et maintenance.\n\nLes tubes transportent personnes, air, eau et énergie, avec portes contrôlables à distance. Arrêter les générateurs menace particulièrement les prisonniers, privés d’une autre alimentation. Le vocabulaire administratif et médical dissimule le rôle réel de la station.",
+          "sourceId": "src-e76020e4b32da626",
+          "pages": [
+            27,
+            28
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+        }
+      ]
     },
     {
       "id": "place-construct",
@@ -969,7 +1564,29 @@
       "properties": {
         "region": "rift",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-a84621cf96a5914ba0ab1deb"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "b4c0c650ae61cbfd4a8881e6d7ee102a6c1df24b394d03cb6a89c13cd30960b6",
+          "kbaseId": "kb-a84621cf96a5914ba0ab1deb",
+          "name": "Construction extraterrestre",
+          "summary": "Structure biologique ancienne dont un mécanisme d’amarrage défaillant menace de saisir et broyer le FarStar.",
+          "content": "La station sphérique, endommagée, porte dômes et vrilles semblables à des plantes. Le corridor du Rift force une approche ; le livre prévoit que les vrilles capturent le bâtiment. Elles ne constituent pas une arme militaire intentionnelle : le MJ sait qu’il s’agit d’un dispositif d’amarrage automatisé défectueux.\n\nRestes végétaux et semences suggèrent un centre civil de préparation à un programme spatial ou colonial, autrefois autosuffisant. Une relation avec DarkStryder est suggérée, mais l’espèce bâtisseuse et la fonction exacte doivent rester mystérieuses pour les joueurs.",
+          "sourceId": "src-e76020e4b32da626",
+          "pages": [
+            59,
+            60
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+        }
+      ]
     },
     {
       "id": "place-yvara",
@@ -993,7 +1610,29 @@
       "properties": {
         "region": "rift",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-1591ef136e1253a475a7b7f2"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "09bc90e3cb1889aac72904001c5878c111b4d9c067b6f19bc601c2534dac6d31",
+          "kbaseId": "kb-1591ef136e1253a475a7b7f2",
+          "name": "Yvara",
+          "summary": "Monde des Yvarema, conscience collective mammalienne dont Gunthar a été séparé.",
+          "content": "Yvara orbite une étoile bleu-blanc ; les Horns of Waryl, trois étoiles en pyramide inversée, servent de repère culturel. Gunthar a été capturé loin de son peuple et vendu aux arènes de Sarne. Les Qektoth ont obtenu ses données biologiques et cherchent à retrouver les Yvarema pour leur recherche sur l’esprit-ruche.\n\nMontagnes côtières, plaines de champignons, déserts et réseaux de rivières entourent les habitats souterrains. Des technologies de vapeur et de fluidique produisent peu de pollution et peu de signatures électromagnétiques ; l’absence de signaux apparents ne signifie donc pas absence de civilisation.",
+          "sourceId": "src-e76020e4b32da626",
+          "pages": [
+            73,
+            74
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+        }
+      ]
     },
     {
       "id": "place-demonsgate",
@@ -1017,7 +1656,28 @@
       "properties": {
         "region": "rift",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-e49bc7dae6bc436fde167919"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "112ccb1a59466af1842eb48f3020a6c282a0edaade80846159ae17471e1e5337",
+          "kbaseId": "kb-e49bc7dae6bc436fde167919",
+          "name": "Demonsgate",
+          "summary": "Monde proche de la sortie du Rift, dont l’apparence enflammée masque une biosphère viable.",
+          "content": "Particules ionisées et débris du Rift rayonnent en rouge, orange et jaune, donnant l’illusion de flammes. L’eau est surtout souterraine et de nombreuses créatures creusent jusqu’à ses réserves. Le scénario approche cette planète alors que Makezh devient instable sous la compulsion aing-tii liée au Codex ; cette situation appartient au déroulement prévu, pas au présent de la partie.",
+          "sourceId": "src-e76020e4b32da626",
+          "pages": [
+            89
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "e76020e4b32da626f335c05048b4e2a8e08ee3147708bd02e692e31fb62d2d3f"
+        }
+      ]
     },
     {
       "id": "place-kathol",
@@ -1041,7 +1701,29 @@
       "properties": {
         "region": "beyond",
         "media": []
-      }
+      },
+      "kbaseIds": [
+        "kb-126a988d14e4bfa6d1872b4f"
+      ],
+      "referenceKnowledge": [
+        {
+          "fingerprint": "1a861d7fda42c90d8f1a089c066d281976b719b53749c77246f3398fb1036163",
+          "kbaseId": "kb-126a988d14e4bfa6d1872b4f",
+          "name": "Kathol",
+          "summary": "La planète dite DarkStryder porte en réalité le nom des anciens Kathol, spécialistes des technologies biologiques.",
+          "content": "### Avant le désastre\nLes Kathol développent des constructions, ordinateurs et vaisseaux organiques. Le Codex, conçu pour étudier la Force, attire un Jedi sombre qui les asservit. Des Jedi tentent de les libérer.\n\n### Naissance du Rift\nLa surcharge d’une porte de lancement biologique déforme l’hyperespace et crée le Rift, tuant le Jedi sombre et contaminant la région du côté obscur. Une autre porte endommagée demeure en orbite. Une fraction des Kathol conserve essences et esprits dans le Lifewell ; la majorité meurt.\n\n### Le gardien\nUn gardien génétiquement conçu préfère dominer plutôt que libérer ceux qu’il devait préserver. Il apprend à alimenter les machines par l’énergie du Lifewell. Les esprits enfermés perçoivent et influencent la Force, mais leurs facultés se dégradent avec le temps. Ces secrets ne sont pas connus d’emblée des voyageurs.",
+          "sourceId": "src-c86af6abdc3184c5",
+          "pages": [
+            25,
+            26
+          ],
+          "provenance": "official",
+          "usage": "darkstryder_scenario",
+          "authoredBy": "manual",
+          "status": "source-reference",
+          "sourceSha256": "c86af6abdc3184c5a1c3181593ccb6b01b426245797a222dee1b55644c6ae1ed"
+        }
+      ]
     },
     {
       "id": "place-blue-swirl",
@@ -1998,6 +2680,10 @@
             10.8887
           ]
         ],
+        "labelAt": [
+          55.1378,
+          9.4238
+        ],
         "durationHours": {
           "min": 16,
           "max": 16
@@ -2007,11 +2693,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          55.1378,
-          9.4238
-        ]
+        "notes": ""
       },
       {
         "id": "route-torize--kolatill",
@@ -2032,6 +2714,10 @@
             10.8887
           ]
         ],
+        "labelAt": [
+          57.6441,
+          9.8145
+        ],
         "durationHours": {
           "min": 28,
           "max": 28
@@ -2041,11 +2727,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          57.6441,
-          9.8145
-        ]
+        "notes": ""
       },
       {
         "id": "route-aaris--charis",
@@ -2096,6 +2778,10 @@
             12.6953
           ]
         ],
+        "labelAt": [
+          54.5113,
+          11.5723
+        ],
         "durationHours": {
           "min": 21,
           "max": 21
@@ -2105,11 +2791,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          54.5113,
-          11.5723
-        ]
+        "notes": ""
       },
       {
         "id": "route-torize--oon-tien",
@@ -2134,6 +2816,10 @@
             12.5488
           ]
         ],
+        "labelAt": [
+          67.1679,
+          10.5957
+        ],
         "durationHours": {
           "min": 14,
           "max": 14
@@ -2143,11 +2829,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          67.1679,
-          10.5957
-        ]
+        "notes": ""
       },
       {
         "id": "route-kolatill--oon-tien",
@@ -2168,6 +2850,10 @@
             12.5488
           ]
         ],
+        "labelAt": [
+          64.411,
+          11.4258
+        ],
         "durationHours": {
           "min": 19,
           "max": 19
@@ -2177,11 +2863,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          64.411,
-          11.4258
-        ]
+        "notes": ""
       },
       {
         "id": "route-kolatill--corjain",
@@ -2198,6 +2880,10 @@
             13.2813
           ]
         ],
+        "labelAt": [
+          60.0251,
+          12.2559
+        ],
         "durationHours": {
           "min": 5,
           "max": 5
@@ -2207,11 +2893,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          60.0251,
-          12.2559
-        ]
+        "notes": ""
       },
       {
         "id": "route-charis--corjain",
@@ -2228,6 +2910,10 @@
             13.2813
           ]
         ],
+        "labelAt": [
+          55.1378,
+          13.8672
+        ],
         "durationHours": {
           "min": 14,
           "max": 14
@@ -2237,11 +2923,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          55.1378,
-          13.8672
-        ]
+        "notes": ""
       },
       {
         "id": "route-corjain--oon-tien",
@@ -2262,6 +2944,10 @@
             12.5488
           ]
         ],
+        "labelAt": [
+          64.2857,
+          12.9883
+        ],
         "durationHours": {
           "min": 11,
           "max": 11
@@ -2271,11 +2957,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          64.2857,
-          12.9883
-        ]
+        "notes": ""
       },
       {
         "id": "route-charis--gandle-ott",
@@ -2292,6 +2974,10 @@
             14.1113
           ]
         ],
+        "labelAt": [
+          46.4912,
+          12.9883
+        ],
         "durationHours": {
           "min": 15,
           "max": 15
@@ -2301,11 +2987,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          46.4912,
-          12.9883
-        ]
+        "notes": ""
       },
       {
         "id": "route-charis--mairne",
@@ -2322,6 +3004,10 @@
             15.0879
           ]
         ],
+        "labelAt": [
+          52.5063,
+          14.5508
+        ],
         "durationHours": {
           "min": 12,
           "max": 12
@@ -2331,11 +3017,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          52.5063,
-          14.5508
-        ]
+        "notes": ""
       },
       {
         "id": "route-gandle-ott--mairne",
@@ -2352,6 +3034,10 @@
             15.0879
           ]
         ],
+        "labelAt": [
+          46.9925,
+          14.9414
+        ],
         "durationHours": {
           "min": 8,
           "max": 8
@@ -2361,11 +3047,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          46.9925,
-          14.9414
-        ]
+        "notes": ""
       },
       {
         "id": "route-gandle-ott--peirs",
@@ -2382,6 +3064,10 @@
             15.4785
           ]
         ],
+        "labelAt": [
+          41.7293,
+          14.5996
+        ],
         "durationHours": {
           "min": 7,
           "max": 7
@@ -2391,11 +3077,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          41.7293,
-          14.5996
-        ]
+        "notes": ""
       },
       {
         "id": "route-peirs--shintel",
@@ -2412,6 +3094,10 @@
             16.0645
           ]
         ],
+        "labelAt": [
+          40.2256,
+          16.5039
+        ],
         "durationHours": {
           "min": 5,
           "max": 5
@@ -2421,11 +3107,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          40.2256,
-          16.5039
-        ]
+        "notes": ""
       },
       {
         "id": "route-peirs--ivatch",
@@ -2442,6 +3124,10 @@
             17.2852
           ]
         ],
+        "labelAt": [
+          43.8596,
+          17.0898
+        ],
         "durationHours": {
           "min": 30,
           "max": 30
@@ -2451,11 +3137,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          43.8596,
-          17.0898
-        ]
+        "notes": ""
       },
       {
         "id": "route-shintel--ivatch",
@@ -2472,6 +3154,10 @@
             17.2852
           ]
         ],
+        "labelAt": [
+          37.594,
+          17.4316
+        ],
         "durationHours": {
           "min": 8,
           "max": 8
@@ -2481,11 +3167,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          37.594,
-          17.4316
-        ]
+        "notes": ""
       },
       {
         "id": "route-shintel--tanquilla",
@@ -2502,6 +3184,10 @@
             15.625
           ]
         ],
+        "labelAt": [
+          34.8371,
+          15.5762
+        ],
         "durationHours": {
           "min": 24,
           "max": 24
@@ -2511,11 +3197,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          34.8371,
-          15.5762
-        ]
+        "notes": ""
       },
       {
         "id": "route-shintel--pembric",
@@ -2532,6 +3214,10 @@
             18.3105
           ]
         ],
+        "labelAt": [
+          34.5865,
+          17.4316
+        ],
         "durationHours": {
           "min": 72,
           "max": 72
@@ -2541,11 +3227,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          34.5865,
-          17.4316
-        ]
+        "notes": ""
       },
       {
         "id": "route-tanquilla--pembric",
@@ -2562,6 +3244,10 @@
             18.3105
           ]
         ],
+        "labelAt": [
+          28.5714,
+          17.0898
+        ],
         "durationHours": {
           "min": 19,
           "max": 19
@@ -2571,11 +3257,7 @@
         "provenance": "official",
         "referenceAssetId": "asset-8",
         "sources": [],
-        "notes": "",
-        "labelAt": [
-          28.5714,
-          17.0898
-        ]
+        "notes": ""
       },
       {
         "id": "route-pembric--galtea",

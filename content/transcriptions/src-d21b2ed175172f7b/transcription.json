@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-d21b2ed175172f7b",
+  "name": "CIRO",
+  "sha256": "d21b2ed175172f7b674f2e509c372ccf3e107bba1032f19418fefdfb46357cf9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/CIRO.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "951657acbf2f5697b491bbcdbe8e6496a0a3fb69e37de2c9cb5196724208db72",
+  "fileHashes": {
+    "book.md": "47e8927afa9134aab5b7061d69d023b91cb7216f682c5c192ab22f42be772c50",
+    "pages/0001.md": "dda357dce740f7e72ff3d6948393f022f4c4ddfe00282ad09f3e35356a027bbd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-624d20a9e4d5c4cb",
+  "name": "DSHome",
+  "sha256": "624d20a9e4d5c4cbd4f35e1c0862d3112d1ecd640c29a2c4dc656fad1765c659",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHome.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "44738722fab9e0d716eea5d21280e169848c6079d0b727c31bc88b04143ebc03",
+  "fileHashes": {
+    "book.md": "a39b91460fad0df28d77fa9ab7f3f5a315f8372c494d50681c129450898c3a97",
+    "pages/0001.md": "3fc57f70117038c67e6d110668699fb5f23c205cdded91cccf1cb742b6a94c17"
+  }
+}

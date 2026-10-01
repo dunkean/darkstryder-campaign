@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-401391cda5920fa9",
+  "name": "DSEXOCRO",
+  "sha256": "401391cda5920fa9a7f5c85d03f315de6e2271b865974e9f5c3c362e2d653357",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEXOCRO.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "2bb774171432dd34c4b4bcfda67e960f312cc1febcc8e753830f186bfe235180",
+  "fileHashes": {
+    "book.md": "93ab4b603730c1f2bd8ad88086c45165525e4e25a0f71871de736a71d4e12b2b",
+    "pages/0001.md": "80747196299e17f166f9a731b7630948d86162ba27ed0fe702d49b64f9800e26"
+  }
+}

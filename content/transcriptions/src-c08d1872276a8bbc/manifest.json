@@ -1,0 +1,30 @@
+{
+  "sourceId": "src-c08d1872276a8bbc",
+  "sha256": "c08d1872276a8bbcef016564345098eab34add03f28ea5a222ea79af0c94c99d",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 4961,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/1c765a5a2db7878739421898595b99d4baf904aad2a39edb090ddd8a85fe829a.gif",
+      "origin": "images/misson.gif",
+      "sha256": "1c765a5a2db7878739421898595b99d4baf904aad2a39edb090ddd8a85fe829a"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

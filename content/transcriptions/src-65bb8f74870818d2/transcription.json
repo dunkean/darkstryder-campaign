@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-65bb8f74870818d2",
+  "name": "BOTHANS",
+  "sha256": "65bb8f74870818d2a2a3b3eca45b1e7027ebc687ccccc6aa83b36894558e6215",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/BOTHANS.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "942b989f5c52c5b0513e7436452e76209406216daa5a05896c32aea02bf56cd3",
+  "fileHashes": {
+    "book.md": "05940e8b03408c77be0fb9926354e822b1f3629278e45c71b3ad8ac133f7dee7",
+    "pages/0001.md": "ceca99323ff78c261c669ed2dfef716f68bf033f0c3d86a9e682d9ac8e1908a7"
+  }
+}

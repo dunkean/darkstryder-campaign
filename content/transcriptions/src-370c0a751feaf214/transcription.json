@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-370c0a751feaf214",
+  "name": "SATHAR",
+  "sha256": "370c0a751feaf214974bd63e9f42415f52705259ae680da83fc953f4306f2b03",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/SATHAR.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b93e51d3af5342ee587084626ecd7f4ee7c997078fa190966f53147b32b4eb42",
+  "fileHashes": {
+    "book.md": "3c0ee163b0df6d971108402c7453517086b26cafb4293aba279520bb1ad2cec2",
+    "pages/0001.md": "84a186836cdfe6b9122acc1eff66a0f076e904c8c5abd1997be28f27a76c86f6"
+  }
+}

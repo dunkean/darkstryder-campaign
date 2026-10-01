@@ -1,0 +1,606 @@
+# SWSZArmor
+
+Source: `src-8709de5034ba0971` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-8709de5034ba0971; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+SZ Armor
+
+| <br>[Image locale absente : ../../sz/images/szsmall.jpg]<br> | <br>![Image](images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg)<br> |
+| --- | --- |
+
+---
+
+**Armor** 
+
+**Personal Armor** 
+
+| **Type ** | **Armor Val ** | **Availability ** | **Mass ** | **Cost ** |
+| --- | --- | --- | --- | --- |
+| **Leather ** | **+2p / +0e ** | **2,R ** | **0.5 ** | **100 ** |
+| **Chainmail ** | **+1Dp / +1e ** | **2,R ** | **10 ** | **300 ** |
+| **Plate Armor ** | **+1D+2 / +2e ** | **2,R ** | **15 ** | **375 ** |
+| **Syntheleather ** | **+2p / +0e ** | **1 ** | **5 ** | **150 ** |
+| **Padded ** | **+1Dp / +0e ** | **1 ** | **4 ** | **250 ** |
+| **Syntheleather Mesh<br>** | **+1D+1p / +0e ** | **1 ** | **3 ** | **600 ** |
+| **Plastovar ** | **+1D+2p / +2e ** | **2,F ** | **4 ** | **1000 ** |
+| **Reflec ** | **+1p / +1D+2e ** | **2,F ** | **5 ** | **1100 ** |
+| **Plasteel ** | **+2Dp / +1De ** | **2,X ** | **6 ** | **2500 ** |
+| **Blowen Reflec ** | **+2Dp / +1D+1e ** | **2,X ** | **4 ** | **1250 ** |
+| **Reflex Armor ** | **+1D+1p / +2e ** | **2,X ** | **2 ** | **750 ** |
+| **Kevlar Mark XX ** | **+2Dp / +1De ** | **2,X ** | **4 ** | **500 ** |
+
+**Power Armor **
+
+| **Type ** | **Armor Val ** | **Availability ** | **Mass ** | **Cost ** |
+| --- | --- | --- | --- | --- |
+| **Power Armor ** | **+3Dp / +2De ** | **4,X ** | **50t ** | **5000 *t ** |
+| **Brodie Mark I ACS<br>** | **+3Dp / +2De ** | **4,X ** | **60 ** | **6000 t ** |
+| **Brodie Mark II ACS<br>** | **+3D+1p / +2D+1e<br>** | **4,X ** | **100 ** | **8400 t ** |
+| **Brodie Mark III ACS<br>** | **+3D+1p / +2D+2e<br>** | **4,X ** | **200 ** | **9400 t ** |
+| **Brodie Mark IV DSAC<br>** | **+3D+2p / +2D+2e<br>** | **4,X ** | **215 ** | **10000 t ** |
+| **Brodie Mark V DSAC<br>** | **+4D / +2D+2e ** | **4,X ** | **225 ** | **12700 t ** |
+| **Brodie Armored Avenger<br>** | **+4Dp / +3De ** | **4,X ** | **400 ** | **22700 ** |
+| **McGinley XR Scout
+<br>    Armor ** | **+1D+2p / 1De ** | **4,X ** | **10 ** | **5000 ** |
+| **McGinley Security
+<br>    Helmet ** | **+2D+1p / +1D+1e<br>** | **4,X ** | **2 ** | **500 ** |
+| **McGinley Paladin
+<br>    Battle Armor ** | **+3Dp / +2De ** | **4,X ** | **100 ** | **8400 ** |
+
+**Stealth Suits **
+
+| **Brodie K-Mealeon
+<br>    Stealth Suits ** | **Armor Val ** | **Availability ** | **Mass ** | **Cost ** | **Notes ** |
+| --- | --- | --- | --- | --- | --- |
+| **Basic Stealth Suit<br>** | **N/A ** | **2,X ** | **- ** | **3000 ** | **Adds +2 to Sneak
+<br>    versus sight/smell ** |
+| **-Infrared Option<br>** | **N/A ** |   | **- ** | **1500 ** | **Adds +1D+1 to Sneak
+<br>    versus infrared ** |
+| **-Sonar Option ** | **N/A ** |   | **- ** | **1875 ** | **Adds +1D to Sneak
+<br>    versus sonar ** |
+| **-Radar Option ** | **N/A ** |   | **- ** | **2000 ** | **Adds +1D to Sneak
+<br>    versus radar ** |
+| **-Slick Option ** | **N/A ** |   | **- ** | **1875 ** | **Adds +1D+2 to Dodge
+<br>    versus grabs/holds ** |
+
+*** - These are "standard" armor costs. Increased
+functioning capabilities - such as HUD units, increased Strength units, and targeting
+programs and computer assists usually cost at least 10-20 percent of the armor's total
+cost per unit. **
+
+**** - Head only. **
+
+**t - This is for a complete suit. In pieces, the costs as mass
+values are broken up and add up to the total. Since "segmented" suits are
+normally sold only as replacement parts (in bulk) or on the street, they have wildly
+varying prices. As far as mass goes, the breastplate has a mass of 20 kilos, the helmet 10
+kilos, the arm and leg greaves are 5 kilos each. **
+
+---
+
+**Armor**
+
+To survive in the Star Wars Universe, sometimes you need a good suit of
+armor. In this section, we're going to look at some of the protection you can wear on your
+back. 
+
+There are basically two types of armor:* powered and non-powered*.
+The latter is armor that has no internal power source to help the wearer in any way. Power
+armor has an internal skeleton and various motors to* *help compensate for the weight
+of the armor. Some of them increase the strength of the wearer at extra expense. 
+
+Non-powered armor is pretty generic in nature. What the armor is made of
+is usually more important than who actually produced it. Power armor, on the other hand is
+very "producer specific." Many companies make powered armor, and different suits
+have different capabilities and provide different levels of protection. 
+
+Just like weapons, power armor is sold as a base model with lots of
+"options" that can be incorporated into the suit. These options are, of course,
+extra, but they allow you to get a suit of armor tailored specifically to your needs and
+your budget. (Be careful of salesmen who try to sell you a lot of extras you don't need.
+Remember, every option is potential added weight and strain to your motors. My rule of
+thumb is not to take anything I'm not pretty sure I'll need. 
+
+Armor includes any personal protective covering, from
+reinforced clothing to exoskeletal mechanical suits. For the most part, armor is available
+in full body suits, or, at a lower cost, some armor is available piecemeal. Below are
+listed some types of armor and their various effects. 
+
+---
+
+**Non-Powered Armor **
+
+***Primitive Non-Powered Armor** *
+
+This is the less expensive type of armor, and quality varies widely
+depending on the material you're using. On the other hand, you have a better chance of
+"passing" with this armor on than with powered, and there are more than a few
+worlds where it's against the law to wear power armor within the city limits. You might as
+well paint a sign on your forehead that says "Merc looking for trouble." You're
+better off in many cases wearing stuff that somebody might, at worst, mistake for a weird
+taste in clothing. 
+
+**Leather
+
+**There are still citizens who make use of more primitive kinds of armor,
+and if you toss out hides, leather is as primitive as you get. It's fairly cheap and
+plentiful, depending on the planet, and if you are looking to operate on a world like that
+with no one getting wise, this is the route to take. Leather armor is next to useless
+against slugthrowers or blasters, but it'll do you some good against a slag with a knife. 
+
+Leather armor can be found on most planets that have animals with
+sufficiently thick hides. The only time you'll run into problems with local law wearing
+this stuff is if the city has laws against wearing animal skins in any form. The other
+advantage to leather is that you can wear it under other types of armor without too much
+discomfort. 
+
+**Chainmail
+
+**Made from fine links of steel, chainmail allows for a fair degree of
+flexibility in combat. Chainmail can't be worn under other types of armor, but it can fit
+over some types of armor (like leather). There are few worlds I know of where mail is
+illegal, but wearing it will make you stand out like a sore thumb, unless you're hanging
+out with some really strange* *fringers. Chainmail isn't much use against
+slugthrowers and energy attacks, but is overall better than leather in these situations 
+
+**Plate Armor
+
+**Formed from steel plates, plate armor offers decent protection from
+most types of attack. But it's bulky as all hell and slows you down at inconvenient times.
+You may be better off just wearing a breastplate and foregoing the arm and leg armor. You
+can't wear it under any other armor (but can wear it over some types), and the best you're
+going to achieve in this tin can is to make your enemies die laughing. 
+
+Plate armor is available in the Core at specialty shops, but isn't
+exactly a standard every place else. It's not much help against bullets or blasts 
+
+***Modern Non-Powered Armor** *
+
+By far the most common kind of armor available to the general public, most
+of the non-powered armor sacrifices protection for the twin benefits of mobility and
+concealment. There is some problems with the law when wearing these armors - they are
+highly restricted on a fair number of Imperial worlds, but are sometimes a necessity of
+life on the Rim.
+
+**Syntheleather
+
+**Jackets or bodysuits made of synthetic leather,
+this is better than cloth or flesh at protecting a character, but not by much. It is of
+some use against melee attacks, but not against projectile or energy weapons. 
+
+**Padded
+
+**Two layers of cloth with cushioned material in
+between, this is better at absorbing shocks than syntheleather but is largely useless
+against projectile and energy weapons. It is commonly worn as an undersuit for power
+armor. 
+
+**Syntheleather Mesh
+
+**Synthetic leather fiber interwoven with metal
+mesh to form a light armor similar to chainmail. It is effective against both melee and
+projectile attacks, but not against energy weapons. 
+
+**Plastovar
+
+**Plastovar is a combination of plastic and
+Kevlar. Thin and light, yet still good protection against attack, plastovar is favored by
+megacorporate executives, who wish an unobtrusive armor to wear under their clothing. It
+is equally effective against all forms of physical attack. 
+
+**Reflec
+
+**This reflective material layered on a plastic
+base, designed for use against energy weapons. It is of little use against other forms of
+attack. It can be worn either under or over clothes. 
+
+**Plasteel
+
+**Combining the strength of metallic armor with
+the relatively light weight of plastic, plasteel is among the best non-powered armor
+available. However, it does come with a price: if wearing a breastplate and either arm or
+leg greaves (or both), the wearer suffers a +1 to the difficulty of all *Dexterity*-based
+actions.** **
+
+**Blowen Reflec**
+
+An alternative to power armor's standard padded
+undersuit. Blowen reflec is made out of high temperature resistant fibers layered together
+in such a way that they offer good protection against impact (sort of like fiber glass
+insulation without the irritation). This stuff is great against energy weapons, but won't
+do much against clubs or bullets 
+
+**Reflex Armor
+
+**The amoeboid gel-vest created by a mysterious
+race known as the Glahn, has been driving the Empire's brains out the airlock for a while
+now. The closest thing anybody's come up with is this, which is damn flexible and looks
+just like heavy cloth. But hit it anywhere and the material turns rigid to resist impact.
+It's nowhere near as good as a gel-vest and it's more expensive, but you won't run into
+the legal problems with it that you would with the gel (that's what happens when your
+armor comes from the hide of an "endangered species"). Reflex armor works well
+against impact or projectile weapons, but is worthless against energy attacks. Your best
+bet might be to combine it with reflec and hope for the best. 
+
+**Kevlar Mark XX
+
+**Kevlar armor has been around for centuries, but
+these days, it's been largely replaced by plastovar and the like. Still, there are some
+worlds where Kevlar is the only thing they can get a hold of, so they make do. Kevlar Mark
+XX is thick, layered protection that works against slugthrowers and impact weapons. It's
+less great against energy weapons, but you can't have everything. 
+
+Since it's pretty thick, forget about using it as an
+undersuit or passing it off as normal clothing.  For 500 credits more, you can add
+ceramic plates between the layers of armor (+1D to physical, +2 to energy). This doubles
+the weight of the armor but increases its toughness and helps against energy attacks,
+since the ceramic disperses heat 
+
+---
+
+**Power Armor** 
+
+Various forms of power armor are now standard issue for
+both the Empire and Corporate Sector Aurthority marines. These suits are expensive but
+give you a better chance of surviving. In addition to the obvious benefits, most suits are
+loaded with electronic gear that can keep you up and shooting even in hazardous
+environments (check out the "Add-Ons" section). Power armor isn't available to
+the general public, in most places. (Security ratings apply to mercenary units, not
+members of the general public.) 
+
+All costs listed are for the standard suits. Increased
+functioning capabilities - targeting programs, HUD units, etc. - can add as much as 10 to
+20 percent to armor's cost.   
+
+**Notes on Add-Ons** 
+
+All power suits come with some standard equipment, usually multi-channel
+comlinks and external audio units. Many also have ENVI-suit technology built in. Modular
+devices are available for power armor that can greatly increase its information-gathering
+or offensive capabilities. 
+
+The entries above feature two numbers separated by a slash immediately
+following the armor's name. The first number is the number of add-ons that can be fitted
+into the helmet, the second how many can be fitted into the suit. 
+
+**Basic Power Armor (4/5)
+
+**Basic power armor is in common use among
+corporate marines, particularly those of smaller companies who cannot afford the
+top-of-the-line Brodie suit. Power armor features servo-motors and minihydraulics built in
+to move the bulky outfit. It can be worn with a padded undersuit for a cumulative armor
+add. Unlike Brodie armor, standard power armor can be purchased in pieces. However, a
+breastplate must be worn for the armor to work, as the energy plant is there. If the
+breastplate is worn by itself, there is no Dexterity penalty; if it is worn with either
+arm or leg units, there is a +2 to the difficulty of all *Dexterity*-related actions.
+If arm or leg greaves are worn without benefit of the breastplate, the bonus to the
+difficulty is +1D. 
+
+Power armor need not be customized to the wearer's body
+and can be bought "off the rack." Outfits come both with and without built-in
+power packs for use with energy weapons. Getting into (or out of) a complete set of power
+armor takes twelve combat rounds as a non-Skilled action, or three rounds as a *powersuit
+operation *Skill action at a Difficult difficulty (reduce the difficulty for every
+extra round spent between three and 12 getting in or out).. 
+
+**The Brodie Powered Armor Series**
+
+This is the gear that made Brodie Inc. famous in the
+Corporate Sector. Brodie set the standard for power armor and more than a few
+mega-corporations went belly up trying to compete. Nowadays, a lot of the non-Brodie stuff
+on the black market is just cheap knock-offs of the famous design. The big difference from
+one corp's armors to another's is the connector leads, which are often designed so as to
+only allow add-ons from the individual company. Of course, it's possible for the wearer to
+jury-rig the suit to allow otherwise incompatible add-ons . Imperial Law allows no citizen
+to own Power Armor. Most of these suits are rare, but occasionally available through some
+of the black market guilds and houses. 
+
+**Brodie Mark I Armored Combat** **Suit (4/5)**
+
+The Brodie Mark I Armored Combat Suit (ACS) was
+designed for the upper end of the power-armor market. While it provided similar protection
+to other suits at the time, there were several important differences. First, the Brodie
+ACS armor was** **marketed as a complete suit and could not be bought in pieces.
+Secondly, the Brodie suits had a better integrated servomotor unit, so it was easier to
+move around in it. Finally, the Brodie ACS allowed for more add-ons than any other. [Add
++2 to the difficulty numbers of all Dexterity-based actions when wearing this suit.] 
+
+**Brodie Mark II Armored Combat Suit (4/5)
+
+**The only difference between the Brodie Mark I
+and Mark II was a slight increase in the protection provided and some aesthetic
+improvements to make it look sleeker. [Add +2 to the difficulty of Dexterity-based actions
+when wearing this suit.] 
+
+**Brodie Mark III Armored Combat Suit (5/6)
+
+**It was the Mark III that really set Brodie apart
+from other armor manufacturers. The suit provided better protection against attacks than
+any other available at that time, though not without a price, as there was an increased
+difficulty of free movement. 
+
+The Mark III comes with a fairly impressive electronic
+suite installed as standard equipment, including a biomedical and diagnostic scanner,
+targeting scanner and mapping system, All of which can be projected onto a Heads-Up
+Display. The suit does not have full ENVI capabilities but a filter system does allow it
+to operate in hostile atmospheres (though you probably won't want to stay long). [Add +3 to the difficulty of
+Dexterity-based actions when wearing this suit. Add +1 to vision-based *Perception *checks.] 
+
+**Fire Control**: +1D 
+
+**Brodie Mark IV Deep Space and Armored Combat Suit (5/6)
+
+**Probably the best armor currently on the market,
+the Brodie Mark IV is also the most expensive. It is worn both by CSA Espo-marines and
+corporate troops, and though relatively bulky, is highly effective against all forms of
+attack. The Mark IV can be worn with a padded undersuit for a cumulative bonus. 
+
+The Mark IV must be customized to the wearer's body. It
+is possible to override its programming with customization software, but this can be
+unreliable. Armor that has not been customized may freeze up on a *Complication or *even
+do damage to the wearer (gamemaster option). 
+
+The Brodie suit relies on a complicated series of
+servomotors and micro-hydraulics to operate. It is not sold in pieces, but only as a
+complete suit, and it adds +3 to the difficulty of all Dexterity-related actions. It is
+equipped with power packs and ports for use with some Brodie energy weapons. 
+
+Within each helmet of the 215-kilogram suit is a small
+computer that wraps around the wearer's head from ear to ear. This monitors all of the
+armor's functions, including projecting a Heads Up Display (HUD), biomedical systems,
+scanner programs, and briefing data downloaded from a ship's terminal. A commander's suit
+will often feature a bio-monitor, allowing him to keep tabs on the conditions of his
+troops. 
+
+The helmet also features a port which can attached to a
+long-range sensor dish, for use on scouting missions. The dish is contained in a small,
+metallic container which can be fastened to the leg of the suit with electromagnets. In
+addition, the helmet contains integral SureSights, which provide a +1D boost to
+vision-based *Perception *checks and to any combat* *skill rolls that involve
+integral weapons systems for the Brodie. 
+
+The helmet computer is voice-activated and has complete
+control over the suit's systems. It is possible, simply by saying "Glove" firmly
+and clearly, to increase the Strength of that particular armor unit by +2 for the
+performance of a specific task (say, hooking up a stubborn power cable to its port).
+Different suits have different "standard" functions, so the gamemaster should
+work out any special functions (and price increases) for the armor. 
+
+The Mark IV also acts as a full ENVI-suit, with all the
+attributes of such an outfit. This makes it excellent for corporate troops who may be sent
+into hostile environments at any time. [Add -1D to all Dexterity-based actions when wearing this suit. Add +1D to all
+vision-based *perception *checks.] 
+
+**Fire Control**: +1D 
+
+**Brodie Mark V Deep Space and Armored Combat Suit (8/10)
+
+**The last version of the Brodie power suit, it
+looks identical to the Mark IV. It provides a limited increase in armor protection, but
+it's main advantage lies in the micro-miniaturization of its systems. This has allowed for
+an unprecedented number of add-ons in both helmet and suit. Currently, this suit is issued
+only to CSA Fleet Marine commanders. [Add +4 to the difficulty of all Deterity-based
+actions. Add +3 to all vision-based *Perception *checks*.*]
+
+**Fire Control**: +1D 
+
+**The Brodie Armored Avenger (10/12)
+
+**This one takes some getting used to, even for
+someone used to seeing the "latest and the greatest" in tech on a regular basis.
+The Avenger is more of a personal tank than anything else, one that allows the user to
+stay on the battlefield for up to three weeks without a recharge. It can also be used to
+recharge other Brodie suits, although this will diminish its own power supply
+significantly. The Avenger is designed as mobile fire support for regular troops. 
+
+Critics (most of them from Furtherman) have described
+the Avenger as "a box with arms and legs." It's true that it's not as slick as a
+Mark IV, but you don't get prizes for your looks in combat. Remember, all a standard suit
+of power armor has to do is amplify your own strength so you can move. The Avenger has to
+move under its own power, and obviously can't crawl or kneel down. 
+
+The Avenger features a number of integrated weapons,
+including a Brodie XAP4 Auto Plasma Laser and a Brodie Repeating Laser Pistol. Two Bluster
+guided missiles are mounted on the back of the unit. These weapons are linked to the
+suit's power system and thus enjoy near continuous fire. The plasma laser has 100 hydrogen
+fuel cells which are reloaded from the back. The pulse laser is built into the right arm
+and the laser is a backup weapon found in the left arm. 
+
+The Avenger incorporates ENVI technology and can provide
+full environmental support. It also contains all equipment contained in the Brodie Mark
+IV. [The Avenger can move at
+50 meters per round. Add +5 to the difficulty of Dexterity-based actions. Add +3 to all
+vision-based *Perception *checks] 
+
+**WEAPONRY** 
+
+**Brodie XAP4 Auto Pulse Laser*** 
+
+**Damage Value: **9D 
+
+**Range:** 
+
+Short: 3-40
+
+Medium: 250 
+
+Long: 750 
+
+Fire Control: +1D 
+
+**Ammo: 100** 
+
+*This weapon can be reloaded from the back. 
+
+**Brodie Repeating Laser Pistol** 
+
+**Damage Value: **4D 
+
+**Range:** 
+
+Short: 3-25
+
+Medium: 75 
+
+Long: 150 
+
+**Fire Control**: +1D 
+
+**Ammo- *** 
+
+*Consider this weapon to have unlimited ammo as long
+as suit is charged. 
+
+**The McGinley Powered Armor Series**
+
+The McGinley Corporation is one of the last major armor
+manufacturers still producing its own unique gear and not just ripping off Brodie.
+
+**McGinley XR Scout Armor (8/10)
+
+**The XR is considered a nice piece of work by the
+people who rely on it to keep them alive another day, and the fact that they're around to
+talk about it is a better endorsement than any I could give. 
+
+The suit's made of plasteel, with a light servomotor
+system to assist with movement. The wearer can get comfortable and move almost as if he
+weren't wearing armor. Buyers should remember, though, that the XR is designed more for
+stealth and freedom of movement than for toughness, and so won't stand up to as much
+punishment as a Brodie DSAC. 
+
+Additional features of the armor include a full
+electronic countermeasures suite, thermal masking, and light absorption paint which covers
+the entire suit. The XR also acts as an ENVI suit and is capable of self-sealing when
+breached. [Add +3 to Sneak vs. on someone in this armor with the naked eye, +1D+2 to Sneak
+vs. *Sensors Skill.]* 
+
+**McGinley Security Helmet (5/0)
+
+**This is one of the better sellers for McGinley,
+a power armor-style helmet without the armor. Constructed of plasteel with reflective foam
+padding, it offers good pro tection but is light enough not to fatigue the wearer. One of
+the most popular sale items for McGinley Corporation is the security helmet. It is
+essentially a power-armor helmet with the armor. The helmet is constructed of plasteel
+with reflective foam padding. This offers a great deal of protection to those who wear it,
+but is still light enough to wear for long periods of time without causing a great deal of
+fatigue. It also features an air filtration system, external audio pickup and five channel
+comlink. 
+
+**McGinley Paladin Battle Armor (8/10)
+
+**Described in McGinley's advertisements as
+"an affordable alterative to Brodie's high-cost armor," the Paladin is this
+growing company's shot at the Mark IV. It has full ENVI capabilities but does not offer
+the kind of protection or all the extras that the Brodie does. But it is less expensive
+than the Brodie suits, so merc groups down on their luck and megacorporate cred-counters
+shopping for their marines have been known to settle for this. 
+
+---
+
+**Other Suits**
+
+**Brodie K-Mealeon Stealth Suits** 
+
+The Brodie K-M Stealth Suit allows the wearer to blend in with his
+surroundings, escaping the notice of observers and sensors. The materials which comprise a
+stealth suit provide a combination of thermal damping, radar and sonar absorption, as well
+as ambient light absorption and reflection. The stealth suit clings tightly to the wearer,
+yet allows breathing through the fabric. It is not designed to operate in a vacuum, and
+someone going EVA will still need to wear a space suit. The basic suit costs 6000 credits
+and provides some concealment against being seen or smelled. Additional options, which
+provide both greater concealment and concealment against different sensors, can be
+purchased for the costs shown. These costs are in addition to the cost of the basic unit. 
+
+| **Brodie K-M Stealth Suit ** |   |
+| --- | --- |
+| **Style** | **Sneak bonus ** |
+| **Base Suit (light absorption) ** | **Adds +2 to Sneak
+<br>    versus sight/smell ** |
+| **Infrared** | **Adds +1D+1 to Sneak
+<br>    versus infrared ** |
+| **Sonar** | **Adds +1D to Sneak
+<br>    versus sonar ** |
+| **Radar** | **Adds +1D to Sneak
+<br>    versus radar ** |
+| **Slick Option** | **Adds +1D+2 to Dodge
+<br>    versus grabs/holds ** |
+
+---
+
+**Power Sources** 
+
+The "power" in power armor means just what it says:
+servomotors and minihydraulics keep the suit working, and these need power to operate. The
+power pack is normally located in the breastplate and can keep the suit charged for a
+week. Many suits of power armor are sold in pieces. If this is the case, a breastplate
+must be purchased to get the suit operational. 
+
+Some suits come with external power packs that can operate add-ons and
+weaponry. It is also possible to purchase suits with heavy weapons linked to them. In this
+case, a backpack sized power pack is needed and replaces the smaller external one. Both
+the small and large external packs can provide power for a week. 
+
+---
+
+**Power Armor and Movement** 
+
+One of the advantages of power armor is that it allows you to move at
+close to the same speed you would if you weren't wearing any armor at all. Use of power
+armor requires the *Power Suit operations *skill. 
+
+The following rules apply to the use of power armor: 
+
+- A character in power armor who suffers a knockdown or is prone for any
+    reason must succeed against* *a* *Moderate difficulty on* Power Suit
+    operations*.
+
+- Add +2 to the *running *difficulty numbers of characters in power
+    armor.
+
+---
+
+**Combining Armor** 
+
+Many of the armor types listed below may be combined.
+The listing below tells what armor may be worn with what other armor.
+
+**Syntheleather**: may be worn under syntheleather
+mesh, reflec, plasteel Stormtrooper, Bounty hunter, power, or Brodie armor or over padded,
+reflec, or plastovar. 
+
+**Padded**: may be worn under any type of armor. May
+not be worn over any armor (other than cybernetic). 
+
+**Syntheleather** **Mesh**: May be worn under
+Brodie or power, or over padded, reflec, or plastovar. 
+
+**Plastovar**: May be worn under syntheleather,
+syntheleather mesh, Brodie, or powered armor, or over reflec or padded. 
+
+**Reflec**- May be worn under syntheleather or
+syntheleather mesh or over plastovar or padded. 
+
+**Plasteel**: May be worn over padded or
+syntheleather. 
+
+**Power** **Armor**: May be worn over padded or
+syntheleather. 
+
+**Brodie** **Armor**: May be worn over padded. 
+
+---
+
+| [![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)<br>
+<br>    Addons](SWSZAddons.htm)  |
+| --- |
+| [![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)<br>
+<br>    Back to Shatterzone to Star Wars](../SZtoSW1.htm)  |
+| [![Image](images/17f090801bfbaf2b2c8f81fb083acbb8a635a56c8323f6f295917c305b07f6b8.gif)<br>Back
+<br>    to Source Material](../source.htm)  |
+| Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).  |

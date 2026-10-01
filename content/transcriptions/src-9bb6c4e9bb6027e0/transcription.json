@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9bb6c4e9bb6027e0",
+  "name": "DSCHILLW",
+  "sha256": "9bb6c4e9bb6027e06cd4c1043694972cb980d3728eca1ab11ab93c345ad39ff8",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCHILLW.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "26ddc8678f20c471fd2df75c63ca8f6b6e0723e9d7cd790d62dfc7f7c4585d08",
+  "fileHashes": {
+    "book.md": "bae567c72bd1cccfcfd45d3960a5ef7eb14c08d324e6dc58a809554e12711d22",
+    "pages/0001.md": "4bead8b65b58cb1e3124a694431bc6f8d3784c23f5c0ba950dcb25f57debad12"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0a0d4c744669aa16",
+  "name": "thermaldet",
+  "sha256": "0a0d4c744669aa160fe784789452bd8c337c23e87892ede9ed28393dc7d5180f",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/thermaldet.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4129afcaa2f4572a2b93c63458b619861bc77b4c95f395a1f02da3777ffae11c",
+  "fileHashes": {
+    "book.md": "858fc0b5c6b7184b14f2b3386906b89637e6e1935d635cf8f00d27fb054b5743",
+    "pages/0001.md": "078bed4c6508a622c08f9647472b6f059f83e6ae3b8206018f4977c4e9a0eea7"
+  }
+}

@@ -1,0 +1,124 @@
+# Gorak
+
+Source: `src-ed3a7f2e57e3bfac` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-ed3a7f2e57e3bfac; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Lieutenant Commander Gorak Khzam
+
+# Lieutenant Commander Gorak Khzam
+
+## Chief Security Officer, New Republic Starship *FarStar*
+
+Played by [Jamie Thom](credits.html#jamie)
+
+ 
+
+![Gorak](images/fd3d466ae4ccc5bd3b2d27631963cc4dc86b10eea75e62f28b2f141c138fe26e.jpg)
+
+{Kozak lo neetska!}
+
+ 
+
+The Rodian Gorak Khzam has been placed in charge of shipboard security. He claims to have some knowledge of the systems within Moff Kentor Sarne's Kathol sector from his years as a free trader in this area. His experience gives him some insight into the various settlements and cultures in this sector, and he might even be able to offer some contacts who could aid the FarStar in the completion of its mission. Khzam spends much of his time on the bridge of the FarStar overseeing operations, and is often near Captain Keleman Ciro and First Officer Kaiya Adrimetrum to offer suggestions or alternative strategies when asked. He seems to be mindful of the needs and safety of the crew, and Captain Ciro seems confident enough in him to ask Khzam to comment and critique his ideas in certain situations.
+
+ 
+
+Gorak is a peculiar individual, and has a multitude of odd behaviours. He avoids physical contact with others whenever possible, to the point where he refuses to enter hand-to-hand combat. He is also mindful of how close others come to him. A sure way to upset Gorak is to invade his 'personal space' by coming more than half a metre close to him. He is fond of telling others {Kozak lo neetska}, meaning "Keep to your own space." As may be expected, this results in a lonely and rather loveless existence.
+
+ 
+
+Gorak's attitude seems condescending regarding other non-Rodians or non-Humans, especially those species officially enslaved by the Empire. He is very careful around these aliens and avoids them when he can. He's often looking over his shoulder, as if someone is stalking him. Gorak is often slow to offer information or advice unless asked directly; at times, it seems as if he wants to voice his opinions in no uncertain terms, but keeps them to himself until he is asked.
+
+ 
+
+Of all the FarStar crew, Gorak has the most to hide. Far from the 'free-trader' he claims to be, he was a member of a small-time slaving syndicate which operated throughout Kathol sector and in some neighbouring sectors. Gorak was in charge of security for the Sabiador Slavers, the group which actively sought out aliens for Moff  Kentor Sarne's arena. He personally holds most 'lower' alien life forms in contempt - to Gorak, anything beautiful or exotic is something to be enslaved; a lesser being.
+
+ 
+
+The Sabiador Slavers have since disbanded, their members scattered throughout the Kathol sector, the Minos Cluster and the regions beyond.
+
+Gorak Khzam, however, remains fearful that his past may be revealed. His principal reason for joining the FarStar crew is to flee retribution from some of his former slaves. Fortunately, few beings outside of the Sabiador Slavers themselves know Gorak's identity. For all anyone else knows, he could very well be just a simple trader. The FarStar expedition was his only way off Kal'Shebbol, the sector capital, and the only ship headed in his direction - unknown space. It also had the added bonus of being filled with a crew which, if he kept on the right side of it, would be loyal to him and protect him. What he did not expect was that several of his former slaves would be brought aboard the FarStar as crew. Still, his identity remains undiscovered as yet. Khzam has no qualms about covering up his past, either through fancy talking or, when he can be subtle about it, lethal force. Gorak goes out of his way to avoid possible former slaves among the crew, just in case.
+
+ 
+
+Few suspect Gorak's chequered history; Lieutenant Jessa Dajus knows who he is, and knows he was one of Moff Sarne's suppliers for slaves. Fortunately, Gorak knows of her true rank of Colonel and role in the Moff's service. If there is one being aboard the FarStar whom Gorak considers a friend, it is the Defel, Kl'aal. The two have known each other previously, having met through their affinity for hunting on uninhabited planets, a practice which they intend to resume at some quiet point in the mission. However, Gorak knows that Kl'aal might feel differently if he knew Gorak's true motivations.
+
+ 
+
+Gorak Khzam is cool and calculating, if not quietly savage and bloodthirsty. He has a distinct tendency to shoot first and make up a justification for his actions later - although he always makes sure that no others witness his handiwork, and that he has a reliable alibi. Gorak's primary concern is self-preservation - it is said that he never carries less than two weapons, even if they are not immediately apparent. He even sleeps with a weapon close at hand. Gorak is always on the lookout for a good world where he can hide if his past is ever revealed, and he always has some backup plan in mind in case he must flee.
+
+ 
+
+Gorak has no reservations about joining or leading ground teams bound for uninhabited planets, or those with no apparent civilisations, but he tends to avoid visiting highly settled worlds or Imperial outposts - places where people might recognise him as a slaver. The Rodian is a weapons expert and a crack shot with a blaster. He is also well-versed in the use of the Rodian Repulsor Throwing-Razor.
+
+ 
+
+***
+
+Season Three Update:
+
+ 
+
+***
+
+During season two, Gorak was possessed by the spirit of the Twi’lek Dark Jedi Vee’khar, and while under his influence was forced to betray the crew of the *FarStar. *The crew followed Gorak/Vee’khar back to the Clone Wars and foiled the Dark Jedi’s schemes, forcing him out of Gorak’s body. Gorak returned to the crew, almost universally mistrusted, hated for things he had not really had a choice in doing – and found himself a changed, penitent being. After being possessed and used like a puppet, he finally understood what it was like to be a slave, and felt remorse for his actions. He gave anyone who felt they had a score to settle a chance to do so. However, the moment Gorak was dreading was telling the Wookiee Lofryyhn that it was he who had sold the Wookiee into slavery – Lofryyhn simply hit Gorak once, broke a few of the Rodian’s ribs, and left it at that. The two get along fine now, and Gorak swore a Wookiee life debt to Lofryyhn. Now the crew of the FarStar have regained a lot of respect for the Rodian, and he has accepted his old job as Security Chief, along with a field promotion to Lt. Commander.
+
+ 
+
+ 
+
+*
+
+Chance Meeting
+
+* 
+
+ 
+
+*
+
+"Well, well," Jessa said darkly, pushing the Rodian out of the flow of people and against a convenient wall. "If it isn't Gorak Khzam. I don't think Kal'Shebbol's new owners would approve of civilians carrying weapons in the streets," she continued, eyeing the Rodian's shock rod.
+
+ 
+
+Khzam hissed a snort of contempt. {And you would tell them?}, he snarled in Rodian. {You, Dajus, yourself an Imperial officer?}
+
+ 
+
+"An ex-Imperial officer," Jessa corrected, keeping the alien's arm firmly pinned down over his concealed weapon. Shock rods could be nasty. "I've resigned my commission."
+
+The Rodian hissed again. {And you would seek to ingratiate yourself with the New Republic by turning me over to them?}
+
+ 
+
+"I'd consider it more a part of the common effort to beautify the galaxy," Jessa retorted. "Not to mention a good start to putting my finances back in order. The bounty on you must be what, ten thousand by now?"
+
+ 
+
+Khzam's eyes flicked across the flow of pedestrians swirling about them. {Interesting about your resignation,} he said softly. {Unusual that Moff Sarne would allow a person of your importance to leave his service alive.}
+
+ 
+
+A cold knot settled in Jessa's stomach. Could the Rodian know who she really was? "You have an overly high opinion of a shuttle pilot's value."
+
+ 
+
+Khzam's ears curled around. {Come now, Colonel Dajus. There's no need to play games here. Or shall I call Lieutenant Page over here?}
+
+ 
+
+Slowly, Jessa let her arm fall from Khzam's shoulder. He knew, all right. "I don't suppose there's any need to bother him."
+
+ 
+
+{Of course not,} the alien assured her, his ears swivelling. {And rest assured, Colonel, that your secret is safe with me. As, I presume, mine is with you?}
+
+ 
+
+Jessa grimaced. To let someone like Gorak Khzam run around loose... But there was nothing she could do. "Get out of here," she growled. "Just go." 
+
+*

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1aa1f8ebdc4be24d",
+  "name": "timeline",
+  "sha256": "1aa1f8ebdc4be24d6ebc74fc9821e70968042171440ba2d3478e09de59442575",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/timeline.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1f9151ab470ad1b1735ccb7ce2bdd9fb4ca86089dc2bc58400cfaa32bd5e994e",
+  "fileHashes": {
+    "book.md": "6cca8515fc32c13b23ee73c62b4454d8dee4103592d4834d911cb4d837b1282c",
+    "pages/0001.md": "0526584d7035601b8aae15b6dd1d786b0d1b1878422a3a4f0ac82eecabd73fc7"
+  }
+}

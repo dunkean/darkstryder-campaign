@@ -1,0 +1,99 @@
+{
+  "sourceId": "src-21241c801f05fd1c",
+  "sha256": "21241c801f05fd1c1578b9ae5da51537995a1e6a582d676f8922dce3b81310bf",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2524,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/nrlogo.jpg"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/ds/images/nrlogo.jpg"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/395a35fc46e978b82fbe80b88450f4da8be3b8313c32cd3c437011efc4099cf8.gif",
+      "origin": "images/cntrlpnl/top_corner_left.gif",
+      "sha256": "395a35fc46e978b82fbe80b88450f4da8be3b8313c32cd3c437011efc4099cf8"
+    },
+    {
+      "file": "images/f9caaba8bb2028f81e43282b991cc209193f740acb1ec79c8b9d070eb7f2ffde.gif",
+      "origin": "images/cntrlpnl/top_control_plain.gif",
+      "sha256": "f9caaba8bb2028f81e43282b991cc209193f740acb1ec79c8b9d070eb7f2ffde"
+    },
+    {
+      "file": "images/a34ad905c2b6ab7b2f594aa9b2e53cde30d9e66af716d8c3035c66d8f6fa387a.gif",
+      "origin": "images/cntrlpnl/top_corner_right.gif",
+      "sha256": "a34ad905c2b6ab7b2f594aa9b2e53cde30d9e66af716d8c3035c66d8f6fa387a"
+    },
+    {
+      "file": "images/7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541.gif",
+      "origin": "images/cntrlpnl/left_side.gif",
+      "sha256": "7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541"
+    },
+    {
+      "file": "images/4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02.gif",
+      "origin": "images/cntrlpnl/right_side.gif",
+      "sha256": "4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02"
+    },
+    {
+      "file": "images/7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541.gif",
+      "origin": "images/cntrlpnl/left_side.gif",
+      "sha256": "7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541"
+    },
+    {
+      "file": "images/4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02.gif",
+      "origin": "images/cntrlpnl/right_side.gif",
+      "sha256": "4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02"
+    },
+    {
+      "file": "images/7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541.gif",
+      "origin": "images/cntrlpnl/left_side.gif",
+      "sha256": "7a0509151fed4044cc09bdfd43a70de3cbc3e2af0dbe3827c5e1425245a73541"
+    },
+    {
+      "file": "images/4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02.gif",
+      "origin": "images/cntrlpnl/right_side.gif",
+      "sha256": "4740c2726a6fc1d41ec96027b83c746a3994417539ebd29285c781bf42b0ad02"
+    },
+    {
+      "file": "images/8d6098811b98c8cb1ef63d1eba987124a50c962c7eb07d4aeca60e6b2d7c72dd.gif",
+      "origin": "images/cntrlpnl/lside_bottom.gif",
+      "sha256": "8d6098811b98c8cb1ef63d1eba987124a50c962c7eb07d4aeca60e6b2d7c72dd"
+    },
+    {
+      "file": "images/ce6603137d4902ef31773eba617299e64643a9211f7feab412462893a4b85c55.gif",
+      "origin": "images/cntrlpnl/center_bottom.gif",
+      "sha256": "ce6603137d4902ef31773eba617299e64643a9211f7feab412462893a4b85c55"
+    },
+    {
+      "file": "images/170d82cb8109c666a0c426a4ab8589accd9e78898a59e1797fb433ae5c7d6c6c.gif",
+      "origin": "images/cntrlpnl/rside_bottom.gif",
+      "sha256": "170d82cb8109c666a0c426a4ab8589accd9e78898a59e1797fb433ae5c7d6c6c"
+    },
+    {
+      "file": "images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif",
+      "origin": "images/nricon.gif",
+      "sha256": "cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

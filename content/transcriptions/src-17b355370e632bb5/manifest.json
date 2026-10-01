@@ -1,0 +1,50 @@
+{
+  "sourceId": "src-17b355370e632bb5",
+  "sha256": "17b355370e632bb5385fb3301e8294e10c9c18711b8745b255dd91f9491cb2a4",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1282,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/b95f9c83ee6739a57fc50040e29925afcc02974d63d6d4884df077a5e7e7e116.jpg",
+      "origin": "images/season3_bw.jpg",
+      "sha256": "b95f9c83ee6739a57fc50040e29925afcc02974d63d6d4884df077a5e7e7e116"
+    },
+    {
+      "file": "images/bb0f2c3104c9213f2f2af6ce18a7f4018dd97197154a341acc1129adbcd7532d.gif",
+      "origin": "images/season1_thumb.gif",
+      "sha256": "bb0f2c3104c9213f2f2af6ce18a7f4018dd97197154a341acc1129adbcd7532d"
+    },
+    {
+      "file": "images/d0f8b71eaaf725f17a6ad7420b26925203cb523036f5ffc5f02787344c069262.gif",
+      "origin": "images/season2_thumb.gif",
+      "sha256": "d0f8b71eaaf725f17a6ad7420b26925203cb523036f5ffc5f02787344c069262"
+    },
+    {
+      "file": "images/12ede11188a93f1f207b80b832b9051a3918925560a65ebec6e65b97187b8eff.gif",
+      "origin": "images/resurection_thumb.gif",
+      "sha256": "12ede11188a93f1f207b80b832b9051a3918925560a65ebec6e65b97187b8eff"
+    },
+    {
+      "file": "images/03f74d112bb9ca7ecfec0e3b424f7d1f3a8d194d11f8c184c1fbe2efbe4a3ece.gif",
+      "origin": "images/outriders_thumb.gif",
+      "sha256": "03f74d112bb9ca7ecfec0e3b424f7d1f3a8d194d11f8c184c1fbe2efbe4a3ece"
+    },
+    {
+      "file": "images/9ae0cfae2139cb734c43db1f09bd528fd7489ce92685c55b23fce12ec8121a35.gif",
+      "origin": "images/bothans_thumb.gif",
+      "sha256": "9ae0cfae2139cb734c43db1f09bd528fd7489ce92685c55b23fce12ec8121a35"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9bda319263a046d3",
+  "name": "lopak",
+  "sha256": "9bda319263a046d3bc4df231903037c6e1c1c5f2d508b225962c73c33cb6e861",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/lopak.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "54cbb8c7ec0e2e8c819e222329ca57f0b26c612b7949ecf1adbcd623dde59c0c",
+  "fileHashes": {
+    "book.md": "1231b01d58a77412999ab4bf1c8df5481127bd2bf6b8e05e739397f49283c9fa",
+    "pages/0001.md": "40385955e0eab38ebf2478c41437f49a287bc75ae78bb0ed28041db89fde2a4d"
+  }
+}

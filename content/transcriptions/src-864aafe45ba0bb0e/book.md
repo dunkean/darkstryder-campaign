@@ -1,0 +1,25 @@
+# LINKS
+
+Source: `src-864aafe45ba0bb0e` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-864aafe45ba0bb0e; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Obligatory Links Page
+
+# Comm Links
+
+- [Troops](http://www.theforce.net/troops/): A Star Wars Parody of COPS, a large quantity of stuff to download but *so* worth it!
+
+- [Another Darkstryder Page](http://users.vnet.net/seawolf/sw/ds/). These guys seem to have messed about with the campaign almost as much as we have and their mission log is therefore interesting. We are a little bit bitter that they nicked our original page's disappearing text (fixed stuff that wasn't impressive as the [bridge](bridge.html)).
+
+
+| [The Main Bridge](bridge.html) | 
+[The Flight Recorder](recorder.html) | 
+[The Personnel Files](personnel.html) | 
+[The Captain's Log](log.html) | 
+[Mission Reports](reports.html) | 
+[Ensign Hydan's Desk](hydan.html) | 
+[Comm Links](http://ppewww.ph.gla.ac.uk:80/~pickford/starwars/farstar/links.html) |

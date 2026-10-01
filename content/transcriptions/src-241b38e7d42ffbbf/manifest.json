@@ -1,0 +1,52 @@
+{
+  "sourceId": "src-241b38e7d42ffbbf",
+  "sha256": "241b38e7d42ffbbf5b85f7eff9e676acf0bb64584be5ddb0045ca6f3351f212b",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 18838,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "images/nrlogo.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../../icons/yl_r_arr.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/627ea99ffbb407dcc52ee4b667c8fd5be32dd426dd1e64800cfe4cd46d7ea7c0.jpg",
+      "origin": "images/chillweaver.jpg",
+      "sha256": "627ea99ffbb407dcc52ee4b667c8fd5be32dd426dd1e64800cfe4cd46d7ea7c0"
+    },
+    {
+      "file": "images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif",
+      "origin": "images/nricon.gif",
+      "sha256": "cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

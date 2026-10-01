@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-09227ee16ee793d2",
+  "name": "swnewtech",
+  "sha256": "09227ee16ee793d2fe32922163475afc3bc0cebe6e545cf53daa12ab4bcab643",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/swnewtech.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "41151f47ec895a04e96f2af154d86fc3f08a617439e8be8cd9e02f273e6cb0be",
+  "fileHashes": {
+    "book.md": "4737593e03d794709d49c9f5eb1fd56695fa820668da89d7349bc8734a876604",
+    "pages/0001.md": "0eaf62812bb0a113eef41bbcb99c14474bfcfb792bf8631866de2c4ae3c1b0c1"
+  }
+}

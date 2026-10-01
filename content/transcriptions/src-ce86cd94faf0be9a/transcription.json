@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ce86cd94faf0be9a",
+  "name": "swlink",
+  "sha256": "ce86cd94faf0be9a36704694c3333451ee3963971e4d46b574d30dcbaca6bb0e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/swlink.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d41c9ee50650e45d7aefe399040c266bbf0f5b890af4c30a693c2fa01d6fd77f",
+  "fileHashes": {
+    "book.md": "7f491e4c11f19f2748b79826a15536cb1c2d11782861ba7228b5895990c9e904",
+    "pages/0001.md": "d7986833455b39dbe4f10cd3c009e0cf2674f76a07837ccc956b1276b1c398cd"
+  }
+}

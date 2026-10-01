@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9624b30dbddbb53d",
+  "name": "JDRVirtuel • Afficher le sujet - L'Équipage de L'Étoile Lointaine",
+  "sha256": "9624b30dbddbb53dd23706a28392bcf1bcdf517fa95bbf02b70fbc76120c6c8c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - L'Équipage de L'Étoile Lointaine.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c437a5b366b61b3697256896f6a84af67581b8beb68bc1e74f2d7b2107aaf4e8",
+  "fileHashes": {
+    "book.md": "7c29155e6b041c3ed7aea910b903093cf10e9b6def527edcbf603842e72beba9",
+    "pages/0001.md": "af6a2f1926b4154bd4e8f4c213ba8511af21f79b504f06806b54eae5d1853dba"
+  }
+}

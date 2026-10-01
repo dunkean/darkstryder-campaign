@@ -1,0 +1,32 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-6dfcf186468bdd71",
+  "name": "Starfall",
+  "sha256": "6dfcf186468bdd71feda95b63fd80ae7bec68ea190708ae4bbc88c0b6415a134",
+  "pdfPages": 5,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 5,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Starfall.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bb7b439f23342e4eece53c45426c9b7a8b32a01e51ba0817ac7ad8178f665e9b",
+  "fileHashes": {
+    "book.md": "4669c8641a672838c3c6f339445968ae5b02dd3d8de76c8beda01e0b6d791b99",
+    "pages/0001.md": "af38bda566ea388635fa9c465b75a38e85611b4ffa2d75a384fd0ab1e932361a",
+    "pages/0002.md": "2e2ab6875e543d3221ebbd257ff6db527de59ad7aa407fc403efe928aabdcaf6",
+    "pages/0003.md": "7e465b9ca7e89e37c1039b95170518751db8df8f6efa6e58e618c3b0b55b4fa7",
+    "pages/0004.md": "1f6d941370d86906abc1d4d7c707aee05f4c441970166a01c38453f0f6f313dc",
+    "pages/0005.md": "5e5f0d44d3026bf502261c1f7fa9aafa972b58b87ce419dade16f09d158dc393"
+  }
+}

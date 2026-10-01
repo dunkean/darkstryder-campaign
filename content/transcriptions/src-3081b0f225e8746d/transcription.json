@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3081b0f225e8746d",
+  "name": "Addons_to_DS",
+  "sha256": "3081b0f225e8746d875dea0dce910a3304de7cb4e50acb877ed1ee73d61ea4f4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Addons_to_DS.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Addons_to_DS.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b1c25d04246e12a4a641bfb594beb3e6ac9209e02a8b4f462127b82728cfef23",
+  "fileHashes": {
+    "book.md": "606ad679781c35942ee0749368d9ea99106ac70d4f3123db6cd1c7ffe406c525",
+    "pages/0001.md": "bd491524c7a92067adf5b3bc580696a0e6d203e1e4ea2d50c669acf95d85c28f"
+  }
+}

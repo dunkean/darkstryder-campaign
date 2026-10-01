@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-e60a73185b639d0a",
+  "name": "DSQuestOnShantuun",
+  "sha256": "e60a73185b639d0abd69bba96249bf6d185e32bcb027abbff0860846152814b9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSQuestOnShantuun.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a74cd964d087ad8df8783ab71fe2e02171b5a894874564f67389aa76fcdaf387",
+  "fileHashes": {
+    "book.md": "25739f4cb9fa0e687f8b88ed301c72f6bbb2c77c8104f2f06832f07448c81aea",
+    "pages/0001.md": "d3cbcee25ce979c2addc905f4516142a6a346f8d0d548bd81c487923f258f220"
+  }
+}

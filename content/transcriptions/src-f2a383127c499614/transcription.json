@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f2a383127c499614",
+  "name": "drake",
+  "sha256": "f2a383127c49961432feb6144a6777b72bd104bdc45ad1eef2caaae971d0aad6",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/drake.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d5cf4b2c457dd8eee0268e36df92b5911ea6bbf3dae2e571e97d0bb372786a3d",
+  "fileHashes": {
+    "book.md": "0f76c0b62d06ee05769ba7aa7e7eff3dd304f89d99ed0da2b1528eba32b76c7d",
+    "pages/0001.md": "a805c027d59fb7a1225c9b13a210e5f8ded378e70f3b1777b890d61aa56575e1"
+  }
+}

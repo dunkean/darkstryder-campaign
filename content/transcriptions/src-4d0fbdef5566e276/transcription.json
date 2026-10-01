@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4d0fbdef5566e276",
+  "name": "Dsexocro1",
+  "sha256": "4d0fbdef5566e276de25c32a6a9204f69a67b6e2dad1f11bd8daece69608d3b5",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsexocro1.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1577f0b3766c4bf599eef459e7a5d16f426ff823b685dde30b9804b34a7b3425",
+  "fileHashes": {
+    "book.md": "64b00e358a7f450eb0672c5b3aac98d9570a0bc7c7c81884c2cb138a3509609a",
+    "pages/0001.md": "55e780d2190d7cf7712b52de08beab42089f8d66c4adace24b8d73ab35cdc781"
+  }
+}

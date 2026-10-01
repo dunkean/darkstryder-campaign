@@ -1,0 +1,40 @@
+{
+  "sourceId": "src-4de8972318251320",
+  "sha256": "4de8972318251320be71e8053d4289ee6091a6e3fc9fbcab28413917da0fb673",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1840,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "../../sz/images/szsmall.jpg"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg",
+      "origin": "../images/swsmall.jpg",
+      "sha256": "c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

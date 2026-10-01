@@ -1,0 +1,137 @@
+# starlines1
+
+Source: `src-3f488e139e9861ca` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-3f488e139e9861ca; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Star Lines Issue 1
+
+Star Lines
+
+Volume 1, Issue 1
+
+THE UNOFFICIAL, UNSANCTIONED ONBOARD MAGAZINE OF THE FARSTAR
+
+Hard Copy Edition
+
+
+Right, first the introductions. We, the editorial team of the first FarStar News letter, know we have no right and no permission to write this. We have no kind of authority whatsoever on board, and we fully expect the command crew to one day get hold of a copy of this august organ. When they do, we have only one thing to say to them - TOUGH: It's about time the common crewman had some say in this crazy mission, and this is the mouthpiece of the below-decks button-pusher. So, if there 5 any view you wish to air, we will find you and ask you to submit!
+
+So, until next issue, enjoy - and keep your chins up, this mission can t go on forever.
+
+May the Force be with you, The Editor.
+
+
+FARSTAR NEWS:
+
+
+Gammer Firdaaz1s Firstnight Sabacc game began last night, with most of the scout team in attendance. Conspicuous by his (apparent) absence was the team leader, Kl'aal. The game was won by one of the outside players, pilot Tal Achilleos, after thirty-two rounds. Winning hand was a straight Idiot 5 array. Drinks on Tal when we reach Gandle Ott.
+
+
+It's official: Following an argument in the mess hall between Turgah and Carzyn, the Captain herself was forced to choose between the Dantoome Dewbacks and the Bespin Banthas Slamball teams, and thus settle the altercation. Her verdict was that the Dewbacks' hitting average outstripped the Banthas' over three full seasons - so bad luck all you BB fans, New Republic High Command is backing the Dewbacks this season.
+
+
+This just in - we've recently heard that the FarStar may become home to a hangar-based Slamball league of its own. More news on this as it develops.
+
+
+We thought that it might be a laugh to compare the mighty little FarStar with the hottest luxury liner in the spacelanes. All those who have a hard time handling irony had better turn the page now.
+
+## Cruise the Outer Rim
+
+Come... aboard the NRS FarStar for an exciting, adventure-filled mad dash through the Outer Rim, From Kal'Shebbol, your first port of call will be Kolatill, where you can brave the war-torn, bombed-out ghettos  See Aaris III, a world teeming with weird alien artifacts. Enjoy the picturesque mushrooms of Gandle Ott. And, from the FarStar's hangar deck, witness one of the wonders of the universe as Gorjaye disciplines another pilot.
+
+The least said about Bongo's cooking and the sleeping arrangements, the better. Sign up now!
+
+
+For the benefit of the diehard New Reps in the crew, we've here reproduced one of our favourite old Alliance drinking, marching and fighting songs as a kind of crew anthem. Enjoy!
+
+
+In the grave of Alderaan,
+
+In the night of Charenthoth,
+
+In the Sands of Tatoome,
+
+And the bloody hell of Hoth,
+
+
+We will meet the enemy,
+
+We will sound the battle-cry,
+
+With our comrades at our sides,
+
+We will fight and we will die:
+
+
+Though they hunt us 'cross the void,
+
+Though they kill us by the score,
+
+Though they crush our blessed home,
+
+Though the mighty Death Star roars,
+
+
+(CHORUS)
+
+
+-Battle Chant of the Legion of Alderaan.
+
+**Mess Hall Special menu:**
+
+
+In. honour of one of his wild religious festivals, Bongo has prepped a special menu for next week:
+
+
+Cholla a la Bongo
+
+Mynock Surprise
+
+Bongo's Bantha Burgers
+
+Gandle Ott style Mushroom Stuffing
+
+and the piece de resistance:
+
+Bongo's vegetarian lasagne.
+
+
+
+Also available:
+
+Fadge Antilles
+
+Ham Solo
+
+Spam solo
+
+Jam Solo
+
+Boba Fettuccini
+
+Admiral Pie - tt
+
+Flan - Dough Calrissian.
+
+Leek Skywalker
+
+Princess Lentil Oregano
+
+Jaffacake the Hutt
+
+Porkins Scratchin 's
+
+Admiral Choc bar
+
+**THE GRAND FARSTAR 'SPOT THE DEFEL' COMPETITION:**
+
+
+As we all know, the gnarly Kl'aal is a hard man to spot. So, we decided to base this little contest on that fact. All you have to do is study the picture below, and place a large 'x' between where you think the Defel's eyes are. The prize is a brand new Defel - and let's face it folks, we could do with a new one.
+
+![Spot the Defel](images/d86adbc2551c6be67496182e3209128fdeaee736a154fb3c58bb22bd570d6ebb.gif)
+
+![Page 3](images/03e0b26ba4e81eb0ca7d5d87492b5189245bb4ef5d255d919900abb3a474c767.gif)

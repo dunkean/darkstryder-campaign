@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-dcaeecc2f442f2f7",
+  "name": "DRALASITES",
+  "sha256": "dcaeecc2f442f2f7fbb261f6277ccc0cfc787662f354d83341314256bcb064fd",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/DRALASITES.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fc610a44c53753cffd2ec55b65e6a7c54abf16635abb8758f0bc746204d62604",
+  "fileHashes": {
+    "book.md": "c8b8a5a837459563e3cca5793d401d9bfd26c6c95aba09c6bbb7650939f88f56",
+    "pages/0001.md": "0ca1b0c4e4141651ccb0b0a44fedc3256bb2589fa1d325d708e96d13ab8780ee"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "sourceId": "src-b9ae28cfec344815",
+  "sha256": "b9ae28cfec344815e0de8f5d7cd64ffcf184dff17a96ef4c1a43c50c4e3415db",
+  "engineId": "docling-rapidocr-torch-cuda-v1",
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "versions": {
+    "docling": "2.91.0",
+    "docling-core": "2.74.1",
+    "torch": "2.11.0",
+    "rapidocr": "3.8.1",
+    "transformers": "5.6.2"
+  },
+  "languages": [
+    "english"
+  ],
+  "nativeTextPreserved": true,
+  "tableMode": "accurate",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 3197,
+      "nativeCharacters": 3284,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 6.71,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9239041667718154,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.9619520833859077,
+        "low_score": 0.9277089584332247
+      }
+    },
+    {
+      "page": 2,
+      "characters": 1845,
+      "nativeCharacters": 1521,
+      "tables": 3,
+      "images": 1,
+      "flags": [],
+      "seconds": 2.7,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8944841086864471,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9472420543432236,
+        "low_score": 0.8997599032521247
+      }
+    },
+    {
+      "page": 3,
+      "characters": 2635,
+      "nativeCharacters": 2422,
+      "tables": 1,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 2.3,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8445622801780701,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9222811400890351,
+        "low_score": 0.8523341661691666
+      }
+    },
+    {
+      "page": 4,
+      "characters": 5512,
+      "nativeCharacters": 4556,
+      "tables": 1,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 4.04,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8243241012096405,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9121620506048203,
+        "low_score": 0.8331078961491585
+      }
+    },
+    {
+      "page": 5,
+      "characters": 1105,
+      "nativeCharacters": 920,
+      "tables": 1,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 1.24,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.7911736369132996,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "good",
+        "low_grade": "good",
+        "mean_score": 0.8955868184566498,
+        "low_score": 0.8016149550676346
+      }
+    },
+    {
+      "page": 6,
+      "characters": 2488,
+      "nativeCharacters": 2578,
+      "tables": 0,
+      "images": 1,
+      "flags": [],
+      "seconds": 2.63,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.9673395768190042,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "excellent",
+        "mean_score": 0.983669788409502,
+        "low_score": 0.968972597978054
+      }
+    },
+    {
+      "page": 7,
+      "characters": 3717,
+      "nativeCharacters": 3827,
+      "tables": 0,
+      "images": 2,
+      "flags": [
+        "layout-low-confidence",
+        "ocr-low-confidence"
+      ],
+      "seconds": 1.6,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.7146638536453247,
+        "table_score": null,
+        "ocr_score": 0.56937,
+        "mean_grade": "fair",
+        "low_grade": "fair",
+        "mean_score": 0.7613446178817749,
+        "low_score": 0.5838993853645325
+      }
+    },
+    {
+      "page": 8,
+      "characters": 3386,
+      "nativeCharacters": 3470,
+      "tables": 0,
+      "images": 0,
+      "flags": [],
+      "seconds": 0.75,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8634859598599948,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9317429799299974,
+        "low_score": 0.870311661866995
+      }
+    },
+    {
+      "page": 9,
+      "characters": 4782,
+      "nativeCharacters": 4859,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 0.9,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.681805819272995,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "good",
+        "low_grade": "fair",
+        "mean_score": 0.8409029096364975,
+        "low_score": 0.6977155283093452
+      }
+    },
+    {
+      "page": 10,
+      "characters": 4395,
+      "nativeCharacters": 4473,
+      "tables": 0,
+      "images": 0,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 0.83,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8414252450068792,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.9207126225034397,
+        "low_score": 0.8493539827565353
+      }
+    },
+    {
+      "page": 11,
+      "characters": 2190,
+      "nativeCharacters": 2388,
+      "tables": 0,
+      "images": 1,
+      "flags": [
+        "layout-low-confidence"
+      ],
+      "seconds": 1.12,
+      "confidence": {
+        "parse_score": 1.0,
+        "layout_score": 0.8299196537803201,
+        "table_score": null,
+        "ocr_score": null,
+        "mean_grade": "excellent",
+        "low_grade": "good",
+        "mean_score": 0.91495982689016,
+        "low_score": 0.8384236710913041
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-db9cfa1cd150b246",
+  "name": "masterdeck",
+  "sha256": "db9cfa1cd150b246b4fead94e17f6030406c42271cbab65294d322572c4d90af",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a9df2abf9bd311975f1586e4294618af8a4c9bc43699b5bf987eb098e26957c5",
+  "fileHashes": {
+    "book.md": "5a75ca3f127d7cbcfa1820e20199e1d4a1dbd2188a44efb4ea02112e6b7ac188",
+    "pages/0001.md": "a15a09539e78c818533c2c0308d30a01de5634c10d032bec80f92d70e3939d4b"
+  }
+}

@@ -7,6 +7,25 @@
   "pdfPages": 98,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 98,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder SourceBook/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+  },
+  "copies": [
+    {
+      "root": "project",
+      "path": "sourcebooks/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+    }
+  ],
+  "collections": [
+    "darkstryder"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "9b19cf395d327d827dde88cea947b7136f68a9c07680276650280860cf4a2566",
   "fileHashes": {
     "book.md": "683cedc04565902dd08b9a2afb11ee4601366da79f62fae90f42e625148b1c9e",
     "pages/0001.md": "1e3fa12d2769198d87fa359ecbd7ca31c590331dacb8dfab088613bd53d74f3b",

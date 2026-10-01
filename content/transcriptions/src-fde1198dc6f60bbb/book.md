@@ -1,0 +1,322 @@
+# DSTheArtifactsofAaris
+
+Source: `src-fde1198dc6f60bbb` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-fde1198dc6f60bbb; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+The Artifacts of Aaris
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**The Artifacts of Aaris**
+
+---
+
+The *Farstar* was recalculating to Brolsam when a message came in.
+
+*"Emergency. Emergency. This is Imperial science team MS-133 on Aaris III. We
+are under siege. Please, anybody respond. The enemy has destroyed our shuttle, and we have
+no way of leaving. Our groups is down to six personnel, with unknown forces picking us off
+one by one. Mayday! Can anyone hear us."*
+
+With the communication originating from near Aaris III, Thyte was able to triangulate
+estimated jump points to get them in the Aaris system. The trip was going to take a few
+days, and so all the command crew could do was hope that some one would still be there
+when they got there, and hope that Loffryyn kept the ship together. Unless it was a trap.
+They didn't respond to the message just in case it was. 
+
+They dropped out of hyperspace into a system with 5 planets and an asteroid belt. The
+first 2 planets they encountered were gas giants with amazing gravimetric and
+hyper-spatial disturbances. Navigation around these two planets was a challenge, but once
+they were past these worlds, they were able to navigate an orbital pattern around Aaris
+III. 
+
+Upon entering the system, Dervious began to feel ill, almost nauseous. Something in his
+head was ringing rhythmically. When he was able to get it under control, he realized it
+was a transmission of some kind, and something in his head was receiving it. The
+transmission was an ancient Mandalorian code.
+
+The rescue team was formed by Kla'al and Gorak, sending down a sufficient team of
+military and medical personnel. Samarion was chosen as second in command. Samarion was
+feeling a little odd about this part of space. His sensitivity to hyperspace was ringing
+like an orchestra but he figured it could have been the hyper-spatial storms between the
+outer two gas giants, although his sense had never been this vague. He helped form the
+rest of the team, including Loh'Khar and his scavenging team, the field medic and the
+field scientist, as well as Jessa Dajus because she could be recognized as an Imperial,
+and cool the situation down a bit. The group went heavily armed, trying hard not to
+underestimate the enemy force.
+
+They set down near where sensors picked up some kind of encampment. The planet was wild
+and untouched for millennia. Loh'Khar felt somewhat uneasy about the planet, because of
+all the rumors of hauntings and lost ships in this system. The planets surface was
+littered with ruins of alien design. Upon setting up camp in a set of ruins, they found
+that some of the ruins had glyphs and writings on them. Samarion discovered an interesting
+item about the glyphs. They depicted a race not too dissimilar from Dervious's race raging
+a war; a war that apparently caused the destruction of the inhabitance of this planet.
+Samarion immediately transmitted a recommendation to not allow Dervious to come to the
+planet.
+
+However, it was already too late. Dervious was assigned to another mission to go to the
+other side of the planet. Apparently, as soon as the *Farstar* dropped into of
+orbit, they picked up a transmission beacon for an Imperial supply depot. Supplies were
+running low, so the captain ordered an away team to be formed. The odd thing was that the
+transmission was faint, almost as if the beacon was damaged, which explains why Sarne had
+missed it. However, Dajus and a few other familiar with Imperial procedures, knew that
+beacons like these are usually activated when it sensed any kind of Imperial transmission.
+The *Farstar* doesn't have anything like that.... does it? Another problem is that
+it's so faint that an exact location couldn't be found, only a general area. Bifzik the
+Verpine Tech, along with Dervious, Gorak, the droid tech, weapons specialist and a few
+others, packed into the *Muvon* and set out to find the beacon.
+
+On planet, the rescue team set out the next morning to find the Imperial science team.
+They found a small encampment set it a knoll at the bottom of a hill deep in some large
+Kashyykk-size trees. Samarion stealthed his way around the rear of the encampment ready
+for whatever enemy was attacking. The odd thing was, all through the night and through
+their march to the encampment, there was no sign of any enemy. The encampment did show
+signs of battle, and the majority of it was ransacked. There was a small dirt and rubble
+fortification set up in the middle, where a single figure stood on a makeshift tower,
+manning an E-Web blaster pointed in their direction.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/aaris1a.jpg]
+
+The Imperial science team took some time to negotiate with, and Samarion waited in
+hiding patiently, hoping diplomacy would win out so he wouldn't have to take more stern
+measures. The Field Medic with the droid, Slave, as backup, chose not to reveal right away
+that they were New Republic, for it was apparent they were unaware of Sarne's current
+status, and had been on this planet a very long time.
+
+They were able to talk the Imperials out of the fortification, and medical aid was
+immediately supplied. It turns out that there were only two left, for the third in their
+group lay dead inside the fortification, with a severe blaster wound to the chest. The two
+scientists, Dr. Lancer Brunou, and Dr. Solla Deremot, told a story of mysterious attackers
+that attacked at night, and took them out one by one. They could not describe their
+assailants, but only say that they had some knowledge of modern weaponry because they were
+able to steal the weapons from the bodies of the Imperial troops they killed, and use
+them. 
+
+Samarion and Kla'al both remained in in hiding, aware of everything and on the watch
+for an enemy they had yet to see any solid evidence of. Samarion did make a note of the
+odd rock formations that littered the ruins; they all seemed almost too organic and all
+roughly the same size. But they were rocks... he had more to worry about...
+
+The Depot group had launched, and was circling the area they had to search. Scanners
+had picked up an odd structure in the northern quadrant of the area they had to search,
+and classified it as a non-indigenous structure. They decided to land in that area. Upon
+landing, Gorak ordered Dervious and another scout out on Speeder bikes to get some sensor
+readings to get a more precise location of the Imperial Depot Beacon. 
+
+During his trip with Firdaaz the Scout, Dervious found similar evidence to what
+Samarion had found, but he also was able to determine the other side to the battle; a
+four-armed humanoid race not too dissimilar from a Kalvessan Starwolf. The war that wiped
+out this planet was apparently between a group of Mandalorians and a groups of Kalvessan,
+a long time ago.
+
+What they found at the landing was an ominous alien structure, immense in size, and
+extremely old. It looked severely damaged, but it must have been at one time an alien
+"stargate" at one time. Bifzik, fascinated by it, decided to do a little
+climbing, and see what made it tick. He found more than he bargained for. 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/gate1.jpg]
+When
+the humming began, Gorak took the wise strategy and moved the landing site back. As the
+vibrations started, he moved them back further, and ordered Bifzik to stop what he was
+doing and get away from the relic. Of course, still fascinated, Bifzik ignored the order.
+Then a bright light formed within the circumference of the gate, as Bifzik started feeling
+a gravimetric pull towards the gate. Anything lose was pulled in towards an apparent
+quantum singularity. Sparks and flame leaped from the sides of the gate structure. That
+was enough for Bifzik. He struggled to fight the gravity well, but he wasn't making any
+progress. The best he could do was hold onto a tree. Gorak had ordered an immediate
+evacuation of the area, and left Bifzik to his just rewards.
+
+The explosion that followed was enough to be seen from orbit, and took out a side of a
+mountain. *Farstar's* sensors went wild with EM interference. The *Muvon*,
+in flight, was hit by the shock wave, and damaged. Bifzik miraculously survived by landing
+in a mountain lake a few kilometers away. He was in critical condition, but alive. Through
+some amazing medical work by a Firdazz (apparently learned on Socorro), Bifzik was brought
+back to reasonable functional condition. The *Muvon* had to return to the *Farstar*
+for repairs, and left Gorak to recover the team.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/ingot.jpg]
+Back at
+the Ruins, the *Farstar* crew there were still busy assessing the situation in and
+around the scientific encampments. Most of the equipment and supplies were unsalvageable,
+but the field scientist, Dr. Hasslock, and Loh'Khar were both able to piece together most
+of the situation. The science team had been there for years, excavating sites all around
+this hemisphere, leaving this particular site to last because it looked most lucrative.
+They were apparently sent by Sarne as part of his search for more information about
+Darkstryder technology. They found signs of an ancient civilization that was wiped out in
+the aftermath of a great alien war. They established a secondary encampment in the heart
+of the area ruins to the north, where they found the Place of Kastays, and some artifacts.
+One particular artifact, Ingot of Kastays, showed signs of an energy source, and needed
+further study. When they discovered the Place of Kastays is when the attacks started.
+There were cries of an ancient curse, and that ghosts of the Kastays Temple priests had
+arisen to exact revenge, but there was no evidence of attackers in any of the information
+the two found. 
+
+The investigation into the second encampment site would wait until the following day.
+Meanwhile, the two surviving scientists were brought on board the *Farstar*. They
+insisted on gathering some items to bring up with them, including the Ingot of Kastays. It
+was quite apparent they were not returning. They seemed to take the news about Sarne's
+ousting well, and were more than willing to join a New Republic crew.... as long as they
+could get off this haunted planet. 
+
+Loh'Khar, along with Genna Seedar, went up with the scientists on board the assault
+shuttle, hoping to find more answers to the mystery once they got the two in medical bay.
+Loh'khar also had plans on retrieving some artifacts from Aaris for himself, and put
+together a few individuals to go to the planet when the shuttle returned. They would
+acquire some trading items from among the ruins. Needless to say, his three Turazza, along
+with the Squibs went along with that team.
+
+The Depot groups was somewhat shaken from their ordeal, but not injured too badly. The
+Verpine had to be transported on the SRV-1 vehicle while he recovered, but the other
+injuries sustained were minor. The team moved onward, acting on the few readings they had
+gotten before the EMP blast killed their scanners. Dervious reported odd reading to the
+southwest, and said he spotted a ship in the distance. When they got their, they found
+Dervious unconscious and his partner in a tree, injured badly. They also found a very
+hi-tech trap that involved four ball-like emitters that sustained a repulsor-shock field
+about a meter off the ground, and 100 meters in diameter. This effectively created a
+shock-trampoline field, bouncing whatever was on it into unconsciousness, and keeping it
+that way until the field was shut down. Very hi-tech, and very slick... Almost as slick as
+something Bifzik would jury-rig. Bifzik thought this looked all too familiar. *It
+looked like some of Kyli Ned'Lx's work*. *But I left him back on Kel'Shebbol. I
+didn't take his threats of revenge seriously. And what interest would Ned'Lx have on such
+a backwater world? *
+
+Once the field was shut down, and Dervious and Firdaaz were treated for their injuries,
+the next step was the determine what were the odd readings Dervious picked up. Over a
+small ridge came their answer. Across a deep revine sat a Ghotroc Freighter; Ned'Lx's
+freighter as Bifzik recognized. There was a small group of beings, and they were all
+boarding a small caravan of repulsor vehicles. They left, leaving two guards. All too easy
+for Gorak's tastes. He called in the X-wings on patrol to land and seize the ship, then
+ordered his team to move out. He left the Ghotroc and company to the X-Wings. They
+reported back that the ship was a hologram, and it was all an elaborate illusion. Why
+would someone bother to set up an elaborate hoax, unless they wanted the delay Gorak's
+team while they went on for some other purpose. And Bifzik was holding something back...
+he knew something, but wasn't telling. With Dervious on point, they trekked ahead through
+the night.
+
+On the other side of the planet, the other group was waking to a new day, and a new
+place to investigate. They sought the answer to the burning question...*who attacked
+and killed more than 30 Imperial personnel? *They found the Temple as well as the
+place were the Imperial shuttle was destroyed. Evidence of a struggle was all over the
+place, but blaster fire seemed to only come from one direction. It was becoming very
+apparent that the Imperial team suffered from some kind of delusional paranoia. Proof of
+this was even now manifesting on the *Farstar*.
+
+Aboard the *Farstar*, things were not fairing well. Even on the planet, Samarion
+could feel that the hyperwave-anomaly had intensified, and this was making things
+difficult on engineering as well as communications. Random fights then started occurring
+all over the forward section. Security and power systems suddenly dropped out of the
+Science Labs. Communications suddenly dropped all over the ship. Security teams were
+reporting an alien lifeform crawling among the air-ducts of the forward section, heading
+towards the water tanks. The Captain was showing signs of severe fatigue and possible
+paranoia. She ordered all bulk heads sealed, under protest from security and Thyte. Thyte
+was centimeters from taking command, when the Captain eased up on her restrictions,
+allowing the security teams to investigate the problems. Communications was sabotaged, by
+an apparently delusional crew member. The lab had been ransacked, and all test animals
+were slaughtered except for one, which was missing. There was some kind of creature in the
+air-ducts that had killed two security officers already. What the Dr. Hasslock found out
+from the remains of the lab put a final piece to the puzzle, but also determined that they
+were still missing a piece...
+
+The Ingot was a kind of resonance-wave device that manipulate brain chemistry and DNA
+of organic material. All the slaughtered lab animals seemed to be in some severe stage of
+mutation that can only be described as partial evolution/devolution. The one animal that
+escaped was apparently lose onboard the ship. The dillusionary effects are a by-product of
+the process, but the Imperial scientists only showed signs of light exposure, where as the
+creatures and the effected crew were showing much stronger exposure to the Ingot's
+effects. The Ingot must have intensified some how since they arrived. Further analysis
+revealed that the Ingot also acted a long range hyper-wave receiver, which in turn
+intensified the effect. IT was currently receiving the specific signal while he was
+examining it... the hyperwave anomaly Samarion detected. The question still remained... *who
+or what would be emitting the precise hyperwave resonance that would activate this device?
+...unless it was the creator or someone who knew as much as the creator? Wasn't there a
+Verpine other than Bifzik with extended knowledge in technology that applied to be a part
+of this crew? He was rejected for being too maverick with his tech...*
+
+The Depot team on the dark side of the planet was still struggling with more Ned'Lx
+booby traps, and it was slowing the progress significantly. However, Ned'Lx made his
+second mistake (his first was trusting Jarell raiders as his thugs). His greed for alien
+tech split his group, one to a set of ruins to the east and the other to the depot. Gorak
+sent Dervious, Firdaaz, and Unda to take care of the the group at the alien ruins, while
+he and the others moved ahead to the depot.
+
+Dervious and the others ambushed the group at the ruins, but found that they were a
+little overwhelmed. Apparently, Ned'Lx had built small hopping droid-drones, which spoiled
+Dervious's party. They left the area in full retreat, heading towards the depot, while
+causing as much damage as possible as they escaped on the speeder bikes.
+
+Dervious and his group met up with Gorak as they were surveying the situation around
+the Imperial Supply Depot. A small but intimidating group of Jarell raiders were moving
+assorted equipment and storage cases onto a large repulsor-lift transport. The Depot
+itself was lightly fortified, and there were Jarell manning gun towers. Any attack would
+have to be timed, and depend on surprise. They knew they were expected, but they could
+tell the Jarell didn't know their number or when exactly they were arriving. They may have
+put too much confidence in Ned'Lx's booby traps.
+
+Gorak and his team set up a simple two front ambush, and attacked swiftly. The Jarell
+didn't know what hit them. However, like a slick mynock, Ned'Lx slipped away before he
+could be captured. There was some collateral damage, but most of the supplies were
+recoverable. 
+
+On the other side of the planet, the first team was making progress searching the
+second site. They found the Place of Kastays, and it surrounding ruins. Samarion noted
+that there were more of those same oddly shaped rocks littering the area, but still no
+evidence of the mysterious enemy. When the Farstar didn't respond, the group got worried.
+When the strange rock formations began to disappear, Samarion knew it was time to leave.
+The mad rush back to the shuttle turned into a battle for their lives. The rock formations
+were actually the backs of immense creatures that looked faintly like a genetic mix of
+Kalvessan, Mandalorian, and the original race of Aaris III. They were savage, insanely
+viscous, and there were thousands. The fight to defend their position degraded into a
+holding action while people loaded onto the shuttle.
+
+Onboard the *Farstar*, oblivious to the two struggles on planet and deep in it's
+own struggle, the remaining crew was busy with more and more members falling into paranoid
+frenzies, as well as a strange creature roaming the decks. Thyte and Slave were dispatched
+to take care of the creature. Dr. Hasslock and Dr. Seenar reported their theories to the
+Captain, who ordered the Ingot ejected from the ship. BuG removed the Ingot from the
+science lab, and placed it in an airlock. It made an odd flash across the horizon as it
+re-entered the planet's atmosphere.
+
+As the *Muvon* left the ruins with Kla'al, Samarion and the others on board,
+they watched as the sea of Aarisian creatures seethed and churned. However, their actions
+seem to slow and a calm seem to wash over the thousands as this strange flash came from
+over the horizon.
+
+The field scientist's theories about the hyperwave resonance was right, and his
+suspicions of Ned'Lx were also proven true. When Ned'Lx's ship was detected leaving the
+system, the hyperwave resonance died out. Apparently Ned'Lx had some advance knowledge of
+what was on Aaris. Maybe he was looking for the Ingot specifically, and was using the
+hyperwave resonance to locate it. Perhaps he knows more about Darkstryder. 
+
+On the other side of the planet, the supplies were being sorted through, and the
+essentials were being separated from the non-essentials. While stumbling through one of
+the storage containers, Gorak found someone surprising; an old acquaintance. A female
+Rodian rolled out from one container, apparently a captive of the raiders. The first thing
+out of her mouth was "This is my stuff..." She looked like she was going to be
+hard to negotiate with. Her name was Analia, and she was an arms dealer. She wasn't going
+to leave the crew of the *Farstar* alone until she got proper compensation for the
+supplies. Her story was not unlike many other that came to this sector during Sarne's
+reign, but what was unclear was her allegiances. Who side, besides her own, was she own,
+and could they use her help?
+
+ 
+
+---
+
+[Report Communication Log 3 (Day 24-31)](http://users.vnet.net:80/seawolf/sw/ds/DSintel3.htm)
+
+---
+
+[Previous](DSTheSmeltingStationsofTorize.htm) [[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_l_arr.gif](DSTheSmeltingStationsofTorize.htm)
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/yl_r_arr.gif
+Next](DSTheNobleStar.htm) 
+
+[[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/timeline.gif
+Back to Timeline](DStimeline.htm)

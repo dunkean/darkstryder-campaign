@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-2f93c042f6a8fb72",
+  "name": "THYTE",
+  "sha256": "2f93c042f6a8fb725d518a2a3f552fc9a835b2761260f519f630825659713d98",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/THYTE.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c9f0f62e54969506f00f103fb34c724c609dc96ead2133a0faf075f401602aed",
+  "fileHashes": {
+    "book.md": "5e8324e84786fed6c470db3bb1090a0a3d1487ccc24082f9ce790b63eadff7e1",
+    "pages/0001.md": "43dfbe0f6adc6ccc8041bd21aaf098d86fc7a0298bcf94f99fa68760650781cb"
+  }
+}

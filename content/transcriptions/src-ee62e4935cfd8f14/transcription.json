@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ee62e4935cfd8f14",
+  "name": "3wa_weapons_line",
+  "sha256": "ee62e4935cfd8f14f5b4c4a26b9a9c6e4ccabe64736c923a6e5ad7ee31d1d92b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/3wa_weapons_line.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fe439ed575b78cedef4696383aa3304b1fd8848ed2bb549214edce7a482a1406",
+  "fileHashes": {
+    "book.md": "a9e3db8f286db023283faacde107a36291020c474037f00022d4920b180c280c",
+    "pages/0001.md": "d2e255a6c52c65a08929330f07f2d7308dfd2cd5ec7d9e7ec22445da2e59f868"
+  }
+}

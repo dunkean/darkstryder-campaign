@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-191b232d9775dec9",
+  "name": "DSTanquilla",
+  "sha256": "191b232d9775dec90644c280dbbe5970a57e02c228df5b06168dedcfb6ea8e15",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTanquilla.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1c81a798e656298e696fa794dcc74824ee8b08baab53a30760fe2294518b69d5",
+  "fileHashes": {
+    "book.md": "9e054ee8d8c79a2dd4ce1aa715e0c0c2c1d050044d90b5e1cd30035753f30eae",
+    "pages/0001.md": "a029503fc8ba6d815a7db08ea0a6c6597433ed8a6ab4f7484db94f7fb782ff7c"
+  }
+}

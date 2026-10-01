@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9c27b3ea9c8c3e13",
+  "name": "encumbrance",
+  "sha256": "9c27b3ea9c8c3e134303a743d5b7e8c4ac279d6e06f32a7fb7f794cc5bf49353",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/encumbrance.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3cd8e83bb5a8c2127a7725efc018ab7e0132915b4c36d219d45d8c39a0cd995e",
+  "fileHashes": {
+    "book.md": "2b37a820453f6daee48ad390133245cf9aae6cc28e11370745b447c4fdb47acf",
+    "pages/0001.md": "ed20d1bf058ecc7be6a3b4ccaeeb56fd582278047cf58f89f4ff8514eb821cb1"
+  }
+}

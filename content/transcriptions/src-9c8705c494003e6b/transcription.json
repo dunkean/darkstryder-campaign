@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9c8705c494003e6b",
+  "name": "DSSanctuary",
+  "sha256": "9c8705c494003e6b888c16924025f3bc2a2aed2c7cb28c734173164e45416111",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSanctuary.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "260ef3f027e7f583c542824b0a143463e6b72fdadaf725c547cced0ba2ddc702",
+  "fileHashes": {
+    "book.md": "272723658e58c0f97dd8f3388fb750cb3a1411cbd114e37e7eca269bf84e609b",
+    "pages/0001.md": "f2916d81c0ec9735c0849340cd152cb27e1dafc2a238a6cf4d0c770bf36679ff"
+  }
+}

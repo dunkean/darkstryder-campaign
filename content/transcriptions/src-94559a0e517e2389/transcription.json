@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-94559a0e517e2389",
+  "name": "KLAAL",
+  "sha256": "94559a0e517e23893455b245bedcae51e5be7db473545f105d2b240f4fc41f13",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/KLAAL.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "848fa5f0c861a50636c76a9d98a229223de348975cbed806363862b10f210f23",
+  "fileHashes": {
+    "book.md": "306756c1c6a105e1b75626358a2bc5e07a1d1a2b9d8a511cc9e5ac9348ebc115",
+    "pages/0001.md": "5b17aedf55a7919b7cdd1bea494b02a176525e42b261d8e74b2d9bae85ea02e9"
+  }
+}

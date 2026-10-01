@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-588ddc84aa3dd64d",
+  "name": "DSCalendar",
+  "sha256": "588ddc84aa3dd64d98b3a2f9e49956cd3a0aa78dc2cdf77758cfa2b9cbcf1f91",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCalendar.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCalendar.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "cc4fc94e410e4ae1c4d7c5efb71a8769a018544167029ed8589efb9734bd05ff",
+  "fileHashes": {
+    "book.md": "0c17aec435b46cb709b79590906b4eea4e64a012df87a86cb1a376f4bb29ba48",
+    "pages/0001.md": "8b5f82aecfb454d552f63ae963d18920eda20257ecfe529f2957832fee313b50"
+  }
+}

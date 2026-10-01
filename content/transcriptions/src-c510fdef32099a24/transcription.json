@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-c510fdef32099a24",
+  "name": "mastbook_D6",
+  "sha256": "c510fdef32099a249b62f9ede6b5dafbccaedaf8fdb61335de0c33732bdfda57",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/mastbook_D6.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e50ec7108780ba4fbfb6fb9d68603708601aba8b617fadc732268130d877a59d",
+  "fileHashes": {
+    "book.md": "31708c15ed8074192c509dfc98cb91fa1e98f519351ecfe6f241f8bad3255ed6",
+    "pages/0001.md": "6cd1ecd25324c0bb65943e535892a2750aafd32ef7d680ab842d83d1100ae020"
+  }
+}

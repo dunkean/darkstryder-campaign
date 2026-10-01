@@ -1,0 +1,169 @@
+# Imperials of the Kathol Sector
+
+Source: `src-d7fd516687cd8a23` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-d7fd516687cd8a23; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+
+
+Imperials of the Kathol Sector
+
+|Name                            |Last Station    |Responsible For                                   |Status           |Bounty      |
+|General Markod Wilem            |Kolatill        |Kolatill Defense Force and Governer  Head of      |Dead             |5000        |
+|                                |                |Security                                          |                 |            |
+|Admiral Abratian Odonel         |Oon Tien        |Fleet Forces Commander                            |Live             |5000        |
+|General Or’Ryn Sprawning        |Oon Tien        |Ground Forces Commander                           |Live             |5000        |
+|General Walshar Olmbrien        |Torize          |Ground Forces Commander                           |Unknown          |5000        |
+|Captain Foldor Morass           |Torize          |Torize Station Defense Commander                  |Unknown          |3000        |
+|Commander Bedral Lambross       |Charis          |Garrison Commander                                |Live             |6000        |
+|Captain Irel Bornson            |Kathol Rim      |Scout Commander                                   |Unknown          |3000        |
+|                                |worlds          |                                                  |                 |            |
+Information Known By Jessa Dajus
+
+ • General Markod Wilem
+
+Kolatill
+
+Kolatill Defense Force and Governer  Head of Security
+
+Headed up a secret operation on Kolatill to antagonize the Noble houses to continue to fight among themselves. Some operations included assassinations and terrorists attacks against the Noble houses, and arranging the evidence to the point to another.  Many nobles died in these operations including the Massacre of the Kalabus Temple Wedding.
+
+ • Admiral Abratian Odonel
+
+Oon Tien
+
+Fleet Forces Commander
+
+Known for his tight control of the space lanes from Oon Tien to the Stellar Southern Rim Worlds of Kathol. One of his most notorious operation was the Blockade of Alsharad; a small colony world along the border.  An entire colony starved to death due to his blockade.  He is ruthless and smart; battle sense is keen.
+
+ • General Or’Ryn Sprawning
+
+Oon Tien
+
+Ground Forces Commander
+
+Works closely with the Admiral on Oon Tien.  Heads the concentration camps that imprison the majority of the Jarlell population.  He is slowly seeing for certain that the Jarell race will not be a problem t the Empire.  Apparently he festers a sloght fear and resentment for the species; he seems to think they hold a dangerous secret that is a threat to the Empire.
+
+ • General Walshar Olmbrien
+
+Torize
+
+Ground Forces Commander
+
+Head of the Labor camp on Torize; ruthless and viscous.  All that matters is getting the “product” out.  Sarne long ago, stopped using the “product”- hull plating ore, etc, but never told the General.  Sarne uses the General to just keep the population of Torize under control.
+
+ • Captain Foldor Morass
+
+Torize
+
+Torize Station Defense Commander
+
+Slave labor Prison Station Epsilon-8-Epsilon commander.  He is in charge of the zero-G ore processing, and slave labor.  He has been faltering lately on his loyalty, and has had second thought about his role in the Empire’s scheme.
+
+ • Commander Bedral Lambross
+
+Charis
+
+Garrison Commander
+
+Garrison commander of the occupational force.  He is in charge if insuring that no more uprisings occur on Chars.  He makes sue house Shador remains the “shattered” house
+
+ • Captain Irel Bornson
+
+Kathol Rim worlds
+
+Scout Commander
+
+Nicknamed the “Hunter”, he is a notorious strategist in space, and nows the outlying areas very well.  He has been known to use unconventional tactics, and seems to have a sixth sense about starship combat.
+
+Other Jessa Dajus Knows that are not on the List
+
+ • Govorner Yas’man Guro-Mor (Baron from the Noble House Karadol)
+
+Gandle Ott
+
+Planetary Governer
+
+Strong Sarne and Imperial loyalist, Guro-Mor is known for his faith in droids and computers to run society.  He a staunch bureaucrat, and hates medial work that could be more easily done by computers.  He was known to have a special force of assassin droids loyal to him.
+
+ • Vice-Governor Marja Lang - Baroness Lang of House Karadol
+
+Gandle Ott
+
+Vice-governor
+
+Imperial Loyalist, and former lover of Sarnes.  Ambitious, and at times, devious, she is a even-tempered controlled individual.  She can be pleasant when she wants to, or she can be just as deadly when the mood strikes her.  You were always careful around her.  She is not a stupid person either, she might eal with the New Republic if she is convinced that it’s the new power in the sector.  However, you would be careful is she seems to eager to deal.  She might have something up her sleeve.
+
+ • General Herron Dade - Baron Dade of House Kathor
+
+Gandle Ott
+
+Head of Planetary Militia
+
+He is not known for his loyalty to Sarne, and more known for his loyalty to his world and his House.  He not a diplomat, and he is not a close friend of Lang’s.  There are rumors that he and his house are plotting to displace Lang.
+
+ • Colonel Olaver Lansel (no house affiliation)
+
+Gandle Ott
+
+Imperial/Gandle Ott Liaison
+
+Known to be a drinker of expensive Corellian Brandy, he is a pale, morose man with mousy brown hair.  He had a “falling out” with Sarne and his clique some time ago, and was transferred to the Thankless job as Imperial Liaison on Gandle Ott.  He is quite critical of Sarne publicly when he is drunk.
+
+You remember at one time you found records of Lansel spending some time in Sarne’s dungeons, and even in something called his “re-education” facility.  He sometimes is too vocal about his low opinions of Sarne.  If anyone else was that vocal, that person would have been dead.
+
+ • Colonel Galrif Heget (Knight of House Karadol)
+
+Kal’Shebbol
+
+Imperial Army Colonel
+
+A well-trained soldier and loyalist to the Empire, Heget is a well-known warrior for the Emporer’s causes.  He is firm believer in the New Order, which sometimes put him at strong odds with Sarne.  Before he transferred to the Kathol sector, he was in one of the most decorated battalions in the Empire.  He was brought on-board to train Sarne’s men, but suddenly lost his usefulness as Sarne got involved with Darkstryder.  Because of a certain heroic action Heget took while on Gandle Ott, he was knighted Sir Heget of House Karadol. Despite his strong distaste for politics, he appreciated the honor and is very proud of it.
+
+ • Major Daemoth Danthe (no house affiliation)
+
+Kal’Shebbol
+
+Imperial Army Major
+
+One of Colonel Heget’s friends from the Core,  Danthe agrees with Heget to a degree, but does not agree with Heget’s philosophy about it.  Where Heget is more passive and might be willing to talk to the NR, Danthe will more-then-likely not agree to deal with the NR, and want to contact the Empire at all costs.
+
+ • Lieutenant Jak’Roth Palme
+
+(Location unknown)
+
+Sarne Agent
+
+Palme was a dangerous man at one time, one that you kept an eye on.  He was trained at one of Sarne’s top facilities in the Minos Cluster Rim, and was responsible for taking care of many of the “bad elements” you pointed out to Sarne.  He disappeared recently, about a month before the attack on Kal’Shebbol, and you haven’t seen him since.
+
+ • “The Wraith”
+
+(Location unknown)
+
+Sarne Agent
+
+This agent is a mystery.  Several Rebel agents have turned up dead chasing after “the Wraith”.  You only heard Sarne mention him occasionally, and near the time of the attack, he became a very important entity to Sarne.  He was referenced as the “the key to my dominance of Kathol and Darkstryder… ”.  He also referenced something he called the “coming storms” when  talking about the Wraith.
+
+ • Lord Jesco Comark (Lord of The Karadol Nothern Rim Worlds)
+
+Somewhere in the Kathol Stellar Northern Rim
+
+Sarne Loyalist in House Karadol, and primary researcher on some of Sarne’s Darkstryder projects.
+
+Comark is a conniving rat of a man, with the heart if and Imperial and a noble of house Karadol rolled up into one.  He applied to be Moff of the Sector, but was turned down.  He still has ambitions to be Moff.
+
+Imperial Governor Denn Wassel (Lord Wassel of House Karadol)
+One of Sarne’s Regional Governor, Wassel was in charge of the Oon Tien system  and the Stellar Southern Rim.  He also is a Sarne loyalist, and one of the key men that would have knowledge about the Gate at Oon Tien.  Wassel was a good Imperial and loyal to Sarne.  He directed the slave camps of the Southern Rim, and dealt directly with many of the slave organizations.  He is also a loyal Noble to the house Karadol, and looks to take over the head of the House.  He hates House Shador with a passion, his first wife being killed by a Shador terrorist attack.
+He was also very close to Sarne.  They shared the same vision.  Some people suspected they were clones, only looked differently, they were so much alike in thinking.  Governor Wassel will do anything to see Sarne’s plans come to fruition, and knows that Sarne would approve of his actions.
+
+Walen Blissek (Sir Blissek of House Karadol)
+Blissek was a simple man, who loved to build ships.  He was very familiar with the Imperial designs, having worked on some during the Old Republic era.  He helped in the design of the Victory class SD.  He knows Imperial ships and Noble ships designs like that back of his hand, or so he says.  He didn’t like Sarne that much, but cooperated when he knew he was going to have the chance on some of his old designs.  He was one of the primary engineers that dealt with Darkstryder technology integration with ship systems.  Near the end, he became resistant to Sarne’s needs, and so Sarne had him “taken care of”.  You heard he was killed in an “accident”.
+
+Lira Wassel (Lady of House Karadol)
+
+Lira is Blissek’s daughter, and former prodigy.  She is also married to Governor Wassel.  She is almost as good an engineer as her father. Sarne replaced Walen with her, when her father met with an accident.  She gladly filled the void.
+Lira used to be Sarne’s lover, but he stopped seeing her for you.  She was not happy about that, and seduced his “best friend” instead to get back.  Sarne couldn’t have cared less.  This only infuriated her even more and she sought to kill you and Sarne  in the most evil way possible.
+

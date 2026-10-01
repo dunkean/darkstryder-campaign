@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-7ae67d0db27cf305",
+  "name": "DSDARKSI",
+  "sha256": "7ae67d0db27cf3051055d6563a7ebbdac8f4615e28d9fa66dd0cb71327719eb3",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDARKSI.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e7b5af277462d83dcb447fc214269cd2fd79dde4aae6b6f65abbc3c741adb444",
+  "fileHashes": {
+    "book.md": "ca5bc496490a33bbde260518245bb011aeda72eea38fedc4812ca80b1a5b02ec",
+    "pages/0001.md": "4a8aaf1487a078faa864c77da08a61552d278da6a2243568a5ac25a27fc52fed"
+  }
+}

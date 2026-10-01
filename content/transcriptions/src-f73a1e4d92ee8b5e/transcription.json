@@ -1,0 +1,37 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f73a1e4d92ee8b5e",
+  "name": "Chuborro",
+  "sha256": "f73a1e4d92ee8b5ebc47da1ea11bd9e6ccd0b2a33598cfe058ad395353b3ddb1",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Chuborro.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/633ff3c40e53cf4b4fa37c0a08a7b578b3897394f69e5eaf7850c28efeeaa19e/Chuborro.doc"
+    },
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/chuborro/Chuborro.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b8d396ded51dd784050e231dda5268d827392acc3f06979d16f40cfe2c02ad3d",
+  "fileHashes": {
+    "book.md": "b8bc8a0fbe5297c8780484fb3bb17b31630994662653a48e232998bf7cfefc74",
+    "pages/0001.md": "9ec556c053cdc7d99f67f8320a7cfef60598ff2ec5cb69f56ea47a07481a358a"
+  }
+}

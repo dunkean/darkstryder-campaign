@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f7d4abd53dcc850e",
+  "name": "DSStarfall",
+  "sha256": "f7d4abd53dcc850ecfdf1972d2bb1b85bee0157701fb9f596332bd13159e822e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSStarfall.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ba0ffa403f3117ecb56f5b24a954b82fc876248f3e9ce8ef8b076461010a11f2",
+  "fileHashes": {
+    "book.md": "699ec9e8dd43ee076db0a6add71fc43f24374d69006ec3b54c7e37508504a4e3",
+    "pages/0001.md": "863d45670f226f10ac33791e15bee0d57505f3de726e2e3358c735976fdf39a9"
+  }
+}

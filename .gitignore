@@ -17,3 +17,10 @@ catalog/ocr-status.json
 desktop.ini
 tmp/
 content/transcriptions/*/images
+content/transcriptions/*/images.*.tmp/
+content/transcriptions/*/pages/*.jpg
+content/transcriptions/*/structure/
+/runtime/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm

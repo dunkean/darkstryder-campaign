@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-442e464ab5917192",
+  "name": "JDajus",
+  "sha256": "442e464ab59171924aaf1ca5cb83335b2612f7a1e003d12941cf10b3cab8ee7f",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/JDajus.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/JDajus.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "748d46be4204e144598b9fffbbf3f624ebbcd9b5d09f3af72e4ebf58f16dccd7",
+  "fileHashes": {
+    "book.md": "b711f7836fefeaadaabe8e10f8aa9ec46a4947657dfa2085f05ee2cf70c3f6ad",
+    "pages/0001.md": "92f3d95055a88ee5a681783fb74eb7f87c6e4d432a50108814e13fa6b07eef89"
+  }
+}

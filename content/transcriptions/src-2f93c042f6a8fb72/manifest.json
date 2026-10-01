@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-2f93c042f6a8fb72",
+  "sha256": "2f93c042f6a8fb725d518a2a3f552fc9a835b2761260f519f630825659713d98",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 11459,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/1a28a747ea33d9ba0c6f07290376116ccc2ada67eb7fd7583559d07f7f6e1475.jpg",
+      "origin": "images/thyte.jpg",
+      "sha256": "1a28a747ea33d9ba0c6f07290376116ccc2ada67eb7fd7583559d07f7f6e1475"
+    }
+  ],
+  "encoding": "windows-1252"
+}

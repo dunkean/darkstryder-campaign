@@ -1,0 +1,48 @@
+# thermaldet
+
+Source: `src-0a0d4c744669aa16` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-0a0d4c744669aa16; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Thermal Detonators: Another Look...
+
+****
+**Thermal Detonators: Another Look...**
+
+---
+
+In *Shadows of the Empire*  the
+    Thermal Det. in the book are a bit out of scale with the TDs of the RPG. They took out a *damn*
+*castle* on Coruscant, for pete's sake. I am sure someone else has notice this.
+    Well, I have somewhat of a explanation; a rule that fills that plot hole...
+
+In the book,
+    they called the TDs our heroes were using "Class A Thermal Detonators" or
+    something like that. If they were class A, then there must be other classes. Each class
+    does the same damage dice as the TD in the R&E rules, but at different scales 
+
+| Class | Scale | Price |
+| --- | --- | --- |
+| A |  Star Fighter | 50,000 |
+| B |  Walker | 10,000 |
+| C | Speeder | 5000 |
+| D | Character | 2000 |
+
+Availablility is up to the GM, and you can modifiy the
+    price as you see fit.
+
+---
+
+[![Image](images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif)
+Next](SZtoSW1.htm) in Tech 
+
+**
+![Image](images/17f090801bfbaf2b2c8f81fb083acbb8a635a56c8323f6f295917c305b07f6b8.gif)
+**[Back to Source Material](source.htm) 
+
+Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).

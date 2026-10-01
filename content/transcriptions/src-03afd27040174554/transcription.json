@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-03afd27040174554",
+  "name": "LordsofKathol",
+  "sha256": "03afd270401745540b2103bfb79b5a0843bd42124984d85661834fddc5ffcff9",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/LordsofKathol.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/LordsofKathol.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "7093d93d37afd549e4a2579dbd162054ae8c07ace7f7fadfc3202253e4d184f2",
+  "fileHashes": {
+    "book.md": "99862bbad03547954f9c24823b6a78715d4e7082c640ac5357be9164bea5c21f",
+    "pages/0001.md": "e5cb214b0bc110b5fcd3550620e16a91bcdec59dfe532f1a86e1b1fa63670019"
+  }
+}

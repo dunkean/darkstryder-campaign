@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-badebd9da6e503b0",
+  "name": "DSKatholRepublic",
+  "sha256": "badebd9da6e503b0a432f27eba07a7699b9234fb540e61aa2e087b99ccbbfdbc",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSKatholRepublic.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "33df4086e8cb85c1ec96732fd9069d218373d702684a880e5e1a42aeef1654ba",
+  "fileHashes": {
+    "book.md": "5c2c3cac98573c55bf2f4a74e782d0bbfb513e82fd99ff4fdd491fe52ac0830b",
+    "pages/0001.md": "713f2d966fec2d772cf3ec0edd792eb1622c62f801d218a1168fc61ded05538e"
+  }
+}

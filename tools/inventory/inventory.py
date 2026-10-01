@@ -34,4 +34,6 @@ def main():
     (ROOT/'catalog/inventory.json').write_text(json.dumps(inventory,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'sources':len(sources),'pages':sum(s['pages'] for s in sources),'files':len(inventory),'native_text_pages':sum(s['native_text_pages'] for s in sources)}))
 
-if __name__=='__main__': main()
+if __name__=='__main__':
+    from corpus import inventory
+    inventory()

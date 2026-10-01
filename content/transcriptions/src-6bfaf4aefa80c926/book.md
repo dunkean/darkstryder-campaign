@@ -1,0 +1,79 @@
+# me
+
+Source: `src-6bfaf4aefa80c926` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-6bfaf4aefa80c926; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Ron's Pics
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/ron17.jpg]
+
+
+    (I know it's a bad pic.)  Pic from my Photon badge taken in 1986
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/r17m13.jpg]
+
+
+    1987, Mark on the left, me on the right.  Taken at a family reunion, just before I
+    left for college.  Our twin phase.  We got out of that quick.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/me20.jpg]
+
+
+    Me at 20, in UNCC Dorm Room (Finally got rid of the glasses)
+
+ 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/me22.jpg]
+
+
+    Me at 21
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/rondl91.jpg]
+
+
+    Yes, I scanned in a driver's liscence pic.  From 1991.
+
+ 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/me.jpg]
+
+
+    Me at 27 at DragonCon
+
+ 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/me-n-comp.jpg]
+
+
+    Me at my computer (1995)
+
+ 
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/ron/images/ron27c.jpg]
+
+
+    Me at 27, Game Mastering a Star Wars RPG Session
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/guild/images/spring98/017.jpg]
+
+
+    Me at the Guild, at 28 YO
+
+---
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+**Back to Who
+is Seawolf & Greyslayer **](http://users.vnet.net:80/seawolf/ron/ron2.htm)
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+**Back to
+Greyslayer's Lair & Seawolf's Den**](../Ron.htm) 
+
+Some Icons obtained [Graphics
+Station](http://www.geocities.com/SiliconValley/6603/).

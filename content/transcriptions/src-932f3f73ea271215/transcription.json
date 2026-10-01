@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-932f3f73ea271215",
+  "name": "DSSAPELL",
+  "sha256": "932f3f73ea271215b58e89404ceb0787936195b2be3b5e2f0f9460ceae2195b2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSAPELL.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "fcc75b38fe2b95c9ae5a13a032ec2619d76b20de975c1b7349810c43b71375c3",
+  "fileHashes": {
+    "book.md": "ae36576249cd0988dc8a8d08cc0db7a304240a24bb5d69b46b475783134fa4d7",
+    "pages/0001.md": "dd4720eb171009e2db3aee6869ca05b5ac1b38581a0fcca0ca4cbf4c196311a3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-47aedc19802daf81",
+  "name": "DSMoonsofEx",
+  "sha256": "47aedc19802daf8103c8870ed191c15c9b78ac61e6c0f32f956d705b2d21cdef",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSMoonsofEx.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9b757e65e29d9c74383644ba9802a4a37d336a1815caface52c0530290b24b59",
+  "fileHashes": {
+    "book.md": "c1c7c768826308b98489e6718f4b04c182403f827b620746e19066448b537372",
+    "pages/0001.md": "31baf798596c121fbdb5902d39c605b3c65186c14a513100770f2cc9ee7d3bc7"
+  }
+}

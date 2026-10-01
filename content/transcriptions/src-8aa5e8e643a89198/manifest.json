@@ -1,0 +1,30 @@
+{
+  "sourceId": "src-8aa5e8e643a89198",
+  "sha256": "8aa5e8e643a8919820e8d20e91458054aadf7bfb16e8f5536d697a5f35710312",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 4576,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/dcf39203cb3a4ffb8a7edbcaf8b4b0d3b16e004fe68e7806b65506af7f59d9e8.gif",
+      "origin": "images/dsbanner2.gif",
+      "sha256": "dcf39203cb3a4ffb8a7edbcaf8b4b0d3b16e004fe68e7806b65506af7f59d9e8"
+    },
+    {
+      "file": "images/9ed84f78b41e76320cc6cea01f792eac76fe01b8a2fdf67b4d09c651b75bba0e.gif",
+      "origin": "images/blocaderunner.gif",
+      "sha256": "9ed84f78b41e76320cc6cea01f792eac76fe01b8a2fdf67b4d09c651b75bba0e"
+    }
+  ],
+  "encoding": "ascii"
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-16e207d56f01fefc",
+  "name": "SW_Kalvessen",
+  "sha256": "16e207d56f01fefc4053e78655f67204c48054a4cca45a932e1342f0af554eab",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/SW_Kalvessen.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/SW_Kalvessen.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d234642b8054566de05c57d9f6f90a374b3f923b8d1baa205c6655f16cfd9f72",
+  "fileHashes": {
+    "book.md": "ab6503ebcb08ef8f90b127a2edf29f71547a1522da2f485298fcb65068284511",
+    "pages/0001.md": "e787dba2fc95936f8bb684a0e0f5d01182e5be298536acc35ac0794050d4c640"
+  }
+}

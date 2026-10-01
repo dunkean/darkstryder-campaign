@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-2782dfae280ebb0a",
+  "name": "DSWayStation",
+  "sha256": "2782dfae280ebb0a6d5dd35ae5c9e516b31c64e04ea05a26a6f283a6d39126f0",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWayStation.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d7de919655bd39a8291e2308cea350e893319e7644157cc8ede87b5df3492b42",
+  "fileHashes": {
+    "book.md": "49b8db05b9ac5763b13c4f847d3719e21f7366a6bcc0e91e048db116413effc8",
+    "pages/0001.md": "19c6178f99fb989d857bd0b59cb86307384010d67b3f6731a23c57fb7af98ef0"
+  }
+}

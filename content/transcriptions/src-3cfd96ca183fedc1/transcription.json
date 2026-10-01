@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-3cfd96ca183fedc1",
+  "name": "DSCOUNTE",
+  "sha256": "3cfd96ca183fedc1847bce7d40aa2517fbf1e7ba97e63cc9bb8aaff56d348358",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCOUNTE.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f218e3f39af91cc81b482bf4567551557d22a2957151e7d58b1b4404c7b9bef3",
+  "fileHashes": {
+    "book.md": "e75c6ab8d54126151db93cc266cffc09c74332d6b9bd806620e4ab808d56de55",
+    "pages/0001.md": "bf7907b80297756cb6439090f685938358fc8777357aeb0b9359615f5e3f1931"
+  }
+}

@@ -1,0 +1,279 @@
+# DSUUKAAB
+
+Source: `src-749a0c5b9d9e3428` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-749a0c5b9d9e3428; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Shantuun & Uukaablis
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+***"Wildfire: The Cure,
+& The Sleeper"***
+
+---
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/uukaab.jpg]
+The *Farstar* had a new mission.  Much as Gorak didn't like it,
+the Exocronians asked for their help.  The virus was being held at bay with medical
+technology brought to them by a race called the Uukaablian.  However, that would only
+put off  the inevitable.  It had already spread rapidly, and those who have it,
+fall into the Qek-induced coma or die.  The virus was not airborne, so only one crew
+member was infected; Bifzik, who was in isolation.  The captain was in isolation as
+well, pending the Doc's surgery to remove the "thing" on the back of her neck.
+For now, a people needed saving.  Sacrifice the needs of the few...  Gorak could
+not believe himself.  It has come down to this.  An almost noble cause, and a
+nearly-unselfish act.  And he was in charge.
+
+The Uuklaablians knew of a man, who was once with the Qek. He was a hermit on their
+homeworld.  He would not talk to anyone, especially Uukaablians.  Only the *Farstar*
+crew could plead their own case to him.  
+
+The Uukaablians warned them that the trip would take several standard weeks.  The
+Farstar was al;ready low on food, and no telling if the virus could be spread through the
+food of Exocron.  They had enough to make it to Shantuun, a world 6 days away, but
+after that, they had better stock up.  The trip to Uukaablis was at least 13 days.
+
+*****
+
+Dajus could not shake this new voice from her head.  She had grown accustomed to
+the two voices calling to her and at the same time warding her off.  She had become
+familiar with those; the father and the mother figure in her mind; one calling for her to
+bring "*my children to me*", the other warning her off.  She blamed
+it on the implant they had found in her; the near-Darkstryder tech in the back of her
+neck.  However, a new voice was stronger now, dominating her conscious and
+unconscious thoughts.  He called himself Master B'Hyhnar.
+
+This B'Hyhnar was called her and two others to Shantuun. She didn't know what three
+others, but the Master said she would know when the time came.  *Trust in the
+Force*.
+
+******
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/shantuun.jpg]
+The *Farstar* settled into orbit
+around Shantuun.  It was a dismal planet; a swamp jungle world. At least it had game
+and some edible vegetation. Gorak and Kl'aal formed a specialized team to hunt and gather
+enough food for the journey to come.  Hasslock volunteered almost too anxiously to go
+with the first team.  Gunthar also was emphatic about being with one of the hunting
+parties.  Dajus's was the strangest request. She insisted with no explanation, and
+Gorak accepted the request. 
+
+*The Captain in a coma, and Dajus requesting to go down to a very hazardous world.
+Two of my problems are taking care of themselves*, Gorak mused.
+
+The re-supply took a few days.  Landing and taking off from Shantuun was tricky,
+because of the heavy canopy and the tumultuous weather.  Once the stores were full,
+the crew was brought back aboard.   Hours later, Gorak got a report of three
+crew missing.  Dajus, Hasslock, and Gunthar...  *Gunthar?* He ordered an
+extensive search.  They spent a day and a half searching, with no sign.  As it
+drew near a 2-day search, the bridge was interrupted by a spectacular event.
+
+A translucent figure appear in the middle of the bridge.  It was draconian in
+shape, with white leathery skin.  Gorak had heard of these creatures...
+Duinuoguin....star dragons.   
+
+"Your colleagues will be taken care of.  Cease your search.  They will
+be returned to you once they have been tested."
+
+*Tested? *Before Gorak could say anything, the figure faded.  After a short
+discussion with his bridge crew, they left orbit.  They couldn't help but have a
+slight feeling of loss. *(See [The Quest on Shantuun](DSQuestOnShantuun.htm)
+for the solo adventure)*
+
+*****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/farstar_attack1.jpg]
+Thyte was recalculating the
+astrogation.  This was their third stop along the jump path to Uukaablis.  They
+had at least 2 more to go.  This part of space was particularly hard to nav. 
+The hyperspace eddies and occasional gravimetric distortions were making it difficult for
+Thyte.  The uncharted system they dropped out nearby was a pulsar system and was not
+helping either.
+
+Samarion awoke from his station near sensors, mumbling something. "...something
+coming through..."  He got louder..."Something dropping out of hyperspace,
+now. "  
+
+*His warning are usually a little earlier than this..*. Thyte thought.  *The
+Rift must me playing havoc with his metabolism too.*
+
+Four ships dropped out, all with what Gorak recognized immediately as Skandrei Bandit
+markings on them.   They immediately attacked.  The Forsaken (the newly
+christened fighter squadron of the *Farstar*)  were launched immediately.
+  Volleys of fire were like rains of death, proton torpedoes flew around like
+insects.  The pirate raiders seemed to have another purpose, however.  They were
+all light freighters, and were heading in the direction of the system not far from them.
+  The Forsaken poured it on, with the intensity of a rabid rancor.  All the
+pilots were tired and restless for a battle, so they were thirsty for a kill.
+
+The pirates didn't have a chance.
+
+Gorak order the collection of a few escape pods for interrogation (his favorite thing).
+  The lucky pod was loaded in the damaged hangar bay, and in ENVI-Suits, the Night
+Terrors escorted the prisoners to one of the lower storage  holds recently designated
+as the brig.  Gorak was looking forward to this.  He needed a release.  
+Captain Adrimetrum has been under a coma too long.
+
+The hold doors opened and Gorak was facing an Imperial officer...  *an Imperial
+officer?*   This was getting interesting.  Sarne's influence even
+extended to the Skandrei bandits.
+
+The officer was quite livid about his trip being interrupted. "I have to get to
+Beta-G4 before something horrible happens. You must get me there..."  This
+officer was apparently a scientist.
+
+Gorak standing over him with a nail quieted him down.  The last time he used his
+nail gun was with the Qulok's Fist, and they didn't like it very much.   They
+showed him how much they appreciated while he was in that prison on Galtea.  They
+paid his a visit and made his stay quite unpleasant.  This time, his prey wouldn't
+have that chance.
+
+"Why is it so important to you?  Another Sarne Plot?"  Gorak said.
+
+" Nuniok Dak Solarus...  It is quite unstable... I must get to the
+facility."  The Imperial said.  Nothing mattered to the scientist more than
+getting to that facility.
+
+"No!  Let's just see what will happen.  If things are going afoul for a
+Sarne project, who am I to stop that?"
+
+All long range sensors focused on the minor system.  Soon sensors picked up energy
+fluctuations.  Samarion began to feel sick, and soon fainted.  Sensors, one
+minute register the small one planet system, and the next, there was nothing.  No
+explosion, no nothing.
+
+This had to be stopped.  Sarne was getting out of control.
+
+*****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/wildfire.jpg]
+The *Farstar* was reaching it's last
+stop, only a 10 minute hyperspace jump to Uukaablis.  Sensors had picked up a
+distress call.  The Farstar drew near to the point of origin.  Before them was
+an odd site.
+
+It was an Imperial assault shuttle, engulfed in some sort of energy fluctuation.  
+To Brophar, it appeared that the ship's shield emitters were overloaded and randomly
+throwing out EM fields.  The Night Terrors were called into board it, because through
+all the interference, life signs could be detected.
+
+An hours and a half later, the Night Terrors returned with yet another two Imperial
+officers. The assault shuttle exploded not long after that.
+
+"We keep this up, we'll have our regular crew compliment."  Gorak
+commented
+
+"I would trust the mutineers before I would trust Imperials" Thyte mumbled.
+  Dajus flashed him a look.
+
+"Does it seem like Sarne is just dropping them like aknar-flies?"  
+Loh'Khar noted.
+
+"It would seem we are on his tail now." Moyato stated.
+
+The two Imperial were brought directly to sick bay.  Akenseh was still quite busy
+with analyzing Adrimetrum's condition.  Seedar worked on the Imperials.  
+
+Hours later...
+
+"Oh no..." was all Seedar could say.  She cursed the fact that the ship
+didn't have proper decontamination facilities.  They weren't prepared for this type
+of thing.  She reported her findings to Akenseh, who, after a pause, went to the
+bridge.
+
+*****
+
+They had made it to Uukaablis and were in orbit when the Doc came to the bridge.  
+
+"I have some bad news to report, Captain Khzam.  I think the whole crew needs
+to hear this."
+
+Gorak, exasperated, turned to the Doc and waited for the report.
+
+"We have contracted a new strain of the same virus that is on Exocron.  This
+one seems quite deadly, if our will does not surrender to it.   The Imperials
+suffered that fate.  It's also a very fast acting virus.  It was spread already
+through out most of the ship.  From what the techs were able to gather from the logs
+of the shuttle, Sarne deliberately infected his men with this virus, and left them there
+for us to find.  It was a trap, and we fell for it.  Many of us are infected.
+  We have to get this cure, now.  It's personal."
+
+The Uukaablians that accompanied the Farstar  to their homeworld piped up.
+"We may have something that could help, but it probably will not cure it."
+  They handed the Doc a flask. "We have more of this on our homeworld."
+
+"Good.  And you can accompany me to my office.  I would like to see how
+you are reacting to the virus.  We don't leave this ship until I know that your
+species can't contract it."
+
+*****
+
+The substance the Uukaablians provided did have an effect.  It slowed the symptoms
+down, and kept it from being an airborne contagent. It could only be contracted through
+touch.  Also, the Uukaablians seemed immune.
+
+The planet was quite breath-taking.  Sensors picked up odd energy fluctuation in
+one continent, while near where they had planned to land, a partially completed starport
+was being constructed.  The Uukaablians explained that they had allowed a local
+corporation to build starport on their world.  The corporation was Sagridian
+Enterprises.  Gorak recognized it as indeed a local corporation, but knew very little
+about it.
+
+*****
+
+Slave had been in the background of all that was happening up until now.  The
+organic/inorganic virus concerned him, but Uta and her techs assured him that he had not
+contacted it.  Then, he asked, why did he feel like part of his core memory was
+reprogramming itself.  Every once in a while, one of his backup CPUs would receive an
+encoded instruction.  He ran as many diagnostics as he could, only to come up with
+nothing.  He then confided in Uta about the chunk of memory he had.  It had been
+there since his experience on the star destroyer, the *Subjugator*.  They
+captured him, and played with his memory protocol, leaving "a hole in his mind".
+  He had been attempting to crack it with every free moment he could, and even
+recruited Bifzik at times.  Neither of them could break through without setting off
+booby-trap programs set up in onion-layers around the "hole".  He had to
+let the new droid tech take a crack at it.
+
+She was more skilled in this area than Bifzik, it seemed.  She was able to break
+through the onion layers with little to no damage to Slave's core processes.  Beyond
+that, Uta was able to find what all the protection was for, or at least most of it.  
+It was a message, containing the identity of a spy within Sarne's organization.  
+This spy has been paying enough hints so that the *Farstar* could follow
+Sarne.  If it wasn't for this spy, Sarne would have been long gone, out of New
+Republic reach.  This spy was had worked himself very high up in Sarne's ranks.
+  His name was "Bane" B'Dorbeck.  The same spy that was Slave's former
+owner.  This name came to Slave months ago, while on Gandle Ott.  He was
+apparently a relative of Thane B'Dorbeck, the Farstar's New Republic Diplomat.  And
+now Slave held the information within him that could seal his former masters fate.
+
+Uta also noted some command protocols housed within that area of storage, strategically
+linked to his primary function protocols.    This was too dangerous to
+access.  It was rigged to wipe out Slave's primary functions if tampered with.  
+Uta chose to back out.
+
+The *Farstar* was in the midst of landing by then, and Slave was being called
+for bodyguard duty for the captain, again.
+
+**The Uukaablis Story Continues...**
+
+- [**The Cure**](DSCure.htm)
+
+- [**The Sleeper**](DSSleeper.htm)
+
+---
+
+[Previous 
+[Image locale absente : ../../icons/yl_l_arr.gif](DSQuestOnShantuun.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSCure.htm)
+
+[[Image locale absente : ../../icons/timeline.gif
+Back to](DStimeline.htm)Timeline
+
+[Some images borrowed
+    from the SWMA](http://www.surfthe.net/swma/)

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-109fd54406feba98",
+  "name": "DSsoitbegins",
+  "sha256": "109fd54406feba988b2447c78af94e7e9199039b02debc527047a4bb61c5ca33",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSsoitbegins.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "72ae50e61c21fe230a36deb7f8349bc1ebb0d6f85bcecc6cb0cb2d4ec33cab2f",
+  "fileHashes": {
+    "book.md": "b09ce7f282a2665d1bda3fef4ae46978f4d06349492047971a47005cfda27227",
+    "pages/0001.md": "52045df36e4a5073def15eed67577a67463ea54089fd227ad221b4816b326467"
+  }
+}

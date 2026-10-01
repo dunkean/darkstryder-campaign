@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-195f1ea144df2be4",
+  "name": "DSEdgeofTheGalaxyThe Ruins",
+  "sha256": "195f1ea144df2be45191e5e12a7c487c6a38b9872ecb12ede89f9fdc51ccfabe",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEdgeofTheGalaxyThe Ruins.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a7b80d5fe906901db4858ddde080b6ebfda1c67099b57444ff819ba735541795",
+  "fileHashes": {
+    "book.md": "959ea42b7f01b690550345086b6b7cbdddfca40634d3a15498879815c731a2cb",
+    "pages/0001.md": "f4430dc3563b3053d769eedcecfb21634c892c6f44693c2a1150cce63e4ce6d4"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "sourceId": "src-118f60238f2ef546",
+  "sha256": "118f60238f2ef5466f8fb9c0d5f7321525969bd56c4c528520c123526a258df3",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 3035,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "ron/images/dgl.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "rs/images/rs2_small_button.jpg"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/1ca750d5c4f209887a2f38eb6a91e593563fbad2d2e058d4fd9d0ca2362ba607.jpg",
+      "origin": "icons/gl-n-sd2.jpg",
+      "sha256": "1ca750d5c4f209887a2f38eb6a91e593563fbad2d2e058d4fd9d0ca2362ba607"
+    },
+    {
+      "file": "images/b03d35add138494dbf7c2a9f13935a096d96bc4a887c1480a4837dfd6e99ba62.gif",
+      "origin": "icons/starwars_button.gif",
+      "sha256": "b03d35add138494dbf7c2a9f13935a096d96bc4a887c1480a4837dfd6e99ba62"
+    },
+    {
+      "file": "images/5fbed80b80b64b95ad4b5650de6c248031eb4b7f7baddc3b8d3301234fb1aeea.jpg",
+      "origin": "icons/sz_small_button.jpg",
+      "sha256": "5fbed80b80b64b95ad4b5650de6c248031eb4b7f7baddc3b8d3301234fb1aeea"
+    },
+    {
+      "file": "images/d33968f9208b9f0c6cf01d07b32dabac5cbf5c83cb2c4cb83ccb5db360b0b3a2.jpg",
+      "origin": "icons/dc_small_button.jpg",
+      "sha256": "d33968f9208b9f0c6cf01d07b32dabac5cbf5c83cb2c4cb83ccb5db360b0b3a2"
+    },
+    {
+      "file": "images/5a16ef6501d0b2a1f3cd87ed71b83f921415ae240a3868efe6a369f1b5ebae2f.jpg",
+      "origin": "icons/sf_small_button.jpg",
+      "sha256": "5a16ef6501d0b2a1f3cd87ed71b83f921415ae240a3868efe6a369f1b5ebae2f"
+    },
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

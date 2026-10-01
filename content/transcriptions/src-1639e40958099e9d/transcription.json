@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1639e40958099e9d",
+  "name": "Akanseh",
+  "sha256": "1639e40958099e9d305b0e6534af70599e01c72e87f776f6e4d718a0d94fa5f0",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/Akanseh.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "343c971a7e75f35010fecdfa2b9d63ae9a61fea29349b5070098a802e28d721f",
+  "fileHashes": {
+    "book.md": "857ff20ef6271299516a9b663a04e0e3695e41453cb9b24f92f3ef5d1285b42d",
+    "pages/0001.md": "c110d453f0b9dbec044189f9b4858a2dae57749cbab7c830dd065cb09712effb"
+  }
+}

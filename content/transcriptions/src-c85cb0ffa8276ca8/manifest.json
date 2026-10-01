@@ -1,0 +1,43 @@
+{
+  "sourceId": "src-c85cb0ffa8276ca8",
+  "sha256": "c85cb0ffa8276ca80d7c7561ef4526db8da6db47cea632969d45f27c2b629368",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 24860,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/yl_l_arr.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/yl_r_arr.gif"
+    },
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/icons/timeline.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/627ea99ffbb407dcc52ee4b667c8fd5be32dd426dd1e64800cfe4cd46d7ea7c0.jpg",
+      "origin": "images/chillweaver.jpg",
+      "sha256": "627ea99ffbb407dcc52ee4b667c8fd5be32dd426dd1e64800cfe4cd46d7ea7c0"
+    }
+  ],
+  "encoding": "ascii"
+}

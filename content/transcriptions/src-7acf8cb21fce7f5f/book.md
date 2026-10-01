@@ -1,0 +1,1122 @@
+# JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles
+
+Source: `src-7acf8cb21fce7f5f` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-7acf8cb21fce7f5f; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+ saved from url=(0051)http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170 
+
+JDRVirtuel • Afficher le sujet - Inventaire / Equipement / Règles
+
+[![](images/68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1.png)](http://www.jdrvirtuel.com/index.php)
+
+# JDRVirtuel
+
+Le forum du JDR à distance
+
+| <br>[![*](images/43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75.gif)<br> Connexion](http://www.jdrvirtuel.com/ucp.php?mode=login)   [![*](images/65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b.gif)<br> M’enregistrer](http://www.jdrvirtuel.com/ucp.php?mode=register)<br> | <br>[![*](images/30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1.gif)<br> FAQ](http://www.jdrvirtuel.com/faq.php)<br>				   [![*](images/605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4.gif)<br> Rechercher](http://www.jdrvirtuel.com/search.php)<br> |
+| --- | --- |
+
+|  | Nous sommes le Sam 13 Fév 2016 23:06<br> |
+| --- | --- |
+
+[Voir les messages sans réponses](http://www.jdrvirtuel.com/search.php?search_id=unanswered) | [Voir les sujets actifs](http://www.jdrvirtuel.com/search.php?search_id=active_topics)
+
+[Index du forum](http://www.jdrvirtuel.com/index.php) » [Parties de Jdr (actives)](http://www.jdrvirtuel.com/viewforum.php?f=32) » [Historique](http://www.jdrvirtuel.com/viewforum.php?f=98) » [Sous forum à garder](http://www.jdrvirtuel.com/viewforum.php?f=99) » [Dark Stryder par JudgeDeath](http://www.jdrvirtuel.com/viewforum.php?f=52)
+
+Heures au format UTC + 1 heure [ Heure d’été ]
+
+## [Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170)
+
+| <br>[![Poster un nouveau sujet](images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif)](http://www.jdrvirtuel.com/posting.php?mode=post&f=52) [![Répondre au sujet](images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif)](http://www.jdrvirtuel.com/posting.php?mode=reply&f=52&t=7170)<br> |  Page **1** sur **1**<br> |  [ 7 messages ]  |  |
+| --- | --- | --- | --- |
+
+|  <br>				[Imprimer le sujet](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170&view=print)<br> | [Sujet précédent](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170&view=previous) \| [Sujet suivant](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170&view=next)  |
+| --- | --- |
+
+Auteur
+Message
+
+**JudgeDeath**
+
+ **Sujet du message:** [Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p100967)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=100967#p100967)**Posté:** Dim 9 Jan 2011 09:23 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Inventaire de l'Etoile Lointaine :
+
+- ***Finances :*** (en plaquettes de crédits standards) 
+- 10 000 crédits de la Nv Répb 
+- 60 000 crédits impériaux - **57000
+**
+
+- ***Equipement médical :***
+- 2 cuves à Bacta
+
+- ***Armurerie :***
+- 150 pistolets blasters (4D) 
+- 25 fusils blasters (5D) 
+- 5 EWHG-10 blaster mitrailleur BLAF (8D) 
+- 5 canons à ions d'épaule (3D, échelle speeders, dommages ionisants) 
+- 5 lance-missiles portables PLX-2 (6D) 
+- 5 lance-projectiles CSPL-12 
+- 400 packs énergétiques rechargeables pour blaster 
+- 50 capsules de gaz à blaster 
+- 200 grenades standars (4D) 
+- 100 grenades fumigènes 
+- 5 lance-grenades portables 
+- 30 vibro-haches (VIG+3D) 
+- 25 vibro-lames (VIG+1D) 
+- 100 casques protecteurs 
+- 100 vestes protectrices
+
+- ***Dépôt :***
+- communicateur 
+- ustensiles d'escalade 
+- générateurs à fusion portables 
+- tentes de survie 
+- générateurs de champs portables (1D-4DD à l'échalle des personnages sur une zone de 4 mètres carrés. Ils sont utilisés pour protéger des postes de tirs et les stations vitales de base) 
+- respirateurs 
+- tiges lumineuses 
+- médicaments
+
+- ***Véhicules :***
+- 8 Aile-X - **7
+**- 4 chasseurs Défenseur 
+- 6 mobquets surtraceur 
+- 1 SRV1 
+- 4 VAUL 
+- 1 MUVON 
+- 1 Aegis
+
+- ***Les Droïds :***
+- 1 Droïd magasinier R-97 
+- 4 Droïds Porte-charge 
+- 1 Droïd contremaître DD-19 
+- 6 Droïds de sécurité K4 de Bordure Surveillance 
+- 3 Droïds médicaux 2-1B 
+- 10 Droïds astromec R2 
+- 40 Droïds astromec R3 
+- 10 Droïds de service SE-4 
+- 6 Droïds sondes 
+- 6 Drones messagers 
+- 12 Droïds d'alimentation énergétique 
+- 7 Droïds de maintenance 
+- 3 Droïds manutentionnaires Roche
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p100970)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=100970#p100970)**Posté:** Dim 9 Jan 2011 09:32 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Les Senseurs et les contre-mesures *(A destination de l'officier Thyte)*
+
+Pour se servir des détecteurs dont sont équipés leurs vaisseaux, les personnages emploient leurs compétences Senseurs. Celle-ci leur permet, en effet d'interpréter des émissions énergétiques, calorifiques, gravitationnelles ou lumineuses, afin de déterminer  la présence d'éventuels débris, autres véhicules ou vaisseaux ennemis. Le système de détection conventionnel inclut :  les *EPR* (électro photo récepteurs) ils scrutent à courte portée le spectre visible, l'ultraviolet et l'infrarouge. Les *ERMS* (émetteurs-récepteurs multi-spectres) ils analysent les objets et donnent des informations sur les signatures énergétiques. Et enfin les *RES* (Récepteurs énergétiques spécifiques) ils peuvent détecter des émissions électromagnétiques comme les signaux des communicateurs, les balises de navigation, la chaleur, la lumière émise par les lasers, etc... 
+
+Tous les senseurs possèdent quatre modes de fonctionnement qui sont détaillés dans leurs caractéristiques : **passif, détection, recherche et focalisation**. La difficulté des jets de compétence dépend de la distance à laquelle se trouvent les objets à "observer".
+Les caractéristiques des senseurs se présentent toujours sous la forme de deux nombres séparés par un trait (ex. : 6/0D). Le premier correspond à la portée du senseur en question, exprimée en "unités" (comme pour les combats spatiaux). Le second donne le nombre de dés à ajouter au jet de compétence de l'opérateur.
+
+- **Mode Passif :** les senseurs se bornent à collecter des données concernant l'environnement immédiat du vaisseau et n'émettent pas d'impulsions énergétiques afin d'obtenir des informations complémentaires. Leur portée est alors très limitée et leur efficacité dépend essentiellement de la compétence Senseurs de leur opérateur.
+
+- **Mode Détection :** les senseurs émettent des impulsions énergétiques dans toutes les directions afin d'amasser des informations sur l'environnement du vaisseau. Leur portée est plus grande qu'en mode passif.
+
+- **Mode Recherche :** les senseurs limitent leurs investigations à une direction spécifique. Bien qu'ils se cantonnent à un seul "arc de tir" (avant, gauche, droite ou arrière), leur portée est alors nettement supérieure.
+
+- **Mode Focalisation :** les senseurs scrutent minutieusement une zone précise de petite taille. Le premier nombre de leurs caractéristiques correspond, dans ce cas, au rayon de la zone observée, leur portée étant identique à celle du mode recherche.
+
+[![Image](images/ab183bccdf3b1549a3bbc45540767b66f10490d9125f829f0f77cc8eecf8dd08.gif)](http://www.casimages.com/)
+
+A partir des données qu'ils collectent, les senseurs sont capables de générer des images composites que les opérateurs interprètent à l'aide de leur compétence. Du fait de la relative imprécision de ces images, la qualité des informations fournies dépendra beaucoup des circonstances. Ainsi, par exemple, il sera bien plus facile de détecter un vaisseau dans une zone d'espace dépourvue de débris que dans une ceinture d'astéroïdes. Dans ce second cas, en effet, il aura la possibilité de se dissimuler au milieu des rochers et ses émissions d'énergie seront alors difficilement repérables.
+De plus, comme les impulsions énergétiques des senseurs sont émises depuis un point précis de l'espace, les informations collectées sont forcément limitées. Ainsi, si un vaisseau se "cache" derrière une planète, il sera généralement impossible à détecter.
+
+Les senseurs peuvent accomplir deux tâches distinctes : **détecter et identifier**. Quand ils détectent une chose, ils ne précisent pas de quoi il s'agit. En revanche, quand ils identifient un objet, ils précisent son type et peuvent ainsi, par exemple, faire la différence entre un transport YT-1300 et un Destroyer Stellaire impérial.
+En réussissant un jet de Senseurs supérieur d'au moins 10 points au facteur de difficulté, un personnage parviendra à capter le code transpondeur du vaisseau cible, ce qui lui permettra éventuellement d'identifier ce dernier en consultant les fichiers de son ordinateur de bord. Le BoSS (Bureau officiel des Services Stellaires) n'a cependant pas l'habitude de délivrer à n'importe qui tous les codes en sa possession. De plus, de nombreux appareils - et notamment ceux qui accomplissent des missions secrètes à caractère militaire - emploient des transpondeurs falsifiés. Or, un code erroné ne permettra jamais d'identifier un vaisseau.
+
+*NB/ Pour l'Etoile Lointaine, nous avons :*
+- Passif : 50/ 1D+1  Compétence Senseur de l'officier Thyte
+- Détection : 100/ 3D+1  Compétence Senseur de l'officier Thyte
+- Recherche : 200/ 4D+1  Compétence Senseur de l'officier Thyte
+- Focalisation : 6/ 5D  Compétence Senseur de l'officier Thyte
+
+Les contre-mesures
+Les vaisseaux peuvent recourir à diverses techniques afin de réduire les risques d'être détectés...
+
+- **Le brouillage** consiste à saturer une zone donnée de "parasites", de telle sorte qu'il soit virtuellement impossible de savoir ce qui s'y trouve. Il est toutefois très facile de détecter un brouillage, aussi cette méthode a-t-elle l'inconvénient de signaler à tous les observateurs éventuels qu'il se passe quelque chose d'anormal dans le secteur. *[ 10 en Difficulté pour l'identification uniquement]*
+
+- **Un leurre sensoriel** est une petite capsule ou navette qui reproduit exactement "l'image sensorielle" d'un autre appareil. A moins d'être particulièrement habile, un opérateur aura souvent de grandes chances de confondre le leurre avec le vaisseau réel. *[ 5 en Difficulté]*
+
+- Quelle que soit la forme qu'elles adoptent , les contre-mesures sont généralement des dispositifs électroniques conçus de manière à tromper les détecteurs adverses afin de les empêcher de repérer un vaisseau. Pour atteindre cet objectif, il suffit parfois d'utiliser ses propres **senseurs en mode passif**, ce qui les rend moins facilement détectables. *[ 5 en Difficulté]*
+
+- On peut, également, adopter une attitude de **discrétion sensorielle** en coupant tous les appareillages principaux : moteurs, armement et écrans. Dans ce cas, l'appareil dérive librement dans l'espace, ses systèmes de survie étant alimentés uniquement par ses accumulateurs. Il est impossible de prolonger ce genre de chose plus de cinq minutes, avant que le manque d'énergie ne pose de sérieux problèmes.
+
+- Certains vaisseaux disposent également de **masques sensoriels** qui modifient subtilement leurs émissions de manière à les faire passer pour autre chose que ce qu'ils sont. En termes de jeux, une fois activés, ces masques ajouteront un certain nombre de dés à la difficulté de la détection. *[ 1D ou plus en Difficulté]*
+
+- Des **codes transpondeurs erronés** permettent, en outre, d'adopter une fausse identité. Tous les vaisseaux doivent, en effet, être enregistrés auprès du BoSS qui leur attribue alors un code transpondeur spécifique. Un capitaine particulièrement rusé peut ensuite, s'il le désire, modifier son code (ce qui n'est pas facile à faire) de sorte que si son vaisseau venait à être détecté, il soit confondu avec un autre. Ainsi, par exemple, avec un code transpondeur erroné, le Faucon Millenium pourrait très bien être identifié comme étant le Cool Shot, un autre vaisseau de transport YT-300.
+
+*Autres facteurs :*
+
+- La cible est dissimulée derrière une planète ou un autres corps céleste de grande taille *[ 10 en Difficulté]*
+
+- La cible se cache au milieu d'autres corps célestes (ex. : des astéroïdes). *[ 20 en Difficulté]*
+
+- La cible est un petit corps céleste (ex. : un petit astéroïde) *[Bonus de  5 au Jet de Senseurs]*
+
+- La cible est un Vaisseau de guerre *[Bonus de  10 au Jet de Senseurs]*
+
+- La cible produit une émission de brouillage *[Bonus de  10 au Jet de Senseurs, pour la détection uniquement]*
+
+- La cible est un corps de dimension moyenne (ex. : un gros astéroïde) *[Bonus de  10 au Jet de Senseurs]*
+
+- La cible est un corps céleste de la taille d'une planète ou d'une lune *[Bonus de  20 au Jet de Senseurs]*
+
+- La cible est un objet stellaire (ex. : étoile, nébuleuse, trou noir, etc.) *[Bonus de  30  ou plus au Jet de Senseurs]*
+
+Les Actions Combinées *(A destination des officiers Gorjaye et Khzam)*
+
+Pour que plusieurs personnages travaillent efficacement de concert, il est impératif que leurs actions soient coordonnées par l'un d'entre eux. Ce commandant est en principe l'individu qui possède la compétence **Commandement** la plus élevée. S'il remplit bien sa fonction, ses "subordonnés" bénéficieront alors de bonus non négligeables à leurs jets de dés.
+Au cours d'une scène, un personnage peut très facilement diriger les actions de ses compagnons, tout en participant à l'effort commun. Il devra néanmoins procéder à un **jet de Commandement à -1D** afin de refléter qu'il ne se contente pas seulement de superviser les opérations.
+
+Pour commander des troupes ou des individus, il faut que trois conditions soient remplies :
+- Subordonnés et commandant doivent être en contact direct (à portée de voix ou de communicateur).
+- Les subordonnés doivent tous voir la "cible" qu'ils sont censés viser.
+- Tous doivent également se trouver à la même distance/portée de celle-ci (bout portant, courte portée, moyenne portée ou longue portée).
+
+S'il réussit le jet de commandement, c'est qu'il est parvenu à coordonner efficacement les actions de ses subordonnés.
+Si le commandant rate son jet, seuls le nombre de subordonnés correspondant en fait au résultat qu'il a obtenu ont effectivement obéi. Les autres, quant à eux, auront été totalement inefficaces... ils ont ratés leurs tirs, se sont dépensés en vain, ont agi de manières désordonnée, etc.
+Une fois déterminé le nombre de subordonnés qui ont été effectivement commandés, il est possible de déterminer le bonus applicable en consultant la table des bonus des actions combinées :
+
+[![Image](images/51f74eb05b512b0c8e1b23cd47f896e2d8bc9eac12aba2e211b3f7d450b0ef77.gif)](http://www.casimages.com/)
+
+Si la tâche considérée est résolue par un seul jet de dés (ex. : réparer un véhicule), il faut ajouter le bonus au résultat de celui-ci. Si elle nécessite deux tirages (ex. : tirer, puis infliger les dommages), il faut l'ajouter aux deux.
+
+**[Pour Khzam]**
+- 12 Artilleurs contrôlant les 6 Turbolasers Bitubes / Niveau moyen de compétence Canons de Vaisseau de Guerre : 5D
+Difficulté de commandement moyenne [entre 11et 15]
+. Cible unique : Jet de compétence de l'Artilleur : *Moyenne de compétence (5D) + Ordinateur de Visé (2D)+ Bonus*
+. Cibles multiples : Jet de compétence de l'Artilleur : *Moyenne de compétence (5D) + Ordinateur de Visé (2D)+(NB Artilleur/ NB Cibles) x Bonus*
+
+**[Pour Gorjaye]**
+- 8 pilotes d'Aile-X / Niveau moyen de compétence Canons de Vaisseau : 5D+1
+Difficulté de commandement moyenne [entre 11et 15]
+. Cible unique : Jet de compétence du pilote : *Moyenne de compétence (5D+1) + Ordinateur de Visée (3D) + Bonus - XD de déplacements (entre 1 et 4)*
+. Cibles multiples : Jet de compétence du pilote : Moyenne de compétence (5D+1) + + Ordinateur de Visée (3D) + (NB Artilleur/ NB Cibles) x Bonus - XD de déplacements (entre 1 et 4)
+
+_________________
+« Le yoga est une science de la réalité et une preuve expérimentale du caractère sacré de toute vie. » **Yogi Bhajan**
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p110208)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=110208#p110208)**Posté:** Jeu 17 Mar 2011 21:52 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Les Echelles
+
+Il existe six échelles distinctes dans le jeu:* **l'échelle des Personnages**, **l'échelle des Speeders**, **l'échelles des Quadripodes et Bipodes**, **l'échelle des Chasseurs Stellaires**, **l'échelle des Vaisseaux de Guerre** et **l'échelle de l'Etoile de la Mort**.* Des tables ont été prévues afin de les prendre en considération dans les trois domaines particuliers du jeu :* les tirs, les esquives et le calcul des dommages*.
+Ces ***"Tables d'échelle"*** permettent de tenir compte des énormes différences qui existent entre des engins aussi dissemblables que des speeders et des vaisseaux de guerre mesurant plusieurs centaines de mètres de long. Pour des raisons de commodité, l'échelle de tous les véhicules, vaisseaux et armes a été précisée dans leurs descriptions.
+
+: : : Comment utiliser les Tables : : :
+Les lignes correspondent à l'échelle du code-dé utilisé par *"celui qui agit"* (ex: un tireur), alors que les colonnes concernent celle de la "*cible" qui subit l'action tentée*. En vous reportant à l'intersection de la ligne et de la colonne appropriées, vous trouverez un chiffre : ***le score limite applicable à la situation***.
+Au moment des tirages, tout dé dont le résultat est supérieur à ce score limite sera considéré comme si son résultat était en fait égal au score limite. Cette règle ne s'applique pas aux "+1" et "+2" des codes.
+
+- Table d'échelle : TIRS
+Cette table doit être employée chaque fois qu'un personnage ou un véhicule fait feu sur une cible qui n'est pas à son échelle. Un "-" indique que le tir considéré est impossible.
+
+- Table d'échelle : ESQUIVES
+Cette table est utilisée lorsqu'un personnage ou un véhicule tente d'esquiver une chose qui n'est pas à son échelle. Un "-"signifie que l'esquive envisagée est impossible.
+
+- Table d'échelle : DOMMAGES
+Cette table sert quand une cible est touchée par une arme qui n'est pas à la même échelle qu'elle. Cherchez l'intersection de la ligne correspondant à l'échelle de l'arme et de la colonne relative à celle de la cible.
+Le chiffre situé à gauche du "/" est le score limite applicable au jet de dommages, alors que celui noté à droite est le score limite du tirage permettant de résister à ces dommages. Un "-" à gauche indiquera que l'arme utilisée ne peut pas causer de dommages. Un "-" à droite signifiera que la cible n'a pa la possibilité de résister aux dommages.
+Il arrivera que des véhicules soient équipés d'armes de différentes échelles (ex. : un speeder pourra avoir un blaster mitrailleur à l'échelle des Personnages et un canon à l'échelle des Speeders). Vous devez alors tenir compte de l'échelle de chaque arme, pas de celle du véhicule.
+
+[![Image](images/af76a15604ea3d38dc23e2295e89cf2ef0c7642dd648de5178525661333e2b89.gif)](http://www.casimages.com/)
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p135625)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=135625#p135625)**Posté:** Jeu 13 Oct 2011 22:36 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Le Bricolage
+
+Cette méthode permet d'**augmenter les performances d'un appareil**, mais elle n'est guère qu'un pis-aller car les améliorations qu'elle autorise n'ont souvent qu'un **caractère temporaire** et peuvent même se révéler dangereuses en cas de défaillance technique.
+Lorsqu'un personnage bricole un pack énergétique de blaster pour en faire une bombe ou lorsqu'il modifie la forme des ailerons directionnels d'un airspeeder, il procède bien à une "amélioration"... mais celle-ci n'aura rien de commun avec ce qu'un ingénieur compétent aurait été susceptible d'accomplir. En effet, un bricolage de ce type est réalisé en connectant des câbles qui n'auraient jamais dû être reliés ensemble, en retirant certains équipements de sécurité à un véhicule ou en assemblant des composants électroniques qui n'ont pas vraiment été conçus pour cela. Un équipement bricolé fonctionnera mieux pendant un laps de temps assez bref, mais il aura aussi beaucoup plus de chances de tomber en panne.
+Bricoler un appareil prend généralement **une heure**, mais un personnage peut aussi - en se dépêchant - arriver au même résultat en **une seule minute**. dans ce cas, la difficulté se sa tâche sera augmenté d'un niveau. On peut même essayer d'exécuter des tâches très difficiles en une minute. Quoi qu'il en soit, le fait de consacrer plus d'une heure à une bricolage ne rendra jamais celui-ci plus facile.
+Si on rate un jet de bricolage, il est toujours possible de faire une seconde tentative **une heure plus tard** (même si la première tentative n'avait pris qu'une minute).
+
+: : : Le rôle du bricolage : : :
+le bricolage d'un appareil exige souvent quelques bouts de fil et diverses pièces détachées hétéroclites. C'est au maître de jeu qu'il revient de décider si ses Rebelles disposent du matériel nécessaire pour effectuer un bricolage, si ceux-ci n'ont pas expressément précisé qu'ils emportaient ledit matériel avec eux. Il doit alors garder à l'esprit que les présentes règles ont été imaginées pour **permettre aux joueurs de bricoler aussi souvent qu'ils en éprouvent l'envie**. Les avantages qu'ils peuvent en retirer sont contrebalancés par les règles concernant les pannes. Il devrait donc être rare qu'ils n'aient pas sous la main les pièces dont ils ont besoin.
+
+**Améliorer les caractéristiques d'origine :** Les bricolages les plus courants consistent à améliorer l'un des codes-dés d'un appareil. Ainsi, par exemple, on peut modifier un blaster pour augmenter ses dommages ou un airspeeder pour accroître sa vitesse. Ce genre d'amélioration se limite à modifier un code-dé de l'engin concerné (on pourra seulement améliorer le code de dommages d'un blaster de cette manière, alors qu'on pourra augmenter – au choix – le code Ordinateur de Visées ou Dommages d'un turbolaser de vaisseau de guerre).
+Une caractéristique quelconque d'un appareil peut être améliorée de 1D, 2D ou 3D. Ainsi, les dommages d'un blaster de sport, pourront être portés de 3D+1 à 4D+1, 5D+1 ou 6D+1. La maniabilité d'une moto-jet militaire Aratech 74-Z pourra passer de 3D+2 à 4D+2, 5D+2 ou même 6D+2.
+Un bricolage nécessite toujours la réussite d'un ***jet de Technique***. Le facteur de difficulté de ce jet dépend du "degré" d'amélioration recherché.
+
+[![Image](images/c0a467a1e42044967fb8bece0565051de6ac90b62a7d6c606f704f3debfe774a.gif)](http://www.casimages.com/)
+
+: : : Pannes : : :
+Une pièce d'équipement qui a été bricolée est toujours plus fragile qu'une autre. En fait, plus ses performances d'origine ont été augmentées, plus elle a de chances de tomber en panne. Aussi, chaque fois qu'un personnage utilise un appareil modifié, **il doit lancer les dés supplémentaires obtenus par un bricolage après ceux qu'il aurait normalement dû lancer**.
+Quand on emploie un appareil bricolé, il est obligatoire de lancer ses dés de bonus. Il y aura ainsi toujours une probabilité pour qu'une panne se produise. Les dés de bonus ne peuvent jamais être annulés par la règle concernant les actions multiples exécutées au cours d'un même round.
+
+[![Image](images/a8179f3e1cdff6d70b90c7aa629d21353fa1a1f74b922d3e2a35ba13d090f039.jpg)](http://www.casimages.com/)
+
+*"Les Recettes de T'achak T'andar"* 
+
+- **[1] Booster à Postcombustion pour Airspeeder**
+*Caractéristiques
+- Fonction : Augmenter le code de Vitesse d'un airspeeder
+- Codes de compétence : Technique / réparation de Répulseurs
+- Difficulté de construction : Voir les règles sur le bricolage
+- Type de bricolage : Véhicule
+Le code de Vitesse de l'airspeeder est augmenté de 1D, 2D ou 3D.*
+Certains airspeeders, comme le Skyhopper T-16, possèdent des réacteurs à postcombustion qui leur permettent d'atteindre des vitesses très élevées. Ces réacteurs peuvent néanmoins être modifiés afin de bénéficier de performances encore supérieures à celles prévues par les ingénieurs. Plusieurs méthodes sont envisageables pour cela, mais aucune n'est vraiment sans danger. Voici la plus "prudente" :
+Débranchez les circuits du régulateur d'impulsions. Ensuite, reliez directement (avec des câbles de 20z à 23z) le moteur principal aux contacts énergétiques des réacteurs à postcombustion (un câble par réacteur).
+En effectuant cette connexion, vous augmenterez l'énergie qui est envoyée aux réacteurs. Vous devrez cependant démonter les fusibles de protection contre les surcharges, si vous ne voulez pas qu'ils annulent les effets de votre montage. Bien évidemment, sans ces fusibles, vos réacteurs risquent de griller beaucoup plus facilement.
+
+- **[2] Disperseur énergétique amélioré pour Motospeeder**
+*Caractéristiques
+- Fonction : Augmenter le code de Vitesse d'une motospeeder
+- Composants : Petite unité de dispersion énergétique, 2 feuilles d'argent (prises sur un fonceur)
+- Echelle : Speeder
+- Codes de compétences : Technique / réparation de Répulseurs
+- Difficulté de construction :  Voir les règles sur le bricolage
+- Coût : Petite unité de dispersion énergétique : 300 crédits
+- Type de bricolage : Véhicule*
+Il est possible de gagner de la vitesse avec une moto-jet en remplaçant son unité de dispersion énergétique par une autre, de taille plus modeste, comme on en trouve sur les fonceurs aériens impériaux.
+Cette petite unité laisse passer une plus grande quantité d'énergie entre le générateur et le moteur, ce qui provoque de temps à autre quelques surcharges. Elle peut aussi griller complètement et fournir alors au moteur un flux énergétique non régulé. Inutile de préciser que cela peut avoir des effets désastreux...
+Une fois que vous avez installé la petit unité, reliez-la au moteur à l'aide d'une paire de feuilles d'argent. Quoi que puissent vous dire les ingénieurs à ce sujet, ces feuilles aideront le moteur à supporter un flux d'énergie plus important.
+
+- **[3] Surpuissance pour Turbopropulseur de Landspeeder**
+*Caractéristiques
+- Fonction : Augmenter le code de Vitesse d'un landspeeder
+- Composants : Solénoïde V12 ou V18 (prélevé sur un Aile-X ou un airspeeder)
+- Echelle : Speeder
+- Codes de compétences : Technique / réparation de Répulseurs
+- Difficulté de construction :  Voir les règles sur le bricolage
+- Type de bricolage : Véhicule*
+Pour accroître la vitesse des landspeeders équipés de turbopropulseurs - comme le Véhicule Terrestre Landspeeder XP-38 de SoroSuub – vous devez remplacer le solénoïde de conversion du turbopropulseur (d'un calibre généralement compris entre V5 et V9) par un autre solénoïde de calibre V12 à V18. Ces derniers sont normalement employés sur les Ailes-X et les speeders des neiges de l'Alliance. Plus vous choisirez un calibre élevé, plus votre landspeeder gagnera en puissance.
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p135896)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=135896#p135896)**Posté:** Dim 16 Oct 2011 20:28 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+Les Blasters
+
+Les blasters ont longtemps été le type d'arme le plus employé dans la galaxie. Bien qu'ils aient connu des progrès techniques constants, leurs principes de base n'ont pas changé depuis les premiers modèles primitifs. Prenons comme exemple le pistolet *blaster lourd BlasTech DL-44* qui est actuellement l'une des armes de poing les plus populaires. Ses composants internes fonctionnent sur les mêmes principes que ceux que l'on trouve dans tous les autres blasters, du plus simple des mini-blasters aux énormes turbolasers des Destroyers Impériaux.
+
+: : : Fonctionnement : : :
+Tous les blasters comportent une **"chambre à gaz"** remplie, comme son nom l'indique, d'une substance gazeuse spéciale. La puissance délivrée par une arme et la coloration de ses décharges lasers dépendent du gaz employé. Sur le DL-44, le fait d'appuyer sur la détente actionne une valve de conversion d'énergie de type Valve-Heter. Une petite quantité de gaz passe alors dans le capaciteur de conversion gazeuse Xciteur, où elle est "excitée" par une décharge fournie par le pack énergétique. Le gaz est ensuite transféré dans le Module d'Activation Blaster, avant d'être libéré sous la forme d'un intense rayon d'énergie lumineuse. L'énergie en question est concentrée – on dit "galvennée" – quand elle passe dans le canon. La lumière produite n'a aucune importance, car c'est uniquement l'énergie qui confère à un blaster sa puissance d'impact.
+Les blasters sont généralement très solides. Ils sont aussi d'un emploi aisé et leurs packs énergétiques sont faciles à recharger ou à remplacer. Seul le gaz spécial qui sert à leur fonctionnement pose quelques problèmes . Car si une petite quantité de ce gaz suffit pour de très nombreux tirs, elle finira toujours, un jour ou l'autre, par s'épuiser.
+La plupart des unités combattantes rebelles, quand elles partent en mission, emportent avec elles une réserve conséquente de gaz pour blasters. Merr-Sonn propose un modèle de container pouvant pourvoir aux besoins de six soldats rebelles pendant au moins deux semaines.
+
+[![Image](images/5d39e417f3e79f25944c640b36637dbd81fa0163882a7606deb613164e36008b.jpg)](http://www.casimages.com/)
+*
+Astuce : Certains bricoleurs utilisent un réservoir de lubrifiant prélevé sur un Droïd détruit, en guise de container à gaz. Dans un tel cas, il s'avère indispensable de rincer convenablement le réservoir  avec du Berko-8. Il faudra changer la valve sur les modèles M820, M835 et 976a, mais les autres s'adaptent parfaitement à la valve de recharge de la chambre à gaz de tous les blasters. *
+
+***L'orveth***, le ***sig***, le ***prothium***, ***l'eleton***, le ***tolium*** et le ***skevon*** sont les si gaz les plus employés pour les blasters. Un container de recharge coûte en principe *50 crédits*. D'autres gaz, tel que le gaz ***Tibana*** de la Cité des Nuages sont également utilisables, mais ils sont plus difficiles à trouver.
+
+: : : Modèles : : :
+
+- **Mini-blaster Q2 de Merr-Sonn**
+
+- **Pistolet Blaster de sport "Défenseur" du Conglomérat de Défense Drearian**
+
+**Spoiler: **[Afficher](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#)
+
+Trop élégants pour les militaires, trop fragiles et peu fiables pour les opérations mercenaires, et faisant partie de la catégorie des blasters à la puissance de feu moindre, les blasters de sport sont des armes de poing à courte portée d'autodéfense, traditionnellement associés aux diplomates, aux ambassadeurs et aux officiels de haut rang. En effet, pour la majorité des personnes de la galaxie, les blasters de sport sont des armes aristocratiques à la fonction plus cérémonielle que pratique, mais cela ne pose aucun inconvénient aux personnes de la noblesse, qui considèrent ces armes comme socialement acceptables. 
+Cela vient surtout du fait qu'avec un blaster de sport, les nobles peuvent s'adonner à l'une de leur activité favorite : la chasse. En effet, la faible puissance de pénétration des blasters de sport est appréciée dans ce cas de figure, surtout lorsque l'on chasse le petit gibier, quand les nobles ne désirent pas oblitérer leurs proies, mais seulement les blesser légèrement afin de faire durer la partie de chasse, et donc leur plaisir. Dans certaines cultures, en raison de leur nature peu ou pas mortelle, ces armes sont appréciées pour régler des duels d'honneur; pas à mort mais de premier sang, ce qui est souvent au goût du perdant, même s'il y laisse des plumes. 
+C'est également pour cette raison que ce groupe d'armes est ignoré par les soldats et les professionnels de la gâchette, devant compter sur une solide puissance de feu; mais à cause de leur conception, les blasters de sport sont l'une des rares classes d'armes pouvant être vendues au public, et les acheteurs ne se font pas prier pour acquérir une de ces armes. 
+À ce jour, il existe deux modèles répandus de blaster sportifs : le "Défenseur" du Conglomérat de Défense Drearien, utilisé par la princesse Leia Organa, et le Quick 6 de Merr-Sonn. Le "Défenseur" du CDD présentait plusieurs avantages par rapport à son concurrent de chez Merr-Sonn : sa conception effilée est parfaite pour qu'il soit dissimulé, surtout dans les vêtements amples; c'est d'ailleurs pour cette raison que beaucoup de nobles choisissent leur garde-robe, en fonction de leur arme personnelle, avec des poches spéciales. Pour une discrétion supplémentaire, l'arme pouvait se démonter en trois parties distinctes, faciles à transporter, grâce au déverrouillage des crans et des attaches magnétiques : la poignée, le corps principal et le canon. Les espions et les assassins appréciaient ce détail, d'autant plus que les morceaux pouvaient être assemblés en moins de dix secondes. Autre avantage, un petit ordinateur interne diagnostiquait les pannes et réparait automatiquement les dégâts mineurs pour assurer un bon fonctionnement du "Défenseur" sans enrayement. 
+Néanmoins, comme pour tous les autres blasters de sport, l'utilisateur ne doit pas se fier totalement à la relative fiabilité du "Défenseur", car ce dernier présentait des inconvénients, dus à sa conception, non négligeables pour son manipulateur. Utilisant très peu ou voire même pas de gaz tibanna, le "Défenseur" comptait essentiellement sur une cellule d'énergie, ce qui faisait que les salves qu'il tirait étaient à peine capable de tuer un humain, et encore, seulement par un coup direct. Son système de ciblage était également rudimentaire, consistant en un collimateur manuel sur lequel l'utilisateur devait concentrer son regard, alors que les armes plus puissantes telles le DL-44 utilisaient des viseurs électroniques avancés. 
+Si le "Défenseur" n'était pas l'arme idéale pour tuer un adversaire à moyenne portée, son efficacité à courte portée s'avérait quelque peu douteuse : même s'il avait une portée maximale de 60 mètres, sa portée optimale ne dépassait pas les 30 mètres, et la probabilité de tuer un adversaire, même à cette distance, était vraiment faible. Néanmoins, le "Défenseur" tirait 100 coups avec sa cellule d'énergie et son rechargement rapide comptait parmi ses atouts. 
+S'il est vrai que le "Défenseur" n'est pas l'arme la plus robuste de la galaxie, il peut devenir mortel entre les mains d'un guerrier talentueux connaissant toutes les possibilités de l'arme : la princesse Leia faisait partie de cette catégorie, et réussit à utiliser pleinement le potentiel de l'arme pour abattre de nombreux Impériaux, que ce soit à bord du Tantive IV ou sur Endor. 
+Malheureusement, il existait certains problèmes qui ne pouvaient pas être compenser par une habileté au tir d'exception; le "Défenseur" possédait des composants électroniques peu sophistiqués et fragiles, et il lui fallait des pièces de rechange spécifiques pour être maintenu en état : un amortisseur de surtension pour protéger le module de tir, des circuits galvaniseurs avancés, des bobines de concentration à l'extrémité du canon pour que la décharge soit la plus mortelle possible, et enfin une bobine de refroidissement en forme de serpentin réduisait le dégagement calorifique en cas de surchauffe. 
+Les blasters conventionnels coûtant approximativement 500 crédits, le blaster sportif "Défenseur" semblait bon marché avec un prix de 350 crédits seulement. Adopté par les officiels gouvernementaux comme les citoyens, l'utilisatrice la plus célèbre du "Défenseur" reste à ce jour Leia Organa, qui en fit l'acquisition alors qu'elle était encore membre du Sénat Impérial, et le portait en prétextant qu'il servait surtout à assurer sa sécurité lors de missions humanitaires, susceptibles de comporter une quantité considérable de danger.
+
+- **Pistolet Blaster DL-18 de Blas Tech**
+
+**Spoiler: **[Afficher](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#)
+
+Blaster très commun pendant la Guerre Civile Galactique, le DL-18 fut très largement répandu dans la galaxie et ce notamment grâce à son faible coût qui le rendait accessible à toutes les bourses. 
+Bien que de conception ancienne (antérieure a l’Empire) le DL-18 su se tailler une réputation de taille surtout dans les milieux du crime ou de la piraterie. L’Alliance Rebelle était elle aussi connue pour avoir utilisé ces blasters pour équiper ses troupes. D’une puissance assez faible, le DL-18 ne pouvait pas transpercer l’armure de Stormtrooper mais compensait ce défaut par une grande polyvalence et par une customisation aisée – propre à la série DL de chez BlasTech. 
+
+Bien que concurrençant le Modèle 44 de Merr-Sonn, le DL-18 montra rapidement ses limites, en effet bien qu’intéressant, l’entrée sur le marché de nouveaux pistolets blaster comme le DD6 obligèrent BlasTech à produire des modèles plus puissants et encore plus polyvalents. Pour cela la filière sortit par la suite deux pistolets blaster qui s’avéreront être de grands succès : le DL-22 et le DL-44. 
+Bien que remplacé par des modèles plus récents et plus performants, ce blaster resta un produit prisé par de nombreuses organisations et particuliers. L’endroit ou on en trouva le plus fut sans conteste Tatooine, En effet sa forte présence sur cette planète lui fit gagner le surnom de ''Mos Eisley Special''. La garde rapprochée de Jabba le Hutt était connue pour avoir massivement utilisé ce blaster. Lors du sauvetage de Han Solo, Luke Skywalker se servit de la Force pour se procurer un DL-18 et ouvrit le feu sur Jabba, mais il ne tira qu’un seul coup qui loupa sa cible … Plus tard Han utilisa un de ces blasters pour se défendre contres les gardes et le Sarlacc alors qu’il était sur le point d’être jeté dans la Grande Fosse de Carkoon. 
+Coûtant la modique somme de 500 crédits, le DL-18 avait une portée de 30 à 120 mètres et pesait 1 kilogramme.
+
+- **Pistolet Blaster Lourd DL-44 de Blas Tech**
+
+**Spoiler: **[Afficher](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#)
+
+Devenu célèbre dans toute la Galaxie grâce à son plus célèbre propriétaire, un contrebandier dénommé Han Solo, le pistolet-blaster lourd DL-44 combine les avantages de plusieurs types d'armes : aussi puissant qu'un fusil-blaster comme le E-11, et compact comme un pistolet-blaster, le DL-44 est l'arme favorite des contrebandiers et des hommes de main, pour qui la rapidité et la puissance de feu peuvent parfois faire la différence entre la vie et la mort. 
+Destiné avant tout au combat rapproché, le DL-44 était une arme recherchée par les soldats de l'Alliance Rebelle car sa puissance permettait de traverser les plaques d'armure des Stormtroopers impériaux. 
+La portée optimale du DL-44 est de 25 mètres, mais il peut quand même atteindre une cible, plus difficilement et à moindre effet, jusqu'à 50 mètres. La cartouche énergétique du DL-44 consomme quatre fois plus d'énergie qu'un pistolet standard, ne permettant que 25 tirs maximum. C'est pourquoi le tireur doit viser précisément sa cible, et ne pas tirer au jugé, épuisant ainsi ses réserves d'énergie. A cause de cette consommation importante d'énergie, qui peut s'avérer mortelle dans un combat, la crosse du DL-44 dispose d'un petit bouton autovibrant, qui informe le propriétaire lorsque la cartouche énergétique atteint ses limites, généralement quand il ne reste plus que 5 tirs. Il est alors vital de retirer rapidement la cellule énergétique pour la remplacer par une recharge neuve. Les utilisateurs de DL-44 portent en général plusieurs de ces recharges sur eux, pour parer à toutes les éventualités. 
+Le DL-44 peut être customisé de nombreuses façons. Une amélioration très prisée des contrebandiers consiste à ajouter un viseur électronique accroissant la précision de l'arme.
+
+- **Carabine blaster QuickFire 36T de Sorosuub**
+
+- **Fusil blaster Soldat de Choc Un de SoroSuub**
+
+- **Fusil blaster de sport "Sport Léger" du Conglomérat de Défense Drearian**
+
+- **Blaster mitrailleur léger T-21 de Blas Tech**
+
+- **Blaster Mitrailleur Lourd BLAF de Blas Tech**
+
+[![Image](images/67d80daf729eb17720470e47e49350d45ac1223dc10a79eda3e0226dc9920e9e.gif)](http://www.casimages.com/)
+
+Les Armures et l'Equipement :
+
+[![Image](images/9de8cc7d53344f40b65f1bedc2f0c123e900a5822673e99995f351c06331daf2.gif)](http://www.casimages.com/)
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**Elway**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p137422)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=137422#p137422)**Posté:** Ven 28 Oct 2011 14:19 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Staff |
+| <br>![Avatar de l’utilisateur](images/9259e2ea17c4f8866cdd87388a59ffb8523bc7d7316d6c8e08cb20692b984045.jpg)<br> |
+
+**Inscription:** Ven 29 Juin 2007 01:00
+**Messages:** 2904
+
+Pourquoi passer de 8 à 7 ailes X ?
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=18)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+**JudgeDeath**
+
+ **Sujet du message:** [Re: Inventaire / Equipement / Règles](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#p137453)
+
+[![Message](images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif)](http://www.jdrvirtuel.com/viewtopic.php?p=137453#p137453)**Posté:** Ven 28 Oct 2011 18:11 
+
+| <br>![Hors ligne](images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif)<br> |
+| --- |
+| Démon Actarusien |
+| <br>![Avatar de l’utilisateur](images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg)<br> |
+
+**Inscription:** Jeu 11 Juin 2009 01:00
+**Messages:** 1918
+
+C'est l'appareil de Noell, détruit lors de la bataille de Kolatill.
+
+| <br> |
+| --- |
+
+**[Haut](http://www.jdrvirtuel.com/viewtopic.php?f=52&t=7170#wrapheader)**
+
+ [![Profil](images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif)](http://www.jdrvirtuel.com/memberlist.php?mode=viewprofile&u=801)  
+
+ 
+
+![](images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif)
+
+| Afficher les messages postés depuis: Tous1 jour7 jours2 semaines1 mois3 mois6 mois1 an Trier par AuteurDateSujet CroissantDécroissant  |
+| --- |
+
+| <br>[![Poster un nouveau sujet](images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif)](http://www.jdrvirtuel.com/posting.php?mode=post&f=52) [![Répondre au sujet](images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif)](http://www.jdrvirtuel.com/posting.php?mode=reply&f=52&t=7170)<br> |  Page **1** sur **1**<br> |  [ 7 messages ]  |  |
+| --- | --- | --- | --- |
+
+[Index du forum](http://www.jdrvirtuel.com/index.php) » [Parties de Jdr (actives)](http://www.jdrvirtuel.com/viewforum.php?f=32) » [Historique](http://www.jdrvirtuel.com/viewforum.php?f=98) » [Sous forum à garder](http://www.jdrvirtuel.com/viewforum.php?f=99) » [Dark Stryder par JudgeDeath](http://www.jdrvirtuel.com/viewforum.php?f=52)
+
+Heures au format UTC + 1 heure [ Heure d’été ]
+
+#### Qui est en ligne
+
+Utilisateurs parcourant ce forum: Aucun utilisateur enregistré et 1 invité
+
+|  | Vous **ne pouvez pas** poster de nouveaux sujets<br>Vous **ne pouvez pas** répondre aux sujets<br>Vous **ne pouvez pas** éditer vos messages<br>Vous **ne pouvez pas** supprimer vos messages<br> |
+| --- | --- |
+
+Rechercher:  
+
+Aller à: 
+Sélectionner un forum
+------------------
+Communication avec le Staff (modos & admins)
+   Communication avec le STAFF
+Bienvenue
+   Présentation du forum
+   Présentation des rolistes
+   Bilan d activité
+Propositions de parties
+   Oneshot
+   Campagne
+   Rolistes en salle d'attente.
+Discussion
+   Création
+   Divers sur le JDR
+   Nouveautés JDR
+   Divers Hors JDR
+   Petites Annonces
+   Sondage
+   Organisation de Parties de JDR IRL
+Outils et Ressources pour le JDR à distance
+   Fantasy Grounds
+      Rulesets FG2 / FG3
+   Maptool
+   Rolistik / Rolisteam
+   Roll20
+   Autres
+   Vocal, Musique & Son
+   Ressources graphiques
+Parties de Jdr (actives)
+   Augustine s Warhammer adventures by Sdompy
+   Anima "Nouvelle Guerre, la conquête de Vérity" par Aleden
+   Appel de Cthulhu par Prosopee
+   Appel de Cthulhu par Cervooo
+   Appel de Cthulhu "La malédiction de Nineveh" par Golgorosh
+   Appel de Cthulhu - Les montagnes hallucinées par Azathoth
+   L'Appel de Cthulhu - Par delà les Montagnes Hallucinées par Lazarius
+   Appel de Cthulhu "Horreur sur l'Orient Express" par Golgorosh
+   Appel de Cthulhu "Les Masques de Nyarlathotep" par Tharabbor
+   Appel de Cthulhu "Terreur sur l'Orient Express" par Tharabbor
+   Ate "L'avènement d'Imladris" par ulysse9210
+   Aventures d'insectes & compagnie par Carameline
+   Brecheliand - les agents du Deus gladio par Rainbow Flag
+   Chroniques Oubliées "Les Terres de Nord" par Jonias
+   Chroniques Oubliées "Anathazerïn" par Raïzer
+   Chroniques Oubliées - Endless Legend par LeoDanto
+   Dark Heresy par Neuralnoise
+   Dark Heresy et Deathwatch "De la poussière aux cendres" par Uskomaton Murmeli
+   Deathwatch par Pompi
+   Deathwatch "La Croisée des Chapitres" par XenophageX
+   Dark Heresy - Deathwatch "La Mort vient du Ciel par Baygun
+   Delta Green par fox p
+   Donjon de Naheulbeuk par bibs
+   Donjon de naheulbeuk "la légende de Gerba" par shiva1987
+   Donjon de naheulbeuk " La tour movak " par Metapanda
+   Dreamland "La chronique de L'animancien" par RoxStar
+   D&D par Valgar Reinhart III
+   D&D3.5 Eberron - Damnés de la 13ème marque par Saghonval
+   D&D 3.5 "La Trilogie Des Vaux" par natty
+   D&D 3.5, "Les Damnés de la 13ème Marque" par Saergaras
+   D&D 5 "La nuit des profondeurs" par Vackipleur
+   D&D 5 "Hoard of the Dragon Queen" par Roidesgobs
+   D&D 5 - La mine perdue de Phandelver" par tristsoalaire
+   D&D4 "Chroniques Psychiques" par Gluth
+   D&D 5 - "Zobeck-TA" par Adarmis
+   D&D5 Princes of Apocalypse (groupe 1) par Ricco
+   D&D5 Princes of Apocalypse (groupe 2) par Ricco
+   DD5 Hoard of the Dragon Queen par grizbrafort
+   D&D "Errances" par Dino Van Bedt
+   Eclipse Phase : Factions par Erik
+   Earthdawn par Foldine
+   Fading sun par Darkman
+   Fallout "Frensh Kiss" by Rainbow Flag
+   Grimnoir "Chronique d'une Guerre Secrète" par Beket
+   HODS Jdr - La nouvelle Arche par Heedio
+   Knight "Au cœur des ténèbres" par Nikk
+   L5R par Sossnorkies
+   L5R par Thyr
+   L5R "Les Chroniques du Lotus d'Or" par Maximilien
+   L5A "Oka Mittsu Mura" par Taraka
+   Monsterhearts par Erik
+   One Piece par large_death
+   Orage et Engrenage par Rigald
+   OS Madness par Saruten
+   Pathfinder "Le monde de Charlios" par Septimus
+   Pathfinder "L'Éveil des Seigneurs des Runes" par Lazarius
+   Pathfinder "Le Régent de Jade" par Trimbi
+   Pathfinder "L'Héritage du Feu" by Markjan
+   Pathfinder "Le retour des Ténèbres" par Markjan
+   Pathfinder "La Colère des Justes" par veerminar
+   Pathfinder "La Couronne Putréfiée" par Kael79
+   Pathfinder "L’éveil du seigneur des Runes" par Thann
+   Pathfinder -Le conseil des voleurs par Stany
+   Pathfinder - La chasse aux sorciers par oxidor
+   Pathfinder "Kingmaker" by darith
+   Pathfinder "Way of the Wicked" par Glytch
+   Pathfinder "Reign of Winter" par Namtarou
+   Patient 13 par Chuck.r
+   Pendragon "La geste d'Uther" par Teross
+   Prophécie l'ombre de la mort by grosbille
+   Rowling rpg par Bulle
+   Savage World "Beasts & Barbarians" par Lazarius
+   Scales par vyseris
+   Shadowrun par Zakarik
+   Shadowrun par Uskomaton Murmeli
+   Star Wars par Actarus
+   Star wars Edge par Ariakas
+   Star Wars Age of Rebellion par Istro
+   Spirit of 77 by Beket
+   Suite d'OS DD5 par Griz
+   Sword Coast Legends "Zantetsuken" par roidesgobs
+   Trail of Cthulhu : Eternal Lies par Guistealer
+   Trinités par Nael
+   Trône de Fer "Rébellions" par Erik
+   Trône de fer "Chroniques de Perche Vautour" par titiste
+   Vampire le Requiem by Angeldust
+   Vampire the Mascarade "Sons of anarchy" par darkman
+   Vampire le Requiem par Wayland
+   Vampire Requiem "L'Ombre de l'Empereur" par Karouto
+   Vampire the Mascarade "The Order of Malta" par Keliev
+   Warhammer "Forge of War" par Keerian
+   Warhammer "Forgotten War" par DarkTenebross
+   Warhammer "Les voies de la Damnation" par Baygun
+   Warhammer "L'autre monde" par Dravonne
+   Yggdrasil par Balyndaros
+   Historique
+      Sous forum à garder
+         D&D 3.5 by Markjan
+         Spirit of the Century - Summer Pickup Game by Jogo
+         Mouse Guard by Jogo
+         D&D3.5 by Actarus
+         Brigade Chimérique by Neuralnoise
+         Praetoriaprima by Albiréo
+         Dark Earth par Jarjar
+         Daring Tales of Adventures by Grimmbart
+         Vampire by Beket
+         Cyberpunk 2050 by Booga
+         Star Wars D6 by DarkTenebross
+         Traveller (Mongoose) by Sdompy
+         Chateau Falkenstein by Beket
+         Fantasy Craft - Curse of the Crimson Throne by Adrien
+         Vermines par Damny
+         Agone by tenebre
+         Shadowrun V4 par Actarus
+         Scion Heros par Mortmagus
+         Ambrosia par Rylthar
+         Warhammer par Legerete
+         Arkéos par beket
+         Dark Stryder par JudgeDeath
+         Les Ombres d Esteren - Peur sur Osta-Baille par Erik
+         AD&D2 par boborix
+         Appel de Cthulhu par Markjan
+         Chroniques Oubliées par Manakeo
+         Tigres Volants par Theudbald
+         Nightprowler par Neuralnoise
+         Pathfinder "Carrion crown" par Namtarou
+         Manga-Boy z par Galaft
+         Scion "Le Destin des Dieux" par Erik
+         Shadowrun V4 "L'ombre des glaciers" par Selina
+         Hurlements by Sdompy
+         Vampire la mascarade - Paris par Dertar
+         Warhammer par Keerian
+         Loup Garou - Le mur ancestral par Selina
+         Star Wars "Sons of Empire" par Thann
+         Scion (système Cortex+) " Yggstad" par Erik
+         Icons "Come to the dead" par Noxiris
+         Les Ombres d'Esteren "Présages" Par Pierstoval
+         Savage World  "Achtung ! Cthulhu" par JudgeDeath
+         Appel de Cthulhu - "Le Cercle de l'Etrange"  par Nael
+         Fallout par Theudbald
+         Appel de Cthulhu "Les Oripeaux du roi" par Lazarius
+         Vampire Le Requiem par Thyr
+         Appel de Cthulhu "Ivresse des profondeurs" par Lazarius et Booga
+         Pathfinder "Kingmaker" par Seb
+         Capharnaum "Le royaume des cieux" par Manithou
+         Star Wars par Elrad
+         Appel de Cthulhu "Reflets de Carcosa" par Booga
+         Appel de Cthulhu "Reflets de Carcosa" [Equipe 2]par Booga
+         Appel de Cthulhu par Kamodu31
+         Nightprowler - farine de sang par Manithou
+         Qin par Angeldust
+         ApoKryph by Albiréo
+         Vermine par Sdompy
+         Hunter the Reckoning par Bidule
+         Heroquest par Lazarius
+         Notre Tombeau par Djinn
+         Tigres Volants par Dertar
+         L5R "Une tête pour quatre" par Selvagor
+         Shadowrun par Thyr
+         Hawkmoon par thamartin
+         INS / MV par thamartin
+         Les Terres de Légende par Lazarius
+         Deadlands par Nael
+         Warhammer "Ragnarök" par Keerian
+         Warhammer "Bad Blood" par DarkTenebross
+         Warhammer "Les Milles Trônes" par DarkTenebross
+         Les Ombres d'Esteren "Secrets de Tulg" par Erik
+         Apocalypse World par NeuralNoise
+         D&D 3.5 "Titania" par Kadessa
+         Appel de Cthulhu - Les  Masques de Nyarlathotep par Angeldust
+         Halo "Héros & Hérétiques" par Nightmare Dk
+         Pathfinder par Kael79
+         D&D 3.5 P-M-T "Le monde de Lioraz" par Kamodu31
+         Yggdrasill par Dertar
+         L5R "Jours Sombres" par Nightmare Dk
+         Warhammer "Multi-OS" par Dravonne
+         Anima "La Fraternité des Lames" par Bidule
+         Thrill "Retour à Meadowdale" par Lazarius
+         Icons "Génération Nibiru" par Bigyo
+         Delta Green Heritage Greenberg par Lazarius
+         Warhammer "Nippon" par RainbowFlag
+         D&D 3.5 "Les Royaumes Oubliés" par Vallav
+         Roji-Kuro par Kamodu31
+         Starfall par Erik
+         The Naked Darkness par Kamodu31
+         Le Monde des Ténèbres "Requiem pour un ange" par Namtarou
+         3:16 Carnages "dans les étoiles!! " par Cap'taine Red
+         Savage Worlds "Le Réseau Divin" par Judgedeath
+         Appel de Cthulhu " Les Masques" par Lazarius
+         Archipel par amalec78
+         Metal Adventure "My little pirate, Rhum is magique" par Makina
+         Cold city par Lazarius
+         Appel de Cthulhu "Par delà les montagnes hallucinées" par Thrawn
+         Les Nouveaux Royaumes par Bigyo
+         Oltrée ! par Golgorosh
+         Sens Hexalogie par Arjuna Khan
+         Icons  par noxiris
+         Apocalypse World par Faux
+         Divide by Zero par chronomancien
+         Warhammer "Campagne Impériale" par AngelDust
+         Tigres Volants par Dertar
+         Prophecy par Askywhale
+         Bitume MK5 par Cap'taine Red
+         Polaris par l Heedio
+         ANS "The last hope" par Rainbow Flag
+         Mass Effect par DarkTenebross
+         Trône de Fer par Bigyo
+         "Le Sang des Plaines" par Xena Parker
+         Indiana Jones - Aventures Pulp - par Golgorosh
+         One-shot Seri'z par les Pro-blêmes (Folrith)
+         Atomic Robo " The New Order" par Neuralnoise
+         Warhammer "l'archipel du doux péché" par Makina
+         Delta Green - par Lazarius
+         Anima "De nouveaux héros" par Isawa
+         wasteland "les terres gachées" par Darkman
+         mini campagnes par theudbald
+         In nomine satanis par Kadessa
+         D&D 3.5 " Estyl - D'ombres et de Lumières " par p0l4ck
+         Warsaw par Darith
+         Polaris by Actarus
+         Ad&d "Dans Sigil et au delà !!!" par Rule of Three
+         D&D 3.5 "The Red Hand of Doom" par Markjan
+         Rêve de dragons "Les histoires du multirêve" par Ecume
+         Trône de Fer "Sables brûlants" par Erik
+         Dying Earth (FATE Core) - par Golgorosh
+         Harry Potter by Rainbow Flag
+         Anima "le voile briser" par Rainbow Flag
+         Chill "Les mécanismes du mal" par Darkman
+         Initiation JDR par Darkman
+         Warhammer par Sha
+         Eberron par Gedefe_62
+         Imperium "Les gemmes d'Holtzman" par Elrad
+         Trône de Fer "Les Chroniques du Trident" par Erik
+         Lacuna par Grimbarbu
+         L5A Le sang des héros par darkman
+         L5R  par Thyr
+         Pavillon Noir par Tchouchen
+         Face to Face par Melioch54
+         Oltréé ! "Vers le Levant" par Nurglyng
+         Pathfinder  par aliosafar
+         Pathfinder par grizbrasfort
+         D&D Next "Old School" par Golgorosh
+         D&D Next "Old School V.2" par Golgorosh
+         D&D Next "Rise of Tiamat" par Golgorosh
+         Warhammer "Les masques de Raachdorf" par Dravonne
+         The Gaean Reach par Golgorosh
+         Dark heresy "les cendres de la corruption" par Darkman
+         Appel de Cthulhu "les mystères d'Arkham" par Guilac
+         L'Appel de Cthulhu "Le cauchemar d'Innsmouth" par Guilac
+         Skies of Shandar par Kadessa
+         Fading-suns par LeoDanto
+         Appel de Cthulhu "Le rejeton d'Azathoth" par Guistealer
+         R.A.S - Le jeu de rôle Galactique par Cap'taine Red
+         Star Wars D6 "Sweeft Incorporated" par HK-47
+         Brigade Chimérique "La longue nuit" par Arkanade
+         D&D 5 "Héros de Sirigel" par Forytenfor
+         Les ombres d'esteren "les forces occultent" par Arjuna Khan
+         Warhammer "L'Ennemi Intérieur" par Angeldust
+         D&D "l'Empire du Mal" par darkman
+         vampire the requiem "Rock N' Blood" par Darkman
+         Donjon de Naheulbeuk par Actarus
+         Pathfinder "The Emerald Spire" by Vackipleur
+         Shadowrun "Le Blues du Runner" par Darkman
+         Hunter oWoD par Valgar Reinhart III
+         Mass Effect par DarkTenebros
+         Warhammer "Inexplicable Perfection" par DarkTenebross
+         Victoriana par Dertar
+         Te Deum Pour un Massacre par Erik
+         D&D 5ed DragonLance "La guerre de la lance" par Gunulf
+         Warhammer par Guth
+         Les Ombres d'Esteren "Aventuriers d’Esteren" par Erik
+         Atomic Robo - Fate RPG par Beket
+         Rogue Trader - L'Envole des Innomés - Par Selina
+         Pathfinder par Thann
+         Les secrets de la septième mer " De voiles en Tracas" par Darkman
+         Smallville (Cortex+Drama) par Faux
+         L'Appel de Cthulhu "Le cauchemar d'Innsmouth" par Guilac
+         Appel de Cthulhu "l'affaire Burbhury" par Darkman
+         Pathfinder "Le continent perdu" par Makina
+         Abandon all hope par Morningstar
+         Warhammer "Les survivants de Raachdorf" par Dravonne
+         Warsaw "Une nouvelle chance" par Prosopee
+         Fire Emblem Awakening after par Deceiver
+      Parties Actuellement Stoppées
+         Royaumes d acier - Witchfire trilogy by Thann
+         Mage L ascension by Jarjar
+         Fading Suns by Mazteck
+         Dark Heresy Ascension par Bakadevil
+         Blooded - Les Echos du passé par Xanven
+         Appel de Cthulhu par Jarjar
+         Fading Suns par Shion
+         Marvel par Icare
+         Warsaw par Kenshiro
+         D&D 3.5 - Freeport by JudgeDeath
+         Solomon Kane-Forêt noire by djinn02340
+         Fallout - Road 33 by H-K 47
+         Dark heresy by ithraglok
+         Vampire : La mascarade par Cultimatheque
+         Pathfinder - L éveil du seigneur des Runes par Sipro
+         L5R (Toshi No Inazuma) par Andydangerous
+         Trône de Fer - A Dance with Dragons by Erik
+         Trône de Fer - Guerre civile by Erik
+         Scion by Erik
+         Vampire Sombre sang par Jeremie
+         Pathfinder par Thann
+         Loup Garou L apocalypse par Tibère
+         Vermine by Drouste
+         Plague par Theudbald
+         Eclipse Phase par Fagarou
+         Trône de Fer - Fyre and Blood by Gilga
+         Ambre - Guerre du Trône by Drouste
+         The revival of the chaos par Babounb
+         Pavillon Noir par Pratax
+         Warhammer par Dertrar
+         Trône de Fer par Erik
+         COPS par Willow et Nauge
+         EW System : Mass Effect par Beket
+         Dark Heresy by Damny
+         Exalted par Dio
+         Choc Planaire par Nyvis
+         Warhammer II by Surcouf
+         Donjon de Naheulbeuk by Hello_bo
+         Shadowrun 3 by Dataripper
+         D&D 3.5 - La nuit des profondeurs by Ramanec
+         D&D 3.5 - Elandra by Loupis
+         Stars of Darkness par Darth Tanka
+         House of the Blooded by Xanven
+         Vampire The Requiem by Basha31
+         Hawkmoon by Chapin
+         Biohazard par Loupis
+         Anima by DarkPhoenix
+         Patient 13 by Janus
+         COPS par Cerber
+         Shadowrun 3 - Metahuman Blues par Dataripper
+         Le Monde des Ténèbres par Mitras
+         Warhammer by Manithou
+         Warhammer par Carbo
+         Shadowrun par Deltrim
+         Vampires Dark Ages by Pedrag
+         Stalker par Amatsu
+         Midnight par Volgen
+         Cthulhu par Stefff56
+         Genetix par Drakker
+         Un monde de légende par Jolebo
+         PMT 2 par Gedefe_62
+         L5R Les 4 vents by Nobuyoki
+         D&D 3 - Les royaumes oubliés by Volgen
+         Torg by Volgen
+         Mage by Helgor
+         La secte des ombres by Nobuyoki
+         FengShui by CXZman
+         World Of Darkness by senseii
+         Rêve de Dragon by Timonier
+         Star Wars D20 by JessieRedball
+            Archives Saison 1
+         Trône de fer-Guerre du Val par Damny
+         Champions - Hero systeme par Cyanure
+         Dark Heresy par Hastein
+         Légende des 5 anneaux par Wincent
+         Rogue Trader par Lordhinateur
+         Scion héros et demi dieux par wincent
+         Traveller par cyanure
+         Wasteland par Neuralnoise
+         Z-Corps survivant par Rechton
+         Biru par Smauglord
+            Règles
+            Background
+         Appel de Cthulhu par Nael
+         Ars Magica by Seb
+         D&D 3.5 par Sylvain
+         Kuro par yanos
+         L5A : l'ombre du lotus par Mehiel
+         Starblast par thomassaliba
+         Conan D20 par Thann
+         Ars Magica by Seb
+         Monde des Ténèbres(V2) par Bidule
+         Warhammer - Les Voies de la Damnation par Darktenebross
+         Star Wars : Fringe Conflicts par hk-47
+         Warhammer V2 Les Chroniques Oubliées par Cyriades
+         Eberron par Ricco
+         OS Shadowrun V4 par Hicks et Piment
+         Dark Heresy par Dante
+         DD3.5 - RO- L'âme de l'aventure par Darith
+         Star Trek par Theudbald
+         Anima par Falg
+         Le Trône de Fer - Notre heure de gloire par Erik
+         Scion "Les Dieux de Demain" par Mortmagus
+         D&D 3.5 "Le Chemin vers la Gloire" par Harokin
+         Z-Corps "Le Prix à Payer" par Guilac
+         Dark Heresy par Nexus le Maudit
+         Orpheus par Krilliane
+         vampire la mascarade "Le chant des bombes" par Skyzo
+         Rogue Trader par Emisptruo
+         Appel de Cthulhu par nexus le maudit
+         D&D3.5 - Dragonlance par karlin
+         Cendres "La morsure de l'hiver" par Bidule
+         Trône de Fer "Filles du Nord" par Erik
+         L'Anneau Unique "Palantir" par Erik
+         D&D 3.5 RO "Le souverain dragon" par u~man
+         Final Fantasy VII "Les ombres de Midgar" par Azur
+         Lycéenne "L'école Pendragon" par 1ancelot
+         Magna Veritas par Yoxie
+         Plagues par Caillou
+         Scion "Le Sang Appelle le Sang" par Mortmagus
+         Trone de Fer "Chevaliers des éons" par wincent
+         Urban Arcana par Elodie Hiras
+         Warhammer "La Campagne des Questeurs" par Surcouf
+         Warhammer par Fab
+         Savage Worlds "War of the Dead" par JudgeDeath
+         Appel de Cthulhu par Linusis
+         Changelin "Les Egarés - Paris" par CerberusXt
+         Mage  "Supplément d'âme" par wincent
+         Marvel par RainbowFlag
+         Apocalypse World par RackHam
+         Appel de Cthulhu "Mystères des années folles" par Namtarou
+         Conspiracy X par Elrad
+         D&D 3.5 par RavenAce
+         D&D 3.5 par Narcisse
+         Ezarelian par Azagun
+         Legend par Noxiris
+         TRINITY par Jarjar
+         Warhammer V2 "Les Royaumes Renégats" par Bigyo
+         Kara-Tur par Theudbald
+         Ars Magica par Sdompy
+         L'Outreterre par Theudbald
+         Pathfinder "Reign of Winter" par Golgorosh
+         D&D3.5 "Le temple du mal élémentaire" par Lord of the Wolves
+         AD&D "La nuit des Profondeurs" par Luthiel
+         Anima "Les Porteurs d'Anneaux" par Viorel
+         Prophecy par Ghydo
+         Royaumes d'acier par Glace
+         Dark Heresy "Les lambeaux du destin" par Berthier
+         Donj par Jogo
+         Le Monde des Ténèbres Orpheus par Judgedeath
+         La larme flamboyante par Xena Parker
+         Pathfinder "KINGMAKER" par Adrien
+         Trône de Fer "Westeros" par Dornata
+         Warhammer "Les mille trônes" par Dnotol
+         Mass effect par DarkTenebross
+         D&D 3.5 " Les terres balafrées : le sang du Dragon" par Darkman
+         D&D "DragonLance" par Ariakas
+         Earthdawn par Darkman
+         shadowrun "les secrets du pouvoir" par Darkman
+         Warhammer "L'ennemi intérieur" par Oldtimer
+         Cops par Valgar Reinhart III
+         D&D3.5 Par Narcisse
+         MangaBoyZ par Noxiris
+         Warhammer "Chronique du vieux monde" par Madek
+         2012 Extinction par Elbj
+         D&D 3.5 Libris Mortis par Nightmare Dk
+         L5R - Second City par Le_Sage
+         Always, Never, Now par Golgorosh
+         D&D 3.5 "Faerûn" par Dra-Ka-On
+         Néphilim par Dra-Ka-On
+         Unknown Armies par Beket
+         Ambre "Le jeu des Marelles" par Seb
+         Appel de Cthulhu "Noces Lyonnaises" par Yorunojin
+         Caer Nosiann "l'Apogée des Brigands" par Thynéon
+         Cortex  "No doubt" par Elpandalf
+         Dawnforge par noxiris
+         Eternia par Elpandalf
+         Fate 3 "Bistouilles en Folandes" par EtienneB
+         Icons "Sombre avenir" par Noxiris
+         L'Oeil Noir par BenScott
+         Le donjon de Naheulbeuk par Robwoud
+         Monde des Ténèbres par telvaen
+         Naheulbeuk: le début de la fin par Nadir
+         Paorn - le nouvel âge par JudgeDeath
+         Pathfinder "kingmaker" par Amalec78
+         Set par Manvielle
+         Scion "Midgard" wickedgrail
+         Game of Thrones par Danaël
+         Qin - Les secrets de la forêt de bambous par darkman
+         Pathfinder "Dans Varisia" par Rule of Three
+         Birthright par Theudbald
+         Le Donjon de Naheulbeuk par Sam
+         COPS par Nael
+         Delta Green "Réjouissances Nocturnes" par Lazarius
+         Eternal Lies Cthulhu par Golgorosh
+         C.O.P.S. "Un avenir, une mort, une médaille" par Nightmare Dk
+         Delta Green par Nael
+         D&D 3.5 "La Cite de la Reine Araignée" par Artamos
+         D&D 3.5 "La Marée Sauvage" par JudgeDeath
+         D&D4 "Scénarios Offi" par Yamini
+         D&D 3.5  "les Royaumes d'Acier" par mrptipois
+         Heroquest par coorgett
+         L5R "Sunda Mizu Mura" to Teross
+         Oltréé ! "Retour en Elysia" par Cyol
+         Oltréé ! par Psaume
+         pathfinder "Les Questeurs" par Ender
+         Pathfinder "La colère des Justes" par Seb
+         Pathfinder Le Bief des Dragons par Imperator
+         Pathfinder "La Colère des Justes" par basthyen
+         Pavillon noir par Teross
+         Prophecy "les tourments de l'histoire" par Aliosafar
+         Scion "L'héritage" par wickedgrail
+         Vampire L'age des Ténèbres "L'ombre qui vous illumine" par Satodemonius
+         Mage l'Ascension "Magie Moderne" Par Corvos
+         Star Wars "Ligne de sang" par Makina
+         Polaris par Thyr
+         Anima "La citadelle d'Ivoire" by Rainbow Flag
+         Nightprowler-Le Huitième fils par Morrydwenn
+         Panique galactique par Aaargloupsen
+         Pathfinder "Kingmaker" par Tora
+         Prophecy par Esmereld
+         D&D 5 "Le seigneur des morts" par Sorran
+         Warhammer "L'Ennemi Intérieur" par Marotar
+         L5A par Zakarik
+         Wushu - Les Tourments d'Azéroth par Rigald
+         Pathfinder l'éveil du seigneur des runes par Robwoud
+         Warcraft D20 par MorryDwenn
+         Chroniques Oubliées "La Couronne Putréfiée" par Raïzer
+         Reign of winter ( groupe 1 ) par Afterstorm
+         Reign of winter ( groupe 2 ) par Afterstorm
+         Chroniques Oubliées par Gunulf
+         Donjon de Naheulbeuk  par Sam
+         Krystal par Evilmarmelade
+         Pathfinder "L'éveil des seigneurs des runes" par Blackcat06
+         Pathfinder "L eveil des seigneurs des runes" par Blackcat06
+         Pathfinder "L'éveil du seigneur des runes" par Serge2611
+         Pathfinder "La Colère des Juste" par Darmus
+         D&D 3.5 "Lancedragon" par Agrojan
+         Pathfinder - Pestilence par Zed
+         Chroniques Oubliées "l'Eveil du Seigneur des Runes" par LeoDanto
+         Vampire The Masquerade "Côterie d'Azur" par RipGeekLost
+         Pathfinder "Kingmaker 2" par Kenshiro
+         Warhammer "Les contrées oubliées" par Rainbow Flag
+         Kingmaker - Le Second Conseil par Kenshiro
+         In Nomine Satanis  Magna Veritas by Sha
+         DD3.5: Les Mystères du Mitan par Sikander
+         Dji's Blood : Chao's Advent by Keliev
+      Anciens Oneshots
+      Blood Bowl by Bware
+Pause
+   Jeux vidéos
+   Jeux de plateau - Wargames en ligne
+   Corbeille
+   Sous forum Test
+Liens
+   Liens
+ 
+
+Powered by [phpBB](http://www.phpbb.com/)® Forum Software © phpBB Group
+	
+Traduction par: [phpBB-fr.com](http://forums.phpbb-fr.com/)

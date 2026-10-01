@@ -1,0 +1,118 @@
+# Ron
+
+Source: `src-118f60238f2ef546` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-118f60238f2ef546; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Ron's Web Site - Greyslayer's Lair & Seawolf's Den
+
+![gl-n-sd.jpg (30315 bytes)](images/1ca750d5c4f209887a2f38eb6a91e593563fbad2d2e058d4fd9d0ca2362ba607.jpg)
+
+**Welcome to my domain...**
+
+---
+
+**Personal Web Page for Ron W
+McClung** 
+
+**E-Mail: [Ron McClung](mailto:seawolf@vnet.net)** - **Last Modified webbot
+bot="Timestamp" startspan S-Type="EDITED" S-Format="%m/%d/%y" 12/30/98webbot
+bot="Timestamp" i-checksum="13833" endspan **
+
+---
+
+**Me, My Passions and My Life (or lack there of)**
+
+**[Who is Seawolf & Greyslayer?](ron/_._.html)** About me
+
+[**Pictures of me**](ron/me.htm) 
+
+**[Pictures of me & D](ron/me-n-D.htm)** 
+
+**[Pics of Others in my Life](ron/others.htm)
+
+[Sci-fi/Gaming Conventions](ron/cons.htm)I've been to
+
+      My personal ["Art" Gallery](ron/galleryindex.htm)**
+
+**My [Paintball](ron/pb.htm)** Page
+
+**[The Guild](guild/_._.html) **
+
+---
+
+---
+
+[Image locale absente : ron/images/dgl.jpg]
+
+## The love of my
+    life, Diana G. Lanier
+
+## [Diana's Resume](ron/dgl/dresume.htm)
+
+She's a skilled lab tech & biologist, and has been working hard
+    in the soil and ground water testing field for the past 3 yrs.
+
+**[More Pics Of Diana](ron/dgl/dglpix.htm)
+
+She is quite beautiful.**
+
+---
+
+---
+
+**My Roleplaying Game Pages **
+
+**[Ron's Current Gaming Activity](RonRPGs.htm)**
+
+[**Ron's Gaming Schedule**](RonRPGs.htm#calendar)
+
+[![starwars_button.gif (5044 bytes)](images/b03d35add138494dbf7c2a9f13935a096d96bc4a887c1480a4837dfd6e99ba62.gif)](sw/_._.html)
+**[Star Wars Role Playing Game](sw/_._.html)**
+
+[![sz_small_button.jpg (6554 bytes)](images/5fbed80b80b64b95ad4b5650de6c248031eb4b7f7baddc3b8d3301234fb1aeea.jpg)](sz/_._.html)
+**[Shatterzone Role Playing Game](sz/_._.html)**
+
+[[Image locale absente : rs/images/rs2_small_button.jpg](rs/_._.html)
+[**Reich Star Role Playing
+    Game Page**](rs/homepage.html)
+
+[![dc_small_button.jpg (8131 bytes)](images/d33968f9208b9f0c6cf01d07b32dabac5cbf5c83cb2c4cb83ccb5db360b0b3a2.jpg)](dc/dc.htm)
+[**Dark Conspiracy Role Playing
+    Game**](dc/dc.htm)
+
+![sf_small_button.jpg (10080 bytes)](images/5a16ef6501d0b2a1f3cd87ed71b83f921415ae240a3868efe6a369f1b5ebae2f.jpg)
+
+**Star Frontiers Role Playing Game *(Coming Back
+    Soon!)***
+
+---
+
+**Ron's Cool Links: [Cool Links](links.htm)**
+
+**__**
+**__**
+
+**What's New in My Universe**
+
+- **10/98 - [MasterDeck conversion into Star Wars/D6](sw/d6mb/index.html)**
+
+- **11/17/98 - Updates to "Who is Seawolf & Greyslayer", including the
+        [Rules of Ron.](ron/ronrules.htm)**
+
+- **11/24/98 - [Shatterzone/Masterbook Advantages &
+        Compensations conversion](sw/adv/index.html) into Star Wars/D6. (Finally finished)**
+
+---
+
+| [![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)<br>Home to Ron's Web Pages](homepage.html) |
+| --- |
+| Credits:  |
+| Some Graphics on this site were gathered from various H.R. Giger sites.
+<br>     |
+| Some Icons obtained [Graphics Station](http://www.geocities.com/SiliconValley/6603/). |

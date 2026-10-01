@@ -7,6 +7,25 @@
   "pdfPages": 194,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 194,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder SourceBook/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+  },
+  "copies": [
+    {
+      "root": "project",
+      "path": "sourcebooks/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+    }
+  ],
+  "collections": [
+    "darkstryder"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "90e6a4c6a006823813b7b9cd7c388210822b3032f3a97a60a0b8f1dd4a055a3f",
   "fileHashes": {
     "book.md": "9a8758c81225080ce1fd2819b5cba2e9af0f098960df5238bcb32bf490a601ce",
     "pages/0001.md": "a86ad922cabf97deec9194e6caa6a9158e387f9b6f07eaed440e5e32af87cef5",

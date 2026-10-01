@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9496a0ac39653b62",
+  "name": "fdocuments.in_star-warriors",
+  "sha256": "9496a0ac39653b625c2eb2d0206c34cfe3e7d6ceae0ff8d210aba896fb41ad9e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/Guides_Rules/fdocuments.in_star-warriors.doc"
+  },
+  "copies": [],
+  "collections": [
+    "guides-rules"
+  ],
+  "evidenceProvenance": "reference-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "168acacd1b3d6f489486dc811abf171ef4ba2113ed1f2d741f3d7b9e062d3cb7",
+  "fileHashes": {
+    "book.md": "10fb156e753941f6f8fc9aa7b964d6ec87f09ca9f5f78f48272c60b20ee7e441",
+    "pages/0001.md": "f527a3ffd3603d5e411b28390e8241b2ed9679ffe58525d7e8b58a6440085940"
+  }
+}

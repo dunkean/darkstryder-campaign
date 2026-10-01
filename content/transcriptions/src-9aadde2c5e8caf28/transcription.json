@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-9aadde2c5e8caf28",
+  "name": "DSCure",
+  "sha256": "9aadde2c5e8caf28cc0be5f07323f2cf197243e8433a7f12bacba1a4bb613efb",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCure.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c9bb7b5ed58965559c5a151e52eba4aa399409fe1a200fa21876a9f1359ea593",
+  "fileHashes": {
+    "book.md": "18c7b8d6e4b3ef5790d2fc4f106de115c0c2486e607107caeca4f2d7894d050c",
+    "pages/0001.md": "0dafbcaefd2112fffcc1be0bba1e9a9ac5e664aeb036eca8c04eec025fbb568e"
+  }
+}

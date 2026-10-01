@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-87119184969a71d1",
+  "sha256": "87119184969a71d1d3b6a690c34e865b99f3e96d9e06d76d67208070b162822b",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 7794,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/fb56d89bf641ee3911399693630c24beb768b62c770801e0c006cd740d93601c.jpg",
+      "origin": "images/lestar.jpg",
+      "sha256": "fb56d89bf641ee3911399693630c24beb768b62c770801e0c006cd740d93601c"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-419beac1108168d3",
+  "name": "DSCounterAttack",
+  "sha256": "419beac1108168d31a6ca4518dad6ef780869602b5ab2de89b3622f11097859d",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCounterAttack.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9ccb0fda86461f6ec1b81873e3f21afcc797963f38e5d44863d256ea6b311762",
+  "fileHashes": {
+    "book.md": "742d0bddb0c2abe7a12e0263cb3c1d0178639c785ce1c1101744a0be2f45457e",
+    "pages/0001.md": "d240797b2c147c587928b94dfc18aedd57f0b1131c69686493272a576c3b9279"
+  }
+}

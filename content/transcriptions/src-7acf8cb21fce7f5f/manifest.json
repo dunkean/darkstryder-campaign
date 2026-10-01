@@ -1,0 +1,280 @@
+{
+  "sourceId": "src-7acf8cb21fce7f5f",
+  "sha256": "7acf8cb21fce7f5f1345886e1ed6335fd35ddcb95954cda5b5d8ebfb8251cc1f",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 71102,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1.png",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/site_logo.png",
+      "sha256": "68c3c3d1c2b30efda930edb593b0b088961986eee0de72a8ea313d4554708ff1"
+    },
+    {
+      "file": "images/43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_mini_login.gif",
+      "sha256": "43948109d5e4a7b1bbaf5cf77b55648eff0eea3f1a61ae5e1265e50a7cfebe75"
+    },
+    {
+      "file": "images/65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_mini_register.gif",
+      "sha256": "65d0108f7aefca880b51c36a0d0800ba9c319c82f3e05db601ca8574d3daac9b"
+    },
+    {
+      "file": "images/30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_mini_faq.gif",
+      "sha256": "30d521d1364e9482d2c5e87268ee8221eda550980715bcc40c11e08966f06ed1"
+    },
+    {
+      "file": "images/605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_mini_search.gif",
+      "sha256": "605183a8594eb65a3db95a7735ad7adac28b7b9814a70334837fe630bdd8d5f4"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/ab183bccdf3b1549a3bbc45540767b66f10490d9125f829f0f77cc8eecf8dd08.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/110109084849731127441657.gif",
+      "sha256": "ab183bccdf3b1549a3bbc45540767b66f10490d9125f829f0f77cc8eecf8dd08"
+    },
+    {
+      "file": "images/51f74eb05b512b0c8e1b23cd47f896e2d8bc9eac12aba2e211b3f7d450b0ef77.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/110109084847731127441656.gif",
+      "sha256": "51f74eb05b512b0c8e1b23cd47f896e2d8bc9eac12aba2e211b3f7d450b0ef77"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/af76a15604ea3d38dc23e2295e89cf2ef0c7642dd648de5178525661333e2b89.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/110317085826731127834849.gif",
+      "sha256": "af76a15604ea3d38dc23e2295e89cf2ef0c7642dd648de5178525661333e2b89"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/c0a467a1e42044967fb8bece0565051de6ac90b62a7d6c606f704f3debfe774a.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/111013104843731128897254.gif",
+      "sha256": "c0a467a1e42044967fb8bece0565051de6ac90b62a7d6c606f704f3debfe774a"
+    },
+    {
+      "file": "images/a8179f3e1cdff6d70b90c7aa629d21353fa1a1f74b922d3e2a35ba13d090f039.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/111013103207731128897177.jpg",
+      "sha256": "a8179f3e1cdff6d70b90c7aa629d21353fa1a1f74b922d3e2a35ba13d090f039"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/5d39e417f3e79f25944c640b36637dbd81fa0163882a7606deb613164e36008b.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/111016083603731128911859.jpg",
+      "sha256": "5d39e417f3e79f25944c640b36637dbd81fa0163882a7606deb613164e36008b"
+    },
+    {
+      "file": "images/67d80daf729eb17720470e47e49350d45ac1223dc10a79eda3e0226dc9920e9e.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/111014061510731128900146.gif",
+      "sha256": "67d80daf729eb17720470e47e49350d45ac1223dc10a79eda3e0226dc9920e9e"
+    },
+    {
+      "file": "images/9de8cc7d53344f40b65f1bedc2f0c123e900a5822673e99995f351c06331daf2.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/110109081530731127441622.gif",
+      "sha256": "9de8cc7d53344f40b65f1bedc2f0c123e900a5822673e99995f351c06331daf2"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/9259e2ea17c4f8866cdd87388a59ffb8523bc7d7316d6c8e08cb20692b984045.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file(1).php",
+      "sha256": "9259e2ea17c4f8866cdd87388a59ffb8523bc7d7316d6c8e08cb20692b984045"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_post_target.gif",
+      "sha256": "0f43aeed00cc2a842505cd256138a488e4ab1b3f234d0931184a702b32bb4480"
+    },
+    {
+      "file": "images/7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_offline.gif",
+      "sha256": "7d561e096648c3c15c3484b8ab6d231337873a934a8e868d910fc08a92937c12"
+    },
+    {
+      "file": "images/dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7.jpg",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/file.php",
+      "sha256": "dc60fb88c8f8aa82c7538d23e0b65f949dd01a4765560bab90d649c26150bce7"
+    },
+    {
+      "file": "images/f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/icon_user_profile.gif",
+      "sha256": "f4dc9d7dc420493feb7d3a37e5a1eca273620190a706445182e96ee974e1e413"
+    },
+    {
+      "file": "images/6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/spacer.gif",
+      "sha256": "6bf788214f0920f04146aa23bc2d8588b55a3e81b5c7f25acc4377b895030979"
+    },
+    {
+      "file": "images/bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/button_topic_new.gif",
+      "sha256": "bb95e8693e6931d76e98a36143edb5f6ecec56b7941e5eb7bbc1cecca7188a11"
+    },
+    {
+      "file": "images/c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81.gif",
+      "origin": "./JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles_files/button_topic_reply.gif",
+      "sha256": "c13d047e0d2e691429e768755ea557ba4cc9ac50a63c68a17a224e1d77ec0b81"
+    }
+  ],
+  "encoding": "utf-8"
+}

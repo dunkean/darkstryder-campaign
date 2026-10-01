@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-48721c6ec06cccc7",
+  "name": "TAMARA",
+  "sha256": "48721c6ec06cccc727e99d715c1c578658cd0825c063e73393faf9846d028dd6",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/TAMARA.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a8f1579bc7328084617ecf1316ce12ca0e24b65e2470513c9d86c42993fa6686",
+  "fileHashes": {
+    "book.md": "77e26be30c7dfd46e2c409267ed0b388d809da02bf64d4ce4642d39cc8c80dda",
+    "pages/0001.md": "f28e4986470bff0569a7f8dc2505b7e8ff13823fc85caed7157a5f974f9c1e1c"
+  }
+}

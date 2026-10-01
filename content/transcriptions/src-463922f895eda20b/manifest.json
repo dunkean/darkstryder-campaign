@@ -1,0 +1,70 @@
+{
+  "sourceId": "src-463922f895eda20b",
+  "sha256": "463922f895eda20b3e564b28ca144984a6dfd828aad0053dac4abb1c9acdf3e7",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 3670,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "missing-local-image",
+      "url": "../../sz/images/szsmall.jpg"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg",
+      "origin": "../images/swsmall.jpg",
+      "sha256": "c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5"
+    },
+    {
+      "file": "images/ff272174abd998a144efdcf86a4cf4fba824374f8aedd575b9e25d74a29778cc.jpg",
+      "origin": "img/armor_buttn.jpg",
+      "sha256": "ff272174abd998a144efdcf86a4cf4fba824374f8aedd575b9e25d74a29778cc"
+    },
+    {
+      "file": "images/aba645d5cfb712db820bf89a78928dc141ee5523e8b6192ea22df7624b968c7c.jpg",
+      "origin": "img/addon_buttn.jpg",
+      "sha256": "aba645d5cfb712db820bf89a78928dc141ee5523e8b6192ea22df7624b968c7c"
+    },
+    {
+      "file": "images/4a75f13df9ec2b5dc7848dcf12ae95d8dd26f2ad0fc9ae7853c0fb5e41a19ba4.jpg",
+      "origin": "img/weapn_buttn.jpg",
+      "sha256": "4a75f13df9ec2b5dc7848dcf12ae95d8dd26f2ad0fc9ae7853c0fb5e41a19ba4"
+    },
+    {
+      "file": "images/a381beb57ec2eb6935471ad8c768a1e40a6035fb126e1a9587bd964718cf3c3e.jpg",
+      "origin": "img/cyber_buttn.jpg",
+      "sha256": "a381beb57ec2eb6935471ad8c768a1e40a6035fb126e1a9587bd964718cf3c3e"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg",
+      "origin": "../../icons/dethstar.jpg",
+      "sha256": "8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12"
+    },
+    {
+      "file": "images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif",
+      "origin": "../../icons/home03.gif",
+      "sha256": "934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f"
+    },
+    {
+      "file": "images/0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc.gif",
+      "origin": "../images/weg.gif",
+      "sha256": "0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

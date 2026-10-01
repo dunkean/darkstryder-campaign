@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ec3ac55a0a107e0b",
+  "name": "dsquotes1",
+  "sha256": "ec3ac55a0a107e0b889b1cb382581d9e2068a533ac9a42dedc9d44c60da25b03",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/dsquotes1.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "f6a8ff69dea0cc85173213a89bffceff71f6100dcd8b1ceb270706b98ae51e1e",
+  "fileHashes": {
+    "book.md": "b66c825f83506e6e4d78a502620d37107d3daaa4adc9a40988ed1d524f1b9e11",
+    "pages/0001.md": "a72bece422cf044c7cc2b72b9c0110b9419044879054776c392022d79a0f2ebc"
+  }
+}

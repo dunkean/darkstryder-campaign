@@ -1,0 +1,32 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-fd7bacde5a3a258a",
+  "name": "Chuborro",
+  "sha256": "fd7bacde5a3a258ac44362df24e85fabc52963afa0be3ca3b44e9ad16e4171d9",
+  "pdfPages": 5,
+  "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 5,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Chuborro.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "801aab628ac5a25c520c4316f28e114b59d4a1f97c4a699e8259d1196f97341e",
+  "fileHashes": {
+    "book.md": "176ebd2f6537c0a01d43caa06c5bb15757f0100e7c21ed8b21eeb2f84c04fd30",
+    "pages/0001.md": "ffecca963ef64a5cf0d7f4aa37a67a79e72e91cc2b40f60d26e2ed46f6c7e7a3",
+    "pages/0002.md": "13959a3792b647fdf05da7f6d352862a6e9ef3934cd30339180eea1425edbc3e",
+    "pages/0003.md": "3d03c690ed4022e7f94847a32eeb5b75411e8857034286832e813359d8152162",
+    "pages/0004.md": "8857e3ddb0efb7fa7d8d4c1626cce734926be347aaab4e0907c2ebbb2744f27d",
+    "pages/0005.md": "bb166c6c39fd6874fd11925aaf7016fc2ff2ae567ddc2962a2cd1c1522729401"
+  }
+}

@@ -1,0 +1,135 @@
+# Chuborro
+
+Source: `src-f73a1e4d92ee8b5e` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-f73a1e4d92ee8b5e; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+
+
+Chuborro the Hutt and his Crime Syndicate
+
+Chuborro’s background
+Chuborro is one of the oldest Hutts alive.  At one time, before Jabba’s death, he was retired.  He came out of retirement when Jabba died, and seized power of his interests in the Minos Cluster and the Kathol Sector.  For some reason, he wanted this particular portion of Jabba’s fortune and nothing else.  Chuborro is eccentric and boisterous but very reclusive.  He is old and paranoid as well.
+
+
+Size Classification: Crime Syndicate
+
+The Syndicate is divided into five territories with the Kathol Sector and Minos Cluster.  These territories are controlled and overseen by 5 Deputies.  Within each territory are several corporations and organizations that the Syndicate either owns wholly or owns a controlling portion.  The Syndicate does deals with certain noble houses of the Kathol Core Region, but does not control or influence any of the Noble corporations.
+
+Each Deputy, or “Kajidar” oversees the corporations and organizations within their own region.  Some don’t even realize that they are Chuborro’s deputies, but rather competitors to Chuborro.
+
+
+
+|Deputy                                                           |Corporations/Organizations                                       |
+|Antoss Irz Chan                                                  |Utor Gott School of Business                                     |
+|Species: Herglic                                                 |Location: HQ’d on Utor Gott, with branches throughout the sector |
+|Territory: Northern Kathol Core, including the Northern Rim      |A front of criminal training and a open forum for the rival      |
+|Region                                                           |factions of the underground to meet.  Antoss used to work in the |
+|Activities: Smuggling, Black Market connections, Agent           |Tenloss Crime Syndicate, and promotes cooperation.               |
+|Transportation                                                   |Fing’dra Transportation                                          |
+|                                                                 |Location: HQ’d on Kolatill with branches thoroughout the sector, |
+|                                                                 |in every major star port.                                        |
+|                                                                 |The one of the primary smuggler conduit through which many of    |
+|                                                                 |Chuborro’s outside contraband and illegal supplies.              |
+|                                                                 |Sagridian Enterprises                                            |
+|                                                                 |Location: HQ’d on Hudrisk Hahn (in Northern Rim Region)          |
+|                                                                 |A multi-faceted corporation that is based in the central area of |
+|                                                                 |the Northern Region, it handles the majority of the extortion,   |
+|                                                                 |industrial espionage, black marketeering and information         |
+|                                                                 |brokering.                                                       |
+|Bres Tambrana                                                    |Dasig’Nnor Casinos                                               |
+|Species: Devaronian                                              |Location: HQ’d on Gandle Ott, with Casinos all over the Core     |
+|Territory: Central Kathol Core                                   |Region of the Sector.                                            |
+|Activities: Extortion, Information Brokering, Gambling, Spice    |A large conglomeration of casinos and gambling parlors, including|
+|running, and Black Marketeering                                  |upper class establishments and small holes- in-the-wall parlors. |
+|                                                                 |Kar’n Syndicate                                                  |
+|                                                                 |Location: HQ’d on Peirs with agents throughout the central mining|
+|                                                                 |worlds.                                                          |
+|                                                                 |A major Spice running operation with the mining operations of the|
+|                                                                 |Nobles’ mining worlds.                                           |
+|                                                                 |                                                                 |
+|                                                                 |                                                                 |
+|                                                                 |Info-Kathol Services                                             |
+|                                                                 |Location: HQ’d on Gandle Ott with branches throughout the Core   |
+|                                                                 |Region                                                           |
+|                                                                 |An information gathering point for the Kathol Sector.  It is the |
+|                                                                 |best kept secret of the syndicate.  In fact, the Info-Service has|
+|                                                                 |published many articles that were harshly critical of the old    |
+|                                                                 |hutt, but these are only feints to help its cover.               |
+|Irta’Kes                                                         |Erdadian Financial                                               |
+|Species: Noehon                                                  |Location: HQ’d on Gef ‘Z’kal with several branches through out   |
+|Territory: Southern Core Region, including the Southern Rim      |the sector.                                                      |
+|Region                                                           |An investment firm that does the majority of Chuborro’s financial|
+|Activities: Smuggling, piracy, investments, extortion, an        |deals, including illegal investments into Noble operations.      |
+|assorted array of illegal products, arms dealing                 |Cambrini Hazar Coalition                                         |
+|                                                                 |Location: HQ’d on through the Southern Rim Region                |
+|                                                                 |A collection of operations that include illegal drugs, holoporn, |
+|                                                                 |black market products, illegal arms and smugglers.               |
+|Jag’Nok Orcana                                                   |The Hagnar Guild                                                 |
+|Species: Houk                                                    |Location: HQ’d on Hagnar Gor with agents through out Chuborro’s  |
+|Territory: Marcol Rim Region, and the Outer Rim of the Marcol    |organization                                                     |
+|void, Outback side                                               |A mercenary group of enforcers and arms dealers, it is the       |
+|Activities: Mercenaries and enforcers, arms dealing,             |Syndicate’s primary enforcer force.                              |
+|assassinations, espionage                                        |The Jag’Nar Fleet                                                |
+|                                                                 |Location: HQ’d on Vigno’sh Gor in the Marcol Rim Region          |
+|                                                                 |A fleet of pirate ships that seem to compete with the infamous   |
+|                                                                 |Des’Maric Pirates. However, they actually work together.  The    |
+|                                                                 |have an unwritten alliance that is very mutually beneficial      |
+|Ugnog Gandris                                                    |The Timbra Shadow Ring                                           |
+|Species: Whiphid                                                 |Location: HQ’d Timbra Ott with agents through out the sector     |
+|Territory: The Outback area beyond the Marcol Void rim.          |The Timbra Shadow Ring is one of the most secretive organizations|
+|Activities: Smuggling, information brokering, mercenaries,       |in Chuborro’s organization.  It is the primary spec ops group,   |
+|piracy, extortion, Outlaw tech, black marketeering,              |with it’s hands in all Chuborro’s covert operations.             |
+|assassination, and espionage                                     |The Outback Riggers                                              |
+|                                                                 |Location: Sapella                                                |
+|                                                                 |A group of Outlaw techs Chuborro uses for his private needs. Only|
+|                                                                 |those he knows is allowed to use them.                           |
+
+
+Other People in Chuborro’s Organization:
+
+Uluala Dergan
+Function: Second in Command and Personal assassin
+Species: Falleen
+
+
+Ulu is a the Hutt’s personal assassin and bodyguard, as well as servant and administrator.  She handles much of his business.  She used to work for Dark Sun and was one of Xixor’s ex-lovers.  She is a bitter female Falleen.
+Chuborro's HQ World: Yog’H’Toth in the Kathol Outback
+|Planet:                  |Yog’H’Toth                                                                                               |
+|System:                  | Yog’Hal                                                                                                 |
+|Sector:                  |Kathol                                                                                                   |
+|Type:                    |Terrestrial                                                                                              |
+|Temperature:             |Temperate to Warm                                                                                        |
+|Atmosphere:              |Type I Breathable                                                                                        |
+|Hydrosphere:             |Wet (Many violent storms year round)                                                                     |
+|Gravity:                 |Standard                                                                                                 |
+|Terrain:                 |Mountains, Grassland, Polar ice caps                                                                     |
+|Length of Day:           |28 Hours                                                                                                 |
+|Length of Year:          |286 Days                                                                                                 |
+|Sapient Species:         |Mixture of species.  Humans are rare.                                                                    |
+|Major Cities             |Bred’iar Hogg (Capitol city), Gren Sil (Space port city), Kendri’Il (Chuborro’s palace located near this |
+|                         |city)                                                                                                    |
+|Starport:                |Standard Class                                                                                           |
+|Population:              |690 Million                                                                                              |
+|Planet Function:         |Was a mining colony and research facility for the Kathol Republic, abandoned several decades ago.  Now a |
+|                         |simple colony world of wayward travelers from the Core Region, a Free Trader port.  It is the secret HQ  |
+|                         |of Chuborro the Hutt.                                                                                    |
+|Government:              |Central Council of all the colony states, overseen by an elected President                               |
+|Tech Level:              |Space                                                                                                    |
+|Major Exports:           | Refined Ore, manufactured goods                                                                         |
+|Major Imports:           |Raw Ore, high tech                                                                                       |
+|Star:                    | Yog’Hal                                                                                                 |
+
+
+Yog’H’Toth is an unfriendly world.  Its atmosphere is very active and turbulent.  The Society is one of the most corrupt anyone has seen, thanks to Chuborro’s presence.  This is the seedier side of the Free traders.  It’s a smuggler’s paradise, by Kathol standards.  There are even signs that read “The Millenium Falcon docked here!!”
+The world is also hazardous to high tech equipment, due the over-abundance of electrostatic charges in the atmosphere.  During the harshest storms, people wear protective suits.  Ball lightning is quite common on this world.
+Chuborro's palace is heavily guarded (you have estimates of those) and heavily armed.  It has several planetary-based Turbolaser batteries installed in the mountains around his palace.
+Sarne Alliance
+Chuborro is allied with Sarne, but it’s a shaky one.  He has been keeping the alliance a secret from many of his deputies, only telling them that he has made a deal that will solidify their organization position in the Rim.  Some in his organization would frown upon it.
+In particular, on that last note, there are strong anti-Imperial sentiments in his own security force, the Hagnar Guild.  There already resides a strong rumor of the alliance, but nothing has been confirmed enough to cause unrest.  Many of the mercs are former Imperial slaves, or escaped Imperial prisoners.
+Chuborro has had a passion for owning a piece of Darkstryder recently.  Whether this is part of the alliance or not is unknown.  Whether he has gotten a sample of DS Tech is unknown.  This may be what Sarne promised him Or if Chuborro already had some, this maybe why Sarne made the alliance.
+There is also a rumor that Chuborro has made another alliance… “An outside interest…”…  The Gree Enclave.
+

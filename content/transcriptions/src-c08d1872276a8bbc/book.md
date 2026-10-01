@@ -1,0 +1,253 @@
+# DStimeline
+
+Source: `src-c08d1872276a8bbc` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-c08d1872276a8bbc; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+Darkstryder Timeline
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+![misson.gif (10747 bytes)](images/1c765a5a2db7878739421898595b99d4baf904aad2a39edb090ddd8a85fe829a.gif)
+
+**Last Updated: webbot bot="Timestamp"
+startspan S-Type="EDITED" S-Format="%m/%d/%y" 12/28/98webbot bot="Timestamp"
+i-checksum="13953" endspan **
+
+---
+
+**EPISODE 1**
+**STORM GIANTS
+    IN A PLAYGROUND**
+
+**Date**
+**Adventure**
+
+**DS Day 1-4**
+**[So it
+    Begins...](DSsoitbegins.htm) **
+
+**Location: Leaving Kal'Shebbol enroute to Brolsam **
+
+**DS Day 5-18**
+**[Omens](DSomens.htm) **
+
+**Location: Kolatil**
+
+**DS Day 19-24**
+[**The
+    Smelting Stations of Torize**](DSTheSmeltingStationsofTorize.htm)
+
+**Location: Torize**
+
+**DS Day 25 - 29**
+[**The
+    Artifacts of Aaris**](DSTheArtifactsofAaris.htm)
+
+**Location: Aaris**
+
+**DS Day 30 - 37**
+[**The
+    NobleStar: Death is Remotely Possible**](DSTheNobleStar.htm)
+
+**Location: Gandle Ott**
+
+**DS Day 38 - 42**
+[**Shintel
+    Downtime: Project Deathhunter**](DSShintel.htm)
+
+**Location: Shintel**
+
+**DS Day 43 - 65**
+[**Tanquilla
+    Beach**](DSTanquilla.htm)
+
+**Location: Tanquilla Beach**
+
+**DS Day 66 - 70**
+[**Crisis:
+    Pembric II**](DSPembric2.htm)
+
+**Location: Pembric II**
+
+**DS Day 71 - 76**
+[**Traitor in our
+    Midst Part 1:  Murder in the Catacombs**](DSGaltea.htm)
+
+**Location: Galtea**
+
+**DS Day 77 - 80**
+[**Traitor in our
+    Midst Part 2:  Battle at Sebiris**](DSSebiris.htm)
+
+**Location: Sebiris**
+
+**DS Day 74 - 80**
+[**Traitor in
+    our Midst Part 3: Battle for Sanctuary**](DSSanctuary.htm)
+
+**Location: Sanctuary - The Kathol Rift**
+
+**DS Day 81 - 87**
+[**Return to
+    Aaris: Sterilization**](DSReturntoAaris.htm)
+
+**Location: Aaris**
+
+**DS Day 88 - 105**
+[**Sarne's
+    Counterattack**](DSCounterAttack.htm)
+
+**Location: Kathol Core Region**
+
+**EPISODE 2**
+**THE DEMONS
+    OF ONE'S SOUL: 
+
+    Kathol Outback**
+
+**Date**
+**Adventure**
+
+**DS Day 105 - 120**
+[**Mission to
+    Timbra Ott: Starfall**](DSStarfall.htm)
+
+**Location: Timbra Ott & Kathol
+    Outback near Timbra Ott**
+
+**DS Day 121 - 126**
+[**Sapella:
+    Conflict of Interests**](DSSapella.htm)
+
+**Location: Sapella**
+
+**DS Day 126 - 136**
+[**Binaros: Plant
+    Food**](DSBinaros.htm)
+
+**Location: Binaros**
+
+**DS Day 137 - 153**
+[**Return to Sapella:
+    Nuniok Dak**](DSSapella2.htm)
+
+**Location: Enroute to Sapella & Beyond**
+
+**DS Day 154 - 169**
+**[Kathol Republic:
+    Little Empires](DSKatholRepublic.htm)
+
+([*Operation: Chillweaver: Genesis*](DSChillweaver.htm#Genisis))**
+
+**Location: Kathol Republic**
+
+**DS Day 170 - 178**
+
+[**Masters
+    Of Exocron: Slaves of the Devisors**](DSExocron.htm)
+
+| **[Mutiny on the Farstar](DSMutiny.htm)** |
+| --- |
+| **[The Dark Side of Exocron](DSDarksideofEx.htm)** |
+| **[The Moons of Exocron](DSMoonsofEx.htm)** |
+| **[The Virus of the Qek](DSVirusOfQek.htm)** |
+| **[Epilogue](DSExocronEpilogue.htm)** |
+
+**([*Operation:
+    Chillweaver: Initiate*](DSChillweaver.htm#Initiate))**
+
+**Location: Exocron System**
+
+***DS Day 182 - 203***
+**[Shatuun: Domain
+    of Evil](DSQuestOnShantuun.htm)* (Solo Adventure)***
+
+**Location: Shantuun**
+
+**DS Day 179 - 206**
+[**Wildfire: The Cure,
+    & The Sleeper**](DSuukaablis.htm)
+
+| [**The Cure**](DSCure.htm) |
+| --- |
+| **[The Sleeper](DSSleeper.htm)** |
+| [**Epilogue**](DSuukaablisEpilogue.htm) |
+
+***([Chillweaver: The Game](DSChillweaver.htm#The%20Game))***
+
+**Location: Uukaablis**
+
+**DS Day 205 - 210**
+[***Chillweaver
+    Finale: Battle at Qek'Mas***](DSChillweaver.htm#The%20Finale)
+
+**Location: Qek'Mas, in the Qektoth Confederation**
+
+**DS Day 207 - 245**
+[**Edge of the
+    Galaxy: 
+
+Dry Dock & The Rock of Armageddon**](DSEdgeoftheGalaxy.htm)
+
+| **[The Rock](DSEdgeofTheGalaxyThe%20Rock.htm)** |
+| --- |
+| [**Among the Ruins**](DSEdgeofTheGalaxyThe%20Ruins.htm) |
+| [**The Battle of Danoor**](DSEdgeofTheGalaxyThe%20Battle.htm) |
+
+**Location: Shantuun & Nah'Malis**
+
+**EPISODE 3**
+**Beyond the
+    Barrier: Kathol Rift**
+
+**DS Day 246-261**
+[**Into the Rift: Harm's
+    Way**](DSHarmsWay.htm)
+
+**Location: Q'Maere**
+
+**DS Day 262-275**
+[**Into the Rift: Waystation**](DSWayStation.htm)
+
+**Location: Through the Rift, on board the Rift
+    "ferry boat"**
+
+**DS Day 276-290**
+[**Showdown at Home**](DSHome.htm)
+
+**Location: Yvara**
+
+| [**The Confessional**](DSHomeConfess.htm) |
+| --- |
+| [**The Showdown**](DSHomeShowdown.htm) |
+
+**DS Day 291-308**
+[**ENDGAME**](DSEndGame.htm)
+
+**Location: Beyond the Rift: Darkstryder Planet**
+
+| [**World Asunder**](DSEndGameAsunder.htm) |
+| --- |
+| [**Battle with Destiny**](DSEndGameBattle.htm) |
+
+---
+
+**Dating System: **
+
+- **Darkstryder starts 4 standard years after SW: ROTJ**
+
+- **DS Day - Darkstryder Day. (1 Stadard Day)**
+
+- **DS Month - DarkStryder Month - 35 DS Days (1 Standard Month)**
+
+- **DS Year - Darkstyder Year - 368 DS Days (1 Standard Year) **
+
+---
+
+[<<--- BACK](_._.html)

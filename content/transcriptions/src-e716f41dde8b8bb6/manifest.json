@@ -1,0 +1,75 @@
+{
+  "sourceId": "src-e716f41dde8b8bb6",
+  "sha256": "e716f41dde8b8bb6e4451fda938ff84f3cba08fd4d860293327f20fd9a441b64",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1813,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg",
+      "origin": "images/darkstyd.jpg",
+      "sha256": "487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660"
+    },
+    {
+      "file": "images/a8e74a5c0d40543f6ca64b5f57d206995ee658f4f40968980b441c9b4afd50df.gif",
+      "origin": "images/archive.gif",
+      "sha256": "a8e74a5c0d40543f6ca64b5f57d206995ee658f4f40968980b441c9b4afd50df"
+    },
+    {
+      "file": "images/3aa0056346b3080851e50a50d529c05c8a9e1ec0ed4230e71edb6750f843df2a.gif",
+      "origin": "images/cntrlpnl/cntrl_top.gif",
+      "sha256": "3aa0056346b3080851e50a50d529c05c8a9e1ec0ed4230e71edb6750f843df2a"
+    },
+    {
+      "file": "images/d6f06abe46a82cf33cbe48868e09ddc2d0b44624aa7aeffc181e686bb460c166.gif",
+      "origin": "images/cntrlpnl/maps_button2.gif",
+      "sha256": "d6f06abe46a82cf33cbe48868e09ddc2d0b44624aa7aeffc181e686bb460c166"
+    },
+    {
+      "file": "images/962f1bd6c01cd134c99e8955d4a6cf7d7ae13e9196d5f65441b7ee9133bc75d3.gif",
+      "origin": "images/cntrlpnl/mo_button.gif",
+      "sha256": "962f1bd6c01cd134c99e8955d4a6cf7d7ae13e9196d5f65441b7ee9133bc75d3"
+    },
+    {
+      "file": "images/16ffba781256ce7eea14f748f2bc9fec792cb815d045d182647fbbb6b4bb4cd0.gif",
+      "origin": "images/cntrlpnl/astro_button.gif",
+      "sha256": "16ffba781256ce7eea14f748f2bc9fec792cb815d045d182647fbbb6b4bb4cd0"
+    },
+    {
+      "file": "images/2029af0a55d3fd4cbacda76734ea4c4063ae36abacaf31bf40f1341724167b7a.gif",
+      "origin": "images/cntrlpnl/intel_button.gif",
+      "sha256": "2029af0a55d3fd4cbacda76734ea4c4063ae36abacaf31bf40f1341724167b7a"
+    },
+    {
+      "file": "images/4976e5ace3b8947f009d149d443ad1a77e6ec4e4cd51a04c85a30a25581c7207.gif",
+      "origin": "images/cntrlpnl/threat_button.gif",
+      "sha256": "4976e5ace3b8947f009d149d443ad1a77e6ec4e4cd51a04c85a30a25581c7207"
+    },
+    {
+      "file": "images/5c28de8bed94d28ced25b3b2cd208799aa61977fa31927cdb93194f5172cb992.gif",
+      "origin": "images/cntrlpnl/log_button.gif",
+      "sha256": "5c28de8bed94d28ced25b3b2cd208799aa61977fa31927cdb93194f5172cb992"
+    },
+    {
+      "file": "images/41b2dd3df757ee369967afd7193ec18a126108d5ecce848e1328abf9226241f0.gif",
+      "origin": "images/cntrlpnl/cntrl_bottom.gif",
+      "sha256": "41b2dd3df757ee369967afd7193ec18a126108d5ecce848e1328abf9226241f0"
+    },
+    {
+      "file": "images/9ed84f78b41e76320cc6cea01f792eac76fe01b8a2fdf67b4d09c651b75bba0e.gif",
+      "origin": "images/blocaderunner.gif",
+      "sha256": "9ed84f78b41e76320cc6cea01f792eac76fe01b8a2fdf67b4d09c651b75bba0e"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

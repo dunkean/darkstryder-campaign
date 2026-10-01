@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8266c8c0ffa026e8",
+  "name": "adrimetrum",
+  "sha256": "8266c8c0ffa026e8396e264501d5777a52111495f0037c2905f5850a06a72d45",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/adrimetrum.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ce7168817e0b73dc7f04630e92b944784b193d43d4c661e87bc38ff2c1d762cf",
+  "fileHashes": {
+    "book.md": "0b669261427420eb8d0ce73dea5dbb0157cb98a260a593a8535b890eaf035fb4",
+    "pages/0001.md": "86d62cdde45212abae132c2453d3a594322839948efcb3620e6a6283afb65b7c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0cbe9aa077ab37c0",
+  "name": "DSEndGame",
+  "sha256": "0cbe9aa077ab37c0801098e024dfdea3358c4c13b16085857c0f49c1c8aad1db",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEndGame.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c90d905e03c57757deea00645d52a4b8f893fc70456a2e163fe2bbe407a694e1",
+  "fileHashes": {
+    "book.md": "ef2fb8e89ea20483a324b7d68720a391ef7df33213fbfdafdabbd2919f25a80f",
+    "pages/0001.md": "5e13f34aab1e271abeac8230a2d86edd720e0ceeb47e760de1b137baac0f0c84"
+  }
+}

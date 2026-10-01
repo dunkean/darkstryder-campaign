@@ -7,6 +7,26 @@
   "pdfPages": 82,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 82,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide.pdf"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide.pdf"
+    }
+  ],
+  "collections": [
+    "sourcebooks",
+    "guides-rules"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "d173bc608db7812037d32418f4639ab6703b276458b229ae4b4a7f0bc05e8762",
   "fileHashes": {
     "book.md": "99d11452606f1baf4651a5bbc466f9243649309bddeab110204e2075ba939f76",
     "pages/0001.md": "0bf80f4a38e42e9b6a02886eae0e0435b10b28ffd03c0acaf72fedd43a46fcd4",

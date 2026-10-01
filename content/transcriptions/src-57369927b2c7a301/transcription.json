@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-57369927b2c7a301",
+  "name": "MinDMG",
+  "sha256": "57369927b2c7a30178669562edde2a4eb3f0c45f7847ad799ecab037e86ff0c6",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/MinDMG.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "431175a9aab9b42e8147b7e64c2103c6e2b387c2b10d73ed5b27922cee20bc38",
+  "fileHashes": {
+    "book.md": "c096740312950061cbad022534eb989f6173ed6fbb8dff59db55f28383b4b60b",
+    "pages/0001.md": "2b1fc7f89c078ff0c2718c7a6dcdeec76c9a6ade4078f9f08e9b0ef5465f2fcd"
+  }
+}

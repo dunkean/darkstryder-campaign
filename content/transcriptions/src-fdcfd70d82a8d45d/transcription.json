@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-fdcfd70d82a8d45d",
+  "name": "DSEndGameBattle",
+  "sha256": "fdcfd70d82a8d45ddfb7f22ab59e4fbdcf097eb43016bfa58287b32161fa998e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEndGameBattle.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d1d2a84294a3ca22b52e7141ee8cae651bc50e13699ede008a20e3ba4e5dc4a7",
+  "fileHashes": {
+    "book.md": "6733b1d4612868d8f3582bacb8040aaa9bbad27fab564779e0d242a72112ed1a",
+    "pages/0001.md": "da815695de1b8f8a85e92b864a6f476db961dde7b21670c558d084a725931c27"
+  }
+}

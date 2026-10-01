@@ -1,0 +1,7032 @@
+{
+  "version": 1,
+  "scope": "config/corpus-scope.json",
+  "sources": [
+    {
+      "id": "src-c86af6abdc3184c5",
+      "name": "WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame",
+      "format": "pdf",
+      "collection": "darkstryder",
+      "collections": [
+        "darkstryder"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder SourceBook/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+      },
+      "copies": [
+        {
+          "root": "project",
+          "path": "sourcebooks/WEG40112 - Star Wars - DarkStryder Campaign- 4 Endgame.pdf"
+        }
+      ],
+      "units": 129,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-c86af6abdc3184c5/book.md"
+    },
+    {
+      "id": "src-a3a28719eed85a70",
+      "name": "WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback",
+      "format": "pdf",
+      "collection": "darkstryder",
+      "collections": [
+        "darkstryder"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder SourceBook/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+      },
+      "copies": [
+        {
+          "root": "project",
+          "path": "sourcebooks/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+        }
+      ],
+      "units": 91,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-a3a28719eed85a70/book.md"
+    },
+    {
+      "id": "src-e76020e4b32da626",
+      "name": "WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift",
+      "format": "pdf",
+      "collection": "darkstryder",
+      "collections": [
+        "darkstryder"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder SourceBook/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+      },
+      "copies": [
+        {
+          "root": "project",
+          "path": "sourcebooks/WEG40121 - Star Wars - Darkstryder Campaign- 3 Kathol Rift.pdf"
+        }
+      ],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-e76020e4b32da626/book.md"
+    },
+    {
+      "id": "src-1678b1eb8c4bd691",
+      "name": "WEG40209 - Star Wars - Darkstryder Campaign",
+      "format": "pdf",
+      "collection": "darkstryder",
+      "collections": [
+        "darkstryder"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder SourceBook/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+      },
+      "copies": [
+        {
+          "root": "project",
+          "path": "sourcebooks/WEG40209 - Star Wars - Darkstryder Campaign.pdf"
+        }
+      ],
+      "units": 194,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-1678b1eb8c4bd691/book.md"
+    },
+    {
+      "id": "src-3eb03c4492ed2bd3",
+      "name": "Adventure Journal 9",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Adventure Journal 9.pdf"
+      },
+      "copies": [],
+      "units": 147,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-3eb03c4492ed2bd3/book.md"
+    },
+    {
+      "id": "src-94ff53e66d872af8",
+      "name": "Classic Adventures Volume 2 WEG40128",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Classic Adventures Volume 2 WEG40128.pdf"
+      },
+      "copies": [],
+      "units": 130,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-94ff53e66d872af8/book.md"
+    },
+    {
+      "id": "src-e340efa962f7425c",
+      "name": "Classic Adventures Volume 4 Best of the Journal WEG40138",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Classic Adventures Volume 4 Best of the Journal WEG40138.pdf"
+      },
+      "copies": [],
+      "units": 146,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-e340efa962f7425c/book.md"
+    },
+    {
+      "id": "src-87dca4085f4a050a",
+      "name": "Classic Adventures Volume 5 WEG40165",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Classic Adventures Volume 5 WEG40165.pdf"
+      },
+      "copies": [],
+      "units": 123,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-87dca4085f4a050a/book.md"
+    },
+    {
+      "id": "src-11db6709785a7a96",
+      "name": "Lords of the Expanse Instant Adventures Tapani Sector WEG40147",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Lords of the Expanse Instant Adventures Tapani Sector WEG40147.pdf"
+      },
+      "copies": [],
+      "units": 74,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-11db6709785a7a96/book.md"
+    },
+    {
+      "id": "src-73baeb84d2db9fb0",
+      "name": "Lords of the Expanse Lifestyles of the Rich and Dangerous WEG40215-1",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Lords of the Expanse Lifestyles of the Rich and Dangerous WEG40215-1.pdf"
+      },
+      "copies": [],
+      "units": 22,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-73baeb84d2db9fb0/book.md"
+    },
+    {
+      "id": "src-db60404e5ebc7f0b",
+      "name": "Lords of the Expanse Players Guide to Tapani WEG40155",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks",
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/Lords of the Expanse Players Guide to Tapani WEG40155.pdf"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/Guides_Rules/Tapani/WEG40155 - Star Wars - Player_s Guide to Tapani.pdf"
+        }
+      ],
+      "units": 82,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-db60404e5ebc7f0b/book.md"
+    },
+    {
+      "id": "src-8bd3ff40958a6a5a",
+      "name": "WEG40066 Supernova",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/WEG40066 Supernova.pdf"
+      },
+      "copies": [],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-8bd3ff40958a6a5a/book.md"
+    },
+    {
+      "id": "src-f5c7cc418311e7fd",
+      "name": "WEG40137 Instant Adventures",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/WEG40137 Instant Adventures.pdf"
+      },
+      "copies": [],
+      "units": 74,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-f5c7cc418311e7fd/book.md"
+    },
+    {
+      "id": "src-c3e04a084302f1ce",
+      "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks",
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide.pdf"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Campaign Guide.pdf"
+        }
+      ],
+      "units": 74,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-c3e04a084302f1ce/book.md"
+    },
+    {
+      "id": "src-2dd59b49af89a14f",
+      "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks",
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide.pdf"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Gamemaster Guide.pdf"
+        }
+      ],
+      "units": 82,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-2dd59b49af89a14f/book.md"
+    },
+    {
+      "id": "src-1470b2eea31bd428",
+      "name": "WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide",
+      "format": "pdf",
+      "collection": "sourcebooks",
+      "collections": [
+        "sourcebooks",
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/SourceBooks/WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide.pdf"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/Guides_Rules/Tapani/WEG40215 - Star Wars D6 - Lords of the Expanse - Sector Guide.pdf"
+        }
+      ],
+      "units": 50,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-1470b2eea31bd428/book.md"
+    },
+    {
+      "id": "src-0387f75b77ef1901",
+      "name": "Addons_to_DS",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Addons_to_DS.pdf"
+      },
+      "copies": [],
+      "units": 97,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-0387f75b77ef1901/book.md"
+    },
+    {
+      "id": "src-12899a630004a17f",
+      "name": "Addons_to_DS2",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Addons_to_DS2.pdf"
+      },
+      "copies": [],
+      "units": 24,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-12899a630004a17f/book.md"
+    },
+    {
+      "id": "src-f73a1e4d92ee8b5e",
+      "name": "Chuborro",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Chuborro.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/633ff3c40e53cf4b4fa37c0a08a7b578b3897394f69e5eaf7850c28efeeaa19e/Chuborro.doc"
+        },
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/chuborro/Chuborro.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f73a1e4d92ee8b5e/book.md"
+    },
+    {
+      "id": "src-fd7bacde5a3a258a",
+      "name": "Chuborro",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Chuborro.pdf"
+      },
+      "copies": [],
+      "units": 5,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-fd7bacde5a3a258a/book.md"
+    },
+    {
+      "id": "src-87cc4f491fc6d762",
+      "name": "HouseCharacteristics",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/HouseCharacteristics.pdf"
+      },
+      "copies": [],
+      "units": 2,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-87cc4f491fc6d762/book.md"
+    },
+    {
+      "id": "src-70403bfeb4036505",
+      "name": "KatholAddons 1",
+      "format": "docx",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/KatholAddons 1.docx"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-70403bfeb4036505/book.md"
+    },
+    {
+      "id": "src-31fb8fc9b96b4d9c",
+      "name": "KatholAddons",
+      "format": "docx",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/KatholAddons.docx"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-31fb8fc9b96b4d9c/book.md"
+    },
+    {
+      "id": "src-fbf8a45ed0195a9a",
+      "name": "Planètes du Tome 1 de la Campagne __DarkStryder__ – Rapport détaillé",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Planètes du Tome 1 de la Campagne __DarkStryder__ – Rapport détaillé.pdf"
+      },
+      "copies": [],
+      "units": 19,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-fbf8a45ed0195a9a/book.md"
+    },
+    {
+      "id": "src-935316b241b73c00",
+      "name": "QuestonShantuun",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/QuestonShantuun.pdf"
+      },
+      "copies": [],
+      "units": 29,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-935316b241b73c00/book.md"
+    },
+    {
+      "id": "src-6dfcf186468bdd71",
+      "name": "Starfall",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Starfall.pdf"
+      },
+      "copies": [],
+      "units": 5,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-6dfcf186468bdd71/book.md"
+    },
+    {
+      "id": "src-3081b0f225e8746d",
+      "name": "Addons_to_DS",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Addons_to_DS.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Addons_to_DS.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3081b0f225e8746d/book.md"
+    },
+    {
+      "id": "src-8dc994a122c22333",
+      "name": "Analia",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Analia.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Analia.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8dc994a122c22333/book.md"
+    },
+    {
+      "id": "src-604afd953d915f25",
+      "name": "Farstar",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Farstar.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Farstar.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-604afd953d915f25/book.md"
+    },
+    {
+      "id": "src-ae28a43f8e21cc01",
+      "name": "Gandle Ott Itinerary",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Gandle Ott Itinerary.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Gandle Ott Itinerary.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ae28a43f8e21cc01/book.md"
+    },
+    {
+      "id": "src-49917acb8c50f04b",
+      "name": "GorakKhzam",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/GorakKhzam.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/GorakKhzam.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-49917acb8c50f04b/book.md"
+    },
+    {
+      "id": "src-d7fd516687cd8a23",
+      "name": "Imperials of the Kathol Sector",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Imperials of the Kathol Sector.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Imperials of the Kathol Sector.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d7fd516687cd8a23/book.md"
+    },
+    {
+      "id": "src-442e464ab5917192",
+      "name": "JDajus",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/JDajus.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/JDajus.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-442e464ab5917192/book.md"
+    },
+    {
+      "id": "src-b938460a8773ccc7",
+      "name": "Kathol Underground",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Kathol Underground.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Kathol Underground.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b938460a8773ccc7/book.md"
+    },
+    {
+      "id": "src-3c1b054d3df889c3",
+      "name": "Lohkhar",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Lohkhar.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Lohkhar.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3c1b054d3df889c3/book.md"
+    },
+    {
+      "id": "src-03afd27040174554",
+      "name": "LordsofKathol",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/LordsofKathol.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/LordsofKathol.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-03afd27040174554/book.md"
+    },
+    {
+      "id": "src-7948f3df310de4eb",
+      "name": "Rojer621",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Rojer621.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Rojer621.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7948f3df310de4eb/book.md"
+    },
+    {
+      "id": "src-16e207d56f01fefc",
+      "name": "SW_Kalvessen",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/SW_Kalvessen.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/SW_Kalvessen.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-16e207d56f01fefc/book.md"
+    },
+    {
+      "id": "src-7f33d9aa0f17a486",
+      "name": "Starwolves2",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Darkstryder/Starwolves2.doc"
+      },
+      "copies": [
+        {
+          "root": "runtime",
+          "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Starwolves2.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7f33d9aa0f17a486/book.md"
+    },
+    {
+      "id": "src-7acf8cb21fce7f5f",
+      "name": "JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - Inventaire _ Equipement _ Règles.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7acf8cb21fce7f5f/book.md"
+    },
+    {
+      "id": "src-9624b30dbddbb53d",
+      "name": "JDRVirtuel • Afficher le sujet - L'Équipage de L'Étoile Lointaine",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - L'Équipage de L'Étoile Lointaine.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9624b30dbddbb53d/book.md"
+    },
+    {
+      "id": "src-7d76330c1900e38e",
+      "name": "JDRVirtuel • Afficher le sujet - L'Étoile Lointaine",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - L'Étoile Lointaine.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7d76330c1900e38e/book.md"
+    },
+    {
+      "id": "src-93bc71206ef8e1b7",
+      "name": "JDRVirtuel • Afficher le sujet - La Saga DarkStryder",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - La Saga DarkStryder.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-93bc71206ef8e1b7/book.md"
+    },
+    {
+      "id": "src-82d79b9604d6e1b3",
+      "name": "JDRVirtuel • Afficher le sujet - Le Secteur de Kathol",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - Le Secteur de Kathol.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-82d79b9604d6e1b3/book.md"
+    },
+    {
+      "id": "src-5ebeaa8b0930ea7d",
+      "name": "JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/JDRVirtuel • Afficher le sujet - Le Secteur de Kathol2.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5ebeaa8b0930ea7d/book.md"
+    },
+    {
+      "id": "src-118f60238f2ef546",
+      "name": "Ron",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/Ron.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-118f60238f2ef546/book.md"
+    },
+    {
+      "id": "src-51144a22cb38f647",
+      "name": "RonRPGs",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/RonRPGs.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-51144a22cb38f647/book.md"
+    },
+    {
+      "id": "src-57c8c72485aab9f9",
+      "name": "homepage",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/homepage.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-57c8c72485aab9f9/book.md"
+    },
+    {
+      "id": "src-c28c09972aab6961",
+      "name": "links",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/links.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c28c09972aab6961/book.md"
+    },
+    {
+      "id": "src-eadf1927c3b5e12c",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/_._.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-eadf1927c3b5e12c/book.md"
+    },
+    {
+      "id": "src-14deb3c09a498c42",
+      "name": "cons",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/cons.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-14deb3c09a498c42/book.md"
+    },
+    {
+      "id": "src-68e5c4861962c220",
+      "name": "dglpix",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/dgl/dglpix.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-68e5c4861962c220/book.md"
+    },
+    {
+      "id": "src-ac2ae9e4834c9b9a",
+      "name": "dresume",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/dgl/dresume.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ac2ae9e4834c9b9a/book.md"
+    },
+    {
+      "id": "src-b658a0c0c3509d88",
+      "name": "galleryindex",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/galleryindex.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b658a0c0c3509d88/book.md"
+    },
+    {
+      "id": "src-017e7d2dd31bd768",
+      "name": "me-n-D",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/me-n-D.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-017e7d2dd31bd768/book.md"
+    },
+    {
+      "id": "src-6bfaf4aefa80c926",
+      "name": "me",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/me.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6bfaf4aefa80c926/book.md"
+    },
+    {
+      "id": "src-34ca966a71993d03",
+      "name": "others",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/others.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-34ca966a71993d03/book.md"
+    },
+    {
+      "id": "src-273fc53ce7b93143",
+      "name": "pb",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/pb.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-273fc53ce7b93143/book.md"
+    },
+    {
+      "id": "src-8b70fdf8275a2959",
+      "name": "ronrules",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/ron/ronrules.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8b70fdf8275a2959/book.md"
+    },
+    {
+      "id": "src-57369927b2c7a301",
+      "name": "MinDMG",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/MinDMG.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-57369927b2c7a301/book.md"
+    },
+    {
+      "id": "src-24ba072146040bd7",
+      "name": "ROF",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ROF.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-24ba072146040bd7/book.md"
+    },
+    {
+      "id": "src-2d4ed5577dc57055",
+      "name": "SWSZAddons",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/SWSZAddons.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2d4ed5577dc57055/book.md"
+    },
+    {
+      "id": "src-8709de5034ba0971",
+      "name": "SWSZArmor",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/SWSZArmor.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8709de5034ba0971/book.md"
+    },
+    {
+      "id": "src-228164612adb22f0",
+      "name": "TableOfContents",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/TableOfContents.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-228164612adb22f0/book.md"
+    },
+    {
+      "id": "src-4de8972318251320",
+      "name": "WeapTableofContents",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/WeapTableofContents.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4de8972318251320/book.md"
+    },
+    {
+      "id": "src-463922f895eda20b",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/_._.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-463922f895eda20b/book.md"
+    },
+    {
+      "id": "src-3d411ac029f3bb73",
+      "name": "homepage",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SWCyber/homepage.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3d411ac029f3bb73/book.md"
+    },
+    {
+      "id": "src-a88efe726c0509a1",
+      "name": "SZtoSW1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/SZtoSW1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a88efe726c0509a1/book.md"
+    },
+    {
+      "id": "src-2a07dcb5eedfc650",
+      "name": "Wilddie_houserule",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/Wilddie_houserule.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2a07dcb5eedfc650/book.md"
+    },
+    {
+      "id": "src-cb19f13e0a89a415",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/_._.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-cb19f13e0a89a415/book.md"
+    },
+    {
+      "id": "src-6e6bd22250ba0e89",
+      "name": "accuracy _bonus",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/accuracy _bonus.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6e6bd22250ba0e89/book.md"
+    },
+    {
+      "id": "src-aa9b4c975477db23",
+      "name": "a_c_list",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/a_c_list.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-aa9b4c975477db23/book.md"
+    },
+    {
+      "id": "src-334e16c625d99fa4",
+      "name": "adv_System",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/adv_System.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-334e16c625d99fa4/book.md"
+    },
+    {
+      "id": "src-e6db1cff7fddb460",
+      "name": "background_advantages",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/background_advantages.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e6db1cff7fddb460/book.md"
+    },
+    {
+      "id": "src-7acddaae96f0e466",
+      "name": "background_compensations",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/background_compensations.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7acddaae96f0e466/book.md"
+    },
+    {
+      "id": "src-df3b71cf249da936",
+      "name": "d6_appendix",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/d6_appendix.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-df3b71cf249da936/book.md"
+    },
+    {
+      "id": "src-aadbe065965374fe",
+      "name": "index",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/adv/index.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-aadbe065965374fe/book.md"
+    },
+    {
+      "id": "src-6e616196695aaa37",
+      "name": "beasty",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/beasty.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6e616196695aaa37/book.md"
+    },
+    {
+      "id": "src-42597bce3914c11e",
+      "name": "beetle",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/beetle.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-42597bce3914c11e/book.md"
+    },
+    {
+      "id": "src-b248e66f29d33e5b",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/_._.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/index.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b248e66f29d33e5b/book.md"
+    },
+    {
+      "id": "src-ada8fa25f7e88818",
+      "name": "interaction",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/interaction.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ada8fa25f7e88818/book.md"
+    },
+    {
+      "id": "src-c510fdef32099a24",
+      "name": "mastbook_D6",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/mastbook_D6.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c510fdef32099a24/book.md"
+    },
+    {
+      "id": "src-db9cfa1cd150b246",
+      "name": "masterdeck",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-db9cfa1cd150b246/book.md"
+    },
+    {
+      "id": "src-ae8ee252d6b842db",
+      "name": "masterdeck_combat",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_combat.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ae8ee252d6b842db/book.md"
+    },
+    {
+      "id": "src-708aabdfe2bed8b2",
+      "name": "masterdeck_enhancecards",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_enhancecards.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-708aabdfe2bed8b2/book.md"
+    },
+    {
+      "id": "src-953ac0e7f797fcaa",
+      "name": "masterdeck_pic_cards",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_pic_cards.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-953ac0e7f797fcaa/book.md"
+    },
+    {
+      "id": "src-972e00ba63690eda",
+      "name": "masterdeck_subplotcards",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_subplotcards.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-972e00ba63690eda/book.md"
+    },
+    {
+      "id": "src-9ea7f05159ee6dbf",
+      "name": "success_chart",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/success_chart.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9ea7f05159ee6dbf/book.md"
+    },
+    {
+      "id": "src-ee62e4935cfd8f14",
+      "name": "3wa_weapons_line",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/3wa_weapons_line.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ee62e4935cfd8f14/book.md"
+    },
+    {
+      "id": "src-14046de49f88e437",
+      "name": "SWDWMisc",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/SWDWMisc.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-14046de49f88e437/book.md"
+    },
+    {
+      "id": "src-0859227413d72ddd",
+      "name": "SWDragon",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/SWDragon.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0859227413d72ddd/book.md"
+    },
+    {
+      "id": "src-578aa8b4b41a4b96",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/_._.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/homepage.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-578aa8b4b41a4b96/book.md"
+    },
+    {
+      "id": "src-1aa1f8ebdc4be24d",
+      "name": "timeline",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/timeline.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1aa1f8ebdc4be24d/book.md"
+    },
+    {
+      "id": "src-ac35f66077b9b47c",
+      "name": "tresidiss",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/tresidiss.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ac35f66077b9b47c/book.md"
+    },
+    {
+      "id": "src-26e7babedfb46e38",
+      "name": "DSBinaros",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSBinaros.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-26e7babedfb46e38/book.md"
+    },
+    {
+      "id": "src-588ddc84aa3dd64d",
+      "name": "DSCalendar",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCalendar.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCalendar.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-588ddc84aa3dd64d/book.md"
+    },
+    {
+      "id": "src-e488bdb10d280be2",
+      "name": "DSCast",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCast.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e488bdb10d280be2/book.md"
+    },
+    {
+      "id": "src-4e764c6d3a468736",
+      "name": "DSChillweaver",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSChillweaver.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4e764c6d3a468736/book.md"
+    },
+    {
+      "id": "src-419beac1108168d3",
+      "name": "DSCounterAttack",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCounterAttack.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-419beac1108168d3/book.md"
+    },
+    {
+      "id": "src-54cc1908205e969c",
+      "name": "DSCure",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSCure.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-54cc1908205e969c/book.md"
+    },
+    {
+      "id": "src-ecf4d9caed8b4277",
+      "name": "DSDarksideofEx",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSDarksideofEx.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ecf4d9caed8b4277/book.md"
+    },
+    {
+      "id": "src-a4d32e2f9cedf8e7",
+      "name": "DSDownloads",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSDownloads.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDownloads.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a4d32e2f9cedf8e7/book.md"
+    },
+    {
+      "id": "src-1053139ac74cc52f",
+      "name": "DSEdgeofTheGalaxyThe Battle",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeofTheGalaxyThe Battle.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1053139ac74cc52f/book.md"
+    },
+    {
+      "id": "src-9d64980fe022c94e",
+      "name": "DSEdgeofTheGalaxyThe Rock",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeofTheGalaxyThe Rock.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9d64980fe022c94e/book.md"
+    },
+    {
+      "id": "src-156c55b6a1e1cb80",
+      "name": "DSEdgeofTheGalaxyThe Ruins",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeofTheGalaxyThe Ruins.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-156c55b6a1e1cb80/book.md"
+    },
+    {
+      "id": "src-6582133116587e17",
+      "name": "DSEdgeoftheGalaxy",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEdgeoftheGalaxy.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6582133116587e17/book.md"
+    },
+    {
+      "id": "src-0cbe9aa077ab37c0",
+      "name": "DSEndGame",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEndGame.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0cbe9aa077ab37c0/book.md"
+    },
+    {
+      "id": "src-3df195ca40adf500",
+      "name": "DSEndGameAsunder",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEndGameAsunder.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3df195ca40adf500/book.md"
+    },
+    {
+      "id": "src-fdcfd70d82a8d45d",
+      "name": "DSEndGameBattle",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSEndGameBattle.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-fdcfd70d82a8d45d/book.md"
+    },
+    {
+      "id": "src-3ec42f7c8e51d244",
+      "name": "DSExocron",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSExocron.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3ec42f7c8e51d244/book.md"
+    },
+    {
+      "id": "src-fcbe49a1351c92e7",
+      "name": "DSExocronEpilogue",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSExocronEpilogue.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-fcbe49a1351c92e7/book.md"
+    },
+    {
+      "id": "src-8aa5e8e643a89198",
+      "name": "DSFinalGMNotes",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSFinalGMNotes.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSFinalGMNotes.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8aa5e8e643a89198/book.md"
+    },
+    {
+      "id": "src-bdda9943f6caf716",
+      "name": "DSGaltea",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSGaltea.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-bdda9943f6caf716/book.md"
+    },
+    {
+      "id": "src-f0a7dff5b30ad92e",
+      "name": "DSHarmsWay",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHarmsWay.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f0a7dff5b30ad92e/book.md"
+    },
+    {
+      "id": "src-f215a9e732c96088",
+      "name": "DSHome",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHome.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f215a9e732c96088/book.md"
+    },
+    {
+      "id": "src-d8d7529ddcb9d31b",
+      "name": "DSHomeConfess",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHomeConfess.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHOMECO.HTM"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d8d7529ddcb9d31b/book.md"
+    },
+    {
+      "id": "src-52fb0ff7cdf60f22",
+      "name": "DSHomeShowdown",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSHomeShowdown.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHOMESH.HTM"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-52fb0ff7cdf60f22/book.md"
+    },
+    {
+      "id": "src-badebd9da6e503b0",
+      "name": "DSKatholRepublic",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSKatholRepublic.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-badebd9da6e503b0/book.md"
+    },
+    {
+      "id": "src-1589a23d23d3e88b",
+      "name": "DSMoonsofEx",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSMoonsofEx.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1589a23d23d3e88b/book.md"
+    },
+    {
+      "id": "src-8f5bb1727f2b80f9",
+      "name": "DSMutiny",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSMutiny.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8f5bb1727f2b80f9/book.md"
+    },
+    {
+      "id": "src-a1585b5dcaf92111",
+      "name": "DSNightTerrors",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSNightTerrors.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSNightTerrors.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a1585b5dcaf92111/book.md"
+    },
+    {
+      "id": "src-f6542b70c99a07ef",
+      "name": "DSPembric2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSPembric2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f6542b70c99a07ef/book.md"
+    },
+    {
+      "id": "src-e60a73185b639d0a",
+      "name": "DSQuestOnShantuun",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSQuestOnShantuun.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e60a73185b639d0a/book.md"
+    },
+    {
+      "id": "src-968f583d4e67c7dd",
+      "name": "DSReturntoAaris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSReturntoAaris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-968f583d4e67c7dd/book.md"
+    },
+    {
+      "id": "src-ef64f49dc2ccf3fd",
+      "name": "DSSanctuary",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSanctuary.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ef64f49dc2ccf3fd/book.md"
+    },
+    {
+      "id": "src-75fec7f88869d840",
+      "name": "DSSapella",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSapella.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-75fec7f88869d840/book.md"
+    },
+    {
+      "id": "src-211601cc2c82b5a3",
+      "name": "DSSapella2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSapella2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-211601cc2c82b5a3/book.md"
+    },
+    {
+      "id": "src-e73856b5254fc17a",
+      "name": "DSSebiris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSebiris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e73856b5254fc17a/book.md"
+    },
+    {
+      "id": "src-75cfa5b575f9aedf",
+      "name": "DSShintel",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSShintel.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-75cfa5b575f9aedf/book.md"
+    },
+    {
+      "id": "src-c8899243e70f57ba",
+      "name": "DSSleeper",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSSleeper.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c8899243e70f57ba/book.md"
+    },
+    {
+      "id": "src-f7d4abd53dcc850e",
+      "name": "DSStarfall",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSStarfall.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f7d4abd53dcc850e/book.md"
+    },
+    {
+      "id": "src-4bf1622ff2b5852d",
+      "name": "DSTanquilla",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTanquilla.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4bf1622ff2b5852d/book.md"
+    },
+    {
+      "id": "src-0cdae98455301044",
+      "name": "DSTheArtifactsofAaris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTheArtifactsofAaris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0cdae98455301044/book.md"
+    },
+    {
+      "id": "src-34741bd869b41134",
+      "name": "DSTheNobleStar",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTheNobleStar.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-34741bd869b41134/book.md"
+    },
+    {
+      "id": "src-27d0920d6a44fa77",
+      "name": "DSTheSmeltingStationsofTorize",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTheSmeltingStationsofTorize.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-27d0920d6a44fa77/book.md"
+    },
+    {
+      "id": "src-78f65060d8ca480e",
+      "name": "DSVirusOfQek",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSVirusOfQek.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-78f65060d8ca480e/book.md"
+    },
+    {
+      "id": "src-1887e42c48fa5342",
+      "name": "DSWayStation",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSWayStation.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1887e42c48fa5342/book.md"
+    },
+    {
+      "id": "src-eca095f2d4be7235",
+      "name": "DSWhere",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSWhere.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-eca095f2d4be7235/book.md"
+    },
+    {
+      "id": "src-5705d71b8216d40b",
+      "name": "DSastro",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSastro.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSastro.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5705d71b8216d40b/book.md"
+    },
+    {
+      "id": "src-56a1119bab7c0eda",
+      "name": "DSastromap",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSastromap.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-56a1119bab7c0eda/book.md"
+    },
+    {
+      "id": "src-1c09f569daeff013",
+      "name": "DScaplog",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DScaplog.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DScaplog.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1c09f569daeff013/book.md"
+    },
+    {
+      "id": "src-05a52c6e6316a5b8",
+      "name": "DSdossier",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSdossier.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-05a52c6e6316a5b8/book.md"
+    },
+    {
+      "id": "src-21241c801f05fd1c",
+      "name": "DSintel",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSintel.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSintel.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-21241c801f05fd1c/book.md"
+    },
+    {
+      "id": "src-47ccbf3e6b85af14",
+      "name": "DSmissionObjectives",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSmissionObjectives.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSmissionObjectives.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-47ccbf3e6b85af14/book.md"
+    },
+    {
+      "id": "src-c0b98f2313946655",
+      "name": "DSomens",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSomens.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c0b98f2313946655/book.md"
+    },
+    {
+      "id": "src-e716f41dde8b8bb6",
+      "name": "DSplayer",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSplayer.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSplayer.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e716f41dde8b8bb6/book.md"
+    },
+    {
+      "id": "src-109fd54406feba98",
+      "name": "DSsoitbegins",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSsoitbegins.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-109fd54406feba98/book.md"
+    },
+    {
+      "id": "src-c08d1872276a8bbc",
+      "name": "DStimeline",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DStimeline.htm"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTIMELI.HTM"
+        },
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/DStimeline.htm"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c08d1872276a8bbc/book.md"
+    },
+    {
+      "id": "src-e9630e4a229097dc",
+      "name": "DSuukaablis",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSuukaablis.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e9630e4a229097dc/book.md"
+    },
+    {
+      "id": "src-6c8801a3b0aae2f5",
+      "name": "DSuukaablisEpilogue",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSuukaablisEpilogue.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6c8801a3b0aae2f5/book.md"
+    },
+    {
+      "id": "src-7f88999ae61fc12d",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/_._.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/_._.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7f88999ae61fc12d/book.md"
+    },
+    {
+      "id": "src-361e951e43a6b93a",
+      "name": "homepage",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/homepage.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/ds/homepage.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-361e951e43a6b93a/book.md"
+    },
+    {
+      "id": "src-e98db2c4012c074e",
+      "name": "Quest on Shantuun",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "runtime",
+        "path": "imports/archives/68fe1aabff202e6c89edbf0989b3a8be3addb6ef01f18e8773cb11caddbee657/Quest on Shantuun.doc"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/shantuun/Quest on Shantuun.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e98db2c4012c074e/book.md"
+    },
+    {
+      "id": "src-812ccff03650d210",
+      "name": "Starfall",
+      "format": "doc",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "runtime",
+        "path": "imports/archives/5d7ce11d0f300581563306dac9a9d8b7333919aa96c841ade6987718f12159db/Starfall.doc"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/starfall/Starfall.doc"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-812ccff03650d210/book.md"
+    },
+    {
+      "id": "src-30f58f0093f76ec8",
+      "name": "duskwalk",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/duskwalk.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-30f58f0093f76ec8/book.md"
+    },
+    {
+      "id": "src-9c27b3ea9c8c3e13",
+      "name": "encumbrance",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/encumbrance.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9c27b3ea9c8c3e13/book.md"
+    },
+    {
+      "id": "src-bc5bc6f21e92c1f0",
+      "name": "campaign_maps",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/farorbit/campaign_maps.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-bc5bc6f21e92c1f0/book.md"
+    },
+    {
+      "id": "src-2c556ae6031860e1",
+      "name": "files",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/files.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2c556ae6031860e1/book.md"
+    },
+    {
+      "id": "src-75914a1f796d9762",
+      "name": "homepage",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/homepage.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Site2/homepage.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-75914a1f796d9762/book.md"
+    },
+    {
+      "id": "src-a60e9e17b249d1f4",
+      "name": "rules",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/rules.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a60e9e17b249d1f4/book.md"
+    },
+    {
+      "id": "src-b1529738aa9e2f54",
+      "name": "ruleupgrade",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/ruleupgrade.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b1529738aa9e2f54/book.md"
+    },
+    {
+      "id": "src-dac4369f7cde557f",
+      "name": "screamer",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/screamer.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-dac4369f7cde557f/book.md"
+    },
+    {
+      "id": "src-dcaeecc2f442f2f7",
+      "name": "DRALASITES",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/DRALASITES.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-dcaeecc2f442f2f7/book.md"
+    },
+    {
+      "id": "src-370c0a751feaf214",
+      "name": "SATHAR",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/SATHAR.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-370c0a751feaf214/book.md"
+    },
+    {
+      "id": "src-746dcbb004c0dbb2",
+      "name": "VRUSK",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/VRUSK.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-746dcbb004c0dbb2/book.md"
+    },
+    {
+      "id": "src-1ccc9f08692d862e",
+      "name": "YAZIRIANS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/YAZIRIANS.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1ccc9f08692d862e/book.md"
+    },
+    {
+      "id": "src-2cac241d0a7e9b53",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/_._.html"
+      },
+      "copies": [
+        {
+          "root": "drive",
+          "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/homepage.html"
+        }
+      ],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2cac241d0a7e9b53/book.md"
+    },
+    {
+      "id": "src-0466373ccf8b25d0",
+      "name": "sfBodyComps",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/sfBodyComps.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0466373ccf8b25d0/book.md"
+    },
+    {
+      "id": "src-6efa487839fa3db0",
+      "name": "sfCAS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/sfCAS.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6efa487839fa3db0/book.md"
+    },
+    {
+      "id": "src-32a441af70fed0cf",
+      "name": "source",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/source.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-32a441af70fed0cf/book.md"
+    },
+    {
+      "id": "src-edc404929040c2a9",
+      "name": "starwolv",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/starwolv.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-edc404929040c2a9/book.md"
+    },
+    {
+      "id": "src-5bef193e1f97458e",
+      "name": "sw",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/sw.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5bef193e1f97458e/book.md"
+    },
+    {
+      "id": "src-c80df57064a5edbc",
+      "name": "swcasters",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/swcasters.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c80df57064a5edbc/book.md"
+    },
+    {
+      "id": "src-274fa06102d66c74",
+      "name": "swlink",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/swlink.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-274fa06102d66c74/book.md"
+    },
+    {
+      "id": "src-09227ee16ee793d2",
+      "name": "swnewtech",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/swnewtech.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-09227ee16ee793d2/book.md"
+    },
+    {
+      "id": "src-0a0d4c744669aa16",
+      "name": "thermaldet",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/thermaldet.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0a0d4c744669aa16/book.md"
+    },
+    {
+      "id": "src-65a5bf99c8f40ca4",
+      "name": "weg_erratta1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/weg_erratta1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-65a5bf99c8f40ca4/book.md"
+    },
+    {
+      "id": "src-537aef73cdeb4847",
+      "name": "weg_erratta2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/weg_erratta2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-537aef73cdeb4847/book.md"
+    },
+    {
+      "id": "src-8336ee1e6ee5d3dc",
+      "name": "writers",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Sea/sw/writers.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8336ee1e6ee5d3dc/book.md"
+    },
+    {
+      "id": "src-1639e40958099e9d",
+      "name": "Akanseh",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Akanseh.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1639e40958099e9d/book.md"
+    },
+    {
+      "id": "src-1eeeb7fb1250c01f",
+      "name": "BONGO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/BONGO.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1eeeb7fb1250c01f/book.md"
+    },
+    {
+      "id": "src-65bb8f74870818d2",
+      "name": "BOTHANS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/BOTHANS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-65bb8f74870818d2/book.md"
+    },
+    {
+      "id": "src-a673213b25c1e216",
+      "name": "BRIDGE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/BRIDGE.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a673213b25c1e216/book.md"
+    },
+    {
+      "id": "src-d21b2ed175172f7b",
+      "name": "CIRO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/CIRO.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d21b2ed175172f7b/book.md"
+    },
+    {
+      "id": "src-19ce46f7705859b0",
+      "name": "CREDITS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/CREDITS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-19ce46f7705859b0/book.md"
+    },
+    {
+      "id": "src-25017bfe3dc3fd7b",
+      "name": "DAJUS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/DAJUS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-25017bfe3dc3fd7b/book.md"
+    },
+    {
+      "id": "src-ed47c4b13dbd2c02",
+      "name": "DEFANO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/DEFANO.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ed47c4b13dbd2c02/book.md"
+    },
+    {
+      "id": "src-369fe7f34370fa13",
+      "name": "Dsq3",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Dsq3.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-369fe7f34370fa13/book.md"
+    },
+    {
+      "id": "src-ed3a7f2e57e3bfac",
+      "name": "Gorak",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Gorak.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ed3a7f2e57e3bfac/book.md"
+    },
+    {
+      "id": "src-ec7d7f125613ec03",
+      "name": "Hydan",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Hydan.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ec7d7f125613ec03/book.md"
+    },
+    {
+      "id": "src-5dea6baa691454d2",
+      "name": "lsimage",
+      "format": "txt",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Images/lsimage.txt"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5dea6baa691454d2/book.md"
+    },
+    {
+      "id": "src-3e0b3f26f10c3797",
+      "name": "Jerrell",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/Jerrell.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3e0b3f26f10c3797/book.md"
+    },
+    {
+      "id": "src-94559a0e517e2389",
+      "name": "KLAAL",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/KLAAL.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-94559a0e517e2389/book.md"
+    },
+    {
+      "id": "src-6f1678a99120055c",
+      "name": "LEFT",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/LEFT.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6f1678a99120055c/book.md"
+    },
+    {
+      "id": "src-864aafe45ba0bb0e",
+      "name": "LINKS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/LINKS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-864aafe45ba0bb0e/book.md"
+    },
+    {
+      "id": "src-76c479cc5ed7f19a",
+      "name": "LOG",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/LOG.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-76c479cc5ed7f19a/book.md"
+    },
+    {
+      "id": "src-32474003dd001b3e",
+      "name": "LOHKHAR",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/LOHKHAR.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-32474003dd001b3e/book.md"
+    },
+    {
+      "id": "src-8f351adc4f009592",
+      "name": "MAKEZH",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/MAKEZH.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8f351adc4f009592/book.md"
+    },
+    {
+      "id": "src-790856ac833af82e",
+      "name": "OUTR",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/OUTR.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-790856ac833af82e/book.md"
+    },
+    {
+      "id": "src-30d68a93a2fd4b8b",
+      "name": "REPORTS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/REPORTS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-30d68a93a2fd4b8b/book.md"
+    },
+    {
+      "id": "src-cec139d05c6ed9a0",
+      "name": "SEASON1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/SEASON1.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-cec139d05c6ed9a0/book.md"
+    },
+    {
+      "id": "src-2bdcba7ba5e6ec5e",
+      "name": "SEASON2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/SEASON2.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2bdcba7ba5e6ec5e/book.md"
+    },
+    {
+      "id": "src-b6165ee47e73a22e",
+      "name": "SEASON3",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/SEASON3.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b6165ee47e73a22e/book.md"
+    },
+    {
+      "id": "src-ebd16677800480b5",
+      "name": "SEW MY HAND",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/SEW MY HAND.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ebd16677800480b5/book.md"
+    },
+    {
+      "id": "src-48721c6ec06cccc7",
+      "name": "TAMARA",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/TAMARA.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-48721c6ec06cccc7/book.md"
+    },
+    {
+      "id": "src-2f93c042f6a8fb72",
+      "name": "THYTE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/THYTE.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2f93c042f6a8fb72/book.md"
+    },
+    {
+      "id": "src-088e79f3f68b63e7",
+      "name": "TIST",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/TIST.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-088e79f3f68b63e7/book.md"
+    },
+    {
+      "id": "src-5ddd7936e6477e3c",
+      "name": "VALLENS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/VALLENS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5ddd7936e6477e3c/book.md"
+    },
+    {
+      "id": "src-9aa4674351e8f5d2",
+      "name": "ZUCKUSS",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/ZUCKUSS.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9aa4674351e8f5d2/book.md"
+    },
+    {
+      "id": "src-8266c8c0ffa026e8",
+      "name": "adrimetrum",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/adrimetrum.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8266c8c0ffa026e8/book.md"
+    },
+    {
+      "id": "src-65c3146cba3ba5c2",
+      "name": "brophar",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/brophar.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-65c3146cba3ba5c2/book.md"
+    },
+    {
+      "id": "src-4583956926ffc50e",
+      "name": "darkstryder_episodeguide",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/darkstryder_episodeguide.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4583956926ffc50e/book.md"
+    },
+    {
+      "id": "src-f2a383127c499614",
+      "name": "drake",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/drake.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f2a383127c499614/book.md"
+    },
+    {
+      "id": "src-9792df0a974d8e61",
+      "name": "dsincident",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/dsincident.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9792df0a974d8e61/book.md"
+    },
+    {
+      "id": "src-ec3ac55a0a107e0b",
+      "name": "dsquotes1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/dsquotes1.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ec3ac55a0a107e0b/book.md"
+    },
+    {
+      "id": "src-2f08506e2f75d23e",
+      "name": "dsquotes2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/dsquotes2.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2f08506e2f75d23e/book.md"
+    },
+    {
+      "id": "src-f5d4a3c2972c73e3",
+      "name": "dstime",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/dstime.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f5d4a3c2972c73e3/book.md"
+    },
+    {
+      "id": "src-1d50b09e60beb28f",
+      "name": "gorak_logs",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/gorak_logs.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1d50b09e60beb28f/book.md"
+    },
+    {
+      "id": "src-b46767b639d4fcac",
+      "name": "gorjaye",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/gorjaye.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b46767b639d4fcac/book.md"
+    },
+    {
+      "id": "src-2ca72c76950524d5",
+      "name": "intro",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/intro.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2ca72c76950524d5/book.md"
+    },
+    {
+      "id": "src-11236a714716d512",
+      "name": "katholresurrect",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/katholresurrect.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-11236a714716d512/book.md"
+    },
+    {
+      "id": "src-87119184969a71d1",
+      "name": "lestar",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/lestar.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-87119184969a71d1/book.md"
+    },
+    {
+      "id": "src-0c31a3d4a9369c20",
+      "name": "lifarstar",
+      "format": "txt",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/lifarstar.txt"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0c31a3d4a9369c20/book.md"
+    },
+    {
+      "id": "src-a6d786ba9d692ca9",
+      "name": "lofryyhn",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/lofryyhn.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a6d786ba9d692ca9/book.md"
+    },
+    {
+      "id": "src-9bda319263a046d3",
+      "name": "lopak",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/lopak.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9bda319263a046d3/book.md"
+    },
+    {
+      "id": "src-17b355370e632bb5",
+      "name": "personnel",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/personnel.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-17b355370e632bb5/book.md"
+    },
+    {
+      "id": "src-cce37250afbdd726",
+      "name": "recorder",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/recorder.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-cce37250afbdd726/book.md"
+    },
+    {
+      "id": "src-4aab110697d2c68e",
+      "name": "resur",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/resur.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4aab110697d2c68e/book.md"
+    },
+    {
+      "id": "src-d9228b390eada0e8",
+      "name": "resurrection_epguide",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/resurrection_epguide.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d9228b390eada0e8/book.md"
+    },
+    {
+      "id": "src-33727e9a905a3993",
+      "name": "resurrquotes",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/resurrquotes.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-33727e9a905a3993/book.md"
+    },
+    {
+      "id": "src-829012852c5fa02f",
+      "name": "rodian_rhapsody",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/rodian_rhapsody.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-829012852c5fa02f/book.md"
+    },
+    {
+      "id": "src-3f488e139e9861ca",
+      "name": "starlines1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/starlines1.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3f488e139e9861ca/book.md"
+    },
+    {
+      "id": "src-a10bcb7105e73ce3",
+      "name": "starlines2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/starlines2.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a10bcb7105e73ce3/book.md"
+    },
+    {
+      "id": "src-f1644992a18c595a",
+      "name": "starlines3",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site/starlines3.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f1644992a18c595a/book.md"
+    },
+    {
+      "id": "src-eab5458933511cd5",
+      "name": "_._",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/_._.html"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-eab5458933511cd5/book.md"
+    },
+    {
+      "id": "src-6cbb705335682e76",
+      "name": "DSBINARO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSBINARO.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-6cbb705335682e76/book.md"
+    },
+    {
+      "id": "src-0a64a59c846afb51",
+      "name": "DSBinaros",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSBinaros.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0a64a59c846afb51/book.md"
+    },
+    {
+      "id": "src-9bb6c4e9bb6027e0",
+      "name": "DSCHILLW",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCHILLW.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9bb6c4e9bb6027e0/book.md"
+    },
+    {
+      "id": "src-3cfd96ca183fedc1",
+      "name": "DSCOUNTE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCOUNTE.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3cfd96ca183fedc1/book.md"
+    },
+    {
+      "id": "src-0263e5ee485ae4e4",
+      "name": "DSCast",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCast.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0263e5ee485ae4e4/book.md"
+    },
+    {
+      "id": "src-c85cb0ffa8276ca8",
+      "name": "DSChillweaver",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSChillweaver.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c85cb0ffa8276ca8/book.md"
+    },
+    {
+      "id": "src-afb8ee2a6ac06663",
+      "name": "DSCounterAttack",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCounterAttack.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-afb8ee2a6ac06663/book.md"
+    },
+    {
+      "id": "src-9aadde2c5e8caf28",
+      "name": "DSCure",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSCure.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9aadde2c5e8caf28/book.md"
+    },
+    {
+      "id": "src-7ae67d0db27cf305",
+      "name": "DSDARKSI",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDARKSI.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7ae67d0db27cf305/book.md"
+    },
+    {
+      "id": "src-d1bfd8defd9cca0a",
+      "name": "DSDOSSIE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDOSSIE.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d1bfd8defd9cca0a/book.md"
+    },
+    {
+      "id": "src-d6f26f6c4c335f15",
+      "name": "DSDarksideofEx",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSDarksideofEx.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d6f26f6c4c335f15/book.md"
+    },
+    {
+      "id": "src-9e164097faad51c9",
+      "name": "DSEDGEOF",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEDGEOF.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9e164097faad51c9/book.md"
+    },
+    {
+      "id": "src-23beb5d328c11166",
+      "name": "DSENDGAM",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSENDGAM.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-23beb5d328c11166/book.md"
+    },
+    {
+      "id": "src-401391cda5920fa9",
+      "name": "DSEXOCRO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEXOCRO.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-401391cda5920fa9/book.md"
+    },
+    {
+      "id": "src-ab2efe692f05baed",
+      "name": "DSEdgeofTheGalaxyThe Battle",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEdgeofTheGalaxyThe Battle.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ab2efe692f05baed/book.md"
+    },
+    {
+      "id": "src-bd4b67fc63dd1fd7",
+      "name": "DSEdgeofTheGalaxyThe Rock",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEdgeofTheGalaxyThe Rock.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-bd4b67fc63dd1fd7/book.md"
+    },
+    {
+      "id": "src-195f1ea144df2be4",
+      "name": "DSEdgeofTheGalaxyThe Ruins",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEdgeofTheGalaxyThe Ruins.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-195f1ea144df2be4/book.md"
+    },
+    {
+      "id": "src-dc735681d2f54b66",
+      "name": "DSEdgeoftheGalaxy",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEdgeoftheGalaxy.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-dc735681d2f54b66/book.md"
+    },
+    {
+      "id": "src-ec03719e4f4e1058",
+      "name": "DSEndGame",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEndGame.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ec03719e4f4e1058/book.md"
+    },
+    {
+      "id": "src-f8884f3b57433aa6",
+      "name": "DSEndGameAsunder",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEndGameAsunder.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f8884f3b57433aa6/book.md"
+    },
+    {
+      "id": "src-e82148b851e0a8cf",
+      "name": "DSEndGameBattle",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSEndGameBattle.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e82148b851e0a8cf/book.md"
+    },
+    {
+      "id": "src-78736da822157907",
+      "name": "DSExocron",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSExocron.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-78736da822157907/book.md"
+    },
+    {
+      "id": "src-255daa148b19584e",
+      "name": "DSExocronEpilogue",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSExocronEpilogue.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-255daa148b19584e/book.md"
+    },
+    {
+      "id": "src-0105f1a212155747",
+      "name": "DSGaltea",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSGaltea.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0105f1a212155747/book.md"
+    },
+    {
+      "id": "src-55248bbfc0cde39b",
+      "name": "DSHARMSW",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHARMSW.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-55248bbfc0cde39b/book.md"
+    },
+    {
+      "id": "src-8d7f85ce057e8a59",
+      "name": "DSHarmsWay",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHarmsWay.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8d7f85ce057e8a59/book.md"
+    },
+    {
+      "id": "src-624d20a9e4d5c4cb",
+      "name": "DSHome",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHome.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-624d20a9e4d5c4cb/book.md"
+    },
+    {
+      "id": "src-eda4e43dfa0ed08c",
+      "name": "DSHomeConfess",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHomeConfess.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-eda4e43dfa0ed08c/book.md"
+    },
+    {
+      "id": "src-e27b387dce337978",
+      "name": "DSHomeShowdown",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSHomeShowdown.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e27b387dce337978/book.md"
+    },
+    {
+      "id": "src-3e2dde5691f2234a",
+      "name": "DSINT10",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT10.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3e2dde5691f2234a/book.md"
+    },
+    {
+      "id": "src-cac2dc3537b29378",
+      "name": "DSINT11",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT11.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-cac2dc3537b29378/book.md"
+    },
+    {
+      "id": "src-91e0756f64ac9c09",
+      "name": "DSINT12",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT12.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-91e0756f64ac9c09/book.md"
+    },
+    {
+      "id": "src-aa33040c833d0167",
+      "name": "DSINT13",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT13.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-aa33040c833d0167/book.md"
+    },
+    {
+      "id": "src-241b38e7d42ffbbf",
+      "name": "DSINT14",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT14.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-241b38e7d42ffbbf/book.md"
+    },
+    {
+      "id": "src-48ae72707420bca8",
+      "name": "DSINT15",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT15.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-48ae72707420bca8/book.md"
+    },
+    {
+      "id": "src-b22eeaad0d3f185c",
+      "name": "DSINT16",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT16.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-b22eeaad0d3f185c/book.md"
+    },
+    {
+      "id": "src-e1e8be19fe6bc869",
+      "name": "DSINTEL1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL1.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e1e8be19fe6bc869/book.md"
+    },
+    {
+      "id": "src-bb9d29014963fd4d",
+      "name": "DSINTEL2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL2.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-bb9d29014963fd4d/book.md"
+    },
+    {
+      "id": "src-4e0a5696c0dd0483",
+      "name": "DSINTEL3",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL3.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4e0a5696c0dd0483/book.md"
+    },
+    {
+      "id": "src-78a5391e8324ce39",
+      "name": "DSINTEL4",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL4.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-78a5391e8324ce39/book.md"
+    },
+    {
+      "id": "src-ae416dadfc19c123",
+      "name": "DSINTEL5",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL5.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ae416dadfc19c123/book.md"
+    },
+    {
+      "id": "src-d6f00da9c9c9478c",
+      "name": "DSINTEL6",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL6.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d6f00da9c9c9478c/book.md"
+    },
+    {
+      "id": "src-530704e37a7b23f8",
+      "name": "DSINTEL7",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL7.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-530704e37a7b23f8/book.md"
+    },
+    {
+      "id": "src-7871d51c9abe3a01",
+      "name": "DSINTEL8",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL8.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-7871d51c9abe3a01/book.md"
+    },
+    {
+      "id": "src-e3c05ee81e499e72",
+      "name": "DSINTEL9",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINTEL9.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e3c05ee81e499e72/book.md"
+    },
+    {
+      "id": "src-ca0f253f71639ac8",
+      "name": "DSKATHOL",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSKATHOL.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ca0f253f71639ac8/book.md"
+    },
+    {
+      "id": "src-55ea2ab9c98eb052",
+      "name": "DSKatholRepublic",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSKatholRepublic.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-55ea2ab9c98eb052/book.md"
+    },
+    {
+      "id": "src-1e1f957d58669cff",
+      "name": "DSMOONSO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSMOONSO.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1e1f957d58669cff/book.md"
+    },
+    {
+      "id": "src-47aedc19802daf81",
+      "name": "DSMoonsofEx",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSMoonsofEx.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-47aedc19802daf81/book.md"
+    },
+    {
+      "id": "src-302b0614fa38ef75",
+      "name": "DSMutiny",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSMutiny.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-302b0614fa38ef75/book.md"
+    },
+    {
+      "id": "src-930094ed93deef97",
+      "name": "DSNIGHTT",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSNIGHTT.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-930094ed93deef97/book.md"
+    },
+    {
+      "id": "src-fa51d0cd1363b729",
+      "name": "DSPEMBRI",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSPEMBRI.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-fa51d0cd1363b729/book.md"
+    },
+    {
+      "id": "src-9979d852defea00a",
+      "name": "DSPembric2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSPembric2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9979d852defea00a/book.md"
+    },
+    {
+      "id": "src-a6542f64db5bb287",
+      "name": "DSQUESTO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSQUESTO.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-a6542f64db5bb287/book.md"
+    },
+    {
+      "id": "src-71afc047522e94ad",
+      "name": "DSQuestOnShantuun",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSQuestOnShantuun.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-71afc047522e94ad/book.md"
+    },
+    {
+      "id": "src-729ea6cc38909e2a",
+      "name": "DSRETURN",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSRETURN.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-729ea6cc38909e2a/book.md"
+    },
+    {
+      "id": "src-755d88f6c83777d6",
+      "name": "DSReturntoAaris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSReturntoAaris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-755d88f6c83777d6/book.md"
+    },
+    {
+      "id": "src-cf80fc25a45d1e3b",
+      "name": "DSSANCTU",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSANCTU.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-cf80fc25a45d1e3b/book.md"
+    },
+    {
+      "id": "src-932f3f73ea271215",
+      "name": "DSSAPELL",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSAPELL.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-932f3f73ea271215/book.md"
+    },
+    {
+      "id": "src-f2060a01b919851a",
+      "name": "DSSEBIRI",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSEBIRI.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f2060a01b919851a/book.md"
+    },
+    {
+      "id": "src-4a054842d28d9b39",
+      "name": "DSSHINTE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSHINTE.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4a054842d28d9b39/book.md"
+    },
+    {
+      "id": "src-4845f55d33e8500e",
+      "name": "DSSLEEPE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSLEEPE.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4845f55d33e8500e/book.md"
+    },
+    {
+      "id": "src-1cc8cdb4d5ca8d85",
+      "name": "DSSOITBE",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSOITBE.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-1cc8cdb4d5ca8d85/book.md"
+    },
+    {
+      "id": "src-e556391a87dc48e2",
+      "name": "DSSTARFA",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSTARFA.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e556391a87dc48e2/book.md"
+    },
+    {
+      "id": "src-9c8705c494003e6b",
+      "name": "DSSanctuary",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSanctuary.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9c8705c494003e6b/book.md"
+    },
+    {
+      "id": "src-74b5c0b706df5f09",
+      "name": "DSSapella",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSapella.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-74b5c0b706df5f09/book.md"
+    },
+    {
+      "id": "src-2cfa093fafd470cc",
+      "name": "DSSapella2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSapella2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2cfa093fafd470cc/book.md"
+    },
+    {
+      "id": "src-e9130c942a11e3b5",
+      "name": "DSSebiris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSebiris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e9130c942a11e3b5/book.md"
+    },
+    {
+      "id": "src-8774e73977b1a099",
+      "name": "DSShintel",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSShintel.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-8774e73977b1a099/book.md"
+    },
+    {
+      "id": "src-f3deaf1e6c657e1d",
+      "name": "DSSleeper",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSleeper.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-f3deaf1e6c657e1d/book.md"
+    },
+    {
+      "id": "src-dff8bf10c9e153d1",
+      "name": "DSStarfall",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSStarfall.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-dff8bf10c9e153d1/book.md"
+    },
+    {
+      "id": "src-d2d2739e78aabbfc",
+      "name": "DSTANQUI",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTANQUI.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d2d2739e78aabbfc/book.md"
+    },
+    {
+      "id": "src-e2699e11889bd02d",
+      "name": "DSTHEART",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTHEART.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-e2699e11889bd02d/book.md"
+    },
+    {
+      "id": "src-aa99cfc16516241b",
+      "name": "DSTHENOB",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTHENOB.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-aa99cfc16516241b/book.md"
+    },
+    {
+      "id": "src-89b4da9f212eda06",
+      "name": "DSTHESME",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTHESME.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-89b4da9f212eda06/book.md"
+    },
+    {
+      "id": "src-191b232d9775dec9",
+      "name": "DSTanquilla",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTanquilla.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-191b232d9775dec9/book.md"
+    },
+    {
+      "id": "src-fde1198dc6f60bbb",
+      "name": "DSTheArtifactsofAaris",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTheArtifactsofAaris.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-fde1198dc6f60bbb/book.md"
+    },
+    {
+      "id": "src-882f1295d9a10e34",
+      "name": "DSTheNobleStar",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTheNobleStar.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-882f1295d9a10e34/book.md"
+    },
+    {
+      "id": "src-c4dbceb800c4c8cf",
+      "name": "DSTheSmeltingStationsofTorize",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTheSmeltingStationsofTorize.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c4dbceb800c4c8cf/book.md"
+    },
+    {
+      "id": "src-749a0c5b9d9e3428",
+      "name": "DSUUKAAB",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSUUKAAB.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-749a0c5b9d9e3428/book.md"
+    },
+    {
+      "id": "src-bdb87d9310232540",
+      "name": "DSVIRUSO",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSVIRUSO.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-bdb87d9310232540/book.md"
+    },
+    {
+      "id": "src-3c634203dc2c258c",
+      "name": "DSVirusOfQek",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSVirusOfQek.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-3c634203dc2c258c/book.md"
+    },
+    {
+      "id": "src-c32b4746b1ab44cc",
+      "name": "DSWAYSTA",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWAYSTA.HTM"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c32b4746b1ab44cc/book.md"
+    },
+    {
+      "id": "src-2782dfae280ebb0a",
+      "name": "DSWayStation",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWayStation.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-2782dfae280ebb0a/book.md"
+    },
+    {
+      "id": "src-868544b2f2896e00",
+      "name": "DSWhere",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSWhere.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-868544b2f2896e00/book.md"
+    },
+    {
+      "id": "src-ddd1730637fb0017",
+      "name": "DSastromap",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSastromap.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ddd1730637fb0017/book.md"
+    },
+    {
+      "id": "src-92ff8a2a1293206a",
+      "name": "DSdossier",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSdossier.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-92ff8a2a1293206a/book.md"
+    },
+    {
+      "id": "src-328240f613fe6b94",
+      "name": "DSomens",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSomens.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-328240f613fe6b94/book.md"
+    },
+    {
+      "id": "src-04694f4dde90f52e",
+      "name": "DSsoitbegins",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSsoitbegins.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-04694f4dde90f52e/book.md"
+    },
+    {
+      "id": "src-d9c220bb91f9df51",
+      "name": "DSuukaablis",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSuukaablis.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-d9c220bb91f9df51/book.md"
+    },
+    {
+      "id": "src-df161e17c505eac1",
+      "name": "DSuukaablisEpilogue",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSuukaablisEpilogue.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-df161e17c505eac1/book.md"
+    },
+    {
+      "id": "src-5f792ba80bf8e6b9",
+      "name": "Dsedgeof1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsedgeof1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-5f792ba80bf8e6b9/book.md"
+    },
+    {
+      "id": "src-14d5745b1e4911a8",
+      "name": "Dsedgeof2",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsedgeof2.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-14d5745b1e4911a8/book.md"
+    },
+    {
+      "id": "src-0999d0515cb15573",
+      "name": "Dsedgeof3",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsedgeof3.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-0999d0515cb15573/book.md"
+    },
+    {
+      "id": "src-c7f2284f21e3ceaf",
+      "name": "Dsendgam1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsendgam1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c7f2284f21e3ceaf/book.md"
+    },
+    {
+      "id": "src-4d0fbdef5566e276",
+      "name": "Dsexocro1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsexocro1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-4d0fbdef5566e276/book.md"
+    },
+    {
+      "id": "src-9999494000779156",
+      "name": "Dssapell1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dssapell1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9999494000779156/book.md"
+    },
+    {
+      "id": "src-65a213cd3f9d2b53",
+      "name": "Dsuukaab1",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/ds/Dsuukaab1.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-65a213cd3f9d2b53/book.md"
+    },
+    {
+      "id": "src-95704fb53e1ceefb",
+      "name": "files",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/files.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-95704fb53e1ceefb/book.md"
+    },
+    {
+      "id": "src-95c3de1c05f30c71",
+      "name": "liste",
+      "format": "txt",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/liste.txt"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-95c3de1c05f30c71/book.md"
+    },
+    {
+      "id": "src-44840033d4be179b",
+      "name": "source",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/source.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-44840033d4be179b/book.md"
+    },
+    {
+      "id": "src-c82ccf96b7d5a4dc",
+      "name": "starwolv",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/starwolv.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-c82ccf96b7d5a4dc/book.md"
+    },
+    {
+      "id": "src-ce86cd94faf0be9a",
+      "name": "swlink",
+      "format": "html",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/Tier/Site2/swlink.htm"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-ce86cd94faf0be9a/book.md"
+    },
+    {
+      "id": "src-e0e70419b211b127",
+      "name": "darkstryder_astro",
+      "format": "pdf",
+      "collection": "addons",
+      "collections": [
+        "addons"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/DarkStryder Addons/darkstryder_astro.pdf"
+      },
+      "copies": [],
+      "units": 4,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-e0e70419b211b127/book.md"
+    },
+    {
+      "id": "src-b9ae28cfec344815",
+      "name": "2985_Qu-allez_vous_prendre_ce_soir",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/2985_Qu-allez_vous_prendre_ce_soir.pdf"
+      },
+      "copies": [],
+      "units": 11,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-b9ae28cfec344815/book.md"
+    },
+    {
+      "id": "src-ebbb3791e4f8e749",
+      "name": "7536_Contribution_id_7536_Argot_et_expressions_usuelles",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/7536_Contribution_id_7536_Argot_et_expressions_usuelles.pdf"
+      },
+      "copies": [],
+      "units": 2,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-ebbb3791e4f8e749/book.md"
+    },
+    {
+      "id": "src-23f3faa35a20d277",
+      "name": "Star wars Galaxy guide 14 - Dark side",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/Star wars Galaxy guide 14 - Dark side.pdf"
+      },
+      "copies": [],
+      "units": 81,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-23f3faa35a20d277/book.md"
+    },
+    {
+      "id": "src-e137d3f18a42694d",
+      "name": "WEG40027 - Star Wars - Galaxy Guide 6 - Tramp Freighters",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40027 - Star Wars - Galaxy Guide 6 - Tramp Freighters.pdf"
+      },
+      "copies": [],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-e137d3f18a42694d/book.md"
+    },
+    {
+      "id": "src-6e229f14403a08d1",
+      "name": "WEG40041 - Star Wars - Galaxy Guide 4 - Alien Races",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40041 - Star Wars - Galaxy Guide 4 - Alien Races.pdf"
+      },
+      "copies": [],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-6e229f14403a08d1/book.md"
+    },
+    {
+      "id": "src-2aa017b07db3e161",
+      "name": "WEG40061 - Star Wars - Galaxy Guide 8 - Scouts",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40061 - Star Wars - Galaxy Guide 8 - Scouts.pdf"
+      },
+      "copies": [],
+      "units": 96,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-2aa017b07db3e161/book.md"
+    },
+    {
+      "id": "src-b43d31e5b1ea798f",
+      "name": "WEG40063 - Star Wars - Galaxy Guide 9 - Fragments From The Rim (better scan)",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40063 - Star Wars - Galaxy Guide 9 - Fragments From The Rim (better scan).pdf"
+      },
+      "copies": [],
+      "units": 96,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-b43d31e5b1ea798f/book.md"
+    },
+    {
+      "id": "src-7f1b17f77e2a4fd0",
+      "name": "WEG40069 - Star Wars - Galaxy Guide 7 - Mos Eisley",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40069 - Star Wars - Galaxy Guide 7 - Mos Eisley.pdf"
+      },
+      "copies": [],
+      "units": 96,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-7f1b17f77e2a4fd0/book.md"
+    },
+    {
+      "id": "src-857f3f490c68fda3",
+      "name": "WEG40073 - Star Wars - Galaxy Guide 10 - Bounty Hunters",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40073 - Star Wars - Galaxy Guide 10 - Bounty Hunters.pdf"
+      },
+      "copies": [],
+      "units": 127,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-857f3f490c68fda3/book.md"
+    },
+    {
+      "id": "src-3abc812f1c3cd504",
+      "name": "WEG40075 - Star Wars - Galaxy Guide 11 - Criminal Organizations",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40075 - Star Wars - Galaxy Guide 11 - Criminal Organizations.pdf"
+      },
+      "copies": [],
+      "units": 94,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-3abc812f1c3cd504/book.md"
+    },
+    {
+      "id": "src-a7aa339ee37eacfc",
+      "name": "WEG40087 - Star Wars - Galaxy Guide 12 - Aliens, Enemies and Allies",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40087 - Star Wars - Galaxy Guide 12 - Aliens, Enemies and Allies.pdf"
+      },
+      "copies": [],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-a7aa339ee37eacfc/book.md"
+    },
+    {
+      "id": "src-f35805af3ba6d5d5",
+      "name": "WEG40095 - Star Wars - Galaxy Guide 6 - Tramp Freighters",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40095 - Star Wars - Galaxy Guide 6 - Tramp Freighters.pdf"
+      },
+      "copies": [],
+      "units": 97,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-f35805af3ba6d5d5/book.md"
+    },
+    {
+      "id": "src-55ed1f9fc75e4237",
+      "name": "WEG40119 - Star Wars - Galaxy Guide 2 - Yavin and Bespin",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40119 - Star Wars - Galaxy Guide 2 - Yavin and Bespin.pdf"
+      },
+      "copies": [],
+      "units": 96,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-55ed1f9fc75e4237/book.md"
+    },
+    {
+      "id": "src-9924922776fe2cd6",
+      "name": "WEG40124 - Star Wars - Galaxy Guide 1 - A New Hope",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40124 - Star Wars - Galaxy Guide 1 - A New Hope.pdf"
+      },
+      "copies": [],
+      "units": 0,
+      "unitLabel": "page PDF",
+      "status": "skipped",
+      "skipReason": "Galaxy Guide 1 — A New Hope : aucune page détectable, exclu à la demande de l’utilisateur. Original conservé."
+    },
+    {
+      "id": "src-a37b5c46da250724",
+      "name": "WEG40125 - Star Wars - Galaxy Guide 3 - The Empire Strikes Back",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40125 - Star Wars - Galaxy Guide 3 - The Empire Strikes Back.pdf"
+      },
+      "copies": [],
+      "units": 96,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-a37b5c46da250724/book.md"
+    },
+    {
+      "id": "src-7b3625749c3d5887",
+      "name": "WEG40126 - Star Wars - Galaxy Guide 5 - Return of the Jedi",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Galaxy Guide/WEG40126 - Star Wars - Galaxy Guide 5 - Return of the Jedi.pdf"
+      },
+      "copies": [],
+      "units": 97,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-7b3625749c3d5887/book.md"
+    },
+    {
+      "id": "src-6469212ce4f6d450",
+      "name": "Star Wars RPG Statbase_v1.00",
+      "format": "xlsx",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Star Wars RPG Statbase_v1.00.xlsx"
+      },
+      "copies": [],
+      "units": 11,
+      "unitLabel": "feuille",
+      "status": "complete",
+      "markdown": "src-6469212ce4f6d450/book.md"
+    },
+    {
+      "id": "src-f6f3d0468fe4795b",
+      "name": "Star_Wars_-_D6_-_Official_Supplement_-_Gamemaster_Screen_for_Second_Edition_-_WEG40064",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Star_Wars_-_D6_-_Official_Supplement_-_Gamemaster_Screen_for_Second_Edition_-_WEG40064.pdf"
+      },
+      "copies": [],
+      "units": 61,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-f6f3d0468fe4795b/book.md"
+    },
+    {
+      "id": "src-3c7f59bca9bfafeb",
+      "name": "Star_Wars_-_Game_of_the_Name",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/Star_Wars_-_Game_of_the_Name.pdf"
+      },
+      "copies": [],
+      "units": 5,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-3c7f59bca9bfafeb/book.md"
+    },
+    {
+      "id": "src-038ceac1eba80c0a",
+      "name": "The Roleplaying Game Revised Expanded Updated WRP",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/The Roleplaying Game Revised Expanded Updated WRP.pdf"
+      },
+      "copies": [],
+      "units": 512,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-038ceac1eba80c0a/book.md"
+    },
+    {
+      "id": "src-2934de91d1c771d6",
+      "name": "WEG40006 - Star Wars - Imperial Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40006 - Star Wars - Imperial Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 138,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-2934de91d1c771d6/book.md"
+    },
+    {
+      "id": "src-13b156cf43fd4f8a",
+      "name": "WEG40025 - Star Wars  - Galadinium_s Fantastic Technology",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40025 - Star Wars  - Galadinium_s Fantastic Technology.pdf"
+      },
+      "copies": [],
+      "units": 98,
+      "unitLabel": "page PDF",
+      "status": "skipped",
+      "skipReason": "Galadinium’s Fantastic Technology : PDF cassé, exclu à la demande de l’utilisateur. Original conservé."
+    },
+    {
+      "id": "src-e9b214597b8b3bef",
+      "name": "WEG40042 - Star Wars - Han Solo and the Corporate Sector Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40042 - Star Wars - Han Solo and the Corporate Sector Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 144,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-e9b214597b8b3bef/book.md"
+    },
+    {
+      "id": "src-75b06576353b739f",
+      "name": "WEG40059 - Star Wars - The New Republic - The Last Command",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40059 - Star Wars - The New Republic - The Last Command.pdf"
+      },
+      "copies": [],
+      "units": 145,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-75b06576353b739f/book.md"
+    },
+    {
+      "id": "src-2a85af39b8585571",
+      "name": "WEG40067 - Star Wars - The Politics of Contraband",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40067 - Star Wars - The Politics of Contraband.pdf"
+      },
+      "copies": [],
+      "units": 66,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-2a85af39b8585571/book.md"
+    },
+    {
+      "id": "src-c1926eac98ea91bd",
+      "name": "WEG40086 - Star Wars D6 - Heroes _ Rogues",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40086 - Star Wars D6 - Heroes _ Rogues.pdf"
+      },
+      "copies": [],
+      "units": 130,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-c1926eac98ea91bd/book.md"
+    },
+    {
+      "id": "src-1af1e1b994ff3683",
+      "name": "WEG40089 - Star Wars - Special Edition Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40089 - Star Wars - Special Edition Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 0,
+      "unitLabel": "page PDF",
+      "status": "skipped",
+      "skipReason": "Special Edition Sourcebook : aucune page détectable, exclu à la demande de l’utilisateur. Original conservé."
+    },
+    {
+      "id": "src-0e058f6086378f39",
+      "name": "WEG40091 - Star Wars - 2nd Edition Rebel Alliance Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40091 - Star Wars - 2nd Edition Rebel Alliance Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 145,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-0e058f6086378f39/book.md"
+    },
+    {
+      "id": "src-fe71c64cdecc5417",
+      "name": "WEG40092 - Star Wars D6 - Imperial Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40092 - Star Wars D6 - Imperial Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 133,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-fe71c64cdecc5417/book.md"
+    },
+    {
+      "id": "src-c0d0a161a3b61e72",
+      "name": "WEG40093 - Star Wars - Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40093 - Star Wars - Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 147,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-c0d0a161a3b61e72/book.md"
+    },
+    {
+      "id": "src-30c4645a72dbac13",
+      "name": "WEG40107 - Star Wars - Platt_s Starport Guide",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40107 - Star Wars - Platt_s Starport Guide.pdf"
+      },
+      "copies": [],
+      "units": 162,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-30c4645a72dbac13/book.md"
+    },
+    {
+      "id": "src-8e96cb8e034ddfd4",
+      "name": "WEG40109 - Star Wars - Alliance Intelligence Reports (better scan)",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40109 - Star Wars - Alliance Intelligence Reports (better scan).pdf"
+      },
+      "copies": [],
+      "units": 97,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-8e96cb8e034ddfd4/book.md"
+    },
+    {
+      "id": "src-afefc3c7f3e7fb58",
+      "name": "WEG40120 - Star Wars - 2nd Edition Expanded _ Revised",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40120 - Star Wars - 2nd Edition Expanded _ Revised.pdf"
+      },
+      "copies": [],
+      "units": 273,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-afefc3c7f3e7fb58/book.md"
+    },
+    {
+      "id": "src-0ebd723034e0974f",
+      "name": "WEG40131 - Star Wars - The Thrawn Trilogy Sourcebook",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40131 - Star Wars - The Thrawn Trilogy Sourcebook.pdf"
+      },
+      "copies": [],
+      "units": 251,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-0ebd723034e0974f/book.md"
+    },
+    {
+      "id": "src-b14898025ab6814c",
+      "name": "WEG40135 - GameMaster Screen",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40135 - GameMaster Screen.pdf"
+      },
+      "copies": [],
+      "units": 57,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-b14898025ab6814c/book.md"
+    },
+    {
+      "id": "src-aba6f98f71ad663d",
+      "name": "WEG40139 - Star Wars - Craken_s Threat Dossier",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40139 - Star Wars - Craken_s Threat Dossier.pdf"
+      },
+      "copies": [],
+      "units": 146,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-aba6f98f71ad663d/book.md"
+    },
+    {
+      "id": "src-68d905db88e33175",
+      "name": "WEG40141 - Star Wars - Platt_s Smugglers Guide",
+      "format": "pdf",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/WEG40141 - Star Wars - Platt_s Smugglers Guide.pdf"
+      },
+      "copies": [],
+      "units": 106,
+      "unitLabel": "page PDF",
+      "status": "complete",
+      "markdown": "src-68d905db88e33175/book.md"
+    },
+    {
+      "id": "src-9496a0ac39653b62",
+      "name": "fdocuments.in_star-warriors",
+      "format": "doc",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/fdocuments.in_star-warriors.doc"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-9496a0ac39653b62/book.md"
+    },
+    {
+      "id": "src-40256888f5fec968",
+      "name": "npc",
+      "format": "md",
+      "collection": "guides-rules",
+      "collections": [
+        "guides-rules"
+      ],
+      "locator": {
+        "root": "drive",
+        "path": "Material/Guides_Rules/npc.md"
+      },
+      "copies": [],
+      "units": 1,
+      "unitLabel": "segment documentaire",
+      "status": "complete",
+      "markdown": "src-40256888f5fec968/book.md"
+    }
+  ]
+}

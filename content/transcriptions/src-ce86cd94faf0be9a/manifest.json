@@ -1,0 +1,99 @@
+{
+  "sourceId": "src-ce86cd94faf0be9a",
+  "sha256": "ce86cd94faf0be9a36704694c3333451ee3963971e4d46b574d30dcbaca6bb0e",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 4518,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "remote-image-not-fetched",
+      "url": "http://users.vnet.net:80/seawolf/sw/images/sw.gif"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/dethstar.jpg"
+    },
+    {
+      "kind": "missing-local-image",
+      "url": "../icons/home03.gif"
+    }
+  ],
+  "media": [
+    {
+      "file": "images/6f39714faf7d128727e0d2e91417e9a5e717acc4b67c787398f35f53916be2f1.gif",
+      "origin": "images/bsmall.gif",
+      "sha256": "6f39714faf7d128727e0d2e91417e9a5e717acc4b67c787398f35f53916be2f1"
+    },
+    {
+      "file": "images/3cc8d94395ef40bb6b440c5240f11e3375e4fb919c2d3b7a2e88c350b65e865c.jpg",
+      "origin": "images/bmenu.jpg",
+      "sha256": "3cc8d94395ef40bb6b440c5240f11e3375e4fb919c2d3b7a2e88c350b65e865c"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

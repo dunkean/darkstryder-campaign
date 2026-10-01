@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ada8fa25f7e88818",
+  "name": "interaction",
+  "sha256": "ada8fa25f7e888183507d29a2937301af879333c881b69ed798404aa15287374",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/interaction.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "1485bc6f2ce0073aeab9652da149f455de3a386edd2d35d4ae0578aa710a175c",
+  "fileHashes": {
+    "book.md": "af4d9e64fec742d1c1e0637e8f7d4a1613994b84312ab88fe7491e7554fd0711",
+    "pages/0001.md": "3cbec0b7fdd41e0c0cdabbe9702fe2cc4369593e7a6c1639294b3f3071c276dd"
+  }
+}

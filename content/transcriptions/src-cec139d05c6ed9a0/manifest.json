@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-cec139d05c6ed9a0",
+  "sha256": "cec139d05c6ed9a07b0956e6077459a049a3197cde3c80dbf7e6e326a6a072f4",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 1281,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/4f72b79baea097ceaed43e2a96cb2cff552a7a4ecd2f86d74437e2b8a1cd25da.jpg",
+      "origin": "images/season1.jpg",
+      "sha256": "4f72b79baea097ceaed43e2a96cb2cff552a7a4ecd2f86d74437e2b8a1cd25da"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

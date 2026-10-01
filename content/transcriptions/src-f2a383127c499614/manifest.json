@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-f2a383127c499614",
+  "sha256": "f2a383127c49961432feb6144a6777b72bd104bdc45ad1eef2caaae971d0aad6",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 10118,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/4e496bf3c821200da0ed04f52a344ecc0856b9ddb2ec63f9837295c7a130dec5.jpg",
+      "origin": "images/drake.jpg",
+      "sha256": "4e496bf3c821200da0ed04f52a344ecc0856b9ddb2ec63f9837295c7a130dec5"
+    }
+  ],
+  "encoding": "windows-1252"
+}

@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-7948f3df310de4eb",
+  "name": "Rojer621",
+  "sha256": "7948f3df310de4eb6882d0ab25f2c104eed3d801c9758fccba56de4e8677df16",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Rojer621.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Rojer621.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6ec06528a9aea2a47b6df972a60bf3a2df747c70038e6b1b599634b470932879",
+  "fileHashes": {
+    "book.md": "00f7c6aabc3fc72917d11a106dfbed661b346fe2f5acc006c7120d7ea119cd3b",
+    "pages/0001.md": "bfa44c0fb69e7bd457a3cd5c27cbb2c8c6c9a27dca7dc39d4b3f3ed5203440c2"
+  }
+}

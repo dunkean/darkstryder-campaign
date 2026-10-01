@@ -1,0 +1,64 @@
+# ZUCKUSS
+
+Source: `src-9aa4674351e8f5d2` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-9aa4674351e8f5d2; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+Zuckuss
+
+# Zuckuss
+
+## Chief Scout, New Republic Starship *FarStar*
+
+ 
+
+![Zuckuss](images/8550603f8916c6f2e123f5051ff7838f5082e242fa956582d12a51d960d75507.jpg)
+
+"Five hundred thousand credits on you, eh? Given Zuckuss a lot to think about."
+
+ 
+
+Zuckuss was born forty-two years ago on the planet Gand. He was a Gand ‘Findsman’ by trade, and as such has continued certain practices and techniques of bounty hunting which have been passed on through his family for several centuries. Being a Findsman is a time-honoured profession on Gand, and has been followed there since the establishment of a totalitarian monarchy on Gand millennia ago. Evolving as they did, on a largely gaseous planet, the Gand developed in a series of pocket colonies separated from each other by seemingly endless kilometres of thick mists.
+
+ 
+
+The Findsmen of Gand belong to a highly superstitious and religious sect. They actually worship the planet’s enshrouding gaseous mists, looking to them for signs and omens which will lead them to their prey. When the Empire took over the planet’s slave trade, their sophisticated scanning equipment had no trouble detecting runaways in the mists. The Findsmen, with their ancient and ritualistic traditions, had suddenly become obsolete. 
+
+ 
+
+A few Findsmen decided to keep the sect alive, and turned to the stars, where their talents could be put to use. Foremost among this new breed of bounty hunters was Zuckuss. Although his alien physiology requires him to wear a special breathing apparatus while away from his homeworld, Zuckuss is a tireless tracker who has braved virtually every environment and type of terrain in the known galaxy. In his travels, he has gained the nickname of "The Uncanny One" from his peers, such as Dengar and Bossk. Even Boba Fett himself is respectful of Zuckuss’ talents.
+
+ 
+
+Zuckuss has accumulated quite a few captures (and even some ‘accidental kills’) during his long and distinguished career. His fees are exorbitant, and he has worked for them all – for the Empire, the Rebel Alliance, the New Republic, local law enforcement agencies, bounty guilds, crimelords like Jabba the Hutt, Ploovo Two-For-One and Big Bunji, and he has even on occasion worked for himself, for that is where his allegiance truly lies. 
+
+ 
+
+Zuckuss’ longtime partner was a droid named 4-LOM. Jabba the Hutt originally paired the two hunters for a time, to track down some of his more wayward employees. They found they worked well together, a pairing of instinct and logic that beggared the imagination. The two had been together for a year when they got wind of Lord Vader’s contract on Han Solo at Hoth. Missing the Millennium Falcon, they decided to board a crippled Rebel Transport so the trip would not have been fruitless – some Rebel hostages would surely please Vader’s fleet. On going aboard, they were offered a better deal – take whatever survivors they could (including the Rebel General Carlist Rieekan) to a rendezvous with their fleet in return for payment, sanctuary, and medical treatment. Zuckuss’ health was failing – a shot in the chest he suffered some years ago had crippled his lungs and his cybernetic replacements were breaking down…
+
+ 
+
+Zuckuss and 4-LOM decided to accept the offer and took the wounded and some others off the ship before the Empire got to it and impounded it, capturing the remaining crew. Remaining on board to meet her fate was the striking young human woman who struck the deal with the hunters – one Ensign Tamara Barinn. Zuckuss has often thought back to her since that day, her courage and resolve inspiring him. On arrival at the Rebel Fleet, the medical droid 2-1B fitted Zuckuss with replacement organic lungs. After once again going freelance to try and stop Boba Fett from reaching Jabba with Solo – and failing -  Zuckuss and 4-LOM began a career working for the Rebels. He even used his knowledge of Jabba’s palace to help Lando Calrissian, Princess Leia and Luke Skywalker plan their rescue of Han Solo, which he would admit was just to spite Fett!
+
+ 
+
+Soon after the Rebel victory at Endor, Zuckuss and his partner went freelance once more. The big bounties were to be had by playing both sides against the middle – the two hunters took both New Republic and Imperial contracts, in addition to the pirates, privateers and slavers they were hired to track. It was almost four years after Endor that the biggest, potentially mot satisfying hunt fell into Zuckuss and 4-LOM’s laps – Kl’aal.
+
+ 
+
+Kl’aal was a Defel warrior accused of fratricide, further vilified by his protestations of false innocence. He had been exiled from Af’El, and now a bounty had been placed on his head for crimes committed in his years of exiled flight. The two hunters could expect to collect bounties from the New Republic, the Empire, local law enforcement agencies, independents – even Jabba wanted this guy dead, and some whispered that Fett himself had returned from the dead just for this hunt. Kl’aal’s trail led to Kathol Sector, on the Outer Rim, and beyond. Zuckuss and 4-LOM travelled into uncharted space and to the shadowport *Tanquilla Beach, *where they found Kl’aal as a crewmember on the New Republic ship *FarStar, *in search of the local renegade Moff. Kl’aal got away, and 4-LOM was destroyed by Kl’aal’s friends. It was just Zuckuss once more, alone, stranded with no ship.
+
+ 
+
+Zuckuss struck a deal with the traitorous Rodian Gorak Khzam, former first officer of the *FarStar, *and accompanied him and his pirate band aboard the corvette *Sable II, *continuing the hunt for Kl’aal. If Zuckuss helped Gorak to find some ‘artifacts’ he was interested in, he could have Kl’aal for himself. Gorak abused and manipulated Zuckuss’ talents for tracking once too often, and the deal turned sour. As the chase for Kl’aal neared the edge of the galaxy, Gorak conducted a loyalty purge on the crew of the *Sable II. *A number of crewmembers were dumped on the planet Demonsgate, a barren ball of rock at the galaxy’s edge, including Zuckuss. 
+
+ 
+
+Then he had his idea. He took the six others prisoner and cobbled together their comlinks to make a short-range subspace emitter, broadcasting a message of parlay to the *FarStar. *Sure enough, the ship arrived – and when it landed, Kl’aal rushed Zuckuss with intent to kill him! In the fight, before the *FarStar *crew could intervene, Zuckuss accidentally shot Kl’aal. However, with the trade of six prisoners and information on Gorak, Captain Keleman Ciro was persuaded to take Zuckuss on as Chief Scout – Kl’aal’s old position.  The *FarStar *went on to complete her mission a few days later – with Zuckuss’ help, Moff Sarne was killed and his power source, Darkstryder, destroyed. But then, a new mission beckoned. The ship had to travel back in time to the Clone Wars in pursuit of Gorak, and stop his plans for galactic domination. This is one hunt Zuckuss will complete for free. And then… we shall see.
+
+ 
+
+One last point – imagine Zuckuss’ surprise when he finds that Ensign Tamara Barrinn from the Battle of Hoth is alive and well and aboard the *FarStar!*

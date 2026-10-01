@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-5ddd7936e6477e3c",
+  "sha256": "5ddd7936e6477e3c75f99a4cf8d87239353113cd786496b65e7b583c77010e87",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 8864,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/730c387fb88e6e4b571f251ae38fdd71462b48b5e18c3c319cc065e788a05ae4.jpg",
+      "origin": "images/vallens.jpg",
+      "sha256": "730c387fb88e6e4b571f251ae38fdd71462b48b5e18c3c319cc065e788a05ae4"
+    }
+  ],
+  "encoding": "windows-1252"
+}

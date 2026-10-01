@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-255daa148b19584e",
+  "name": "DSExocronEpilogue",
+  "sha256": "255daa148b19584edbd1949a81eef7ec2df08bebaf71a2bd29123e7e6decd429",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSExocronEpilogue.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ec236a1a6fdc7284176bfae1f154e12e096f2b38ba189dbf3225b789aa21d2b9",
+  "fileHashes": {
+    "book.md": "d66d295a147eb149794efcf4935dad2ad64e3f506d0071899ac81cb5f024e004",
+    "pages/0001.md": "2b9a59b15581348fae25633385ba393c3afbad30fbe84203eced2c136b1172dd"
+  }
+}

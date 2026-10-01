@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-bc5bc6f21e92c1f0",
+  "name": "campaign_maps",
+  "sha256": "bc5bc6f21e92c1f05967900a76735fd203e1a1aed0c1a23f9a88f83c04df38d4",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/farorbit/campaign_maps.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "9d312a5e74f03749ec04b5660b55ed9a34e7a241937a464fb5dc71cc274b824e",
+  "fileHashes": {
+    "book.md": "413bb151bd831dbcba85f769dd84ef538c2a4cc8523a215fdd4d0243a0f18705",
+    "pages/0001.md": "a67753a5c3a14c5ac29445181e1ff9a99ef2427a1a225821cb1409904503a624"
+  }
+}

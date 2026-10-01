@@ -1,0 +1,716 @@
+# sfBodyComps
+
+Source: `src-0466373ccf8b25d0` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-0466373ccf8b25d0; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+STAR FRONTIERS BODYCOMPS in STAR WARS
+
+| <br>![sf.gif (6920 bytes)](images/6ed0157fa19fcc221659cf2713e642f9a8f962d8a2746bd41b31480bec632d1d.gif)<br> | <br>[Image distante non téléchargée : http://users.vnet.net:80/seawolf/icons/starwars.gif]<br> |
+| --- | --- |
+
+---
+
+**
+
+STAR FRONTIERS BODYCOMPS in STAR WARS**
+
+---
+
+The development of the modular system of computer snap-on program
+units (progits) and hardware that is completely compacticle with all bodycomp models
+brought the personal computer out of the home and onto the ones body.  A bodycomp
+worn as a wide belt, or bandolier, and is made of extremely durable plastic bonded over
+solid state computer circuitry. On the bodycomp are two wallet-sized white plastic units:
+one is the power source, the other is the processor. At intervals along the belt there are
+twelve 5-cm square plastic plugs. These plugs can be removed to reveal an open circuit
+ready for a progit to be plugged in. The bodycomp comes in different styles for different
+species but they all have identical access ports and use identical power packs,
+processors, and progits.
+
+Most people on the Galaxy wear a bodycomp for such diverse needs as
+astrogation, communications, business matters, etc. The maximum number of progits on a
+bodycomp belt as any one time is twelve (12). This is in addition to the required power
+pack and processor pack. However, the number of progits that can be used at any one time
+depends on the types of power and processor packs.
+
+Both the progit and the hardware required for its use are listed
+unde the progit descriptions. The costs for progits are separate from any hardware costs,
+and both are listed below. The cost of connector cords, adaptors, etc. is included in the
+progit cost.  
+
+**BODYCOMP POWER PACK**
+
+A bodycomp requires a power pack, which is similar to a high-power,
+long-life battery, to power all of its functions. The differences in the following power
+packs are in their duration and amount of progits they can handle at any one time. A
+computer power pack's duration is listed below. It can be recharged for the cost shown
+below. It can never be used to power anything else.
+
+**Sixpack:** The least powerful and cheapest computer poewr pack.
+It can provide power for any of the following: a) one processor pack Type A or B andsix
+progits, or b) one processor Type C and four progits. The sixpack lasts for one month and
+costs 50 Cr to recharge.
+
+**Tenpack:** The most commonly used computer power pack. It can
+provide power for any of the following: a) one processor pack Type A or B and ten progits,
+b) one processor pack Type C and eight progits, or c) one processor pack Type D and four
+progits. The tenpack lasts for three months and costs 125 Cr to recharge.
+
+**Fullpack:** The computer power pack most popular with spacers,
+techs, and scientists. It can provide power for any of the following: a) one processor
+pack Type A or B and twelve progits, b) one processor pack Type C and then progits, or c)
+one processor pack Type D and six progits. The fullpack lasts for six months and costs 275
+Cr to recharge.
+
+**Kingpack:** The top-of-the-line computer power pack used by the
+very rich, very important, or very busy. It can provide power for one processor pack of
+any type and twelve progits. The kingpack lasts for one year and costs 450 Cr to recharge.
+
+**BODYCOMP PROCESSOR PACKS**
+
+The bodycomp's processor pack is the organizer, brain, and
+interpreter for the entire system. There are four types of processor packs (all the same
+size).
+
+**Processor Pack Type A:** Handles Type A progits only.
+
+**Processor Pack Type B:** Handles Type A and B progits.
+
+**Processor Pack Type C:** Handles Type A, B, and C progits.
+
+**Processor Pack Type D:** Handles all progits.
+
+**BODYCOMP PROGRAM UNITS (PROGITS)**
+
+A progit is a 10-cm square that is 5 cm thick. Its shell is made of
+extremely durable plastic. It has a blunt plug on one side that plugs into the belt and
+raised letters on the other side to identify it. Some progits have lights, switches, or
+indicator windows built in to them. The shell surrounds an Energy Field that holds
+terrabytes of information. This field is the most stable known to the technicians of the
+Galaxy and only an antimatter field can disrupt the information contained therein.
+
+Progits are classified from A to D, the latter being the most
+complex and energy consuming. When purchasing progits, characters must consider their
+bodycomp's power and processing packs so that the whole system is compatible (i.e., a
+sixpack and a processor pack type C cannot handle type D progits).
+
+While the common Type A progits can be found in a number of retail
+outlets, the Type B progits are a bit more difficult to find, Type C progits are rarer
+still, and Type D progits are seldom found outside of specialty shops. This should give
+the GM greater control over their acquisition to prevent improper escalation of computer
+power within the game. Progit resale values are usually only 40 to 50% of their original
+costs because ofthe inability to determine theirage. Most progits last for three to five
+years of constant use.
+
+**PROGITS--TYPE A**
+
+**Audio-Act:** This progit controls a microphone that is used to
+voice activate the bodycomp. The wearer simply speaks into his throat mike and starts
+whatever progit he desires. This is used as an alternative to the normal method of pushing
+buttons on a bodycomp belt to activate progits.
+
+**Calc-All:** This progit has many tiny buttons on its face. It
+can be operated manually but is fastest when operated with an Audio-Act progit. It
+functions as a highspeed calculator. Even though it is only a Type A progit, Mini-Calc
+fulfills the computational needs for all but the most complex of problems (for those
+problems a Type D progit, Calc-Boost, is needed). No character who deals with any complex
+computers, droids, or machinery would be without it. (+1D to any Technical Skill
+applicable when in use)
+
+**CAS-Interface:** (Must be used with a CAS computer and the
+Comp-Talk progit. May also use with Audio-Act.) This progit acts as an interface between
+CASs and the bodycomp. With this the CAS pipes its information right to the user's ear
+through the bodycomp. With an Audio-Act progit the user can keep his CAS hanging at his
+side and occasionally ask it to turn on and scan. This is important if the character's
+hands are full at the time.
+
+**Chrono-Calc:** This progit has a continuing time tracking field
+for all of the Galaxy's systems, planets, and major cities. Therefore the character can
+know what time and date it is anywhere in the Frontier. It also has two stopwatch
+capabilities so a character can time two different occurrences simultaneously. It has four
+alarm settings for each day. Readouts are either through a Comp-Talk progit or through the
+small display screen on top of the Chrono-Calc progit. (+2 to Planetary Systems qhwn used
+in an applicable way.)
+
+**Comp-Talk:** This progit allows the body-comp to verbally
+answer when it needs to reply, as with Map-Cal readouts, Chrono-Calc readouts, and so
+forth. The progit comes with a tiny device that is safely inserted in the ear of the
+character or affixed inside his helmet. It can even be surgically implanted into the
+user's head. Thus, Comp-Talk conversations are kept confidential between the character and
+his bodycomp. Comp-Talk can be programmed in any known languages.
+
+**Dis-Vis:** This progit activates a tiny, harmless laser inside
+a special helmet visor that can display computer readouts, diagrams, etc. from a progit.
+Special helmets even have omnocular capabilities built-in and that information can also be
+displayed inside a helmet by a Dis-Viz progit. The latter helmet is extremely expensive.
+Through the use of a Dis-Viz progit, a character can have full visual readouts from his
+bodycomp without having to open his helmet; maps, file copies, holographic images, and so
+forth an be displayed for the user's eyes only. For those who wish to have an open helm,
+half-visors that just cover the eyes are available. Other Dis-Viz display options:
+
+*Progit* -- On the progit itself, though detail would be hard
+to see.
+
+*Wrist Screen* -- A 10-cm long arm bracelet that contains a
+screen. The arm would have to be raised to the face to read the display.
+
+**Helm-Link:** This progit allows a bodycomp to be lined directly
+to the helmet. This enables several additions to the bodycomp that can be used through the
+helmet:
+
+Audio-Act
+
+Brain-Scan
+
+Comp-Talk
+
+Death-Wish
+
+Dis-Viz
+
+These progits are actually attached to the helmet. The number of
+helmet progits that can be attached depends on the helmet type, but is usually limited to
+three. While the progits attached to the helmet are hooked to the bodycomp belt through
+the Helm-Link progit (thus occupying only one progit space on the bodycomp belt) they
+still count as three normal progits for the purposes of maximum amount supported by a
+power pack.
+
+**Help-Beam:** This progit must be subprogrammed when purchased.
+Its function is to send out an emergency beam on a specific wavelength (specified by the
+wearer) when a condition is met. This condition can either be a direct-effect command,
+such as "If the bodycomp starts deteriorating due to excessive physical damage,
+transmit beam," or a coordinated-effect program, such as "When the Brain-Scan
+progit indicates that I am dead, transmit beam." The subprogram is stated at the time
+of purchase by the player, with the assistance of the GM, and should be written on the
+player character sheet. The Help-Beam progit can also be manually activated.
+
+**Help-Call:** This progit activates in the same manner as the
+Help-Beam, but emits a loud wailing sound rather than an invisible beam. A Help-Call
+linked to a Body-Scan and programmed to go off when the wearer is unconscious is a
+favorite system used by security chiefs. A guard so equipped would immediately start
+blaring a warning if he fell asleep or was knocked unconscious.
+
+**Map-Calc:** (Must be used with Audio-Act.) This progit plots
+and maps according to the character's verbal instructions. In this manner a character or
+party can map as it moves. Maximum map memory is 100 maps. Map information can be
+retrieved by use of either a Dis-Viz progit, a Comp-Talk progit, or a readout screen that
+can be attached to a jack in the Map-Calc progit.
+
+Since the information being fed into Map-Calc is verbally provided
+by the cahracter, a player should actually map the land or structure his character is
+passing through, but the GM should check for inaccuracies and correct them. (+1D to **Planetary
+Navigation (MECH skill)**)
+
+**Trans-Comp I:** (Must be used with Comp-Talk.) This progit
+translates verbal communications in fifty languages. The languages are specified when
+purchased or can be entered later by a protocol droid. The outside of the progit has a
+voice-receiving grid. When the progit is activated the user can unnderstand anyone within
+hearing distance who is speaking any one of the five programmed languages. The progit does
+not translate replies from the user (that is the function of a Type B Trans-Comp II
+progit).
+
+**PROGITS--TYPE B**
+
+**Bio-Center:** This progit is only for use with cybernetic
+replacement parts that have been attached to a character. Cybernetic replacement legs,
+arms, hands, etc. work smoother than most people might expect, but they are still not
+completely natural in their actions or in the user's control. This progit receives
+transmission from a surgically implanted transmitter in the user's brain and instantly
+relays the transmission to the cybernetic replacement part. With a little practice and
+this progit, no one can tell if a limb, eye, or other cybernetic replacement part is real
+or not. Each Bio-Center progit can control similar cybernetic replacement parts: one for
+legs, one for arms, one for senses, one for up to four internal artifical organs, etc.
+(+1D to Disguise or Hide the cybernetic replacement).
+
+**Body-Scan:** This progit is a small bioscanner that is attuned
+upon purchase to the user's normal body functions (excluding that of the brain). It has a
+small readout window that automatically lists pulse, respiration, blood pressure, etc. It
+can also list any physical damage the body has taken, if infection is present, etc. Anyone
+with the Medicine skill can look at this readout and instantly diagnose the medical
+condition of the wearer. This progit can also be linked up to other progits like Help-Beam
+or Med-Inject in the same manner as a Brain-Scan. (+1D to Medicine)
+
+**Brain-Scan:** (Must be attached to a helmet and be used with
+Helm-Link.) This progit is a small bio-scanner that monitors the character's brain
+functions. This is an absolute necessity when using some progits (such as Death-Wish).
+  Brain-Scan progits have a small window that shows the brain waves and can easily be
+read by a charater with the Medicine skill for a medical diagnosis, to tell if the user is
+unconscious, comatose, brain-damaged, or dead. Brain-Scan and Body-Scan progits can be
+used to trigger another progit by defining a condition. For example, a Help-Beam progit is
+set to broadcast when a character is rendered unconscious. A Brain-Scan progit picks up
+the user's Delta Waves, which it has been programmed to recognize as a deep sleep. Thus,
+it tells the Help-Beam progit that the unconscious condition has been met.  (+1 to
+Medicine)
+
+**Comm-Link:** (Must be used with Audio-Act and Comp-Talk.) This
+progit allows Audio-Act and Comp-Talk progits to be linked to communications devices such
+as comlinks, subspace radios, and other communication devices. Every Comm-Link has a
+separate frequency and those frequencies are like phone number (except the numbers are
+much longer). The Comm-Link has three separate functions:
+
+a) Helm-to-helm communications. This can be accomplished if the
+other Comm-Link number is known. A character can then speak quietly with another character
+in a private conversation. The range is 10 kilometers.
+
+b) Helm-to-comlink communications. The Comm-Link progit can also be
+set to broadcast to any chronocom in a 5-kilometer range (if the frequency is known) or to
+all chronocoms in that same range on a general frequency broadcast. A character with this
+can communicate with a group of characters, broadcast a warning, etc. In addition, the
+Comm-Link also has a jack and cable for direct hookup with subspace radios. Thus, a
+character carrying a subspace radio on his back can be directly linked to it through his
+helmet. This is a must for character exploring planets with unbreathable atmosphere.
+
+**Med-Inject:** This is an interpreter progit. It interprets
+information provided by a Brain-Scan or Body-Scan. If the information is a prerequisite
+for na injection, it broadcasts a short range signal (a few meters at most) to a small
+injection unit that is inserted under the user's skin. The injection unit holds one hypo
+dose of any drug the player has selected and placed in the inject unit. Thus the
+Med-Inject progit can immediately treat the wearer.
+
+The Med-Inject progit can also be manually triggered by switching a
+microswitch on the progit itself, thus avoiding searching for a hypo dose. This action is
+so fast that a character thus equipped can inject himself in a turn and still perform any
+normal action. The injection unit itself can be removed, sterilized, and reused again with
+a new dose after its use. Only one injection unit responds to each Med-Inject progit but
+up to twelve Med-Injects can be attached to a bodycomp.
+
+**Prog-Lock:** This progit comes equipped with four Moderate:
+Security Level locks of any type the player desires; door locks, vehicle locks, drawer
+locks, gun locks, etc. These four locks, after they have been installed, will resist
+opening unless they receive a beam emitted by the progit. This beam is a sonic code of
+great complexity. The probability of any other Prog-Lock or sonic sender matching the code
+is 1 in 1,000,000,000. The maximum activation range from the Prog-Lock to these locks is
+10 meters. 
+
+**Prog-Switch**: This progit comes equipped with 10
+switches of any type the player desires: trigger switches, light switches, microswitches,
+push buttons, etc. All are a little thicker than their normal counterparts because they
+are all capable of being activated not only manually but by the Prog-Switch as well. They
+are activated by a beam transmission from the progit. This is especially effective when
+combined with an Audio-Act progit. A player can then turn one one of these switches by
+identifying it through his bodycomp.
+
+For example, Imperial Commander Ward has been expecting trouble from
+fleem dealers ever since he smashed their local operations. Therefore he affixed special
+Prog-Switch to key areas in his office.
+
+One night, after gettin a strange call from an informant to meet at
+his office, he strolls into a room full of highly confident hitmen. Anticipating this he
+has turned on his bodycomp, Audio-Act, and Prog-Switch progits in advance.
+
+Before anyone can move he speaks into his throat microphone,
+"One, four, five, nine!" This immediately activates those switches in the order
+they were spoken. Switch one turns off the lights, switch four activates the flash grenade
+hung above the door, switch five sets off his office alarm for the local constabulary, and
+switch nine activates the sleep  grenade taped to the bottom of his desk.
+
+As the stunned hitmen pass out in the darkened, he smiles to himself
+and is glad he did not have to say "Ten!" which would have set off the detonator
+attached to the Thermal Detonator in the bottom drawer. Maximum activation range from the
+Prog-Switch to the switches is 30 meters.
+
+**Droid-Link:** (Must be used with Audio-Act.) This progit is a
+one-way control function through which the user verbally controls a droid. The droid must
+be equipped with a device that can receive transmissions from only one Droid-Link and can
+override the droid's normal missions and functions as long as contact is maintained. Only
+a character who successfully peformms all of the following skills can attached this device
+to a droid:
+
+Easy: DroidProgramming (for Activate/Deactivate)
+
+Moderate: Droid Programming (for Alter Functions)
+
+Moderate: Droid Programming (for Alter Mission)
+
+Difficult: Droid Programming (for List Functions)
+
+Difficult: Droid Programming (for Remove Security Locks)
+
+This will only work on the lower forms of droids such as service,
+maintenance, or hevy-duty droids. Droids equiped with these devices can be verbally
+controlled by Droid-Linked characters for other functions outside of their normal
+programming.
+
+**Trans-Comp II:** (Must be used with Comp-Talk, Trans-Comp I,
+and Audio-Act.) This progit allows for outgoing translation capabilities in fifity
+languages. The languages are specified when purchased or can be entered later by a
+protocol droid. Its appearance is identical to the Trans-Comp I progit. Unlike the
+Trans-Comp I progit, however, Trans-Comp II translates from the wearer's language into one
+of the fifty languages programmed. Thus, with both Trans-Comp progits, a two-way dialogue
+can occur, though the user cannot really speak the language..
+
+**PROGITS--TYPE C**
+
+**Ani-Link:** (Must be used with two Brain-Links.) This progit
+connects to two Brain-Links by a tight transmission beam. One Brain-Link is in the user,
+the other is in a bioform mount or pet belonging to the user. The Ani-Link allows a basic
+communication between the two and gives the higher intelligence life form, usually the
+user, control over the lesser intelligence life form, if he desires. The user of an
+Ani-Link betweeen two members of an intelligent race is strictly forbidden and illegal on
+all Galaxy planets. Some cases of spies using them have been recorded, and the Rebellion
+is almost certain the Empire secretly uses them.
+
+**Brain-Link:** This progit comes with a miniature cortex
+corrdinator that must be surgically implanted in the brain (Difficult: Medicine: *CyberSurgery*).
+Once implanted, it can transmit and receive simple messages straight from the brain . This
+progit, when linked to certain other progits, can perform acts at incredible speeds (i.e.,
+using a Prog-Switch progit and mentally switching devices on and off). A maximum of four
+progits can be linked through a Brain-Link progit.
+
+**Comp-Sight I:** This popular progit comes with a floating
+gyroscopic system that is attached to any ranged weapon that is long pistol size or larger
+(excluding medium- or heavy-ordinance weapons). This gyroscope contains complex
+transmission and receiving circuitry plus an autogyro for stabilizing. The progit and
+harware stabilize the attached weapon for the user. The game result of this is that a
+character using this progited weapon has his difficulties to hit based on range reduced
+one level.* *The range maximums for weapons are not altered by this device.
+
+**Comp-Sight II:** (Must be used with Helm-Link.) This progit is
+similar to Comp-Sight I, and has the same weapon size requirements, but this autogyro
+package is more movement oriented than range oriented. It moves the weapon in the
+direction the character's helmet moves and allows the user to move and fire as the same
+action (one action instead of a multiaction) with the progited weapon.
+
+**Comp-Sight III:** (Must be used with both Comp-Sight I and
+Comp-Sight II.) This progit is a coordinator and booster for the first two Comp-Sight
+progits. It comes with a thick disc that fits over the top of the weapon. No scope can be
+used with a weapon that has Comp-Sight III attached. It reduces any kick or weave the
+weapon may normally produce when firing. When all three Comp-Sights are in place, the user
+is not affected by movement, range, or smaller than man-size target Combat Modifiers. (+1D
+to Attack roll). It is said that one of the most frightening sights for a criminal is to
+look down the barrel of a Imperial Stormtrooper's weapon and see it weave back and forth
+in front like a living creature. 
+
+**Death-Wish**: (Must be used with Brain-Scan.) This
+progit is very similar to the Prog-Switch progit. It comes equipped with three switches of
+any type. These switches are designed to activate immediately upon the death of the
+character wearing the Death-Wish progit on his bodycomp. In this manner, a player who dies
+may activate a Med-Inject unit, bio-stasis field, pack of  Thermal Detonators , or
+whatever he has programmed. Since this is such an important progit, it cannot easily be
+removed from the bodycomp. To do so takes at least 10 minutes. The activation signal for
+these devices has a maximum range of 10 meters.
+
+**Enviro-Comp:** (Must be used with Body-Scan.) This progit is
+essential for coordinating the various life support systems found in power armor or deep
+space suits. It monitors, evaluates, regulates, and updates all equipment controlling the
+respiratory, heating, cooling, waste disposal, and nutritional systems. Without this
+progit the character would be constantly checking and adjusting his life support systems.
+This progit can also be linked to a small craft's life support systems for the same
+functions. Because of the importance of this progit, removal time is 10 minutes.
+
+**Fast-Scan:** (Must be used with Brain-Scan.) The Fast-Scan
+progit comes equipped witha 30-cm square scan board that is connected, by cable, to the
+progit. The user then places any printed material, including pictures and maps, on the
+board, face down, and it is instantly recorded. This is the ultimate in speed reading and
+photographic memory. Time required for insrting information into the user's memory is
+roughly five seconds per page of material. The amount of material that can be retained by
+a Fast-Scan process is no more than 100 pages, maps, or pictures.
+
+**Hear-All:** When activated this progit scans all known
+transmission frequencies. It will pick up an unprotected transmission and give its type
+(Comlinks, Help-Beam, etc.), its direction from the user, the range of the transmission
+source from the user (up to two kilometers), and the frequency being used. A jack in the
+progit allows it to be hooked up to an earplug (or headphones if the character is so
+equipped) so the wearer can listen to the transmission.
+
+**Natur-Act:** (Must be used with Brain-Link.) This progit
+contains the culture and customs of aup to 10 species or tribes. There are thousands of
+these available for most of the cultiures existing on the Rim. But Natur-Act does not just
+inform the character about the customs, it has him perform these customs at the proper
+time. A character using this progit can pass as a native if his appearance also matches
+that of the culture. (+1D to Cultures or Alien Species).
+
+**Prog-Motors:** This progit is primarily an enhanced-response
+progit. It comes equipped with three micromotors that can be activated either manually or
+through the Prog-Motors progit. See Prog-Locks for the details on the tight beam and sonic
+coding used to activate these motors.
+
+The motors must be mounted and fitted by a tech (Moderate:
+appropriate Repair skill)  to whatever device the character wants to control. The
+most common uses for these motors are in the hinge mountings of a helmet's visor and gas
+mask. If a character suspects dangerous gases in the atmosphere, he touches the buttons on
+the progit that snap down his visor while swinging his gas mask in place.
+
+An Audio-Act progit gives even faster control. "Down visor, up
+mask" is all it would take to seal himself from breathijng the gas. Maximum
+activation range from the Prog-Motors progit to the micromotors is 10 meters.
+
+**Stop-Hear:** This progit protects all transmissions used
+through the bodycomp by ultrafocusing them then tight beams. It is a scrambler that uses
+an erratic pattern and frequency that the Hear-All progit cannot pick up.
+
+The receiving end of this scrambled transmission must have an
+identical Stop-Hear progit or computerized communications program to unscramble it. While
+a Hear-All cannot discern what is being transmitted or what its exact direction is, it can
+show that something is being transmitted at a certain range from the wearer.
+
+**Truth-Tell:** (Only works on Human-normal brain and nervous
+system-type species.) This progit must be located in the front of the bodycomp belt. It
+sends out a directional sonic echo in a very tight cone. This echo can monitor the
+physical functions of the nearest intelligent bioform and, if the bioform is one of the
+susceptible species described above, indicate whether it is giving false replies to
+queries.
+
+The range of the cone is four meters and it cannot pass through any
+sonic defenses. The process is 90% accurate (GM rolls for whether GM charactes give
+accurate or misleading answers). There is an indicator light on the progit that blinks
+when a falsehood is told, unless it is bypassed by using a Comp-Tell progit that sounds a
+beep in the user's ear instead.
+
+**PROGITS--TYPE D**
+
+**Beam-Boost:** This progit provides a focusing circuit for all
+beams used by other progits on the user's bodycomp belt. All beams emitted by the user's
+progits have triple their normal range.
+
+**Calc-Boost:** (Must be used with Calc-All.) This booster progit
+greatly improves the bodycomp's ability to work out mathematical probabilities. Using
+Calc-Boost gives a character a +1D to any Technical skills. A character using the
+Calc-All, Calc-Boost and Master-Comp progits together, and with the proper type and amount
+of data, can work out the probabilities of many events.
+
+For example, given the approximate compisition of a wall of hull, an
+approximate thickness, etc., the character could calculate the best place to strike the
+wall and how much damage would have to be inflicted to it before it would go down, with a
+90% accuracy.
+
+The extent of the probability calculations in the game and their
+accuracy is, of course, up to the GM but it can be fun to have a character who is logical
+and heavily dependent upon scientific data and complex calculations for his actions.
+
+**Comp-Link:** (Must be used with Brain-Link.) This progit allows
+the user to attempt direct brain-to-computer communications (jack in) with any computer he
+can plug his Comp-Link progit cable into (via an Scomp-link). Thereafter, the character
+can attempt any computer skill he possesses directly on the computer with a +1D added to
+his chance of success.
+
+The user has only one chance at initiating contact through this
+progit. If he misses it the computer identifies him as a "bug" in the system and
+ignores him. If the character establishes contact with the computer in the normal method
+and then plugs into it, he may continue trying his other computer skills at leisure. Any
+character who has no computer skills and attempts this will automatically fail.
+
+**Comp-Sight IV:** (Must be used with Comp-Sight I, II, and III.)
+This progit comes with two cables, an expensive goggle apparatus, and a thick forearm
+bracelet. The goggles fit tightly against the user's head and contain tiny lasers that can
+the fit eyes. The movement and focusing of the eyes is tied into the first three
+Comp-Sight components that have been attached to the pistol or rifle. The bracelet,
+attached tothe forearm of the limb that is not primarily used, is connected by the cables
+to the goggles and to the other three attachments. This fine tuning allows the user a +1D
+bonus to the Attack roll, coordinating the Comp-Sights even futher, linking them to his
+eye and muscle movement, in addtion tothe beneifts for the other three Comp-Sights. 
+
+The GM should be careful not to allow too many completely
+Comp-Sighted weapons in his campaign at any one time, as it has a tremendous influence on
+the balance of the game.
+
+**Master-Comp:** (Must be used with Audio-Act and Comp-Talk or
+Brain-Link.) This progit is a necessity for any character who is serious about bodycomps.
+It is the grand master of progits and ties all of them together into a unified whole. The
+biggest advantage is its ability to receive conditional orders from all other progits. A
+player can make a list of up to and including 20 conditions and functions he wishes his
+bodycomp to follow for standard operating procedure, such as:
+
+a) Scan with the Atmospheric-CAS every twenty minutes and inform me
+of any unusual conditions.
+
+b) Let me sleep for six hours unless a bioform approaches within 20
+meters.
+
+c) Three minutes after you wake me, patch me into planet HQ for the
+morning report.
+
+d) Set the Death-Wish progit to activate the Help-Beam progit, the
+Med-Inject progit with the staydose, and detonate the Sleep Grenade by my side.
+
+The preceding examples all assume the character has the necessary
+progits to perform the indicated actions.
+
+The Master-Comp progit is so complete that you can instruct it in
+simple terms and if it has nay questions it will ask you. The drawbacks to this wonderful
+progit are that a) only 20 commands can be programmed in at any one time, b) it takes the
+place of two progits on the bodycomp, and c) if over 15 commands are programmed in, it
+uses an enormous amount of energy. A kingpack could conceivably be drained in one month
+(at the GM's discretion) if the bodycomp is constantly on and performing numerous
+functions. This is why environmental suits, deep space suits, and powered assault armor
+are so expensive to operate.
+
+**Mind-Drive:** (Must be used with Brain-Link.) This progit is
+used with vehicles that the character has the skill to use. It comes with a set of cables
+that are permanently attached to it and that can be plugged into the guidance control of
+various vehicles via an SComp-Link. Once plugged into the vehicle the character can drive
+it with his mind, thus his reactions are much, much faster and the chance of avoiding
+accidents are much better.
+
+While the character still uses his normal skill level for operating
+a vehicle, he adds a +1D to his skill for keeping the vehicle under control during
+emergency stopping, skid turns, bumping, and other stunt maneuvers.
+
+**Mind-Mount:** (Must be used with Brain-Link.) This progit is an
+advanced form of Prog-Motor. It comes with one minimotor specially designed for an
+ordinance weapons mount (Medium to Heavy Repeating Blaster,  E-Web Blasters Cannons).
+When physically aiming this weapon, with which the charater must already have a skill, the
+normal modifiers for movement, and size are ignored, and hte range difficulty is reduced
+one level.
+
+**Mind-Teach:** (Must be used with Brain-Link.) This progit comes
+in a variety of types: languages, skills, histories, and so forth. When this one-shot
+progit is inserted and activated, the character can do nothing for two days but stare as
+if in a trance. If anyone turns off the user's bodycomp at this time the lesson has not
+been learned and the progit is useless as it erases itself as it teaches.
+
+There are two different kinds of Mind-Teach progits. The most common
+type conveys temporary knowledge that might be forgotten in weeks, days, or even hours.
+The duration is left to the GM, as is the content. This progit is most useful is emergency
+situations were the character must have a member who can perform a task, pass as another
+character, etc.
+
+The second kind of Mind-Teach progit is much rarer. Its knowledge is
+gained by the character permanently. The only time a GM would want to introduce this into
+a campaign is as a major reward for accomplishing a goal.
+
+It is impossible to tell these two Mind-Teach progits apart.
+
+**FINAL COMMENTS CONCERNING BODYCOMPS**
+
+The personalize computer can vastly expand a character's identity
+and abilities, if used properly. Avoid bogging the game down the overuse or
+over-concentration of technical items, but allow the players to experience some of these
+new items. A wise GM will introduce only the lesser versions of the bodycomps at first:
+sixpacks, Type A or B progits, and Type A or B type processor packs.
+
+Break the players in slowly to this new concept so that, by the time
+the campaign is ready for the more powerful progits, the players' use of the basics is
+second nature. This will save both the GM and the players a lot of time continually
+referring to the equipment section for even the simplest progit explanations.
+
+PROGIT ACCESSORIES
+
+**Progit Reprogrammer:** This device allows a character with the
+Computers Programming: *Bodycomp Programs *skill to alter or purge a progit.
+
+**Battle Bodycomp Belt:** This synthsteel overly completely
+surrounds the bodycomp and attached progits, making them relatively invulnerable to
+everything except nuclear or anti-matter attacks. GMs should let common sense prevail
+here. If a character wishes to remove a dead NPC's bodycomp that is encased in a battle
+bodycomp belt, he can either try to unlock it (Very Difficult: Security Lock Level) or
+blast it open.
+
+**Fake Progits:** These progits look like the real thing but are
+actually empty and weighted to feel normal. They can be used for securing small items or
+information, fitted with explosives as a booby trap for anyone trying to steal the belt or
+progits, or just occupy space on the bodycomp, giving the impression of a powerful
+individual.
+
+| <br><br>BODYCOMPS<br><br><br> | Cost | Mass |
+| --- | --- | --- |
+| <br><br>**Bodycomp Belt**<br><br><br> | <br><br>**+1000**<br><br><br> | <br><br>**2**<br><br><br> |
+|   |   |   |
+| <br><br>**Power Packs**<br><br><br> |   |   |
+| <br><br>Sixpack<br><br><br> | <br><br>200<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Tenpack			<br><br><br> | <br><br>300	<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Fullpack<br><br><br> | <br><br>400<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Kingpack<br><br><br> | <br><br>500<br><br><br> | <br><br>1<br><br><br> |
+|   |   |   |
+| <br><br>**Computer Processor Packs**<br><br><br> |   |   |
+| <br><br>Type A<br><br><br> | <br><br>500<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Type B<br><br><br> | <br><br>750<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Type C<br><br><br> | <br><br>1000<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Type D<br><br><br> | <br><br>1250<br><br><br> | <br><br>1<br><br><br> |
+|   |   |   |
+| COMPUTER PROGITS |   |   |
+| <br><br>**Title**<br><br><br> | <br><br>**Cost(Cr.)**<br><br><br> | <br><br>** Mass(kg)**<br><br><br> |
+| **Type A** |   | <br><br>**-**<br><br><br> |
+| <br><br>Audio-Act<br><br><br> | <br><br>300<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Calc-All<br><br><br> | <br><br>600<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>CAS-Interface<br><br><br> | <br><br>100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Chrono-Calc<br><br><br> | <br><br>100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Talk<br><br><br> | <br><br>400<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Dis-Viz<br><br><br> | <br><br>150<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Helm-Link<br><br><br> | <br><br>100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Help-Beam<br><br><br> | <br><br>250<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Help-Call<br><br><br> | <br><br>150<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Map-Calc<br><br><br> | <br><br>200<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Trans-Comp I<br><br><br> | <br><br>700<br><br><br> | <br><br>-				<br><br><br> |
+|   |   |   |
+| **Type B** |   |   |
+| Bio-Center |   |   |
+| <br><br>Body-Scan<br><br><br> | <br><br>1100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Brain-Scan<br><br><br> | <br><br>1000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comm-Link<br><br><br> | <br><br>1200<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Droid-Link<br><br><br> | <br><br>1300<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Med-inject<br><br><br> | <br><br>900<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Prog-Lock<br><br><br> | <br><br>850<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Prog-switch<br><br><br> | <br><br>800<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Trans-Comp II<br><br><br> | <br><br>1400<br><br><br> | <br><br>-<br><br><br> |
+|   |   |   |
+| <br><br>**Type C**<br><br><br> |   |   |
+| <br><br>Ani-Link<br><br><br> | <br><br>2000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Brain-Link<br><br><br> | <br><br>3000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Sight I<br><br><br> | <br><br>2000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Sight II<br><br><br> | <br><br>2200<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Sight III<br><br><br> | <br><br>2400<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Death-Wish<br><br><br> | <br><br>1200<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Enviro-Comp<br><br><br> | <br><br>1350<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Fast-Scan<br><br><br> | <br><br>1300<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Hear-All<br><br><br> | <br><br>1600<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Natur-Act<br><br><br> | <br><br>1750<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Prog-Motors<br><br><br> | <br><br>1100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Stop-Hear<br><br><br> | <br><br>2100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Truth-Tell<br><br><br> | <br><br>1500<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Type D<br><br><br> |   |   |
+| <br><br>Beam-Boost<br><br><br> | <br><br>2900<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Caic-Boost<br><br><br> | <br><br>2800<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Link<br><br><br> | <br><br>4500<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Comp-Sight IV<br><br><br> | <br><br>3500<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Master-Comp<br><br><br> | <br><br>5000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Mind-Drive<br><br><br> | <br><br>4000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Mind-Mount<br><br><br> | <br><br>3250<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Mind-Teach<br><br><br> |   |   |
+| <br><br>Language<br><br><br> | <br><br>1000
+<br>-7000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>History<br><br><br> | <br><br>1000
+<br>-3000<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Skill<br><br><br> | <br><br>1000+ (Dice
+<br>x 2000)<br><br><br> | <br><br>-<br><br><br> |
+|   |   |   |
+| <br><br>**PROGIT-ASSOCIATED HARDWARE**<br><br><br> |   |   |
+| <br><br>Audio-Act Throat Microphone<br><br><br> | <br><br>100<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Battle Bodycomp Belt<br><br><br> | <br><br>70<br><br><br> | <br><br>2<br><br><br> |
+| <br><br>Bio-Center Implant<br><br><br> | <br><br>400<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Bio-Center Operation<br><br><br> | <br><br>1900<br><br><br> | <br><br>N/A<br><br><br> |
+| <br><br>Brain-Link Cortex Coordinator<br><br><br> | 5000 | <br><br>-<br><br><br> |
+| <br><br>Brain-Link Operation<br><br><br> | <br><br>6000<br><br><br> | <br><br>N/A<br><br><br> |
+| <br><br>Comp-Talk Ear Insert<br><br><br> | <br><br>75<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Death-Wish Switch(Extra)<br><br><br> | <br><br>30<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Dis-Viz Half Visor<br><br><br> | <br><br>55<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Dis-Viz Laser Projector<br><br><br> | <br><br>125<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Fast-Scan Board	200<br><br><br> | <br><br>2<br><br><br> |   |
+| <br><br>Help-Beam Receiver<br><br><br> | <br><br>280<br><br><br> |   |
+| <br><br>Map-Calc Readout Screen<br><br><br> | <br><br>140<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Med-Injection Unit<br><br><br> | <br><br>90<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Prog-Lock(Extra)<br><br><br> | <br><br>20<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Prog-Micromotor(Extra)<br><br><br> | <br><br>100<br><br><br> | <br><br>0.5<br><br><br> |
+| <br><br>Prog-Minimotor (Extra)<br><br><br> | <br><br>200<br><br><br> | <br><br>1<br><br><br> |
+| <br><br>Prog-Switch(Extra)<br><br><br> | 25 | <br><br>-<br><br><br> |
+| <br><br>'Progit Reprogrammer<br><br><br> | <br><br>325<br><br><br> | <br><br>2<br><br><br> |
+| <br><br>Progit(Fake)<br><br><br> | <br><br>10<br><br><br> | <br><br>-<br><br><br> |
+| <br><br>Droid-Link Receiver<br><br><br> | <br><br>600<br><br><br> | <br><br>3<br><br><br> |
+|   |   |   |
+
+---
+
+| [![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)<br>**Back
+<br>    to Star War's Source Material Page**](../source.htm)  |
+| --- |
+| [![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)<br>**Back
+<br>    to Star Frontiers - Star War Conversion Page**](homepage.html)  |
+| [![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)<br>**Back
+<br>    to Star War's Page**](../homepage.html)  |
+| [![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)<br>**Back to my Homepage, Greyslayer's Lair
+<br>    & Seawolf's Den**](../../Ron.htm)  |
+| Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).  |

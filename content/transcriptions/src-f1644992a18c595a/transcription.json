@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-f1644992a18c595a",
+  "name": "starlines3",
+  "sha256": "f1644992a18c595a55b743e4919ad9b52f15a2ad62ac69e2db7172612445ecd1",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/starlines3.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e58e9f2db95da12f0c17ccb45cdf8edcb01181ab37ba888a36e3484dd4d82a9c",
+  "fileHashes": {
+    "book.md": "b653252874228e116414b41b6030050571589fd3fb2df137a88f75e97e608895",
+    "pages/0001.md": "30e996ff04aecfcf97288d7cba4e5335e59d217501eb9fa4d3d222c54acc9dac"
+  }
+}

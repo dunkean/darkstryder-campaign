@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4bf1622ff2b5852d",
+  "name": "DSTanquilla",
+  "sha256": "4bf1622ff2b5852d41dbf80b06f456cdf9481542976f0f9e972e683aefd7b6cd",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSTanquilla.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6a2c573f528c9514a6a356c24434c557cf4c3fa8105ff6a835510ff859aaf729",
+  "fileHashes": {
+    "book.md": "2c76f30bb99644a3bd83326b48b41af771c42b3819d37016e1950fafbc052f2b",
+    "pages/0001.md": "a59688e385a29164ac31fb4ebb43bf0d2ea036d0946ccc81e59a42bbe08ec656"
+  }
+}

@@ -1,0 +1,146 @@
+# DSINT10
+
+Source: `src-3e2dde5691f2234a` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-3e2dde5691f2234a; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Intel Reports: NR Intel Log 10: Kathol Campaign"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**
+[Image locale absente : images/nrlogo.jpg]
+**
+
+**NR Intel Log 10: Kathol
+    Campaign**
+
+**
+[Image locale absente : images/nrlogo.jpg]
+**
+
+---
+
+Report 10044: Alpha
+
+Date: DS 115
+
+Sarne is officially on the run into the Outback.  The base at Timbra Ott will
+serve as a base of operations for the remainder of the *Farstar* mission.  All
+intel reports and mission status reports will be sent from and to there.  The support
+fleet will move its port there.  The *Farstar* is instructed to pick up
+Sarne's trail, and continue with the directives as first defined in the original mission
+briefing. We know for a fact that his remains alive, as does a majority of his
+closest loyalists.  He apparently sent the less loyal into his first wave of attack.
+
+While Sarne heads through the Outback, skirmishes with his forces continue along the
+Marcol Void, and the edges if the Kathol Outback.  Sarne left small pockets of ships
+in several different places in these areas, and some of the New Republic Fleet is mopping
+those up.  
+
+One of the largest skirmishes is taking place near the Pimbrella League.  The New
+Republic Task Force there is having trouble with the locals, and their small fleet of
+Old-Republic era corvettes.  They are only protecting what they feel is theirs, but
+unfortunately, this means they attack us as well as the Imperials.  The Imperials
+have enough fire power there to wipe out their small fleet, so the we are  hoping
+that our fleet reaches the Imperials before the the League fleet does.
+
+Outside of your original orders, the *Farstar* is left to make more of her
+decisions that we have allowed in the past.  Because of your remoteness, we are
+forced to let you make your decisions based on the intel we send.  Make your
+decisions carefully, for one wrong jump could give Sarne the time he needs to do whatever
+he is doing.  You are on your own.
+
+---
+
+Report 10045: Alpha
+
+Date: DS 116
+
+Timbra Ott has proven to be a valuable ally. The clans united under our leadership
+well, and have promised anything we need, as long as we recognize them as an independent
+state and the Noble House Council allows them representation.  Hammering that
+agreement out will be difficult, but we are well on our way.
+
+At first, the Timbra Planetary Clan Council did not appear to have their own defense
+fleet. However, that fact is not entirely true.  They share a defense fleet with a
+smaller colony 5 days jump from Timbra Ott, called Sapella.  The Fleet, called the
+Nova Cloud Strike Force, is currently orbiting around Sapella, under repairs. The fleet,
+made up of three Clone War destroyers, was damaged in an attack from an unknown force.
+  Reports from there are sketchy due to the low-tech of both Timbra Ott and Sapella.
+  All they know is that they were attacked and took on heavy damage. The enemy's
+status is unknown.  There are no reports that any of Sarne's forces have retreated in
+that  area, but it is possible. That sector of space is 20+ days hyperjump to the
+Minos Cluster, on normal hyperspace drives, which is the second closest system to the
+Minos Cluster ( Kal'Shebbol is 10 days), so it is possible that some other Imperial force
+in retreat from the Minos Cluster attacked them.  
+
+Timbra Ott does not have full control of this fleet.  The colonial council of
+Sapella also has a say.  This fleet would be invaluable to our efforts against Sarne.
+  At some point, the *Farstar* may want to drop in and contact Sapella.
+
+---
+
+Report 10046: Alpha
+
+Date: DS 116
+
+Data recovery on Kal'Shebbol is continuing.  Among some recovered
+records is evidence that Project Storm Giant was one of many twisted projects Sarne
+sponsored without Imperial approval.  One is called Project Nuniok Dak.  
+Research reveals that this was named after some kind of Sullustan demon.   Anything
+the Farstar can find out about it would be most helpful.
+
+---
+
+Report 10047: Alpha
+
+Date: DS 117
+
+Deep Space Scouts have detected a droid pod being launched from an
+Imperial fast attack ship towards the Binaros system  The *Farstar* can
+investigate if deems necessary.  It may be a feint by Sarne or his minions.
+
+---
+
+Report 10048: Alpha
+
+Date: DS 118
+
+Through the Smuggler Alliance (now called the Free Traders Alliance),
+the New Republic has contacted some of the Outback traders that regularly make runs in
+that area of space.  One thing that stands out among most of the intelligence from
+them is a story about a "ghost ship".  Interpretations vary, but all point
+to some kind of mysterious ship wondering hyper-ways of the Outback.  Be advised,
+there is no evidence to prove this as a fact, but the *Farstar* crew should be
+aware.
+
+---
+
+Report 10047: Alpha
+
+Date: DS 118
+
+The Free Traders Alliance of Kathol reports that several of their ships
+have gone missing in the area just beyond Jangelle.  The *Farstar* should be
+advised, and observe caution in that area.  There is little known about that area,
+but some of Sarne's forces have spread out, so it is possible it could be Sarne.  
+However, we doubt Sarne and his men would bother attacking neutral, unarmed and lightly
+armed Free Traders. This needs to be investigated, if the *Farstar* can fit it
+in. It's your call, *Farstar*.
+
+---
+
+[Previous](DSintel9.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSintel9.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSintel11.htm)
+
+[![Image](images/cd334ef5dc5f150489e11fed8ded1bf8d8b1f2aa05b63f8e66e591668eafc604.gif)
+Back
+    to Intel Main](DSintel.htm)

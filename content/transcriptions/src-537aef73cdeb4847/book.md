@@ -1,0 +1,97 @@
+# weg_erratta2
+
+Source: `src-537aef73cdeb4847` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-537aef73cdeb4847; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+WEG Erratta
+
+![weg.gif (3765 bytes)](images/0c664d8a2f6c0b43200db2a9ecce7d2787ad68e603856dbdfa9ab90667c577bc.gif)
+**WEG
+Erratta:  Stock Ships**
+
+---
+
+**Photocopy Percentages **
+
+As promised, here's the photocopy percentages to use the deckplans in
+Stock Ships with the Star Wars Miniatures Battles rules:
+
+
+Stock Ships Errata-
+
+
+Due to a printing error, the photocopy percentage (to make the ship deck plans scaled to
+Star Wars Miniatures Battles) was ommitted. The following percentages should suffice:
+
+
+Lantillian Short Hauler: 160%
+
+Starwind-class Pleasure Yacht: 285%
+
+Starfeld Z-10 Seeker: 120%
+
+Corellian YT-2400: 150%
+
+Corellian XS-800: 170%
+
+Hyrotil Crescent: 170%
+
+Kazellis Light Freighter: 190%
+
+Nova-Drive 3-Z: 240%
+
+Rendili-Surron Starlight Freighter: 310%
+
+Suwantek Systems' TL-1800: 150%
+
+Starfeld ZH-25 Questor: 130%
+
+Corellian HT-2200: 300%
+
+Barloz-class Medium Freighter: 240%
+
+Surronian L19 Light Freighter: 300%
+
+Mon Cal Deepwater Freighter: 260%
+
+
+* Note: These percentages are approximations, for ease of use. For more precise figures,
+use the following formula:
+
+
+Ship's Length in Meters divided by 2.
+
+
+Divide the result by the length of the ship (in inches) on the actual map.
+
+
+Multiply the result by 100. The final result is the percentage to set a photocopier to
+enlarge the map to 25mm scale.
+
+
+Sorry for the error, folks.
+
+
+Eric Trautmann - WEST END GAMES
+
+---
+
+---
+
+[![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)
+**Back to
+Star War's Source Material Page**](source.htm) 
+
+[![Image](images/8f919e3aa6657d92dcc20d7523a1dec5da38204d01c912db2309e7dda2427c12.jpg)
+**Back
+to Star War's Page**](homepage.html) 
+
+[![Image](images/934b897acc57417d25b1aa828ce57462ea335a473018d06cc90fbec68352a25f.gif)
+**Back to my
+Homepage, Greyslayer's Lair & Seawolf's Den**](../Ron.htm) 
+
+Some Icons obtained from [Graphics Station](http://www.geocities.com/SiliconValley/6603/).

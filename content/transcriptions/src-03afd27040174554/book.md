@@ -1,0 +1,424 @@
+# LordsofKathol
+
+Source: `src-03afd27040174554` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-03afd27040174554; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+
+
+The Lords of Kathol
+
+The Noble Houses Of Kathol
+
+Add-on Sourcebook for the Darkstyder Campaign
+
+(Game Effect Note:  Effectively, all the basic information about Noble Houses and their structures that is introduced in the Lords of the Expanse (LotE) box set Chapter 1 of the Gamemaster Guide is also applicable in some way here.)
+
+Introduction
+
+The Kathol Core Sector (inside the Marcol Void) once was the site of a small Noble aristocracy during the Old Republic.  However, like many things of that era, it all but collapsed due to its own squandering and petty political infighting.  The Great Noble Houses of Kathol were reduced to a handful of houses, occupying the small area of space that is now the known Kathol Sector.  However, if the Old Republic Collapse wasn’t enough to completely render the Noble Aristocracy powerless, the Empire nearly was.  Moff Sarne was assigned to the outback sector, and in traditional Empire fashion, ripped the power right from under the Nobles noses, without them even realizing it.
+
+History: The Old Republic Era
+
+During the Old Republic Era, Kathol Sector was very different. Despite it’s remoteness, it was moderately colonized by a mixture of human and non-human Noble houses seeking an area to settle and be away from the Old Republic rule.  It flourished for a time, a time long forgot, long before the Old Republic collapse.  There were more systems contained in the sector, and the Marcol Void had yet to be discovered.  Many of these planets now are long forgotten, hyperspace routes lost in the Collapse.  Now the only rule the small amount of planets grouped in the known Kathol Sector.
+
+The Houses rules with strength and wisdom, but not without the politics and underhanded alliances and deals that accompanies any aristocracy.  Even today, on each of the planets where more than one house exists, there is still infighting amongst them.  The Houses rule over commoners, and traded amongst each other, made profit and lived lavishly like any other Noble house.  At times, this sector was called the little Tapani.  Corporations primarily allied with one or more houses, and the Trade Guild ruled over commerce, trade and labor of all kinds.  However, where the Nobles of Tapani measured there gains and power by the number of  systems they controlled, the Houses of Kathol measured their power by the land the controlled on each planet.
+
+Gandle Ott was the capitol and remains so, according to the Noble houses.  The Empire moved the official Capitol to Kal’Shebbol, a much contended issue at the time, but the Nobles only partially recognize it as such to preserve the Nobility.  After the Collapse, and before the coming of the Empire, the remaining houses struggled to regain its own power.  Despite their attempts to get away from the Old Republic, too many ties and dependencies lead to their own collapse when the old Republic began to crumble.  Too much squandering and political infighting caused the destruction of many of the Major houses.  Now there are only 5 left.
+
+The Collapse, as it’s called locally, is a time when the old Republic was falling apart politically, and this in turn seemed to effect the sector great deal.  Internal stress, and political infighting caused a major structure collapse politically.  The sectors social infrastructure was in shambles as a result of  skirmishes through the sector.  Houses made and betrayed alliances left and right. New houses formed from factions weekly, and fell just as fast.   Stability was nonexistent during this time.  During the collapse, many of the outlying  colonies lost contact with the sector core, records on their hyperspace routes were lost,, and many colonies died off due to lack of supplies.  It was a struggle during this time, until finally peace was made, and things settled down with the remaining 5 major houses.
+
+History: The Coming of The Empire
+
+The coming of the Empire was marked with very little flare and fanfare.  The Noble Houses that remained saw fit to work with the Empire the best they could.  This sector was treated much like the Tapani Sector, except on a much smaller scale.  Sarne even recruited some of the House Lords and Ladies into Imperial service.  Many of the Houses agreed to be loyal to the Empire. Other houses waited in the shadows for the opportunity to overthrow the Empire rule,  Word of the Rebellion only came late in the war, and too late to do anything about it.  Very little word of the Emperor’s death has reached the Houses even now.
+
+In return for Imperial protection, Sarne confiscated what remained of the House Fleets, primarily the Hyperspace capable ships, and left behind enough in-systems ships for the houses to defend themselves with.  The Houses were reduced in power, and in most cases split up across light years on many worlds.  Communication was difficult, with Imperial Jamming and monitoring stations being installed daily.  The Nobles had no more power than the Empire was willing to give, but they kept their identity and their honor through the hard times.  Sarne gave them enough to feel like they had power, and some truly believed the Empire would allow them to regain their true stature within the Kathol Sector.
+
+The Situation Now:
+
+The Houses remained somewhat fragmented, with factions spread across the dozen planets or so.  The factions communicate with the capitol only in code and rarely, most of their news about the other factions obtained by the local newsnets.  All of the houses remain intact for the most part.  Some have lost factions spread out across the sector, and once the news of Sarne’s oust is fully realized, there will be a mad dash to re-contact all the missing factions.  House Shador is one house in particular that is very interested in contacting their factions, because they have the most that are lost.
+
+Sarne allowed the Noble Houses to exist, because many were reasonably loyal, and supplied him with soldiers for his fleet.  Those that were loyal were given shavings of power and responsibilty, and the Fleets would occasionally fly by there system for assurances.  During Sarne’s Purges, many of the loyal houses were spared his paranoid vengeance while the more traditional, bolder houses were imprisoned, interrogated and in  most cases, killed.  These purges made many Major Houses into Minor Houses rather quickly, and then to nothing just as quickly.  Noble power shifted quickly during the 10 years of Sarne, and it was primarily due to the actions of Sarne himself.
+
+The Houses
+
+There are 5 Major Houses in Kathol, and 22 Minor Houses.  During their peek, the 5 Major Houses met in the Kathol High Council.  While under the rule of the Empire and Moff Sarne, the Council only met with Sarne approval and attendance, and only on Kal’Shebbol.
+
+The House Courts are similar to the Tapani court system (See Lords of the Expanse box set.).  The High Council is nearly identical to the Grand Noble Council of the Tapani System.  All delegates are resident on Gandle Ott.   House Defense Forces at the time of Sarne’s ousting are sparse. Some house factions have a few in-system ships.  Others have a substantial air and ground defense of speeders and troops.  Most Houses have been hiding hyperdrives for their ships since Sarne arrived, and have been waiting to use them when he leaves.
+
+Sarne recruited many of his troops from the houses, and the Houses allowed it thinking that it might give them power with in his ranks.  However, they did not count on the Darkstyder technology, and in fact, they all are completely unaware.  All they know is they lost complete contact to those that entered his ranks, and they became completely loyal to Sarne. This was before Sarne’s paranoid purges.  Something triggered his purges, and no one is sure what.  Some of the House recruits fell victim to these purges.
+
+The following is a table of the major planets in the Kathol sector and the percentage “power” each house has on the system.  This Percentage “Power” is a mixture of measures: Population, Assets, and Influence.  The Total Noble house control is a measure of the Nobility’s overall influence in the system.  The remainder is non-aligned “power” and Minor House “power”.
+
+|Planets/House   |House Ik’Tal   |House Karadol    |House Shador    |House Brakia    |House Kathor    |Total House Control    |
+|Kal'Shebbol     |11%            |17%              |0%              |11%             |12%             |51%                    |
+|Kolatill        |12%            |25%              |2%              |22%             |10%             |71%                    |
+|Charis          |4%             |5%               |11%             |9%              |11%             |40%                    |
+|Oon Tien        |3%             |4%               |1%              |2%              |0%              |10%                    |
+|Gandle Ott      |18%            |14%              |19%             |15%             |11%             |77%                    |
+|Mairne          |12%            |11%              |3%              |12%             |19%             |57%                    |
+|Peirs           |0%             |12%              |2%              |7%              |9%              |30%                    |
+|Ivatch          |18%            |5%               |2%              |9%              |11%             |45%                    |
+|Pembric II      |2%             |4%               |0%              |10%             |1%              |17%                    |
+|Galtea          |4%             |3%               |1%              |3%              |1%              |12%                    |
+|Torize          |3%             |6%               |1%              |12%             |3%              |25%                    |
+|Brolsam         |9%             |10%              |1%              |13%             |14%             |47%                    |
+
+
+The Major Houses are the following:
+
+House Ik’Tal
+
+ • Systems
+
+See Table Above
+
+ • Values
+
+The House Ik’Tal is the oldest and most prestigious house, although not the most powerful.  There is a certain sense of honor when you are with the House Ik’Tal, but that honor is becoming less and less meaningful.  The House Ik’Tal hold tradition as the highest value; following the ways of the Church to the letter, honoring the Jedi Saints of the Church.  The follow the ceremonies set down by there ancestors long ago, and are traditionally very lavish in there undertaking.  They put on a good show, as if they still had the power  they once had, but now it’s all a show and no more.
+
+ • High Lord/Lady
+
+High Lord Gres Dorek leads the House Ik’Tal, and he is no more than a puppet leader.  He is old and honored by all the families of the house.  He is the most beloved of the Ik’Tal Lords in recent years.  But he will pass on soon, and the next in line is in question.  According to tradition, it would be his eldest son.  However, the Lord never had one.  He did, instead, adopt a young boy 20 years ago, one that was found in a sleeper pod launched from some unknown origin.  This is where the controversy lies, and so many are feuding over what the Law calls for in this case.
+
+ • Description
+
+Ik’Tal has a history that reaches back thousands of years, before the settlement of the Kathol sector, when the House was part of a long  forgotten aristocracy in the Core.  Many Noble houses from that area of the Core moved pout to the Rim, settling in different sectors of space, intent on starting their own empires.  Ik’Tal lead about 20 houses from the Core to the Kathol sector and along with thousands of independent settlers, colonized it.
+
+Ik’Tal has the largest amount of Troops of all the houses.  However, it also uses some of the lowest tech among the houses.  Trading with mercenaries, and smugglers was beneath the House Ik’Tal, so they had to rely on internal weapons production.
+
+ • Allies
+
+Ik’Tal have a few allies.  Their strongest allies lie with the Church of  Kathol Prophets.  Due to their traditional beliefs, House Ik’Tal has strong ties to the Church, and usually follows with their ruling.  They also have some allegiances in the House Shador, but they are very shaky.  They once had a strong alliance with House Brakia, but it collapsed after an incident involving a large shipment of food and humanitarian aid from House Brakia to some outlying colonies in the Rim Worlds was attacked and destroyed by what appeared to be a faction with in the House Ik’Tal.  In reality, it was an Imperial plot to break up the alliance.
+
+ • Enemies
+
+Ik’Tal is not lacking in the enemies either.  House Brakia is now an enemy.  House Karadol is also a long time enemy since the early years of settlement.  Karadol remained a minor house solely due to Ik’Tal’s actions, and when the Empire arrived, and gave Karadol enough power to be considered a Major house, Karadol vowed revenge.  The Empire has kept Karadol’s revenge at bay, however.  Ik’Tal originally saw the minor house as a prodigy, doing all things “with the House Karadol’s best interest at heart”.
+
+ • Assets
+
+Ik’Tal’s primary assets lie in mining, and construction.  Ik’tal used to run the corporation that owned  the Wathor Ott Shipyards around the fourth world of the Gandle Ott system.  That corporation, Wathor Ott Construction is still based on Gandle Ott, but only produces in system ships.  The Shipyards were confiscated and dismantled by Sarne.  Ik’Tal also has interests in Mairne Mining Conglomerate, based on Mairne.
+
+ • Secrets
+
+Ik’Tal holds the secret to the location of the hidden shipyards in on of the Rim systems in the Stellar Northern Rim Worlds of Kathol.  This system is called the D’Garan System, and is not well known too m any, and to some who have heard of it, consider it a myth.  Given the opportunity, the House will transport personnel to the abandoned shipyards, and immediately start building their forces.
+
+House Karadol
+
+ • Systems
+
+See Table Above
+
+ • Values
+
+Karadol is another relatively old house.  It is a strong player in the Imperial political system here in Kathol.  It supported their coming and benefited most from their arrival.  House Karadol is a collaborator house, a house that allies with the most powerful entity at the time.  It’s a parasite, at times, sucking as much power from the leadership as it can.  It has no ties to the Church and does not hold to their ideals.  They are expert information brokers, and slicers, and also are expert manipulators of the truth.
+
+ • High Lord/Lady
+
+Lady Tamayra Bildrusor, the Empress of manipulation and seduction.  She is also known as the Black Widow.  She manipulates many minor houses that follow in their shadow.  She is a beautiful woman with incredible seduction powers.  She is said to have a brothel of minor house Nobel princes in her palace.
+
+ • Description
+
+Moderate sized house, where the women are considered equal, and in some factions superior. It was at one time a minor house, vying for power under what the considered the “strict and ruthless custodianship” of the House Ik’Tal.  They felt that Ik’Tal stifled their potential, and was very eager to gain the power of a major house.  When the Empire arrived, the quickly allied with them and was granted major house status with the power the Empire granted House Karadol.
+
+ • Allies
+
+The Empire and some fragments of the Shador House. Many minor houses look up to Karadol, and admire it for it’s prowess.  Many minor houses keep their alliance with Karadol secret in order to act as spies for Karadol.
+
+ • Enemies
+
+House Ik’Tal has a strong disdain for the House Karadol’s collaborationist attitude and non-traditionalist views.  Ik’Tal holds strong grudge against Karadol for it’s “betrayal of tradition”.
+
+ • Assets
+
+Karadol’s assets revolve around this sectors vehicle and in-system ship development (some of which it took from House Ik’Tal.).  It also holds strong ties to the information network and the info-underground in the Core worlds of Kathol.  It also has ties to the Black Market and the pirates in the Kathol and outer Kathol Rim areas.  Karadol has strong investments in several corporations in the sector, including GandleMotors (Based on Kolatill), and Kal’Shebbol Transport (Based on Kolatill).  Karadol’s primary controlled corporation is Ja’Dason Agricultural (Based on Kal’Shebbol) and Kathol Shipping Enterprises (Based on Oon Tien).
+
+ • Secrets
+
+House Karadol have numerous secrets because the are experts at secrets.  One of their largest secrets is what they call their “Ace in the Hole”.  They have established a strong network of minor house forces, mercenary groups and pirate bands that they could mobilize a significant force against any threat they might perceive.  With the money and power they gained from the Imperials, they could pay enough of these groups or pull enough favors to have a strong enough force to at least hold their position as a Major House.  They are plotting a plan to mobilize these factions in a concerted effort to regain many of the lost Rim worlds, and establish an Empire that will eventually engulf the Sector.
+
+House Shador
+
+ • Systems
+
+See Table Above
+
+ • Values
+
+Ruthless, Self-centered, self-preserving.   House Shador has always been known as the maverick house, and also a more “barbaric” houses.  They abide by a strict honor code, and have strong disdain for non-humans, and their women are almost subservient, although they are never treated as slaves by the men, and are veryu well protected.  Women of true-Shador blood are held in great honor.  House Shador members are perhaps the strongest and most reliable warriors of all the Noble houses, which explains why they are able to hold on to their power for so long, even after the “Shattering”.
+
+ • High Lord/Lady
+
+Lord Hask Orphiod, a mountain of a man; prides himself in his physical strength and challenges any wookie to take him on.
+
+ • Description
+
+At one time on of the most powerful noble houses, House Shador is now by far the weakest house in political power, but strongest in will power. The House Shador is also  known as the “Shattered House”, because it’s primary power structure and information network was dismantled and strictly restricted by Imperials in the Sector.  Shador has lost contact with the majority of it’s factions.  House Karadol is the primary watcher of House Shador activity, and sabotages any efforts made by Shador to regain it’s original power.  Shador is unaware of Karadol’s role and only knows that it’s due to Imperial action that they cannot regain their power.  The primary reason for this dismantling is the uprising on Charis, which Shador was primarily responsible.
+
+House Shador resembles now a series of minor houses.  Each house has now a version of the Shador name, like House Ra’Shador of Mairne, or Jas’Shador on Charis.  The factions continue to hold true to the honor of Shador, but feel that they can no longer rely on the House High Lord on Gandle Ott.  They do not feel abandoned, as much as they feel they were given more independence during hard times.  They still talk of re-uniting  the House, but over the years, differences have grown in each faction and a reunion might destroy the house from the inside.
+
+ • Allies
+
+House Ik’Tal is their strongest ally.  However, as Shador’s power id slowly bleeding out, some of it is being absorbed by Ik’Tal, unknown to the head of House Shador.  Also, House Brakia is a strong ally with Shador, but with the recent break in allegiances between Brakia and Ik’Tal, it has become difficult to be allies with two feuding houses.  For now, Shador stays out of the feud.
+
+ • Enemies
+
+House Karadol  is considered and enemy, but only because they seem dishonorable.  As stated, the are unaware of Karadol’s true role in the Shattering, but if they did know, it would be all out House War.
+
+ • Assets
+
+House Shador had many assets at one time, most of which were confiscated by Sarne and the Empire.  Shador primary corporations were H’Akorus Developers Incorporated, hi-tech developers based on Charis, and Trans-Kathol Transport Systems based on Kolatill, primary travel and freight shipper within sector before the Empire arrived.  Currently, a conglomeration if the 4 other houses control these corporations, and Shador is not allowed to be involved in any corporate activity.  House Ik’Tal however has been kind enough to funnel information and some controlling decisions to the House heads on Gandle Ott.
+
+ • Secrets
+
+Shador holds a dark secret.  At one time, there house was ruled by a Dark Jedi.  During those times, the house grew in power, and ruled large portions of the Kathol Sector.  The house tries to forget these times, because of the horrid things the Dark Jedi did to other rival houses.  Many of the houses are now long forgotten, but they were all slaughtered viciously by the Dark Jedi for his own power.  The souls of those killed are said to still power some of his dark force items, which are still hidden among the royal vaults of the Noble house palace.  His dungeons also exist and their location kept secret by the top Shador Lords and Ladies.
+
+House Brakia
+
+ • Systems
+
+See Table Above
+
+ • Values
+
+Nothing matter more to House Brakia than power and honor.  They all feel that they are destined for greatness and act like it.  The value strength, and are very prideful. They are usually expert Melee weapon combatants.  They are also expert military engineers, and tacticians.  Many of Sarne’s imperial ranks come from House Brakia.  They value showmanship and strength, their political events are best described like sports events.  They are also proud merchants of their goods, and stand strong on the guarantees.  They are good business man with their products.
+
+ • High Lord/Lady
+
+Lord Gres’Iad Oldress, a large and gluttonous man, he is known for his extravagance and perceived wealth.  He is a collector of fine weaponry and is known to call for gladiatorial games when the fancy hits him.  His house secretly supplied Sarne the exotic weapons used in his own gladiatorial games.  He is also a proud showman, and his palace is an extravagant show-place.
+
+ • Description
+
+House Brakia is an extravagant but strong house. They pride themselves in there weapons making abilities, and have parades solely to display each families’ latest creation.  House Brakia is an moderately old house, and is strong in its standings now.  It has survived solely due to its combat prowess and abilities in war and war-machine making. Of all the Houses, major and minor, House Brakia is best known for their parades, and other events to show off their pride and boost morale.  Their weddings are also very extravagant, and every house looks forward to the year the Grand Noble Council meets at the House Brakia palace on Gandle Ott.
+
+ • Allies
+
+House Kathor is a strong ally to Brakia, and the commonly work together on ventures, although they do conflict when Brakia wants to spend hard-earned credits on a extravagant gala to celebrate their profits.  House Shador is also an ally, but this alliance is shaky because of Shador’s alliance with Ik’Tal.
+
+ • Enemies
+
+House Ik’Tal is a sworn enemy, and Karadol is mistrusted but not an enemy.
+
+ • Assets
+
+House Brakia, before the Empire’s arrival, had their primary assets in weapons development.  When Sarne arrived, that all changed. They still have a stake in the corporations they used to control, but Sarne ruthless took control of a majority of the assets in order to “insure peace in the sector,” and to “re-align the corporate goals to something more compatible to Imperial interests.”  The primary corporations that this house has interests in is Destructo-Developers Corporation (DDC) of Gandle Ott, and Heshler and Krask Arms Developers.
+
+ • Secrets
+
+House Brakia has a dark secret as well.  At one time, they had among their ranks a secret society of assassins known as the Brodian Order, also known as the Black Order.  The Brodian Order were killing machines of the highest quality, efficient and cunning. Most believe that after the Third Age of Brakia, the Order was disbanded, but in actuality it has not.  Very few in the upper echelons know, but the few that do are held to a strict code of secrecy. They wait in the wings, to strike against their enemies, and take dominant power for themselves.
+
+Another secret held deep within House Brakia concerns them and their relationship with Sarne.  House Brakia supplied Sarne with some of their most heinous and painful weapons.  They also provided personnel for his gladiatorial games and training facilities, which populate many of the core worlds.  They have close ties to the Sabiador Slavers, although not willingly. These facts are not something the house is proud of, and works hard to keep secret.
+
+House Kathor
+
+ • Systems:
+
+See Table Above
+
+ • Values
+
+Nothing matters more to House Kathor than money and the power that can be gained from it.  Kathor is a young house comparatively.  They are the expert merchant and traders, but are not always the most trustworthy business man.  They value their ability to put spin on their contracts, and write them very vaguely to allow for more interpretation.  If one doesn’t read the contract carefully, one could be at risk of being taken for a ride. They respect good business sense, and believes, above all, a Noble house should be run like a business. House Kathor is notoriously cold and calculating.
+
+ • High Lord/Lady
+
+Lord D’Gara Mang is the current Lord of  Kathor.  He is the typical calculating CEO-archetype, cold and calculating.  He does not discriminate when dealing with customers, and expects a strict code of professionalism among his customers. He was trained in the hard-core echelons of the Trade Guilds, and excelled at all his business courses.
+
+ • Description
+
+Kathor was formed in the early years of the colonization of Kathol when several enterprising colonist wanted to start a corporate noble house.  This developed well, and as time went on it was quite apparnt that Kathor would be a major player in the noble aristocracy.  It was cold and cunning in gaining its power, and very calculating.
+
+Kathor, upon the arrival of the Empire, was the least effected.  They seemed the most adaptable to the situation and took advantage of it at every chance they could.  Most of the time, though, their dealings with the Empire were in secret, and hidden from all other houses…. It was best for business.
+
+ • Allies
+
+Kathor allies with no one outright, although it does establish friendly business with certain houses, while it restricts business with others.  In reality, Kathor secretly works closely with Karadol, using their expertise in the  information brokering business.
+
+ • Enemies
+
+As indirectly stated before, Kathor doesn’t make enemies, or at least tries to avoid it at all costs.  If House Ik’Tal knew about the dealings House Kathor was making with Karadol, they would be declared a sworn enemy of House Ik’Tal.
+
+ • Assets
+
+Kathor have extensive assets, but tries not to concentrate on one market.  Their primary business is in free merchant trading, and some secret smuggling through a corporation called KathorCorp.
+
+ • Secrets
+
+Kathor holds many secrets, many of which relate to business and the way it conducts it. One of it’s primary secrets is its secret stash of hyperdrives.   These are hidden in one of KatholCorps secret black project bases.  Another secret is that is did a few black projects for Sarne and the Empire, which involved use of subjects from some of Sarnes’ Non-human concentration camps.
+
+The Trade Guild
+
+ • Systems:
+
+Anywhere a Noble House is, a Trade Guild House is. These houses act a recruiting stations and university campuses for the different trades that are available through the Trade Guilds.
+
+ • Values
+
+The Trade Guild attempts to be neutral with respect to the House politics, and requires that any of its students to do the same while in training.  The Guilds supply all houses with the trained professionals needed to run a small noble empire.  The believe in strength in professionalism and pride in ones work.  The training at the Guilds is impeccable.
+
+ • High Lord/Lady
+
+Each Guild is lead by a Master,  There are countless Guilds, and so countless Masters.  However, the trade Guilds meet together on Gandle Ott in the Guild Council, which is lead by the High Guild Master, which is right now a woman named Rashora G’Doreck.
+
+ • Description
+
+The Guilds are a conglomerate of labor union-like organizations, training guilds, and merchant guilds that supply the noble houses with personnel and trade management for the sector.
+
+ • Allies
+
+The Guilds have few allies, as they try to be as neutral as possible.  The houses occasionally attempt to influence the Guilds decisions around trade.  The Guilds must work closely with the Church, as they approve what is taught, manufactured, and traded. The relationship between the Guilds and the Church have always been rocky, but no one on either side really thinks that they will come to blows.
+
+ • Enemies
+
+The Guilds make as many enemies as the do allies.  Most of their enemies are independent traders that don’t want to have to deal through the Guilds, or non-house corporations that have compete with the favored Guild-supplied and house-sponsored Corporations.  However, few corporations ever make it out this far in the galaxy, and so there are few real problems with corporations.  The Guilds hate smugglers and pirates, and constantly work to stop that kind of activity.  Just for that function, the Guilds established the Guild Guard, a special enforcement group to combat these problems.  Before the Empire, the were greatly feared by pirates and smugglers, but when the Empire arrived, the guard had to officially disband and relinquish authority to the Imperials.
+
+ • Assets
+
+The Guild owns several major universities across the sector.  They have a large freighter and transport fleet, but restrict use of their ships to Guild members.
+
+ • Secrets
+
+The Guilds harbor secrets abound, all depending on which Trade you are dealing with.  One of the primary secrets the Guild High Council holds is they know part of the secret of Sarne’s strength and ability to turn loyal Noble knights to loyal Imperial soldiers.  It involved Darkstryder technology and it’s ability to warp the mind.  They believe he implanted a Darkstryder device in each of them and is controlling them using the power of Darkstryder.  However, they also know that he dies not fully understand the capabilities of Darkstryder.
+
+Another secret the Guilds hold is their support for the Rebellion and the New Republic.  The few Rebel agents that filtered in during the Galactic War were able to generate strong support from the Guilds.  Also, the Guilds officially disbanded the Guard, but in actuality they went underground, helping the Rebels, and acting as a Rebel Cell on each of their planets.   They are still unaware of Sarnes departure, but as soon as they learn, the Guard will be re-established.  The fear is that the re-awakening of the Guard might give the Houses enough of a sign to get the idea the Sarne is out.  This will cause severe unrest on many planets, so some within the Guilds want to wait and see, when the news does come down.
+
+The Church Of Kathol Prophets
+
+ • Systems:
+
+Anywhere a Noble House is, there is at least one Church of the Kathol Prophets.  The Prophets control nothing directly.  They manipulate those they can to a central purpose that serves the “Prophets needs”.
+
+ • Values
+
+The Church follows the Prophets’ wishes, and their commandments.  The Prophets follow a common moral path that coincides with most moral beliefs, but has a strong disdain for Jedi and Force users.  Technology is also closely watched over by the Church, at times claiming certain technology forbidden.
+
+ • High Lord/Lady
+
+The High Cardinal is the leader of the Church, and rules on anything the Prophets see fit to envision him with.  The current  High Cardinal’s name is Father Jas’Iak Moduros, and he is granted Holder of the Key and Seer of the Prophets.
+
+ • Description
+
+The Church was established before the Houses had made a stronghold in the Sector.  It started as a cult that had found some alien technology on Gandle Ott.  As the religion spread, and more people began to share the visions, it began to take a strong hold on the society of the Kathol Sector as the Noble Houses started to build up in the sector.
+
+It was established by a group of wayward monks who felt lead to this sector by dreams.  These monks, lead by a human named Brother Wes’Lyn Arabus, founded their on Gandle Ott, and claimed they had found devices of the “prophets” that will guide them to heaven.  These devices are explained in Secrets.
+
+With these devices, the Cardinals are granted inspiring visions that are used to guide the Noble houses.  So far, the visions have been dead on, which explains why the Noble Aristocracy’s strength of will and ability ot survive such diverse and difficult times.  It’s because the prophets see a greater horizon for them all, and calls them to continue their efforts outward to the Marcol Void and beyond.
+
+The Church is given a wide range of authority.  It has proven bad to challenge the Church in the past, and so each house agreed to give the Church the power that it has.  It makes rulings on what is good for the people of Kathol spiritually and socially, and usually has a string say so on what can be traded, manufactured, etc.  The Empire was less granting in their respect of the Church, but through secret dealings with the Church and a not so well known commandment from the Prophets, the Church was able to make an alliance with the Empire, all for the good of the Nobility.
+
+ • Allies & Enemies
+
+The Church has enemies in all houses, but every house recognizes the authority of the Church.  They make enemies by bringing down the rule of the church rule on trade and technology development, which at times, can be heavy handed.  The Church makes no outward appearance to be allied with anyone, putting on the guise of impartiality with respect to the houses, but they have made temporary pacts in the past, and now hold one with the Empire.
+
+ • Assets
+
+The Church assets are extensive.  Before the Empire, they had an extensive Inquisition Department, which acted as the watchdogs over the House development of technology.  If a House is suspected of developing outlawed tech, the Church “brought down the Inquisition”.  Sarne was able to use the Inquisition Department,  persuading the Church to only recruit brothers loyal to him into the Inquisition.
+
+ • Secrets
+
+The Church has a very deep secret, and it’s the most questioned secret.  “Who are the Prophets of Kathol, and where is the message coming from?”.  Only the Church heads truly know the nature of the Prophets, and their visions.  The devices they founders discovered were actually modified Gree technology that was re-built by the original inhabitants of Gandle Ott.  There is no sign of these inhabitants because the Gree found out that someone was tampering with their technology and returned.  They wiped out all trace of the race, but not before the race was able to hide the devices in a mountain.
+
+These devices are smaller versions of the Gree hypergate, and are used for personal use.  They are kept in the catacombs of Gandle Ott Grand Cathedral of the Prophets, which was built on the site these devices were found.  Other devices have been found since then throughout the sector.  When one enters one, they are transported to a floating structure in the middle of the Kathol Rift, called the Sanctuary of the Prophet.  This floating structure was once an Gree observation post, but now acts as the Prophet’s Sanctuary.  This structure is fully operation and can support life.  This is where the visions come from. The Dark Jedi’s presence, along with the many Jedi that died fighting him, can still be felt, and to some Force-sensitives, they sometimes communicate to them. The Brotherhood of the Prophets have no idea who is speaking to them, but they know that a majority of what has been brought back from the Temple has been true. Only the Church officials also hide the true nature of the Prophets.  The majority of the Church, including the leadership, is being manipulated by the Dark Jedi’s presence.  However, there is others who listening to the less power voices; the light side voices.  The form a small secret faction with in the Church called the Church of the Light Prophets.
+
+Yet another secret held by the Church in the secret deal made between them and the Empire.  The Empire was allowed access to the Inquisition Department, if the Church was allowed to function unchanged, and not give up it’s secrets to the Empire.  The Church became the Sarne’s own internal intelligence agency, and still acts as such.  The Church never saw more growth than during their alliance with the Empire. The news of Sarne’s departure will shake the Church to it’s foundation.  Many noble houses hold strong resentment towards the Church, and if their power base is pulled out from under them, few can guess what the Houses might do.
+
+The Church has done a number of things in the name of the Prophets, and some were never really inspired by the visions they claim to have.  Some were ordered by Sarne himself.  The Church, since the coming of the Empire, has expanded the Inquisition Department to include some very dark secret organizations that act on behalf of the Church but are untraceable to it.
+
+The Church also has a secret fleet which they use to bring down the law of the Church.  This fleet is partially modern technology, partially Gree technology, and partial Darkstryder technology which the Church found on there own.  Sarne never knew about this fleet.  They are virtually undetectable, and are quite formidable, but the church has vowed to the prophets to only use them in the enforcement of their will.
+
+Minor Houses of Kathol
+
+There are at least 22 minor houses and perhaps more that haven’t been recognized yet.  These houses reside on one planet or maybe two, and have little to know power in the over all infrastructure of the aristocracy.  They are usually subservient to a Major House in some way, but not all are.  Some houses are populated with non-human species, and for now, these houses are underground, hiding from Imperial persecution.  Due to the volatility of the minor houses, it is hard to actually list them, but there are a few that actually have enough stability to be listed.
+
+House Twa’Legra
+
+ • Systems:
+
+Spread out thinly across the Rim Worlds of Kathol.
+
+ • Values
+
+The Twa’Legra is a Twi’lek species-only House, formed by cast out Twi’Lek outlaws and ex-slaves.  They are very shrewd businessman like the House Kathor, but have few ethics where business is concerned.  They work closely with Chuborro the Hutt, and many of the other criminal organizations, and are waiting the battle out to make a profit from the coming House wars they expect to follow.  They are also a lot like House Karadol, but even more darker and parasitic.
+
+ • High Lord/Lady
+
+Lord Forganor Rutt is a strange individual.  He is eccentric even for a Twi’lek.  He has a strong loyalty to the house, but also a very conniving and vindictive; true to his species.  He has rapid mood swings and is quite paranoid.  He has a special guard of Defel-wraiths to keep watch over him.
+
+ • Description
+
+Twa’Legra is a struggling House, but it perseveres.  It has been here since the first colonization of Kathol, but has never been a major house with in the sector.  They have worked with every major house, parastically getting the power they have.  The Houses usually express disdain when dealing with Twa’Legra, but they do their work so well, most houses have little choice.
+
+The Twi’Leks of Twa’Legra are best known for doing the dirty work of other organizations, including the Noble Houses.  They are among the best in black market trade.  They are a supply havens for local smugglers and bounty hunters, and have an extensive underground network.  They are banned from any activity with the Trade Guilds, and the Trade Guilds prohibit any House from interacting with them (…like that stops them.)
+
+The Twa’Legra are not without their own Church, which is not all that different from the Church of the Kathol Prophets.  It is called the Church of the StarWind. They have a secret order within the Church that works closely with the Empire as well, but never working with Sarne.  They have dealt with some of Sarnes cronies, but never directly with Sarne.  The Twa’Legra  Church keep watch over the House, and define their “moral” foundation.  This means that they make sure that no individual does anything to jeopardize the house.  They say they listen to the StarWinds of Marcol, and follow their predictions.
+
+ • Allies & Enemies
+
+The Twa’Legra have many enemies, and few friends.  They work closely with Chuborro the Hutt, as mentioned, as well as a few Herglic merchant syndicates in the area.  They are one of the primary conduits that the black market goes through.  They have connections through out the Kathol underground.
+
+The Trade Guilds and the Church of Kathol both have strong disdain for the House Twa’Legra.  Their activities with the smugglers and pirates of the sector have always been against Trade Guild Policy.
+
+ • Assets
+
+Twa’legra live off their contacts and the work they do for other organizations.  They have a small freighter fleet, a strong information network, and their hands in everything illegal, underhanded, and seedy that exists in the Kathol Sector and surrounding areas.
+
+ • Secrets
+
+House Twa’Legra has many secrets, of course, most of which relate to how they sometimes work the middle and while working two sides against each other to make a profit off of it.  One of their primary secrets is the size of their freighter fleet and what exactly they have in it. They actually have a sizeable fleet, and most are medium to large freighter that are heavily modified, and armed.
+
+House Umbriok Nel
+
+ • Systems:
+
+Primary World:  Ilastross
+
+ • Values
+
+This mixed-species House is a strange one. They are more a club than a House, but take on all the guises of a noble house. Not many other Houses take it seriously, but it still endeavors to become a major house.  It holds strong it’s own values of honor and truth.  The House is unstable, and are always working to increase its stability.  They are convinced that no matter the cultural upbringing or the sentient species, that an honorable and strong house can be formed.  Compromise and diplomacy is common among this House, which slows it’s growth.
+
+
+
+ • High Lord/Lady
+
+
+
+ • Description
+
+This is a house of human and aliens mixed, formed long ago by a conglomerate of wayward colonists looking to fit into the Kathol Sector aristocracy.  They are a small group, and relatively unstable.  No high Lord or Lady has lasted more than 10 year at the head of the house.
+
+ • Allies & Enemies
+
+
+
+ • Assets
+
+
+
+ • Secrets
+
+
+
+
+
+Other Societies of Kathol
+
+The Kathol aristocracy is not with out it’s secret societies.  However, because of it’s remoteness, and relative  compactness, the sector has not given long life to too many of them.
+
+Yaskarak’s Tribe of the Tattooed Tentacle
+
+Description:
+
+A group of fringe Twi’lek that actually act more honorable than most Twi’leks.
+
+The Society For A Free Kathol
+
+A anti-noble house fanatical group that commit true terrorist acts against the Noble Houses.
+
+The Church of the Light Prophets
+
+This is a secret faction of the Church that say they “listen to other voices of the prophets… the ones that follow the light side of the Force”.  They are fighting the Dark manipulation of the Church and the Kathol society by Dark Jedi.  Their numbers are small, and it has been getting harder and harder to stay organized, because the Church majority is starting to catch on to there operation.
+
+
+

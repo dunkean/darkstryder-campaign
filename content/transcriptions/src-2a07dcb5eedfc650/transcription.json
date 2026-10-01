@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-2a07dcb5eedfc650",
+  "name": "Wilddie_houserule",
+  "sha256": "2a07dcb5eedfc650d43f88b0d2aa222f2e34daab5779c8e76b46f3a084e4b711",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/Wilddie_houserule.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "d2c4e616e1fadea1698dace276f09c8b04fa8771db2200c5d2dfce457ea84dc0",
+  "fileHashes": {
+    "book.md": "cb6bd17bdb222ed03681bd6aa56f8e16e49c0f240dc69bca8e00b4608ae65b42",
+    "pages/0001.md": "0e070a0e550eeb023ddc392886cf9c109bb347b8394e28bc47fca72a32d38904"
+  }
+}

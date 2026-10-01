@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-25017bfe3dc3fd7b",
+  "name": "DAJUS",
+  "sha256": "25017bfe3dc3fd7bbbaa7e0a290e2c4d6ba4ba7a00a42531756a97c81a7b5619",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/DAJUS.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a873c61a48897af4a746a6cfef88e52c653d52ed894a1267e102d745d6ba24f9",
+  "fileHashes": {
+    "book.md": "25964eb73846bc970a00b2a8b19cb6daf30499dffb835fd32e5d3db5e377cb52",
+    "pages/0001.md": "cf0cdfaeb972634135a06f5095f7529eb68a911610426bdf6c8e804cb7046b7d"
+  }
+}

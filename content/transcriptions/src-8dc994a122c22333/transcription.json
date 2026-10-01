@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-8dc994a122c22333",
+  "name": "Analia",
+  "sha256": "8dc994a122c22333a1a0b3624b2a4cf2fcaebd5bfabf89ff32b0bc0e8e0480b2",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Analia.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Analia.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "60b2c0c8bcb594959d4eb4bcc626b2cf6c77b3c21985190198146630a8333acb",
+  "fileHashes": {
+    "book.md": "80b1c5a8e6cb430a3170fed9901533cab59a2987fd5e6769c867a9d3807d2df2",
+    "pages/0001.md": "e430e48124ef0ea59a2b7bb02fd91a921e794f3dcbdff83077b75133886d957b"
+  }
+}

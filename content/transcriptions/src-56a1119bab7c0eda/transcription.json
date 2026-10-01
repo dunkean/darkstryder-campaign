@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-56a1119bab7c0eda",
+  "name": "DSastromap",
+  "sha256": "56a1119bab7c0eda97fd6eaa4df9299bcd81cdf75a143dc197e5a73188f82fe5",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSastromap.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "3b04eb653846bedc159104f5d3347fa46bf5c884840ac6a6c916ee36a34132e1",
+  "fileHashes": {
+    "book.md": "6663278299a4ec1694387933ee09604824bc8bc57ec0b6c279012a84a74c04a8",
+    "pages/0001.md": "cf36bab7d84ba5b92f7af9e4327d95c0c6379971dfe0cfedfff85298b46f4de2"
+  }
+}

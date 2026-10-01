@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ac35f66077b9b47c",
+  "name": "tresidiss",
+  "sha256": "ac35f66077b9b47c18fb1449e13424a320dcbdd86f12eb5c32179d93bffe98ef",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/tresidiss.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "10a99917f8693aa95487bb27f18d0ae7d6fb4f57e736df23fe8303f119633046",
+  "fileHashes": {
+    "book.md": "52ac7d0f80ed066c699b96187067416b2dc02bc25b64776acb787d134b784f51",
+    "pages/0001.md": "44afdeca02c07995b4c59c42621e94c4805b96b23f4be2345f26186c1ac53f26"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-48ae72707420bca8",
+  "name": "DSINT15",
+  "sha256": "48ae72707420bca805a7cf306ff2b6582673b9fb3b799d33a822a6fab8e53dad",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSINT15.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "46cdeaaf250b719b7c6026a9614e5909c437ddd143b3ac962fd766a4c8629312",
+  "fileHashes": {
+    "book.md": "2b55a30362b005cdbcce15718dabc1437c15831f42f0475abc308a5cdd53fc14",
+    "pages/0001.md": "7e4351a86ca0f7820c6e08e83d8911efbc3ab17ecf8673bcb64f9593eb3de791"
+  }
+}

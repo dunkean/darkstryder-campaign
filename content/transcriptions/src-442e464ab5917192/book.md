@@ -1,0 +1,22 @@
+# JDajus
+
+Source: `src-442e464ab5917192` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-442e464ab5917192; document_unit: 1; format: doc; engine: local-document-conversion-v1 -->
+
+Jessa Dajus’s Past
+Jessa Dajus has a sorted past.  The Empire was an answer to her prayers.  The New Order was an opportunity for her to redeem her family honor, lost in the corrupt and crumbling Old Republic.  She started out in the Imperial Army, and after receiving several honors, she was given an opportunity to serve in the Renik division of Imperial Intelligence.  Renik was the counter-intelligence specialists of the Empire.  In Renik, she served under many commanders, but seemed to excel under her last, Commander Sarne.
+She served under Sarne while Sarne excelled all the way to Moff in a few short years.  There, she served as his personal agent, “Inquisitor”, and occasional lover.  Her job, while Sarne ruled the Kathol Sector, was to supply the Moff with information on all his closest agents, advisors, and subordinates.  She would supply the dirt, and he would supply with the means to dispose.  She was never told what the means were.
+As things progressed, she began to see Sarne’s megalomania and paranoia. At the same time, she became obsessively interested in this mysterious enigma known as Darkstryder. She began to question what she was doing, and doubt the information she was digging up.  She began to feel like she was being used, and at the same time, felt drawn to something.  This put her into a state of depression, and despite whatever relationship she was having with Sarne, she turned to a local Nobleman for sanctuary; Sir Uthor Garadlin of House Shador.  She became very close to this man.  They both worked together to investigate Darkstyder.  They got close.  Too close.
+In a fit of rage and jealousy when he found out, Sarne framed Garadlin as a seditionist.  Dajus saw the frame coming, and protected Garadlin when Sarne’s assassins came.   She fought off the assassins as Garadlin escaped into the rear of the spaceport.  She followed him a few minutes later, only to find him dead in an ally.  She didn’t see any assassin, although in her mind’s eye, she thought she saw the shadows move.
+Her closeness to Darkstryder and her betrayal caused Sarne to deem her a traitor.  She was captured and put in Sarne’s dungeon.
+What She knows of Darkstryder:
+All DS devices she has seen are one use, and unique in some way.
+They are made of some kind of organic metal
+The devices emit an odd energy that screams in your head.
+The energy is highly manipulative, as is the technology that creates them.  
+Some DS devices energies can be sustained if connected to a living being (implanted)
+

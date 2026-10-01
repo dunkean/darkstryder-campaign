@@ -1,0 +1,128 @@
+# DSDARKSI
+
+Source: `src-7ae67d0db27cf305` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-7ae67d0db27cf305; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+"Masters of Exocron: The Dark Side of Exocron"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+***"Masters of Exocron:
+The Dark Side of Exocron"***
+
+---
+
+The *Maxion* was a mighty vessel, and Trev was fascinated by it construction.
+  It's weapons were a combination of gas-propelled gyrojet style weapons,
+gaussian-propelled weapons, old-style pulse-blasters, and ionic field generators.  It
+was built to take advantage of the high speed winds of the gas giant, and with the use of
+repulsorlift technology, the crew and the structure could withstand the high-Gs of the
+varied accelerations they were able to obtain.  The trip to the other side, some
+60,000 kilometers away, wouldn't be as long as expected.  As the dipped into the
+lower atmosphere, dawning pressure suits to withstand the high pressures and more toxic
+gases, the scene was quite colorful.  The clouds were varying shades of red and
+orange, against a backdrop of their star, and the swirling energies of the Rift-fragment
+nebula.  The high-wind sales engaged.  The ship groaned as it increased to an
+extremely high speed.  
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/skylark1.jpg]
+They all had taken a rash coarse on how to
+fly their Skylark fighters.  They were primitive, but workable.  There was a lot
+more to compensate for in the atmosphere of a gas giant, like the lack of land below you,
+but nothing Trev and the other couldn't handle.  He himself used to pilot freighters
+and privateer fighters all the time to Bespin and planets like it.  
+
+The time on the Maxion was regulated, and it told him it as his sleep shift. Much as he
+liked watching the streaming gases flow by the observation lounge canopy, he knew that
+anything could happen within the next 48 hours.  Exocronians believed in long days,
+so he had to get some sleep.
+
+*****
+
+The alarm shook all of them awake.  He must have woken thirty time due to
+turbulence.  He wasn't used to getting that much sleep at once, either.  The
+alarm was signaling enemy vessels closing.  The fighters were ordered to scramble,
+which meant Gorjaye and the rest also.  They quickly dressed and were on the flight
+deck in minutes.
+
+They attacked from the western horizon, a squadron of attack flyers, backed by several
+enemy dreadnoughts. For a nation that is not supposed to exist, the Western Hemisphere
+certainly was well armed.  The battle rage ferociously until the Maxion retreated
+deeper into the depths of the gas giant.  Knowing the fact that the Western
+Hemisphere dreadnoughts were built well enough to handle the lower atmosphere turbulence,
+Captain Darr was able to save his ship and crew from certain death.  
+
+Trev's battle in the Skylark went well, adding to his theory 'You fly one, you've flown
+them all...'
+
+The lower depths of the gas  giant were a nightmare.  All crew was ordered to
+the lower pressurized sections of the ship, all fighters were ordered stowed.  
+Workers in ENVI-suits worked feverishly in the high-pressure, and high wind environment to
+get all fighter moored down.  The ship was tossed around like a toy.   A few
+workmen were tragically most in the turbulence.  The Exocronians shrugged it off
+after a moment of mourning, siting 'It's the life of an Exocronian.   A risk you take
+as an air warrior...'
+
+For a long time, they played a game of cat and mouse with the enemy ships, some
+actually risking the ship and crew by going as deep as the *Maxion* to catch them.
+  Darr proved to be the better captain, leaving behind only clouds of falling debris.
+
+*****
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/qeksprl.jpg]
+Days later, they slowed to a crawl and inclined to the upper atmosphere, on
+the western hemisphere.  The first thing they saw was a a massive network of sprawls,
+all interconnected with cabling and long mag-lev rails, with shuttles and small freighters
+launching constantly.  In the center was a massive black floating city, of a design
+never seen by any Exocronian.  These were not Exocronians populating these sprawls.
+  They were Qek.  And there were Devisor dreadnoughts, in their traditional back
+and red, interspersed among the Qek ships and speeders.
+
+Captain Darr formed an away team of primarily the *Farstar* crew, and sent them
+in to gather intelligence.  An enemy they were lead to believe was simply other
+Exocronians, was actually the Qek, and the Devisors were in league with them.  Darr
+had to find out why.  He was sure he wouldn't like the answer, but he needed evidence
+to prove to the people that the Devisors have had too much power for too long.
+
+Gorjaye and Trev with Sooni and hte others headed up a team to infiltrate one of the
+spoke-sprawls.  From there they would attempt to get ot the central sprawl.  
+Meanwhile, the *Maxion* would hide in the lower atmosphere.  
+
+The infiltration went relatively smoothly once the group dawned clothing of the Qek
+guards.  Inside it seemed like a hude industrial complex, with shipments of product
+coming and going.  But what was the product.  Trev had seen gas mining before
+and this was definitely not one.  The stowed away on a mag-lev train that went across
+one of the spoke-like cable-rails lines.  It was a perilous journey.  The car
+they travelled on was not designed for passengers.
+
+Once they reached the main sprawl, they  saw what the product was.  They were
+humans.  The engineers of Exocron were solving one their society's worst problems,
+overpopulation, by selling their criminals and prisoners to the Qek, to me made into Qek
+zombies.  Some were used as slaves and shipped off to one of the moon mining centers.
+  This was found with a quick browse of computer files in one of the loading bays.
+  They also encountered unexpected visitors... a group of Imperial Stormtroopers.
+  In their battle across the cable-rail to the spoke-sprawl, the did catch a glimpse
+of a triangular shadow above them, about the size of a Star Destroyer.
+
+Their extraction was a little more messy, and they had to play another cat
+and mouse game to escape from the Qek ships.  The Qek ships could travel further than
+even the *Maxion* could, but all its sensors were usless, which gave the *Maxion*
+the advantage.   It was a long trip home, but they returned safely with few
+casualties.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/exocron2.jpg]
+
+---
+
+[Previous 
+[Image locale absente : ../../icons/yl_l_arr.gif](DSMutiny.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSMoonsofEx.htm)
+
+[[Image locale absente : ../../icons/timeline.gif
+Back to Timeline](DStimeline.htm)

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-2cfa093fafd470cc",
+  "name": "DSSapella2",
+  "sha256": "2cfa093fafd470ccdf05d511a5cc527ea7bac32c9d759be01e978f624029d7e3",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSapella2.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "5048b72b90cf8c709274ef230755edb1482698c60298a3fe94260937eb8b5907",
+  "fileHashes": {
+    "book.md": "b6f0edcb70a93d579e552e7bd4699b9820d653a29b041b39e1ff8da3b34f5f19",
+    "pages/0001.md": "a3b7e106a616fdde68b8a0ec3b98a7d7e8d82a9a3c5c9e720a10ee35d3fe93d5"
+  }
+}

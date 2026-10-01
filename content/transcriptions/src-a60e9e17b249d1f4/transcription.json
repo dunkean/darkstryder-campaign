@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-a60e9e17b249d1f4",
+  "name": "rules",
+  "sha256": "a60e9e17b249d1f45e5afe5f03d6a56db7192aca33aba442ac8362e624ba9b9c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/rules.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "ce1e46a5d500997b11b1fdad57fd3c65b91205e223a71e418e1becfeee56ed7d",
+  "fileHashes": {
+    "book.md": "20fd2375ceaa69d843788bad61a26ff79de0bed0f19ff4d3b2d449e0c1c303d6",
+    "pages/0001.md": "cf34e9059e4d2e67186b955f3fa7346a194a78f252d62ee50438bac0c615fa8e"
+  }
+}

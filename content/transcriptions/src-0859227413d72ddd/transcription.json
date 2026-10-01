@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0859227413d72ddd",
+  "name": "SWDragon",
+  "sha256": "0859227413d72dddfc56c635372ad12467fc1f0cb633ccfd5b48995f1eba6f7c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/SWDragon.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "c69b2c15a34bf81981312dd303b1b2cfb5284fe13abe39046e75401db9ad340f",
+  "fileHashes": {
+    "book.md": "123ed35475da3b7491a19a76151d6b20f26a046c38531e20445b6145aef88b19",
+    "pages/0001.md": "ec532173bb0fd9068865511a30027df491510a791f81adb94d43a7ddde1a87b2"
+  }
+}

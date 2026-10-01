@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-4583956926ffc50e",
+  "name": "darkstryder_episodeguide",
+  "sha256": "4583956926ffc50ee428acb75d4358c12a98f8313df1c1daac04bd3150f3c33e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/darkstryder_episodeguide.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "59e966b585e84eeeee05aaa4df23fb91c428b5fc773365fce615477734dc06ad",
+  "fileHashes": {
+    "book.md": "a1bdacf20cd2ecbd5f72cf213876f5760cc02c950bc60a394598845a8a979c4c",
+    "pages/0001.md": "51c6dc167df8a1f68ae911fba023035d4f3842d582c1f8599abdcd6607e51bf6"
+  }
+}

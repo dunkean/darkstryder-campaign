@@ -1,0 +1,50 @@
+{
+  "sourceId": "src-b248e66f29d33e5b",
+  "sha256": "b248e66f29d33e5ba325327178e43e4622f99836f234c6a2716f1aeb0f6f90b8",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 4362,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/785d2d08ee332683f7dbcb5bd4527f27e798de04c8560115d302ea261812d9a5.jpg",
+      "origin": "../images/d6mb.jpg",
+      "sha256": "785d2d08ee332683f7dbcb5bd4527f27e798de04c8560115d302ea261812d9a5"
+    },
+    {
+      "file": "images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif",
+      "origin": "../../icons/yl_l_arr.gif",
+      "sha256": "2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae"
+    },
+    {
+      "file": "images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif",
+      "origin": "../../icons/yl_r_arr.gif",
+      "sha256": "0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064"
+    },
+    {
+      "file": "images/2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae.gif",
+      "origin": "../../icons/yl_l_arr.gif",
+      "sha256": "2a69e381db40de3d79093e05bcc32f41eca1122d56d4d197e0b5572a3f87cfae"
+    },
+    {
+      "file": "images/0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064.gif",
+      "origin": "../../icons/yl_r_arr.gif",
+      "sha256": "0790ce90f7db998daf5719b950de48615a463acfed182f572afbee94af657064"
+    },
+    {
+      "file": "images/c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5.jpg",
+      "origin": "../images/swsmall.jpg",
+      "sha256": "c96e1c5802de7f4e715d3008104904d351c208f9ef43a318fad1771ea4a674a5"
+    }
+  ],
+  "encoding": "windows-1252"
+}

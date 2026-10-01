@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-0105f1a212155747",
+  "name": "DSGaltea",
+  "sha256": "0105f1a212155747f4b7fdcda9951906a2c668ccb5c58c7ec92d02775241090a",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSGaltea.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "bb1698bbdacd72e1b563d515468e85fe23440422bb6d9af10bee19f40d5e5a18",
+  "fileHashes": {
+    "book.md": "283b68b893f122e0c41684380dbb987af8639e1bab7d253839bb36c87761872c",
+    "pages/0001.md": "930fd738743bf9c60c438fb3e7cad801cb0deef6bec4610f1fa467aa6e0ef864"
+  }
+}

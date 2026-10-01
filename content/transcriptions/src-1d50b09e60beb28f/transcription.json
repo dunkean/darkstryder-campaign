@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1d50b09e60beb28f",
+  "name": "gorak_logs",
+  "sha256": "1d50b09e60beb28f3c26586b9bea09cf0fb7594ebd832d3a6cbc52ffb88ab339",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site/gorak_logs.html"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "6d7bdf9e8e4eb617e42119e577bc2db59bc2a73f600668fcc8f45da8036dc27b",
+  "fileHashes": {
+    "book.md": "6f2d99cd24f9d28e2df18330be193be10c8a7235e0f40ac95e234d818d563274",
+    "pages/0001.md": "aca920f2496ae848a2516fec0adbb474c616ff9237e16e7c6f074b4d0dee8c50"
+  }
+}

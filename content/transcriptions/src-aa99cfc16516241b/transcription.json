@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-aa99cfc16516241b",
+  "name": "DSTHENOB",
+  "sha256": "aa99cfc16516241bd855e3aea721794801b15140a529805ed52069f6989051cb",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSTHENOB.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "62e09a3de4301d1e139116399e7a3248fa36805b4f01f0d810c867f2cf4682e6",
+  "fileHashes": {
+    "book.md": "9647763a1ab4a104077a7cc36c1455348e21ff54c3160940120eaaa3a57f995d",
+    "pages/0001.md": "3a679da9e29ffa7f30aa5a8c8e600f943fc04aa4eed77002c406801efbe68501"
+  }
+}

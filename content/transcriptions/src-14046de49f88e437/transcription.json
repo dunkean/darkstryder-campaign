@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-14046de49f88e437",
+  "name": "SWDWMisc",
+  "sha256": "14046de49f88e4373347bf8b3f3687b640c5db803e0f61b5d7847176a0b24463",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/dragon/SWDWMisc.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "b19882e1a872273fbce091657d98aae8af6cbe3fec76be7ed3b406cc0abc2ff2",
+  "fileHashes": {
+    "book.md": "dbe8ed1003b805a5f322e6a00c5dba202142d7dcf63e4bd5c76c815e138fbd58",
+    "pages/0001.md": "e91ed733d1424bc3a395104c731a98ce5788005d756b8e40fe964922a3aa5c2e"
+  }
+}

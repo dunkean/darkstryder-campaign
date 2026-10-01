@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-47ccbf3e6b85af14",
+  "name": "DSmissionObjectives",
+  "sha256": "47ccbf3e6b85af14e58578af7367db583c490009c4a03f733607867d4ec2e81c",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/ds/DSmissionObjectives.htm"
+  },
+  "copies": [
+    {
+      "root": "drive",
+      "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSmissionObjectives.htm"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "a8f1de7f28c13a81db5dbd0440d3de0d2da3695e61ca0c3440c04fd8e06ecd73",
+  "fileHashes": {
+    "book.md": "a98aedee10f9038c06a6998f6b56d1b0c69c1954f166fb1b35a8a82a2ab3b132",
+    "pages/0001.md": "4e997e188cef19ca16d08d74062434130f7000a44af2cbb684f6947330144ba7"
+  }
+}

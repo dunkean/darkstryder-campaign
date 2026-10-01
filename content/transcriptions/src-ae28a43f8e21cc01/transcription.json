@@ -1,0 +1,33 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-ae28a43f8e21cc01",
+  "name": "Gandle Ott Itinerary",
+  "sha256": "ae28a43f8e21cc01b5c88371faef17547f6d6f0f51e5d65e601d097fcafa090b",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "doc",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Darkstryder/Gandle Ott Itinerary.doc"
+  },
+  "copies": [
+    {
+      "root": "runtime",
+      "path": "imports/archives/f9dabb82472b0d03e23fc2eb49f719b4b03625fd5cf0c4e181e211ab87ff74e0/Gandle Ott Itinerary.doc"
+    }
+  ],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "acc0454c23eb4720e11a24d26dcf539d90bf1935a38817b02190892d338e2df8",
+  "fileHashes": {
+    "book.md": "9e83854eba8bd1636fac02a7f071e2de6058232dd7f4ab0603146634bf2418eb",
+    "pages/0001.md": "4324a4da882d37fb04e976edd2c091424bf4addb67a97f4f8ebc9cc46eeab4f5"
+  }
+}

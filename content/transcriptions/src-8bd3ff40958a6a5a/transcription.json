@@ -7,6 +7,20 @@
   "pdfPages": 98,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 98,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/SourceBooks/WEG40066 Supernova.pdf"
+  },
+  "copies": [],
+  "collections": [
+    "sourcebooks"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "8b3d03658f2440f0828687bb002f193fa9e9662f87926be73c11b9d42a33db49",
   "fileHashes": {
     "book.md": "0d91dd7ed9250360e6657e7cc874eb2ed6a62d1b04726e2fb0a6e978422581ca",
     "pages/0001.md": "891065d4d3a19683fda22fa680d11b648bd0964cd5c07db8e106b676d30d465a",

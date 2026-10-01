@@ -1,0 +1,25 @@
+{
+  "sourceId": "src-4aab110697d2c68e",
+  "sha256": "4aab110697d2c68e3ea947abc29dd9e099e72162c27bccb9a7168d9b233bba28",
+  "engineId": "local-document-conversion-v1",
+  "converterVersion": 2,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "html",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 3517,
+      "flags": []
+    }
+  ],
+  "warnings": [],
+  "media": [
+    {
+      "file": "images/b965c3834943c4abdaefdab09f9bc383324d6cc2f2caa4356495353916049387.jpg",
+      "origin": "images/resurection.jpg",
+      "sha256": "b965c3834943c4abdaefdab09f9bc383324d6cc2f2caa4356495353916049387"
+    }
+  ],
+  "encoding": "iso-8859-1"
+}

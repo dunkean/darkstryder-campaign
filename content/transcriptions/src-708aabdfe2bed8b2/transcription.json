@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-708aabdfe2bed8b2",
+  "name": "masterdeck_enhancecards",
+  "sha256": "708aabdfe2bed8b22ea5080dce088e1fc5976ab0effefd1640712f87f922231e",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/d6mb/masterdeck_enhancecards.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "e71a724b8f2266f62d9a508de5755b5238071bd3161be10685c29eacdab3493f",
+  "fileHashes": {
+    "book.md": "b0d41b97802874205da50a1acc1d315b54f253b0c88b18fbc896290ab24ba913",
+    "pages/0001.md": "4ee88bc3a1c2d1b9a24034e76a9b9cff7b6cdd4c42496ffb90cf1b90ea508560"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-cf80fc25a45d1e3b",
+  "name": "DSSANCTU",
+  "sha256": "cf80fc25a45d1e3b10da9ced5beff82a8f705d6abd2e005ae3da3859dbd2ce91",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Site2/ds/DSSANCTU.HTM"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "42b60141cb8e24748d54df210a027a6f4f2994959394cbe6f3ef89ce331e7569",
+  "fileHashes": {
+    "book.md": "fdb75efe959a9730933e85fbb7537c15910261250fe327e10e44409e7cce783f",
+    "pages/0001.md": "4a7371c92170427722b93ce86bb2b1ad4295cc05099aacc67f70d6cd45ed6bb1"
+  }
+}

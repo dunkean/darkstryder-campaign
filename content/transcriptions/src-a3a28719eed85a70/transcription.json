@@ -7,6 +7,25 @@
   "pdfPages": 91,
   "engine": "Docling + RapidOCR PyTorch CUDA / TableFormer accurate",
   "provenance": "extracted-evidence",
+  "sourceFormat": "pdf",
+  "units": 91,
+  "unitLabel": "page PDF",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder SourceBook/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+  },
+  "copies": [
+    {
+      "root": "project",
+      "path": "sourcebooks/WEG40118 - Star Wars - Darkstryder Campaign- 2 Kathol Outback.pdf"
+    }
+  ],
+  "collections": [
+    "darkstryder"
+  ],
+  "evidenceProvenance": "published-source",
+  "mediaCopied": true,
+  "manifestHash": "64d4272251ba522cbee1e5fcbab4a78c60ceb3a3d4e89a8565ccf6d477ee9027",
   "fileHashes": {
     "book.md": "2225651a5ab53525b4dbf76ab8f1adde69e66b1fb5c0c4523d864e57c1bafec0",
     "pages/0001.md": "ef7e1b3c9e5b08dbe8e0d35909ba848b84c5f77a5c6840be22a1d3782e3a0ad0",

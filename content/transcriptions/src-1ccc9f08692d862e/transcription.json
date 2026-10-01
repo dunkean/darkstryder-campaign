@@ -1,0 +1,28 @@
+{
+  "format": "darkstryder-transcription",
+  "version": 1,
+  "sourceId": "src-1ccc9f08692d862e",
+  "name": "YAZIRIANS",
+  "sha256": "1ccc9f08692d862e8adae859ac63fab6d4fa9a243df8aa0ff044b48e57ebff69",
+  "pdfPages": null,
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "provenance": "extracted-evidence",
+  "sourceFormat": "html",
+  "units": 1,
+  "unitLabel": "segment documentaire",
+  "locator": {
+    "root": "drive",
+    "path": "Material/DarkStryder Addons/Tier/Sea/sw/sfsw/YAZIRIANS.htm"
+  },
+  "copies": [],
+  "collections": [
+    "addons"
+  ],
+  "evidenceProvenance": "campaign-addition-unreviewed",
+  "mediaCopied": true,
+  "manifestHash": "4f2001e098b6851622b5b4d84600012e3bfce32b73086f1a0e30ff5834fa3fba",
+  "fileHashes": {
+    "book.md": "2616b264590eb2e5f5685c72fbd9d95f83d643aee1883abdeb4511f6341faec0",
+    "pages/0001.md": "5551fed899dc2f9e55120ee6eb50f31cf2e48b5879fb0c881215546d770c99b1"
+  }
+}

@@ -1,0 +1,574 @@
+# DSGaltea
+
+Source: `src-0105f1a212155747` · unités : segment documentaire.
+
+
+## Segment documentaire 1
+
+<!-- source: src-0105f1a212155747; document_unit: 1; format: html; engine: local-document-conversion-v1 -->
+
+HTML PUBLIC "-//IETF//DTD HTML//EN"
+
+"Galtea - Murder In the Catacombs"
+
+![Image](images/487bdd01dee28a5f8d892a1a309d995728afebe7e48edb2cf7f6b030e97cd660.jpg)
+
+**"Traitor in Our Midst"**
+
+***"Part One - Murder in
+the Catacombs"***
+
+---
+
+The *Farstar* returned to Tanquilla Beach to off-load some
+of the refugees from Pembric.   While there, Gorak spotted a familiar set of
+antennae in the crowds near the docks.   It was Ned'Lx.  Suspecting the
+little Verpine was up to no good, Gorak followed him.  Keli Ned'Lx was busy with some
+of the local dock-hands loading up large amounts of life-support consumables, as well as
+other modification material to a Medium Transport.  This look very suspicious to
+Gorak, but he wasn't sure what to make of it.  He returned to the *Farstar* to
+report it to the Captain.   She didn't know what to make of it either.
+
+The *Farstar* journeyed to the remote world of Galtea.  Their goal was
+two-fold.  The ship needed supplies.  The refugees had consumed much of their
+air and food, and Tanquilla was low on stores.  Also, the captain wanted to
+investigate the possibly of stopping the Arrival.  The Church on Galtea might have
+the ability to go to the Sanctuary, and once there, a team of commandos can stop it.
+   This Arrival of a powerful Dark Jedi was nothing to take lightly. They had
+enough to handle with Sarne.
+
+The approach to Galtea was uneventful. A quick scan of the surface found the landing
+area on the outskirts of a large farming community. The scans also detected a unusually
+quiet Imperial garrison installation near that community.  A more focused scan
+revealed no Imperial activity around the garrison.  With caution, the Captain ordered
+the *Farstar* to land.
+
+The planet was a very rural farming colony, ruled by the benevolent Church Council.
+   The Inquisition had apparently moved into the garrison, and commandeered some
+of the Imperial hardware.  Contacting the Church of the Light Prophets, with the
+Inquisition walking around was going to be difficult.  The Light Prophets were a
+secret faction with the Church, one that didn't want to be discovered.  The majority
+of the church wasn't even aware of their existence.  The voices of the Light Prophets
+apparently speak to the very few.  Gorak was convinced his contact, Brother Ungro
+Jesador was a member of the Light Prophets.  His intentions were to contact him, and
+persuade him to allow them to go to the Sanctuary to stop the Arrival.
+
+The Town entourage approached the ship, to greet the New Republic. Apparently, their
+reputation preceded them. The Captain decided take advantage of this, and opened relations
+with the colonists.  Mavia Tanatus agreed to act as advisor. The Galtean diplomats
+and town mayor welcomed the New Republic with open arms. Once pleasantries were exchanged,
+they scheduled an official meeting in town hall, and the call for all the town leaders was
+sent out. That bought them time while Gorak, Mavia and Jessa went out to contact the Light
+Prophets.
+
+****
+
+Gorak, Mavia and Jessa all browsed the townspeople looking for his contact.  The
+Church monks and priests all seemed to wear the same clothing and same pendant.  They
+all lived at the Church Diocese, a large facility located in the valley below the
+garrison.  It was the most modern building in the town next to the garrison.
+   The church campus was called the Y'hadaran Castle. It was more like a
+fortress, or rather,  it once was, in the early days of the planets colonization.
+   It was a cropping of buildings, surrounded by a large wall. It included
+several barracks, a chapel, and a few administration buildings.  All were done in old
+style architecture, reminiscent of early Old Republic building.
+
+Gorak and his companions worked their way into the parish, going through each security
+check point as if they were just visiting a friend.  Since contacting the brother
+wasn't against any rules, they decided to do it by the book... for now.  They were
+each given a badge-pendant which limited their access.  They would later find out it
+also allowed the Church to track them while they were in the facility.  Apparently,
+they new came in and out of the facility on a regular basis.  Only the Empire had
+superior security.
+
+Brother Jesador was not well.  He was sick with some unknown disease that
+debilitated him, and kept him in his room.  They were lead to his room, and they
+found him laying in bed looking like death-warmed-over. His quarters were littered with
+pictures and research material on gate and hypergate technology.  He almost looked
+obsessive about the subject.  Upon seeing Gorak, he sat up and smiled.   
+"So good to see you, my wayward friend."
+
+"Not as good as it is to see you, brother."   Gorak said sincerely.
+  
+
+Jessa and Mavia both looked at each other oddly.  They had never seen Gorak this
+sincere and kind.  The conversation was shallow for a short while, but soon, Gorak go
+to the point.  He wanted to know if he could contact the Church of the Light Prophets
+through him.  He was reluctant at first, but being at death's door, he realized he
+had little to loose.  He agreed to contact the Light prophets for them.  He just
+needed to know what about.  
+
+"We want to use the Gates here on Galtea to get to the Sanctuary to stop the
+Arrival." They all were taken aback by his bluntness.
+
+"Well, that's quite a bold move.  I have someone in mind.   One of
+the Gatekeepers is of the Light Order, and he and I have been working together to prevent
+the Arrival as well.  My disease came as a result of my foolhardy efforts." He
+coughed and shifted in his bed. "  I will help you.   it must be
+stopped.  They know not what they do."
+
+"We will be preparing a team to send across to the Sanctuary.   They
+will stop the Coming of the Prophet at all costs.  We just need a way into the
+Gates."
+
+"I will take you to them, and tell you what I know... only the chosen few are
+allowed to go through.  I am not chosen which is why they say I contracted this
+disease.  I think someone sabotaged the gates settings and I did not return the same
+as I had left.  But you shall see...come, I will show you." 
+
+Gorak helped old man from his bed, and they walked down to the catacombs.   
+Apparently, the brother had some friends with in security, because they allowed Gorak,
+Mavia and Jessa to go into the catacombs which lead to the Gate Chamber.
+
+The catacombs were dark and dank, as would one expect from such a place.   At
+some point in their trek, the walls changed from the stone work of the church buildings to
+something alien... something indescribable.  They twisted through a maze of
+underground alien ruined to an ancient chamber.  
+
+"Like all church facilities with Gates, these buildings were built on top of the
+site where these were found.  This is the basis of our faith, as blind and misguided
+as it seems.  The Gates lead to one place, the Sanctuary.   Why, we don't
+know.  I have searched for the answer for years.  The Gates are strongly
+connected to the Force, I know that.  And with in the Gate's field, time is no longer
+relative.  The users enter one at a time, but no matter the order, everyone shares
+something with everyone with in that group.  Memories, thoughts, secrets...
+everything is available to the mind's eye.  The Gate also has an after effect which
+is none-too pleasant.  The user is usually quite ill after using it for several days.
+  There is no cure, only waiting for it to subside.  Anyone using it suffer
+this, regardless of species.  Beyond this Gate is the bowels of the Sanctuary.  
+I am not totally sure where in the Sanctuary you will appear.  I only stayed a short
+time before I was sent back through.
+
+"You must return later.  I must contact my Gatekeeper friend.  Leave me
+a comlink unit so I may contact you.  Your technology is considered heresy here, so I
+have no way to contact you without it."
+
+Gorak passed him a comlink-unit.  "I would like to have a moment in private
+with you brother.  I will send my comrades ahead, if you can show us the way
+out." 
+
+He lead them further into the catacombs to a rear exit that was well hidden.  He
+took their amulets and bid them farewell, and returned inside for his moments with Gorak.
+  It was not uncommon for Mavia to see someone ask for a moment alone with a priest,
+especially one like Gorak who obviously had a troubled past.
+
+****
+
+Gorak returned after Mavia and Jessa, an hour or so later.  Things were
+progressing well at the *Farstar*.  Resupplying was near completion.
+   The *Farstar* was taking advantage of the dry-dock to make repairs to
+any needed system.  The political negotiations with the Galtea colony were also going
+well.  It looked like the colonists were willing to ally with the New Republic.
+   At least, it looked like it, until....
+
+Several hours after Gorak returned from the Church, while the evening was just starting
+to fall, a comm from the church came through from just outside the ship.
+
+"This is the Inquisition of the Prophets, Second High Inquisitor Arthur Cowbragen.
+I demand you hand over the one called Gorak Khzam. He is wanted for the murder of one
+Brother Ungro Jesador. The Church has jurisdiction here, so don't try to use any New
+Republic tricks"
+
+The air was tense. The Captain was given an hour to turn over Gorak to the Inquisition
+or they would (attempt) to take him themselves. It wasn’t that she was worried that
+they could, but she was more worried that this would create a large rift in the New
+Republic relations with the Noble Houses. She turned to Mavia for help. Mavia had an idea.
+
+She called to Gandle Ott on a secure channel to go through all the assassinations she
+was involved with, or knew about, in Ik’Tal’s files and found one she could pin
+on Gorak. With a little data manipulation, and a few friends as witnesses she could claim
+jurisdiction on Gorak, but she would be obligated to return him to Gandle Ott. She just
+needed support from Gandle Ott. The Captain then had an idea.
+
+Thane B’Dorbeck could be the key. He could negotiate with Church Cardinal on
+Gandle Ott to allow them jurisdiction. On the Comm, Thane looked tired and frustrated.
+
+"I’m sorry Captain. I just negotiated a treaty with the church, allowing them
+jurisdiction when a crime is done against them. We are getting a lot of this deal. You
+have to realize that they are the main obstacle for the Kathol Sector joining the New
+Republic ."
+
+This sealed Gorak’s fate. He sat in the make-shift cell the crew jury-rigged from
+one of the escape pods, pondering what could have possibly happened. He had received a few
+visitors while there, but the hour was dragging on. He just wanted them to get it over
+with.
+
+He heard a click, then hiss, as the door of the pod opened. A shadowy figure stepped
+through. 
+
+"Kla’al??" He said.
+
+"No, Mavia… Shadow Cloaks are handy things.. I’m breaking you out. My
+plan didn’t work.". Gorak moved to step out of the pod. "No, stay. Strap
+in. You are going for a ride." She pressed the controls to engage the pod.
+
+"Oh shit…"
+
+With a loud ‘Whoosh!!!’, the pod was launched into the Galtean forest.
+
+The bridge was a mass of confusion. The cell-pod was launched by no order of the
+Captain, and they did not know how the Church would react. They would find out soon. The
+group of inquisitors left once they got word that Gorak was no longer on board, and
+promised to return with help.
+
+They had little time. The captain ordered a search team to look for the pod, and if the
+happen to run into Gorak, grab him too.
+
+****
+
+Gorak’s pod landed only a few hundred meters away from the landing site. He
+scrambled out, after regaining his senses. The impact was a lot heavier than he had
+expected. Running through the woods, he had time to contemplate words of his friend. He
+remembered, just before he died, they had started one of their unofficial confessional
+conversations. He never liked showing this side of him; the side that regretted some of
+his actions. This was the same side that got him to join the New Republic. The same side
+that has been thinking of quitting slavery for a greater purpose. Brother Jesador’s
+voice came back to him as if he was right there with him in the forest.
+
+"You must atone for the people you have enslaved and killed. There are lives to be
+saved. Balance your karma, the Force will forgive. Save more lives than you have ruined,
+and maybe the balance will return. There is still time."
+
+*****
+
+The Church did return, with all it’s hardware too. The Empire apparently had left
+them some surplus weaponry, including a few AT-ATs, and AT-STs. The Garrison turbolasers
+had a bead on the *Farstar* as well. General Quarters was sounded. Krudar and the
+rest of the gunners all sat in their turrets ready for the coming battle. Loffryyn was
+working hard to get the *Farstar* back on-line, because the ship was off-line for the
+re-supply. Life support had been vented, the ships astrogation computer were in diagnostic
+mode.
+
+The Church demanded the location of Gorak. The Captain
+didn’t know where he was, but she knew that the Church wouldn’t believe that.
+She tried to contact the search party, but they were tired up at a stalemate with a Church
+scout party. A lot of people were going to die if something wasn’t done soon. 
+
+****
+
+*
+
+Atonement. Save lives to atone for the ones you have ruined…
+
+*
+
+People were going to die because of him. Gorak turned back towards the town, and
+started walking.
+
+*
+
+Time for atonement… at least the beginning of it.
+
+*
+
+****
+
+The silence fell like a sheet. The Church stopped the communications, stopped their
+ultimatums. Weapons didn’t seem to be powering up. After a few minutes of tension,
+the Church turned around and went back to the Garrison.
+
+"The one called Gorak Khzam has turned himself in. Because of your actions, we now
+restrict your movement among our people. You have a right to defend your own crew member
+in a court of law… our law. Assign his advocate and have that person report to the
+Tribunal Council in 24 hours. The trial will be in 4 days. You may investigate until then,
+to gather evidence in his defense. Until the trial, the criminal will remain in the Church
+dungeon. Communicate to church council channels any questions you may have. Have a nice
+day…"
+
+"Great. Just great…." The Captain moaned. It was hard enough to trust
+him here on the ship, and now they had to defend him in a court of law… their law.
+"Mavia, I assign you as his advocate. Perform a thorough investigation, and maybe
+something will come out of this. Take Gunthar with you. He has a thing for know thing
+truth."
+
+The investigation went slow. Every time they tried to gather evidence, the Church would
+put up a brick wall. They were not forthwith with their security records or any other.
+Despite this, they were able to derive this evidence.
+
+- *Gorak remembers the brother locking the door they used to access the catacombs as
+      they came down into them. So there was only two ways into the catacombs: through the door
+      he used, or through the gates.*
+
+- *They suspect that there was an unauthorized use of the gate. However, getting that
+      proof was impossible, because no one other than a brother of the prophets is allowed near
+      them or the usage records. *
+
+- *The gate has an effect on a user. Whoever used the gate is very sick and has some odd
+      EM signatures about their body. All they had to do is find this person. However, since the
+      murder, the church facility has been closed to the public, and security has been
+      increased. *
+
+- *The murder was done by use of a knife. Gorak never uses a knife.*
+
+This was what Mavia and her companions had to work with. The Dr. Akenseh was
+instrumental in finding much of this evidence. They hatched a plan to insert two
+individuals, Dr. Hasslock and Dr. Seedar, into the monastery, and scan for this
+individual. Meanwhile, they will try to stall by asking for a change of venue, and put off
+the date of the trial.
+
+****
+
+Meanwhile, during all this, Clarke and his crew had been given the name of the
+gatekeeper contact and was working to find him. Their contact was also under suspicion for
+another crime; treason. He was being held in the dungeons of the monastery. That evening,
+Dervious was sent to break him out. He covered his trail by stealing another body from the
+morgue and torching it beyond recognition. Even the DNA tests would take some time, and
+that all he needed was time. 
+
+With the gatekeeper on their side, all they had to do was plan the day or night they
+were going to break into the catacombs and use the gates. They best time was when all the
+security was distracted dealing with something else; something major. The trial. Security
+preparation for the trial would be going on the night before. The night before the Trial,
+Clarke’s group would make their move.
+
+****
+
+Mavia was bound and determined to get physical evidence from the murder scene. She was
+able to get some when the church allowed them to visit the murder site, but they were
+restricted to look only within a small area around the murder scene. Some evidence did
+prove useful, but she knew there was more she couldn’t get to. She planned to break
+into the catacombs on the night before the trial, find her way to the murder scene and
+scan for any other evidence. The doctor told her he had detected signs of organic material
+further down the hall, but they could not get to it. She was going to get a sample. These
+pompous brethren were going to pay.
+
+The change of venue plea didn’t go as well as they thought. They were granted a
+hearing on the matter, but were told that this hearing was more than just to judge whether
+there was a bias and there was little chance of a fair trial. They also had to prove that
+it is worth the church’s time and credits to bother with a trial. If they could prove
+his innocence now, they wouldn’t have to worry about the trial. The church expected
+to see the evidence, to make a judgment on whether it was worth it or not. This was seen
+as a win-win situation. If they prove his innocence now, they are dine. If they
+don’t, they should get their change of venue. It seemed they were going to have a
+trial on Galtea whether they wanted to or not.
+
+****
+
+The night before the trial, a group of shadows crept to the rear entrance to the
+catacombs. Clarke had donned his stealth suit, and was in full "commando-mode".
+This church might have the best security on the planet, but it wasn’t good enough for
+the best bounty hunter in the galaxy… at least next to Boba. The hid in some brush,
+not far from the catacomb entrance, and spotted two security droids, already dealing with
+another problem. They were wrestling with another figure who apparently had similar
+intents as Clarke and his men did, but failed. The droids problem, Clarke’s
+distraction. Both Clarke and Dervious moved fast and neutralized the droids swiftly.
+
+"There is little time now. Those droids are on a network, and if their nodes are
+detected as off line, we’ll have the entire inquisition on our ass." Clarke
+said, ignoring the some-what grateful figure who they saved.
+
+"Thanks anyway…" It was Mavia.
+
+Clarke finally recognized her presence. "Good, you can take care of the Gatekeeper
+after we leave."
+
+They all filed into the entrance once the lock was picked, and the other security
+measures were taken care of. The catacombs, as they always been, were and dry. Light
+emanated from seemingly random spots along the wall. It was quite alien, even with the
+occasional modern-tech integrated with in it make-up.
+
+There were a few other security guards to be taken care of, and once they were
+dispatched, the path to the gates was open. The Gatekeeper set of the destination within
+the alien computer, and warned the team of all the effects, even though they had heard it
+before. The commandos checked and adjusted their equipment, including the sensor devices
+Dr. Akenseh required them to wear to monitor them while they went through the gate. The
+team, Clarke and his five mercs, Dervious and 5 more volunteers from the *Farstar*
+ground troop detail, stepped through the gates. They hoped Sanctuary was on the other
+side.
+
+Once the team was through, Mavia and the Gatekeeper returned to the *Farstar*.
+Before leaving, though, she checked for that organic material. There was no sign. *The
+Church covers up it’s trail real well, when it’s trying to frame some one.*
+
+****
+
+The Hearing was started out as a chaotic maelstrom of shouting and motion. Once order
+was established, the Judge review some of the rules. Leaving many ambiguous and open to
+interpretation. Mavia only hoped she would interpret correctly. The defense was allowed to
+call witnesses first, since they requested the change. Mavia, in her best courtly manner
+started in on the defense. The prosecution, Arthur Cowbragen, looked devious and cocky as
+Mavia started in on the first witness.
+
+****
+
+The two doctors had acquired, through some help from Loh'Khar, some robes worn by the
+brethren of the prophets, as well as security passes into the monastery. That had to work
+their way through hundreds of monks and priests to find the one man who had used the gates
+recently. They know he was the last, because the gates were sealed after the murder. 
+
+The trail picked up hours into the hearing. They had little time. If they didn’t
+find the culprit, Gorak was doomed.
+
+****
+
+The hearing was a stalemate. Every point Mavia brought up, Cowbragen had a reason to
+doubt the testimony. She was determined to get Gorak freed on this chance. She felt that
+loosing this case now to gain the change of venue was settling for second best.
+
+The Doctor had put on good testimony, with his power medical evidence. The hearing
+seemed to be turning their way. All that the prosecution could was hint a bias from the
+doctor.
+
+Mavia needed a suspect as soon as possible. Where were those doctors.
+
+****
+
+The trail lead to a room in one of the barracks, but it was empty. The scanners they
+carried detected the EM signatures along the walls and on the cot. The scanners also
+picked up other chemical traces. They were identified as detonite. Their suspect had built
+a bomb. Could he have known they were on to him? Could he have plans to eliminate the
+evidence by destroying himself? Or worse, destroying something else along with himself?
+Could the effect of the gate have effected his mind as well; perhaps a case of
+one-too-many jumps?
+
+They traced the EM trail towards the Hearing room. He was going to destroy everyone.
+
+****
+
+Gunthar was watching each of the witnesses from both sides being called, trying to see
+if they where lying. At one point. Late into the hearing, when things weren’t looking
+good, Gunthar felt a cloud fall over the crowd. It was an emotional cloud; a person with
+great fear and anger had just walked in. He looked towards that man, and had strong
+distrust. He decided to move to sit behind him. As he sat he caught a glimpse of two
+friends. 
+
+*
+
+Where did they get those robes?
+
+*
+
+When the prosecution was bringing up it’s first witnesses, the angry man stood up
+and said something like "Nobody move!!!!!" Before he could finish, Gunthar stood
+up and pounded him back down to his seat. He even thought he heard something crack. 
+
+"Man was bad!!" Gunthar said.
+
+The hearing was quickly over when the final evidence was presented.
+
+****
+
+Once everyone gathered back at the *Farstar*, the found it prepped and ready for
+departure. It was fully supplied and replenished. The Captain, relieved to have the whole
+ordeal over with, and satisfied that the Sanctuary team made it through the gates, ordered
+to set coordinates to the last known location of Sarne, and the *Farstar* lifted off.
+
+Somarian didn’t feel well when the reached high orbit. When he realized what it
+was, he called up top the bridge. "Captain, we have a few visitors dropping out of
+hyperspace. I think they are Imperial!!"
+
+They were Imperial and the *Farstar* was definitely out numbered. "Get those
+astrogation computers up and get us out of here!!!!" The Captain ordered. 
+
+The astrogation computer was still booting up. The Farstar prepped for battle. They
+were going to have to fight their way out of here. 
+
+A swarm of TIE Fighters were bearing down on the *Farstar*, the X-Wings were
+launched, Gorjaye in the lead. The *Farstar* needed time, and if she had to stay
+behind to hold back the Imperials, she was going to do it. Krudar manned his favorite
+turret and concentrated his fire on the carrier. He wanted another Imperial escort carrier
+mark on his vest. The sound of his turbolaser fire was poetry to his ears. 
+
+The space battle was joined. Fighters swarmed in all directions. X-Wing pilot Trevor
+Haynor, determined to become ace, fought with a fever he never felt before. He also
+noticed that the enemy wasn’t aiming at essential systems, and didn’t seem to be
+seeking to destroy the *Farstar*. However, they were pursuing the fighters with a
+passion.
+
+[Image distante non téléchargée : http://users.vnet.net:80/seawolf/sw/ds/images/brdgexp.jpg]
+Suddenly, the bridge erupted in a shower of debris. Large sections of
+ceiling tumbled down onto the Captain. System terminals exploded in a spray of flame, as
+crew members went sprawling. When the smoke cleared, emergency lights came on, and the
+crew assessed damages. No hull breach, no damage to any major system. The captain was
+wounded and unconscious, and a few crew members had a few cuts and bruises.\
+
+"What hit us?" Someone ask. No one could answer. From all they could tell,
+the explosion came from inside the bridge, and not from an external attack.
+
+The Doctor, with help from Thyte and SLAVE, pulled Adrimetrum out of the debris.
+Akenseh’s assessment was the she had a few cuts and bruises, but she was also in a
+coma. She ordered a repulsor-stretcher to the bridge, and hauled her off the sick bay. 
+
+Gorak stood in disbelief. He just want from murder suspect to acting-captain in 44
+hours. They all faced him expecting him to say something.
+
+"Let’s get this ship out of here. As soon as we get the astro-nav comp up,
+feed the coordinates to the fighters, and have them jump after us."
+
+The battle was becoming overwhelming. Krudar was able to make a few solid hits on the
+carrier, near the engineering section. One side of its engines had shutdown, and portion
+of it’s decks were glowing with fires. The large ship had started to list in one
+direction.
+
+"Nav-comp up and coordinates set, Captain Khzam" *Why did that crewman
+sound like he distasted calling the Rodian Captain?* 
+
+The *Farstar* wretched again with a solid hit to the rear, near engineering. Gorak
+heard the wookie engineer roar something about hyperdrive damage, but he had no time to
+worry about it. It was now or never.
+
+"Jump to the first coordinates the make sense… anything to get us out of
+here."
+
+The jump was short, because the hyperdrive system went down about 5 minutes into it.
+The dropped out deep in the Wastes, somewhere in the middle of a large milky nebula.
+Sensors were unreliable, at best. Loffryyn reported that the hyperdrive system had taken a
+hit and under repairs. They should be back on-line in an hour. Bridge sensor crew reported
+that this nebula should hide them from Imperial sensors until then. Gorak dropped into the
+Captain’s chair. It felt odd, even though he had sat in it several times on his
+bridge shift.
+
+The X-wings, linked into the jump comp of the *Farstar*, also had dropped and were
+in the process of docking and repairing.
+
+After a few minutes of scrambling to get systems repaired, the doctor called Gorak to
+sickbay. He asked Thyte and Kla’al to join him. For some odd reason, Drake asked to
+join along with Jessa Dajus. 
+
+The Captain lay as if asleep on a sick bay cot, among several other wounded. 
+
+"She is in a coma. It seems that the explosion did not cause our captain’s
+state. Somehow, a small amount of a strange toxin was injected into her body, and is
+causing her neural system to shutdown, one system at a time. There is a small prick hole
+in her back, where I found residue of a synthetic nature, perhaps a dart that decomposed
+once the toxin was injected. We need some kind of antidote to pull her out of this, or she
+will die."
+
+Further investigation discovered that a Security droid had been tampered with and
+rigged with a dart gun to shot at the Captain a small dart with this alien poison.  
+Whoever did this must have also alerted the Imperials of the *Farstar's* position.
+
+Drake and Jessa both were examining the medical data with intense interest. They both
+nodded their heads, and turned to Gorak. " We are familiar with this drug."
+
+Jessa said solemnly "Sarne used this drug to remove certain political enemies and
+make it seem natural. Only he and one other used this toxin."
+
+Drake shook his head "The Wraith was the other. We know Sarne is not on board, so
+the only obvious conclusion is that…"
+
+"The Wraith is on board." Gorak finished the sentence.
+
+"I know where the Wraith got this toxin. It’s a natural toxin of a rare plant
+on Sebiris. There maybe be a antitoxin somewhere on planet."
+
+"I can develop one if I can have a sample of the plants it originated from."
+Akenseh stated.
+
+"Kla’al, you have security. Order all on-essential personnel confined to
+quarters. Thyte, set coarse to Sebiris as soon as the hyperdrive is up and running. You
+are acting-second in command now. These are temporary assignments, because the Captain
+will be back to claim her job back, and I want a job when she does. Tell Samarion to
+remain on the bridge and use those special senses of his to warn us about that fleet if
+decides to try and find us. I have a feeling that’s not the last we will see of
+them."
+
+---
+
+[Previous](DSPembric2.htm) [[Image locale absente : ../../icons/yl_l_arr.gif](DSPembric2.htm)
+
+[[Image locale absente : ../../icons/yl_r_arr.gif
+Next](DSSebiris.htm) 
+
+[[Image locale absente : ../../icons/timeline.gif
+Back to Timeline](DStimeline.htm)

@@ -1,0 +1,22 @@
+{
+  "sourceId": "src-442e464ab5917192",
+  "sha256": "442e464ab59171924aaf1ca5cb83335b2612f7a1e003d12941cf10b3cab8ee7f",
+  "engineId": "local-document-conversion-v1",
+  "engine": "Direct local document conversion (no OCR / no remote fetching)",
+  "format": "doc",
+  "pages": [
+    {
+      "page": 1,
+      "unitLabel": "segment documentaire",
+      "characters": 2520,
+      "flags": []
+    }
+  ],
+  "warnings": [
+    {
+      "kind": "rtf-layout-approximate",
+      "note": "RTF stored with .doc extension; direct text extraction, no artificial pagination."
+    }
+  ],
+  "media": []
+}
