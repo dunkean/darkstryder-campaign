@@ -3,15 +3,16 @@ import { allRoomOccupancy,chip } from './occupancy.js';
 import { markdown } from './markdown.js';
 import { watchSourceStatus } from './source-status.js';
 import { renderDeckPlans } from './deck-plans.js';
+import {renderStellarMap,placeMediaHTML,editPlaceMedia} from './stellar-map.js';
 
 let stopWatchingSources;
 export function stopLibraryUpdates(){stopWatchingSources?.();stopWatchingSources=undefined;}
 
-const labels={npc:'PNJ',planet:'Planètes',location:'Lieux',faction:'Factions',event:'Événements',adventure:'Scénario',ship:'Vaisseaux',equipment:'Équipement'};
+const labels={npc:'PNJ',planet:'Planètes',system:'Systèmes',location:'Lieux',faction:'Factions',event:'Événements',adventure:'Scénario',ship:'Vaisseaux',equipment:'Équipement'};
 const modal=html=>{document.getElementById('modalContent').innerHTML=html;document.getElementById('modal').classList.add('open');};
 export function feedback(text,error=false){const el=document.getElementById('saveStatus');el.textContent=text;el.style.color=error?'var(--red)':'var(--green)';}
 export function renderEntities(type){
-  const list=entities.entities.filter(e=>type==='planet'?['planet','location'].includes(e.type):e.type===type);
+  const list=entities.entities.filter(e=>type==='planet'?['planet','system','location'].includes(e.type):e.type===type);
   document.getElementById(type).innerHTML=`<div class="toolbar"><h2>${labels[type]}</h2><input id="entityFilter-${type}" placeholder="Filtrer ces fiches…"><button onclick="editEntity(null,'${type}')">+ Créer une fiche</button></div><div class="entity-grid" id="entityGrid-${type}"></div>`;
   const update=()=>{const q=nrm(document.getElementById(`entityFilter-${type}`).value);const filtered=list.filter(e=>nrm(e.name+' '+e.summary+' '+e.tags.join(' ')).includes(q));document.getElementById(`entityGrid-${type}`).innerHTML=filtered.map(e=>`<button class="card entity-card" onclick="openEntity('${e.id}')"><span class="tiny code">${esc(e.type)} · ${esc(e.id)}</span><h3>${esc(e.name)}</h3><p>${esc(e.summary)}</p>${e.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</button>`).join('')||'<div class="empty-state">Aucune fiche éditée dans cette catégorie. Les livres sont accessibles dans Sources ; crée une fiche avec ses références.</div>';};
   document.getElementById(`entityFilter-${type}`).oninput=update;update();
@@ -19,6 +20,7 @@ export function renderEntities(type){
 export function openEntity(id){
   const e=entities.entities.find(e=>e.id===id);if(!e)return;
   modal(`<div class="tiny code">${esc(e.type)} · ${esc(e.id)} · ${esc(e.visibility)}</div><h2>${esc(e.name)}</h2><p>${esc(e.summary)}</p><div class="markdown">${markdown(e.body)}</div><div>${e.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><h3>Liens</h3>${e.links.map(id=>{const linked=entities.entities.find(e=>e.id===id);return `<button onclick="${byId[id]?'openPerson':'openEntity'}('${esc(id)}')">${esc(byId[id]?.name||linked?.name||id)}</button>`;}).join(' ')||'<span class="muted">Aucun lien</span>'}<h3>Sources</h3>${e.sources.map(s=>`<button onclick="openSource('${esc(s.sourceId)}',${s.page})">${esc(sources.find(x=>x.id===s.sourceId)?.name||s.sourceId)} · p. ${s.page}</button>`).join(' ')}<h3>Propriétés</h3><pre class="source-text">${esc(JSON.stringify(e.properties,null,2))}</pre><div class="detail-actions"><button class="primary" onclick="editEntity('${e.id}')">Modifier la fiche</button></div>`);
+  if(['planet','system','location'].includes(e.type)){document.getElementById('modalContent').insertAdjacentHTML('beforeend',placeMediaHTML(e)+'<button id="entityPlaceMedia">Images / carte locale</button>');document.getElementById('entityPlaceMedia').onclick=()=>editPlaceMedia(id);}
 }
 export function editEntity(id,type='npc'){
   const old=entities.entities.find(e=>e.id===id),e=old||{id:crypto.randomUUID(),type,name:'',summary:'',body:'',tags:[],links:[],visibility:'mj',provenance:'personal',sources:[],properties:{}};
@@ -27,7 +29,7 @@ export function editEntity(id,type='npc'){
     const form=new FormData(event.target),entry={...e,type:form.get('type'),name:form.get('name').trim(),summary:form.get('summary'),body:form.get('body'),tags:String(form.get('tags')).split(',').map(x=>x.trim()).filter(Boolean),links:String(form.get('links')).split(',').map(x=>x.trim()).filter(Boolean),visibility:form.get('visibility'),provenance:form.get('provenance'),sources:JSON.parse(form.get('sources')),properties:JSON.parse(form.get('properties'))};
     const next=structuredClone(entities);next.entities=next.entities.filter(x=>x.id!==entry.id);next.entities.push(entry);await save('entities',next);Object.assign(entities,next);feedback('Fiche enregistrée');window.renderAll();openEntity(entry.id);
   }catch(error){document.getElementById('editError').textContent=error.message;button.disabled=false;}};
-  if(old)document.getElementById('deleteEntity').onclick=async()=>{if(!confirm(`Supprimer la fiche « ${e.name} » ?`))return;try{const next=structuredClone(entities);next.entities=next.entities.filter(x=>x.id!==id);next.entities.forEach(x=>x.links=x.links.filter(k=>k!==id));next.mapPins=next.mapPins.filter(x=>x.entityId!==id);await save('entities',next);Object.assign(entities,next);window.closeModal();window.renderAll();feedback('Fiche supprimée');}catch(error){document.getElementById('editError').textContent=error.message;}};
+  if(old)document.getElementById('deleteEntity').onclick=async()=>{if(entities.navigation?.nodes.some(n=>n.entityIds.includes(id))){document.getElementById('editError').textContent='Cette fiche est liée à la carte : retire son association avant de la supprimer.';return;}if(!confirm(`Supprimer la fiche « ${e.name} » ?`))return;try{const next=structuredClone(entities);next.entities=next.entities.filter(x=>x.id!==id);next.entities.forEach(x=>x.links=x.links.filter(k=>k!==id));next.mapPins=next.mapPins.filter(x=>x.entityId!==id);await save('entities',next);Object.assign(entities,next);window.closeModal();window.renderAll();feedback('Fiche supprimée');}catch(error){document.getElementById('editError').textContent=error.message;}};
 }
 export function editPerson(id){
   const p=byId[id];modal(`<h2>Modifier ${esc(p.name)}</h2><form id="personEditor" class="editor"><label>Nom<input name="name" value="${esc(p.name)}" required></label><label>Espèce<input name="species" value="${esc(p.species)}"></label><label>Section<input name="section" value="${esc(p.section)}"></label><label>Groupe<input name="group" value="${esc(p.group)}"></label><label>Grade<input name="grade" value="${esc(p.grade)}"></label><label>Description<textarea name="description">${esc(p.short_description||'')}</textarea></label><label>Histoire<textarea name="history">${esc(p.history.summary)}</textarea></label><details><summary>Fiche complète : caractéristiques, relations, affectations…</summary><p class="inline-note">Les champs du formulaire ci-dessus sont appliqués après ce JSON. L'identifiant reste stable.</p><textarea name="json" class="json">${esc(JSON.stringify(p,null,2))}</textarea></details><div id="editError" class="error"></div><button type="submit" class="primary">Enregistrer dans le JSON</button></form>`);
@@ -42,6 +44,7 @@ export function renderHierarchy(){
 }
 export function renderMap(kind='map'){
   if(kind==='ship')return renderDeckPlans();
+  if(kind==='map'&&entities.navigation)return renderStellarMap();
   const isShip=kind==='ship',list=assets.filter(a=>a.kind===(isShip?'deck':'star-map'));
   document.getElementById(kind).innerHTML=`<div class="toolbar"><h2>${isShip?'Plans du FarStar':'Carte stellaire'}</h2><select id="mapAsset-${kind}">${list.map(a=>`<option value="${a.id}">${esc(a.name)}</option>`).join('')}</select><label><input type="checkbox" id="pinMode-${kind}"> Placer un repère</label>${isShip?'<button onclick="renderShipList()">Liste des salles</button>':''}</div><p class="inline-note">${isShip?'Positions selon les affectations du quart sélectionné ; les extras restent des présences possibles. Place une fois les repères des salles sur le plan.':'Active « Placer un repère », clique sur la carte et associe une fiche. Les coordonnées sont enregistrées dans le JSON.'}</p><div class="plan-wrap"><div class="map-stage" id="mapStage-${kind}"></div></div>${isShip?'<div id="deckOccupancy"></div>':''}`;
   const paint=()=>{const id=document.getElementById(`mapAsset-${kind}`).value,pins=(isShip?entities.roomPins:entities.mapPins).filter(p=>p.assetId===id),occ=allRoomOccupancy();

@@ -19,14 +19,15 @@ export function inspectRoomImage(data,declaredType){
   if(declaredType!==type)fail('Le type annoncé ne correspond pas au fichier image');
   return {type,extension};
 }
-export async function storeRoomImage(runtime,data,declaredType){
+export async function storeRoomImage(runtime,data,declaredType,bucket='rooms'){
+  if(!['rooms','places'].includes(bucket))throw Object.assign(new Error('Dossier média invalide'),{status:400});
   const {extension}=inspectRoomImage(data,declaredType),name=`${randomUUID()}.${extension}`;
   await mkdir(runtime,{recursive:true});const root=await realpath(runtime);
   const media=path.join(root,'media');await mkdir(media,{recursive:true});const mediaResolved=await realpath(media);
   if(!mediaResolved.startsWith(root+path.sep))throw Object.assign(new Error('Chemin média interdit'),{status:403});
-  const rooms=path.join(mediaResolved,'rooms');await mkdir(rooms,{recursive:true});const folder=await realpath(rooms);
+  const rooms=path.join(mediaResolved,bucket);await mkdir(rooms,{recursive:true});const folder=await realpath(rooms);
   if(!folder.startsWith(root+path.sep))throw Object.assign(new Error('Chemin média interdit'),{status:403});
   const destination=path.join(folder,name),temporary=destination+'.tmp';
   await writeFile(temporary,data,{flag:'wx'});await rename(temporary,destination);
-  return {url:'/runtime/media/rooms/'+name};
+  return {url:'/runtime/media/'+bucket+'/'+name};
 }

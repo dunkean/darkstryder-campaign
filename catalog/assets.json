@@ -58,5 +58,105 @@
     "name": "KatholOutBack1",
     "path": "Atlas/KatholOutBack1.jpg",
     "kind": "star-map"
+  },
+  {
+    "id": "asset-outback-2",
+    "name": "Kathol Outback · section 2",
+    "path": "Atlas/KatholOutBack2.jpg",
+    "kind": "star-map"
+  },
+  {
+    "id": "asset-outback-3",
+    "name": "Kathol Outback · section 3",
+    "path": "Atlas/KatholOutBack3.jpg",
+    "kind": "star-map"
+  },
+  {
+    "id": "asset-planet-kal-shebbol",
+    "name": "Kal'Shebbol.jpg",
+    "path": "Atlas/Planets/Kal'Shebbol.jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-torize",
+    "name": "Torize (Geonosis).jpg",
+    "path": "Atlas/Planets/Torize (Geonosis).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-kolatill",
+    "name": "Kolatill (Bog Moon - Bog 15).jpg",
+    "path": "Atlas/Planets/Kolatill (Bog Moon - Bog 15).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-brolsam",
+    "name": "Brolsam (Endor4).jpg",
+    "path": "Atlas/Planets/Brolsam (Endor4).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-aaris",
+    "name": "Aaris (Rodia).jpg",
+    "path": "Atlas/Planets/Aaris (Rodia).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-charis",
+    "name": "Charis (Eadu).jpg",
+    "path": "Atlas/Planets/Charis (Eadu).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-corjain",
+    "name": "Corjain(Geonosis1).jpg",
+    "path": "Atlas/Planets/Corjain(Geonosis1).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-gandle-ott",
+    "name": "Gandle Ott (AlthirIII).jpg",
+    "path": "Atlas/Planets/Gandle Ott (AlthirIII).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-mairne",
+    "name": "Mairne(Laseel).jpg",
+    "path": "Atlas/Planets/Mairne(Laseel).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-oon-tien",
+    "name": "Oon Tien(Dathomir).jpg",
+    "path": "Atlas/Planets/Oon Tien(Dathomir).jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
+  },
+  {
+    "id": "asset-planet-tanquilla",
+    "name": "Tanquila Beach.jpg",
+    "path": "Atlas/Planets/Tanquila Beach.jpg",
+    "kind": "planet-media",
+    "provenance": "personal",
+    "note": "Support local ; plusieurs noms de fichiers indiquent une réutilisation d’un autre monde. Ce n’est pas une carte canonique certifiée."
   }
 ]

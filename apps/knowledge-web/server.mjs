@@ -37,10 +37,10 @@ export function createServer(){return http.createServer(async(req,res)=>{
       return json(res,200,{campaign:campaign.data,entities:entities.data,portraits,assets,sources,revisions:{campaign:campaign.revision,entities:entities.revision}});
     }
     if(['/api/campaign','/api/entities'].includes(route)&&req.method==='PUT')return json(res,200,await store.update(route.split('/').at(-1),await body(req),req.headers['if-match']));
-    if(route==='/api/room-media'&&req.method==='POST'){
+    if(['/api/room-media','/api/media'].includes(route)&&req.method==='POST'){
       if(Number(req.headers['content-length'])>MAX_ROOM_IMAGE)return json(res,413,{error:'Image trop volumineuse (8 Mo maximum)'});
       const chunks=[];let size=0;for await(const chunk of req){size+=chunk.length;if(size>MAX_ROOM_IMAGE)throw Object.assign(new Error('Image trop volumineuse (8 Mo maximum)'),{status:413});chunks.push(chunk);}
-      return json(res,201,await storeRoomImage(RUNTIME,Buffer.concat(chunks),req.headers['content-type']));
+      return json(res,201,await storeRoomImage(RUNTIME,Buffer.concat(chunks),req.headers['content-type'],route==='/api/media'?'places':'rooms'));
     }
     if(route==='/api/ocr-status'&&req.method==='GET'){
       let status={state:'not-started'};try{status=JSON.parse(await readFile(path.join(RUNTIME,'ocr-status.json'),'utf8'));}catch{}

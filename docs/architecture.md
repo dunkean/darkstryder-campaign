@@ -34,7 +34,22 @@ The site reads source text per PDF page and searches completed extraction pages.
 Every source link retains a stable source ID and a one-based PDF page number.
 Book pagination can differ from printed pagination; references explicitly use PDF pages.
 
-Stellar maps are Drive assets; pins associate an entity with normalized coordinates.
+The Kathol atlas is native SVG generated from entities.navigation. Manually measured
+node positions, route polylines and duration label anchors use source percentages;
+regional view boxes retain the layout of the assembled Drive map. Legacy mapPins
+remain preserved. The eight unnamed Republic systems stay unnamed, and unmapped
+worlds have null positions. Multiple entities may share a system node (Dayark/Nepe
+at Episol, Danoor at Nah’Malis); Karideph uses an explicitly diagram-only exit marker.
+Edges retain sources, provenance, nullable light-year distances, and class-1 duration
+intervals. Dijkstra excludes unknown-time edges and minimizes the lower bound;
+the upper bound belongs to that same path. Rift corridors are representative, not
+guaranteed. Multipliers are explicitly projections, never inferred physical distances.
+Node calibration updates incident edge endpoints atomically. Server validation rejects
+dangling entity/node links, invalid coordinates/intervals and detached route geometry.
+Place media metadata lives in entity.properties.media; /api/media uploads bounded
+validated images to runtime/media/places using the same path confinement as room media.
+The reference map remains separately accessible for comparison. This is an MJ atlas,
+not a discovery simulation or a player-filtered map.
 FarStar decks use native SVG geometry in campaign.ship.deckPlans, manually traced
 from the six Drive reference plans. Regions associate stable room IDs with calibrated
 percentage polygons; uncertain associations stay null. Editing polygon vertices,

@@ -123,8 +123,30 @@ dans `campaign.ship.rooms[].media`. Les tracés sont dans `campaign.ship.deckPla
 initiaux de `tools/plans/farstar-traces.mjs` ne doivent pas être réappliqués après une
 calibration utilisateur.
 
-Pour la carte stellaire, activer « Placer un repère », cliquer puis associer une fiche.
-Les coordonnées sont persistées en pourcentage. Aucune position n'est inventée.
+La carte de Kathol est un atlas SVG natif : secteur principal, Marcol Void, Outback,
+République de Kathol et Rift, dans la disposition de la carte assemblée originale.
+Clique sur un système ou une route pour ouvrir son inspecteur, ses fiches et ses
+images. Les 61 segments reprennent les durées affichées sur les cartes ; les huit
+systèmes non nommés de la République gardent des numéros d’interface, pas des noms inventés.
+Dayark / Nepe sont liés à Episol et Danoor à Nah’Malis. Kathol et Blue Swirl restent
+sans position indépendante ; la flèche vers Karideph est une sortie de diagramme,
+pas une coordonnée de ce système extérieur.
+
+Le calculateur choisit le chemin au minimum de durée documenté et additionne les
+bornes de ce même chemin. Les durées inconnues sont exclues. Les durées du Rift
+restent des fourchettes indicatives ; le multiplicateur est une projection configurable.
+La carte n’est **pas à l’échelle** : aucune distance physique n’est déduite des traits.
+Les distances en années-lumière restent vides tant qu’une source ne les établit pas.
+
+« Calibrer un repère » permet une mesure manuelle puis sauvegarde ; ses routes
+restent attachées à ses coordonnées. « + Planète / système » et « + Route personnelle »
+enregistrent les ajouts dans `content/entities.json`, avec révision et sauvegarde.
+L’atlas est dans `navigation`, les fiches gardent leurs identifiants stables.
+Les images de planètes sont attachées via `properties.media` ; les fichiers importés
+restent dans `runtime/media/places`. Les visuels locaux initiaux sont marqués personnels
+(plusieurs sont des adaptations d’autres mondes), pas des cartes de surface officielles.
+Les sources omettent des systèmes mineurs : le répertoire ne prétend pas les inventer.
+Ne jamais réappliquer `tools/plans/kathol-atlas.mjs` sur les données éditées.
 
 L'heure sélectionne un quart selon les débuts configurables (00h / 12h initialement).
 Les présences sont dérivées des affectations ; les postes partagés et extras sont

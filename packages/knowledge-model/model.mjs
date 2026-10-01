@@ -1,6 +1,7 @@
 import { z } from 'zod';
+import {navigationSchema,checkNavigation} from './navigation.mjs';
 
-export const entityTypes = ['npc','planet','location','faction','event','adventure','ship','equipment'];
+export const entityTypes = ['npc','planet','system','location','faction','event','adventure','ship','equipment'];
 const validIdentifier=/^[\p{L}\p{N}_-]+$/u;
 const identifier=z.string().regex(validIdentifier).max(100);
 const coordinate=z.tuple([z.number().finite().min(0).max(100),z.number().finite().min(0).max(100)]);
@@ -42,15 +43,16 @@ export const entitySchema = z.object({
   provenance: z.enum(['official','personal','interpretation']).default('personal'),
   sources: z.array(z.object({sourceId:identifier,page:z.number().int().positive()})).default([]),
   properties: z.record(z.string(),z.unknown()).default({})
-});
+}).passthrough();
 const pin = z.object({id:identifier,assetId:identifier,entityId:identifier.optional(),roomId:identifier.optional(),x:z.number().min(0).max(100),y:z.number().min(0).max(100)});
 export const entitiesSchema = z.object({
   schema_version:z.literal(1), entities:z.array(entitySchema),
   schedule:z.object({shift1Start:z.number().min(0).max(23),shift2Start:z.number().min(0).max(23)}).refine(s=>s.shift1Start!==s.shift2Start,'Les deux quarts doivent commencer à des heures distinctes'),
-  mapPins:z.array(pin), roomPins:z.array(pin)
-}).superRefine((data,ctx)=>{
+  mapPins:z.array(pin), roomPins:z.array(pin), navigation:navigationSchema.optional()
+}).passthrough().superRefine((data,ctx)=>{
   const ids=new Set();
   for(const e of data.entities){if(ids.has(e.id))ctx.addIssue({code:'custom',message:'Identifiant dupliqué: '+e.id});ids.add(e.id);}
+  checkNavigation(data,ctx);
 });
 export function validateCampaign(data){
   if(!data || !Array.isArray(data.crew?.members) || !Array.isArray(data.ship?.rooms) || !Array.isArray(data.ship?.decks) || !Array.isArray(data.droids?.catalog) || !data.operations || !data.skills?.rankings || !Array.isArray(data.history?.groups)) throw new Error('Structure de campagne invalide');

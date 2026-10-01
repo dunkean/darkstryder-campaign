@@ -1,10 +1,4094 @@
 {
   "schema_version": 1,
-  "entities": [],
+  "entities": [
+    {
+      "id": "place-kal-shebbol",
+      "type": "planet",
+      "name": "Kal’Shebbol",
+      "summary": "Capitale du secteur de Kathol ; point de référence des cartes locales.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 102
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-kal-shebbol",
+            "url": "/asset/asset-planet-kal-shebbol",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-brolsam",
+      "type": "planet",
+      "name": "Brolsam",
+      "summary": "Système agricole proche de Kal’Shebbol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 102
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-brolsam",
+            "url": "/asset/asset-planet-brolsam",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-torize",
+      "type": "planet",
+      "name": "Torize",
+      "summary": "Monde industriel de la route commerciale de Trition ; atmosphère de type II.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 102
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-torize",
+            "url": "/asset/asset-planet-torize",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-aaris",
+      "type": "planet",
+      "name": "Aaris",
+      "summary": "Monde exploré dans « The Saga of the Aaris ».",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 139
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-aaris",
+            "url": "/asset/asset-planet-aaris",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-kolatill",
+      "type": "planet",
+      "name": "Kolatill",
+      "summary": "Centre de fabrication de répulseurs sur la route de Trition.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 102
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-kolatill",
+            "url": "/asset/asset-planet-kolatill",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-charis",
+      "type": "planet",
+      "name": "Charis",
+      "summary": "Escale figurant sur la carte du secteur.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-charis",
+            "url": "/asset/asset-planet-charis",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-corjain",
+      "type": "planet",
+      "name": "Corjain",
+      "summary": "Monde minier à l’atmosphère toxique ; colonies souterraines.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-corjain",
+            "url": "/asset/asset-planet-corjain",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-oon-tien",
+      "type": "planet",
+      "name": "Oon Tien",
+      "summary": "Installations de réparation et défenses impériales.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-oon-tien",
+            "url": "/asset/asset-planet-oon-tien",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-gandle-ott",
+      "type": "planet",
+      "name": "Gandle Ott",
+      "summary": "Dernier grand monde industriel du secteur ; situé dans le système Ott.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "systemName": "Ott",
+        "media": [
+          {
+            "id": "media-local-gandle-ott",
+            "url": "/asset/asset-planet-gandle-ott",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-mairne",
+      "type": "system",
+      "name": "Mairne",
+      "summary": "Petit système fournisseur de ressources pour Gandle Ott.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-mairne",
+            "url": "/asset/asset-planet-mairne",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-peirs",
+      "type": "system",
+      "name": "Peirs",
+      "summary": "Petit système fournisseur de ressources pour Gandle Ott.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-shintel",
+      "type": "planet",
+      "name": "Shintel",
+      "summary": "Monde visité dans « Traitor in Our Midst ».",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 153
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-ivatch",
+      "type": "system",
+      "name": "Ivatch",
+      "summary": "Petit système fournisseur de ressources pour Gandle Ott.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 104
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-tanquilla",
+      "type": "location",
+      "name": "Tanquilla Beach",
+      "summary": "Port clandestin figurant sur les cartes du secteur.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 157
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": [
+          {
+            "id": "media-local-tanquilla",
+            "url": "/asset/asset-planet-tanquilla",
+            "caption": "Support visuel du dossier local ; attribution personnelle, carte de surface canonique non attestée.",
+            "provenance": "personal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "place-pembric",
+      "type": "planet",
+      "name": "Pembric II",
+      "summary": "Monde figurant sur la carte du secteur.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 99
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-galtea",
+      "type": "planet",
+      "name": "Galtea",
+      "summary": "Point de départ de la Galtea Run vers Timbra Ott.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 6
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-sebiris",
+      "type": "planet",
+      "name": "Sebiris",
+      "summary": "Monde détaillé dans l’addendum du livre principal.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "sector"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 190
+        }
+      ],
+      "properties": {
+        "region": "sector",
+        "media": []
+      }
+    },
+    {
+      "id": "place-timbra-ott",
+      "type": "planet",
+      "name": "Timbra Ott",
+      "summary": "Ancienne colonie pénitentiaire, au bout de la Galtea Run.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 6
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-dolstan",
+      "type": "planet",
+      "name": "Dolstan",
+      "summary": "Monde agricole dominant de la Ligue Pimbrellan.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 6
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-bresan",
+      "type": "planet",
+      "name": "Bresan",
+      "summary": "Colonie de la Ligue Pimbrellan.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 6
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-swedlan",
+      "type": "planet",
+      "name": "Swedlan",
+      "summary": "Colonie de la Ligue Pimbrellan.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 6
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-sapella",
+      "type": "planet",
+      "name": "Sapella",
+      "summary": "Colonie isolée, à l’écart de la route principale vers Jangelle.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 7
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-binaros",
+      "type": "planet",
+      "name": "Binaros",
+      "summary": "Monde de jungle, ruines et ancien poste de recherche impérial.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 26
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-episol",
+      "type": "system",
+      "name": "Episol",
+      "summary": "Système de Dayark, siège du gouvernement de la République de Kathol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "republic"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 39
+        }
+      ],
+      "properties": {
+        "region": "republic",
+        "media": []
+      }
+    },
+    {
+      "id": "place-dayark",
+      "type": "planet",
+      "name": "Dayark",
+      "summary": "Lune agricole de la géante gazeuse Nepe, dans le système Episol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "republic"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 39
+        }
+      ],
+      "properties": {
+        "region": "republic",
+        "systemId": "place-episol",
+        "parentId": "place-nepe",
+        "media": []
+      }
+    },
+    {
+      "id": "place-nepe",
+      "type": "planet",
+      "name": "Nepe",
+      "summary": "Géante gazeuse dont Dayark est un satellite ; système Episol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "republic"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 39
+        }
+      ],
+      "properties": {
+        "region": "republic",
+        "systemId": "place-episol",
+        "media": []
+      }
+    },
+    {
+      "id": "place-jangelle",
+      "type": "planet",
+      "name": "Jangelle",
+      "summary": "Colonie autonome liée à la République de Kathol par un pacte de défense.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 7
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-pitann",
+      "type": "planet",
+      "name": "Pitann",
+      "summary": "Monde désertique et minier de la République de Kathol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "republic"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 8
+        }
+      ],
+      "properties": {
+        "region": "republic",
+        "media": []
+      }
+    },
+    {
+      "id": "place-ehjenla",
+      "type": "planet",
+      "name": "Ehjenla",
+      "summary": "Monde sortant d’un âge glaciaire ; peuplé par les Tuhgri.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 8
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-qumock",
+      "type": "location",
+      "name": "Qu’mock",
+      "summary": "Construction artificielle associée à la Confédération Qektoth sur la carte.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 12
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-uukaablis",
+      "type": "planet",
+      "name": "Uukaablis",
+      "summary": "Monde des Uukaabliens, réputés pour leurs connaissances médicales.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-shatuun",
+      "type": "planet",
+      "name": "Shatuun",
+      "summary": "Monde montagneux soumis à de violents orages électriques.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-exocron",
+      "type": "planet",
+      "name": "Exocron",
+      "summary": "Monde dissimulé par une nébuleuse ; absent des fragments de carte obtenus initialement par le FarStar.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "outback"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "outback",
+        "media": []
+      }
+    },
+    {
+      "id": "place-nah-malis",
+      "type": "system",
+      "name": "Nah’Malis",
+      "summary": "Système de Danoor, à la lisière du Rift.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-danoor",
+      "type": "planet",
+      "name": "Danoor",
+      "summary": "Ancien avant-poste scientifique du Rift, en reconstruction après un impact d’astéroïde.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-a3a28719eed85a70",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "systemId": "place-nah-malis",
+        "media": []
+      }
+    },
+    {
+      "id": "place-qmaere",
+      "type": "planet",
+      "name": "Q’Maere",
+      "summary": "Monde de l’installation pénitentiaire Q’Maere.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-e76020e4b32da626",
+          "page": 25
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-construct",
+      "type": "location",
+      "name": "Construction extraterrestre",
+      "summary": "Structure artificielle figurant sur la carte du Rift.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-e76020e4b32da626",
+          "page": 60
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-yvara",
+      "type": "planet",
+      "name": "Yvara",
+      "summary": "Monde des Yvarema ; montagnes, plaines fongiques et réseaux fluviaux.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-e76020e4b32da626",
+          "page": 74
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-demonsgate",
+      "type": "planet",
+      "name": "Demonsgate",
+      "summary": "Monde figurant sur la carte du Rift.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-e76020e4b32da626",
+          "page": 9
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-kathol",
+      "type": "planet",
+      "name": "Kathol",
+      "summary": "Monde de DarkStryder dans Endgame ; aucune position ajoutée à la carte faute de relevé source.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "beyond"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-c86af6abdc3184c5",
+          "page": 64
+        }
+      ],
+      "properties": {
+        "region": "beyond",
+        "media": []
+      }
+    },
+    {
+      "id": "place-blue-swirl",
+      "type": "location",
+      "name": "Blue Swirl",
+      "summary": "Zone relativement claire du Rift, surnommée par les opérateurs de senseurs ; Yvara s’y trouve. Position non relevée indépendamment.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "rift"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-e76020e4b32da626",
+          "page": 71
+        }
+      ],
+      "properties": {
+        "region": "rift",
+        "media": []
+      }
+    },
+    {
+      "id": "place-karideph",
+      "type": "system",
+      "name": "Karideph",
+      "summary": "Destination extérieure : amas de Minos. La carte indique 10 jours depuis Kal’Shebbol, sans position du système dans Kathol.",
+      "body": "",
+      "tags": [
+        "Kathol",
+        "external"
+      ],
+      "links": [],
+      "visibility": "mj",
+      "provenance": "official",
+      "sources": [
+        {
+          "sourceId": "src-1678b1eb8c4bd691",
+          "page": 99
+        }
+      ],
+      "properties": {
+        "region": "external",
+        "media": []
+      }
+    }
+  ],
   "schedule": {
     "shift1Start": 0,
     "shift2Start": 12
   },
   "mapPins": [],
-  "roomPins": []
+  "roomPins": [],
+  "navigation": {
+    "version": 1,
+    "id": "kathol-atlas",
+    "name": "Secteur de Kathol",
+    "referenceAssetId": "asset-8",
+    "sourceSize": {
+      "width": 1782,
+      "height": 4573
+    },
+    "measurementCanvas": {
+      "width": 798,
+      "height": 2048
+    },
+    "coordinateMeaning": "Pourcentages relevés sur un diagramme non à l’échelle ; pas de coordonnées spatiales.",
+    "notes": "Carte MJ. Systèmes mineurs omis dans les sources. Durées de référence en classe ×1 ; conditions locales et astrogation peuvent les modifier. La République compte 14 mondes dans 10 systèmes (Outback p.39) ; les noms absents ne sont pas inventés.",
+    "nodes": [
+      {
+        "id": "nav-kal-shebbol",
+        "label": "Kal’Shebbol",
+        "entityIds": [
+          "place-kal-shebbol"
+        ],
+        "position": [
+          69.9248,
+          4.834
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-brolsam",
+        "label": "Brolsam",
+        "entityIds": [
+          "place-brolsam"
+        ],
+        "position": [
+          59.5238,
+          4.9805
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-torize",
+        "label": "Torize",
+        "entityIds": [
+          "place-torize"
+        ],
+        "position": [
+          62.782,
+          8.4961
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-aaris",
+        "label": "Aaris",
+        "entityIds": [
+          "place-aaris"
+        ],
+        "position": [
+          52.7569,
+          9.1797
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-kolatill",
+        "label": "Kolatill",
+        "entityIds": [
+          "place-kolatill"
+        ],
+        "position": [
+          60.0251,
+          10.8887
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-charis",
+        "label": "Charis",
+        "entityIds": [
+          "place-charis"
+        ],
+        "position": [
+          51.5038,
+          12.6953
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-corjain",
+        "label": "Corjain",
+        "entityIds": [
+          "place-corjain"
+        ],
+        "position": [
+          59.3985,
+          13.2813
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-oon-tien",
+        "label": "Oon Tien",
+        "entityIds": [
+          "place-oon-tien"
+        ],
+        "position": [
+          68.6717,
+          12.5488
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-gandle-ott",
+        "label": "Gandle Ott",
+        "entityIds": [
+          "place-gandle-ott"
+        ],
+        "position": [
+          44.9875,
+          14.1113
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-mairne",
+        "label": "Mairne",
+        "entityIds": [
+          "place-mairne"
+        ],
+        "position": [
+          50.3759,
+          15.0879
+        ],
+        "region": "sector",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-peirs",
+        "label": "Peirs",
+        "entityIds": [
+          "place-peirs"
+        ],
+        "position": [
+          42.9825,
+          15.4785
+        ],
+        "region": "sector",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-shintel",
+        "label": "Shintel",
+        "entityIds": [
+          "place-shintel"
+        ],
+        "position": [
+          38.8471,
+          16.0645
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-ivatch",
+        "label": "Ivatch",
+        "entityIds": [
+          "place-ivatch"
+        ],
+        "position": [
+          40.9774,
+          17.2852
+        ],
+        "region": "sector",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-tanquilla",
+        "label": "Tanquilla Beach",
+        "entityIds": [
+          "place-tanquilla"
+        ],
+        "position": [
+          31.9549,
+          15.625
+        ],
+        "region": "sector",
+        "kind": "station",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-pembric",
+        "label": "Pembric II",
+        "entityIds": [
+          "place-pembric"
+        ],
+        "position": [
+          31.203,
+          18.3105
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-galtea",
+        "label": "Galtea",
+        "entityIds": [
+          "place-galtea"
+        ],
+        "position": [
+          28.8221,
+          22.3633
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-sebiris",
+        "label": "Sebiris",
+        "entityIds": [
+          "place-sebiris"
+        ],
+        "position": [
+          38.2206,
+          23.584
+        ],
+        "region": "sector",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-timbra-ott",
+        "label": "Timbra Ott",
+        "entityIds": [
+          "place-timbra-ott"
+        ],
+        "position": [
+          26.1905,
+          43.0664
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-dolstan",
+        "label": "Dolstan",
+        "entityIds": [
+          "place-dolstan"
+        ],
+        "position": [
+          61.2782,
+          38.2324
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-bresan",
+        "label": "Bresan",
+        "entityIds": [
+          "place-bresan"
+        ],
+        "position": [
+          53.5088,
+          39.209
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-swedlan",
+        "label": "Swedlan",
+        "entityIds": [
+          "place-swedlan"
+        ],
+        "position": [
+          67.0426,
+          41.2598
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-sapella",
+        "label": "Sapella",
+        "entityIds": [
+          "place-sapella"
+        ],
+        "position": [
+          19.7995,
+          47.3145
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-binaros",
+        "label": "Binaros",
+        "entityIds": [
+          "place-binaros"
+        ],
+        "position": [
+          19.7995,
+          53.7598
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-episol",
+        "label": "Episol",
+        "entityIds": [
+          "place-episol",
+          "place-dayark",
+          "place-nepe"
+        ],
+        "position": [
+          53.5088,
+          57.7637
+        ],
+        "region": "republic",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-dayark",
+        "label": "Dayark",
+        "entityIds": [
+          "place-dayark"
+        ],
+        "position": null,
+        "region": "republic",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-nepe",
+        "label": "Nepe",
+        "entityIds": [
+          "place-nepe"
+        ],
+        "position": null,
+        "region": "republic",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-jangelle",
+        "label": "Jangelle",
+        "entityIds": [
+          "place-jangelle"
+        ],
+        "position": [
+          41.1028,
+          54.6387
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-pitann",
+        "label": "Pitann",
+        "entityIds": [
+          "place-pitann"
+        ],
+        "position": [
+          57.8947,
+          60.1074
+        ],
+        "region": "republic",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-ehjenla",
+        "label": "Ehjenla",
+        "entityIds": [
+          "place-ehjenla"
+        ],
+        "position": [
+          35.0877,
+          65.5273
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-qumock",
+        "label": "Qu’mock",
+        "entityIds": [
+          "place-qumock"
+        ],
+        "position": [
+          11.2782,
+          70.3613
+        ],
+        "region": "outback",
+        "kind": "station",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-uukaablis",
+        "label": "Uukaablis",
+        "entityIds": [
+          "place-uukaablis"
+        ],
+        "position": [
+          14.9123,
+          71.875
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-shatuun",
+        "label": "Shatuun",
+        "entityIds": [
+          "place-shatuun"
+        ],
+        "position": [
+          64.2857,
+          71.2402
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-exocron",
+        "label": "Exocron",
+        "entityIds": [
+          "place-exocron"
+        ],
+        "position": [
+          74.3108,
+          70.459
+        ],
+        "region": "outback",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-nah-malis",
+        "label": "Nah’Malis",
+        "entityIds": [
+          "place-nah-malis",
+          "place-danoor"
+        ],
+        "position": [
+          71.6792,
+          77.002
+        ],
+        "region": "rift",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-danoor",
+        "label": "Danoor",
+        "entityIds": [
+          "place-danoor"
+        ],
+        "position": null,
+        "region": "rift",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-qmaere",
+        "label": "Q’Maere",
+        "entityIds": [
+          "place-qmaere"
+        ],
+        "position": [
+          72.1805,
+          81.2988
+        ],
+        "region": "rift",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-construct",
+        "label": "Construction extraterrestre",
+        "entityIds": [
+          "place-construct"
+        ],
+        "position": [
+          79.6992,
+          83.3984
+        ],
+        "region": "rift",
+        "kind": "station",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-yvara",
+        "label": "Yvara",
+        "entityIds": [
+          "place-yvara"
+        ],
+        "position": [
+          84.4612,
+          95.6055
+        ],
+        "region": "rift",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-demonsgate",
+        "label": "Demonsgate",
+        "entityIds": [
+          "place-demonsgate"
+        ],
+        "position": [
+          82.5815,
+          97.4121
+        ],
+        "region": "rift",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-kathol",
+        "label": "Kathol",
+        "entityIds": [
+          "place-kathol"
+        ],
+        "position": null,
+        "region": "beyond",
+        "kind": "planet",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-blue-swirl",
+        "label": "Blue Swirl",
+        "entityIds": [
+          "place-blue-swirl"
+        ],
+        "position": null,
+        "region": "rift",
+        "kind": "station",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-karideph",
+        "label": "Karideph",
+        "entityIds": [
+          "place-karideph"
+        ],
+        "position": null,
+        "region": "external",
+        "kind": "system",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-minos-exit",
+        "label": "Vers Karideph · Minos",
+        "entityIds": [
+          "place-karideph"
+        ],
+        "position": [
+          73.9348,
+          1.0742
+        ],
+        "region": "external",
+        "kind": "gateway",
+        "referenceAssetId": "asset-8",
+        "provenance": "official",
+        "coordinateNote": "Emplacement de la flèche de sortie du diagramme, PAS du système Karideph."
+      },
+      {
+        "id": "nav-republic-1",
+        "label": "Système non nommé R1",
+        "entityIds": [],
+        "position": [
+          49.2481,
+          59.8633
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-2",
+        "label": "Système non nommé R2",
+        "entityIds": [],
+        "position": [
+          62.782,
+          55.7617
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-3",
+        "label": "Système non nommé R3",
+        "entityIds": [],
+        "position": [
+          73.0576,
+          56.8359
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-4",
+        "label": "Système non nommé R4",
+        "entityIds": [],
+        "position": [
+          75.9398,
+          58.4961
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-5",
+        "label": "Système non nommé R5",
+        "entityIds": [],
+        "position": [
+          81.8296,
+          59.5703
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-6",
+        "label": "Système non nommé R6",
+        "entityIds": [],
+        "position": [
+          73.0576,
+          62.6953
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-7",
+        "label": "Système non nommé R7",
+        "entityIds": [],
+        "position": [
+          68.6717,
+          60.1074
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      },
+      {
+        "id": "nav-republic-8",
+        "label": "Système non nommé R8",
+        "entityIds": [],
+        "position": [
+          63.6591,
+          58.2031
+        ],
+        "region": "republic",
+        "kind": "unknown",
+        "referenceAssetId": "asset-8",
+        "provenance": "official"
+      }
+    ],
+    "routes": [
+      {
+        "id": "route-kal-shebbol--torize",
+        "from": "nav-kal-shebbol",
+        "to": "nav-torize",
+        "kind": "trade",
+        "points": [
+          [
+            69.9248,
+            4.834
+          ],
+          [
+            66.416,
+            6.3477
+          ],
+          [
+            62.782,
+            8.4961
+          ]
+        ],
+        "durationHours": {
+          "min": 18,
+          "max": 18
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-kal-shebbol--minos-exit",
+        "from": "nav-kal-shebbol",
+        "to": "nav-minos-exit",
+        "kind": "trade",
+        "points": [
+          [
+            69.9248,
+            4.834
+          ],
+          [
+            73.9348,
+            2.5879
+          ],
+          [
+            73.9348,
+            1.0742
+          ]
+        ],
+        "durationHours": {
+          "min": 240,
+          "max": 240
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "Sortie vers Karideph (amas de Minos) : 10 jours indiqués sur la carte. La flèche ne donne pas la position spatiale de Karideph."
+      },
+      {
+        "id": "route-kal-shebbol--brolsam",
+        "from": "nav-kal-shebbol",
+        "to": "nav-brolsam",
+        "kind": "trade",
+        "points": [
+          [
+            69.9248,
+            4.834
+          ],
+          [
+            66.0401,
+            6.2988
+          ],
+          [
+            63.0326,
+            5.3711
+          ],
+          [
+            59.5238,
+            4.9805
+          ]
+        ],
+        "durationHours": {
+          "min": 30,
+          "max": 30
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-brolsam--aaris",
+        "from": "nav-brolsam",
+        "to": "nav-aaris",
+        "kind": "secondary",
+        "points": [
+          [
+            59.5238,
+            4.9805
+          ],
+          [
+            57.3935,
+            6.0059
+          ],
+          [
+            53.1328,
+            7.0801
+          ],
+          [
+            52.7569,
+            9.1797
+          ]
+        ],
+        "durationHours": {
+          "min": 81,
+          "max": 81
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-aaris--kolatill",
+        "from": "nav-aaris",
+        "to": "nav-kolatill",
+        "kind": "secondary",
+        "points": [
+          [
+            52.7569,
+            9.1797
+          ],
+          [
+            55.3885,
+            10.1074
+          ],
+          [
+            60.0251,
+            10.8887
+          ]
+        ],
+        "durationHours": {
+          "min": 16,
+          "max": 16
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          55.1378,
+          9.4238
+        ]
+      },
+      {
+        "id": "route-torize--kolatill",
+        "from": "nav-torize",
+        "to": "nav-kolatill",
+        "kind": "trade",
+        "points": [
+          [
+            62.782,
+            8.4961
+          ],
+          [
+            61.2782,
+            9.7656
+          ],
+          [
+            60.0251,
+            10.8887
+          ]
+        ],
+        "durationHours": {
+          "min": 28,
+          "max": 28
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          57.6441,
+          9.8145
+        ]
+      },
+      {
+        "id": "route-aaris--charis",
+        "from": "nav-aaris",
+        "to": "nav-charis",
+        "kind": "secondary",
+        "points": [
+          [
+            52.7569,
+            9.1797
+          ],
+          [
+            51.7544,
+            11.3281
+          ],
+          [
+            51.5038,
+            12.6953
+          ]
+        ],
+        "durationHours": {
+          "min": 27,
+          "max": 27
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-kolatill--charis",
+        "from": "nav-kolatill",
+        "to": "nav-charis",
+        "kind": "trade",
+        "points": [
+          [
+            60.0251,
+            10.8887
+          ],
+          [
+            55.7644,
+            12.0117
+          ],
+          [
+            51.5038,
+            12.6953
+          ]
+        ],
+        "durationHours": {
+          "min": 21,
+          "max": 21
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          54.5113,
+          11.5723
+        ]
+      },
+      {
+        "id": "route-torize--oon-tien",
+        "from": "nav-torize",
+        "to": "nav-oon-tien",
+        "kind": "secondary",
+        "points": [
+          [
+            62.782,
+            8.4961
+          ],
+          [
+            65.5388,
+            10.0098
+          ],
+          [
+            66.792,
+            11.5723
+          ],
+          [
+            68.6717,
+            12.5488
+          ]
+        ],
+        "durationHours": {
+          "min": 14,
+          "max": 14
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          67.1679,
+          10.5957
+        ]
+      },
+      {
+        "id": "route-kolatill--oon-tien",
+        "from": "nav-kolatill",
+        "to": "nav-oon-tien",
+        "kind": "secondary",
+        "points": [
+          [
+            60.0251,
+            10.8887
+          ],
+          [
+            63.7845,
+            11.7676
+          ],
+          [
+            68.6717,
+            12.5488
+          ]
+        ],
+        "durationHours": {
+          "min": 19,
+          "max": 19
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          64.411,
+          11.4258
+        ]
+      },
+      {
+        "id": "route-kolatill--corjain",
+        "from": "nav-kolatill",
+        "to": "nav-corjain",
+        "kind": "secondary",
+        "points": [
+          [
+            60.0251,
+            10.8887
+          ],
+          [
+            59.3985,
+            13.2813
+          ]
+        ],
+        "durationHours": {
+          "min": 5,
+          "max": 5
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          60.0251,
+          12.2559
+        ]
+      },
+      {
+        "id": "route-charis--corjain",
+        "from": "nav-charis",
+        "to": "nav-corjain",
+        "kind": "secondary",
+        "points": [
+          [
+            51.5038,
+            12.6953
+          ],
+          [
+            59.3985,
+            13.2813
+          ]
+        ],
+        "durationHours": {
+          "min": 14,
+          "max": 14
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          55.1378,
+          13.8672
+        ]
+      },
+      {
+        "id": "route-corjain--oon-tien",
+        "from": "nav-corjain",
+        "to": "nav-oon-tien",
+        "kind": "secondary",
+        "points": [
+          [
+            59.3985,
+            13.2813
+          ],
+          [
+            63.2832,
+            13.1348
+          ],
+          [
+            68.6717,
+            12.5488
+          ]
+        ],
+        "durationHours": {
+          "min": 11,
+          "max": 11
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          64.2857,
+          12.9883
+        ]
+      },
+      {
+        "id": "route-charis--gandle-ott",
+        "from": "nav-charis",
+        "to": "nav-gandle-ott",
+        "kind": "trade",
+        "points": [
+          [
+            51.5038,
+            12.6953
+          ],
+          [
+            44.9875,
+            14.1113
+          ]
+        ],
+        "durationHours": {
+          "min": 15,
+          "max": 15
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          46.4912,
+          12.9883
+        ]
+      },
+      {
+        "id": "route-charis--mairne",
+        "from": "nav-charis",
+        "to": "nav-mairne",
+        "kind": "secondary",
+        "points": [
+          [
+            51.5038,
+            12.6953
+          ],
+          [
+            50.3759,
+            15.0879
+          ]
+        ],
+        "durationHours": {
+          "min": 12,
+          "max": 12
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          52.5063,
+          14.5508
+        ]
+      },
+      {
+        "id": "route-gandle-ott--mairne",
+        "from": "nav-gandle-ott",
+        "to": "nav-mairne",
+        "kind": "secondary",
+        "points": [
+          [
+            44.9875,
+            14.1113
+          ],
+          [
+            50.3759,
+            15.0879
+          ]
+        ],
+        "durationHours": {
+          "min": 8,
+          "max": 8
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          46.9925,
+          14.9414
+        ]
+      },
+      {
+        "id": "route-gandle-ott--peirs",
+        "from": "nav-gandle-ott",
+        "to": "nav-peirs",
+        "kind": "secondary",
+        "points": [
+          [
+            44.9875,
+            14.1113
+          ],
+          [
+            42.9825,
+            15.4785
+          ]
+        ],
+        "durationHours": {
+          "min": 7,
+          "max": 7
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          41.7293,
+          14.5996
+        ]
+      },
+      {
+        "id": "route-peirs--shintel",
+        "from": "nav-peirs",
+        "to": "nav-shintel",
+        "kind": "secondary",
+        "points": [
+          [
+            42.9825,
+            15.4785
+          ],
+          [
+            38.8471,
+            16.0645
+          ]
+        ],
+        "durationHours": {
+          "min": 5,
+          "max": 5
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          40.2256,
+          16.5039
+        ]
+      },
+      {
+        "id": "route-peirs--ivatch",
+        "from": "nav-peirs",
+        "to": "nav-ivatch",
+        "kind": "secondary",
+        "points": [
+          [
+            42.9825,
+            15.4785
+          ],
+          [
+            40.9774,
+            17.2852
+          ]
+        ],
+        "durationHours": {
+          "min": 30,
+          "max": 30
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          43.8596,
+          17.0898
+        ]
+      },
+      {
+        "id": "route-shintel--ivatch",
+        "from": "nav-shintel",
+        "to": "nav-ivatch",
+        "kind": "secondary",
+        "points": [
+          [
+            38.8471,
+            16.0645
+          ],
+          [
+            40.9774,
+            17.2852
+          ]
+        ],
+        "durationHours": {
+          "min": 8,
+          "max": 8
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          37.594,
+          17.4316
+        ]
+      },
+      {
+        "id": "route-shintel--tanquilla",
+        "from": "nav-shintel",
+        "to": "nav-tanquilla",
+        "kind": "secondary",
+        "points": [
+          [
+            38.8471,
+            16.0645
+          ],
+          [
+            31.9549,
+            15.625
+          ]
+        ],
+        "durationHours": {
+          "min": 24,
+          "max": 24
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          34.8371,
+          15.5762
+        ]
+      },
+      {
+        "id": "route-shintel--pembric",
+        "from": "nav-shintel",
+        "to": "nav-pembric",
+        "kind": "secondary",
+        "points": [
+          [
+            38.8471,
+            16.0645
+          ],
+          [
+            31.203,
+            18.3105
+          ]
+        ],
+        "durationHours": {
+          "min": 72,
+          "max": 72
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          34.5865,
+          17.4316
+        ]
+      },
+      {
+        "id": "route-tanquilla--pembric",
+        "from": "nav-tanquilla",
+        "to": "nav-pembric",
+        "kind": "secondary",
+        "points": [
+          [
+            31.9549,
+            15.625
+          ],
+          [
+            31.203,
+            18.3105
+          ]
+        ],
+        "durationHours": {
+          "min": 19,
+          "max": 19
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": "",
+        "labelAt": [
+          28.5714,
+          17.0898
+        ]
+      },
+      {
+        "id": "route-pembric--galtea",
+        "from": "nav-pembric",
+        "to": "nav-galtea",
+        "kind": "secondary",
+        "points": [
+          [
+            31.203,
+            18.3105
+          ],
+          [
+            30.0752,
+            20.5566
+          ],
+          [
+            28.8221,
+            22.3633
+          ]
+        ],
+        "durationHours": {
+          "min": 32,
+          "max": 32
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-pembric--sebiris",
+        "from": "nav-pembric",
+        "to": "nav-sebiris",
+        "kind": "secondary",
+        "points": [
+          [
+            31.203,
+            18.3105
+          ],
+          [
+            32.7068,
+            20.1172
+          ],
+          [
+            35.7143,
+            21.7773
+          ],
+          [
+            38.2206,
+            23.584
+          ]
+        ],
+        "durationHours": {
+          "min": 62,
+          "max": 62
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-galtea--sebiris",
+        "from": "nav-galtea",
+        "to": "nav-sebiris",
+        "kind": "secondary",
+        "points": [
+          [
+            28.8221,
+            22.3633
+          ],
+          [
+            38.2206,
+            23.584
+          ]
+        ],
+        "durationHours": {
+          "min": 27,
+          "max": 27
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-8",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-galtea--timbra-ott",
+        "from": "nav-galtea",
+        "to": "nav-timbra-ott",
+        "kind": "secondary",
+        "points": [
+          [
+            28.8221,
+            22.3633
+          ],
+          [
+            29.198,
+            26.8555
+          ],
+          [
+            28.4461,
+            33.2031
+          ],
+          [
+            27.6942,
+            39.0625
+          ],
+          [
+            26.1905,
+            43.0664
+          ]
+        ],
+        "durationHours": {
+          "min": 342,
+          "max": 342
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-sebiris--dolstan",
+        "from": "nav-sebiris",
+        "to": "nav-dolstan",
+        "kind": "secondary",
+        "points": [
+          [
+            38.2206,
+            23.584
+          ],
+          [
+            39.0977,
+            24.6582
+          ],
+          [
+            46.3659,
+            26.3184
+          ],
+          [
+            48.6216,
+            28.0273
+          ],
+          [
+            51.3784,
+            29.2969
+          ],
+          [
+            51.7544,
+            32.3242
+          ],
+          [
+            51.6291,
+            33.6426
+          ],
+          [
+            56.2657,
+            35.9863
+          ],
+          [
+            61.2782,
+            38.2324
+          ]
+        ],
+        "durationHours": {
+          "min": 345,
+          "max": 345
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-timbra-ott--bresan",
+        "from": "nav-timbra-ott",
+        "to": "nav-bresan",
+        "kind": "secondary",
+        "points": [
+          [
+            26.1905,
+            43.0664
+          ],
+          [
+            33.584,
+            42.0898
+          ],
+          [
+            42.4812,
+            41.2598
+          ],
+          [
+            45.2381,
+            40.5273
+          ],
+          [
+            50.3759,
+            40.1367
+          ],
+          [
+            53.5088,
+            39.209
+          ]
+        ],
+        "durationHours": {
+          "min": 314,
+          "max": 314
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-bresan--dolstan",
+        "from": "nav-bresan",
+        "to": "nav-dolstan",
+        "kind": "secondary",
+        "points": [
+          [
+            53.5088,
+            39.209
+          ],
+          [
+            61.2782,
+            38.2324
+          ]
+        ],
+        "durationHours": {
+          "min": 49,
+          "max": 49
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-dolstan--swedlan",
+        "from": "nav-dolstan",
+        "to": "nav-swedlan",
+        "kind": "secondary",
+        "points": [
+          [
+            61.2782,
+            38.2324
+          ],
+          [
+            67.0426,
+            41.2598
+          ]
+        ],
+        "durationHours": {
+          "min": 76,
+          "max": 76
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-timbra-ott--sapella",
+        "from": "nav-timbra-ott",
+        "to": "nav-sapella",
+        "kind": "secondary",
+        "points": [
+          [
+            26.1905,
+            43.0664
+          ],
+          [
+            19.7995,
+            47.3145
+          ]
+        ],
+        "durationHours": {
+          "min": 131,
+          "max": 131
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-10",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-sapella--binaros",
+        "from": "nav-sapella",
+        "to": "nav-binaros",
+        "kind": "secondary",
+        "points": [
+          [
+            19.7995,
+            47.3145
+          ],
+          [
+            19.7995,
+            53.7598
+          ]
+        ],
+        "durationHours": {
+          "min": 148,
+          "max": 148
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-timbra-ott--jangelle",
+        "from": "nav-timbra-ott",
+        "to": "nav-jangelle",
+        "kind": "secondary",
+        "points": [
+          [
+            26.1905,
+            43.0664
+          ],
+          [
+            31.3283,
+            45.1172
+          ],
+          [
+            32.0802,
+            47.5586
+          ],
+          [
+            34.7118,
+            49.0723
+          ],
+          [
+            35.7143,
+            51.0742
+          ],
+          [
+            37.9699,
+            52.1484
+          ],
+          [
+            41.1028,
+            54.6387
+          ]
+        ],
+        "durationHours": {
+          "min": 308,
+          "max": 308
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-binaros--jangelle",
+        "from": "nav-binaros",
+        "to": "nav-jangelle",
+        "kind": "secondary",
+        "points": [
+          [
+            19.7995,
+            53.7598
+          ],
+          [
+            24.0602,
+            53.4668
+          ],
+          [
+            29.198,
+            54.2969
+          ],
+          [
+            41.1028,
+            54.6387
+          ]
+        ],
+        "durationHours": {
+          "min": 170,
+          "max": 170
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-jangelle--episol",
+        "from": "nav-jangelle",
+        "to": "nav-episol",
+        "kind": "secondary",
+        "points": [
+          [
+            41.1028,
+            54.6387
+          ],
+          [
+            53.5088,
+            57.7637
+          ]
+        ],
+        "durationHours": {
+          "min": 105,
+          "max": 105
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-episol--republic-1",
+        "from": "nav-episol",
+        "to": "nav-republic-1",
+        "kind": "secondary",
+        "points": [
+          [
+            53.5088,
+            57.7637
+          ],
+          [
+            49.2481,
+            59.8633
+          ]
+        ],
+        "durationHours": {
+          "min": 51,
+          "max": 51
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-episol--pitann",
+        "from": "nav-episol",
+        "to": "nav-pitann",
+        "kind": "secondary",
+        "points": [
+          [
+            53.5088,
+            57.7637
+          ],
+          [
+            57.8947,
+            60.1074
+          ]
+        ],
+        "durationHours": {
+          "min": 48,
+          "max": 48
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-republic-1--pitann",
+        "from": "nav-republic-1",
+        "to": "nav-pitann",
+        "kind": "secondary",
+        "points": [
+          [
+            49.2481,
+            59.8633
+          ],
+          [
+            57.8947,
+            60.1074
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-episol--republic-2",
+        "from": "nav-episol",
+        "to": "nav-republic-2",
+        "kind": "secondary",
+        "points": [
+          [
+            53.5088,
+            57.7637
+          ],
+          [
+            62.782,
+            55.7617
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-episol--republic-8",
+        "from": "nav-episol",
+        "to": "nav-republic-8",
+        "kind": "secondary",
+        "points": [
+          [
+            53.5088,
+            57.7637
+          ],
+          [
+            63.6591,
+            58.2031
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-2--republic-8",
+        "from": "nav-republic-2",
+        "to": "nav-republic-8",
+        "kind": "secondary",
+        "points": [
+          [
+            62.782,
+            55.7617
+          ],
+          [
+            63.6591,
+            58.2031
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-2--republic-3",
+        "from": "nav-republic-2",
+        "to": "nav-republic-3",
+        "kind": "secondary",
+        "points": [
+          [
+            62.782,
+            55.7617
+          ],
+          [
+            73.0576,
+            56.8359
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-3--republic-4",
+        "from": "nav-republic-3",
+        "to": "nav-republic-4",
+        "kind": "secondary",
+        "points": [
+          [
+            73.0576,
+            56.8359
+          ],
+          [
+            75.9398,
+            58.4961
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-4--republic-5",
+        "from": "nav-republic-4",
+        "to": "nav-republic-5",
+        "kind": "secondary",
+        "points": [
+          [
+            75.9398,
+            58.4961
+          ],
+          [
+            81.8296,
+            59.5703
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-5--republic-6",
+        "from": "nav-republic-5",
+        "to": "nav-republic-6",
+        "kind": "secondary",
+        "points": [
+          [
+            81.8296,
+            59.5703
+          ],
+          [
+            73.0576,
+            62.6953
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-6--republic-7",
+        "from": "nav-republic-6",
+        "to": "nav-republic-7",
+        "kind": "secondary",
+        "points": [
+          [
+            73.0576,
+            62.6953
+          ],
+          [
+            68.6717,
+            60.1074
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-7--republic-4",
+        "from": "nav-republic-7",
+        "to": "nav-republic-4",
+        "kind": "secondary",
+        "points": [
+          [
+            68.6717,
+            60.1074
+          ],
+          [
+            75.9398,
+            58.4961
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-7--republic-8",
+        "from": "nav-republic-7",
+        "to": "nav-republic-8",
+        "kind": "secondary",
+        "points": [
+          [
+            68.6717,
+            60.1074
+          ],
+          [
+            63.6591,
+            58.2031
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-7--pitann",
+        "from": "nav-republic-7",
+        "to": "nav-pitann",
+        "kind": "secondary",
+        "points": [
+          [
+            68.6717,
+            60.1074
+          ],
+          [
+            57.8947,
+            60.1074
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-8--pitann",
+        "from": "nav-republic-8",
+        "to": "nav-pitann",
+        "kind": "secondary",
+        "points": [
+          [
+            63.6591,
+            58.2031
+          ],
+          [
+            57.8947,
+            60.1074
+          ]
+        ],
+        "durationHours": null,
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": "Route dessinée ; durée non fournie sur la carte."
+      },
+      {
+        "id": "route-republic-1--ehjenla",
+        "from": "nav-republic-1",
+        "to": "nav-ehjenla",
+        "kind": "secondary",
+        "points": [
+          [
+            49.2481,
+            59.8633
+          ],
+          [
+            44.8622,
+            61.6699
+          ],
+          [
+            39.9749,
+            64.4531
+          ],
+          [
+            35.0877,
+            65.5273
+          ]
+        ],
+        "durationHours": {
+          "min": 158,
+          "max": 158
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-ehjenla--uukaablis",
+        "from": "nav-ehjenla",
+        "to": "nav-uukaablis",
+        "kind": "secondary",
+        "points": [
+          [
+            35.0877,
+            65.5273
+          ],
+          [
+            31.5789,
+            66.5527
+          ],
+          [
+            29.4486,
+            68.1641
+          ],
+          [
+            21.3033,
+            70.0195
+          ],
+          [
+            14.9123,
+            71.875
+          ]
+        ],
+        "durationHours": {
+          "min": 211,
+          "max": 211
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-uukaablis--qumock",
+        "from": "nav-uukaablis",
+        "to": "nav-qumock",
+        "kind": "secondary",
+        "points": [
+          [
+            14.9123,
+            71.875
+          ],
+          [
+            11.2782,
+            70.3613
+          ]
+        ],
+        "durationHours": {
+          "min": 50,
+          "max": 50
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-2",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-uukaablis--shatuun",
+        "from": "nav-uukaablis",
+        "to": "nav-shatuun",
+        "kind": "secondary",
+        "points": [
+          [
+            14.9123,
+            71.875
+          ],
+          [
+            24.5614,
+            73.1445
+          ],
+          [
+            29.0727,
+            72.8516
+          ],
+          [
+            36.0902,
+            73.7305
+          ],
+          [
+            40.9774,
+            74.1211
+          ],
+          [
+            44.6115,
+            73.4863
+          ],
+          [
+            53.0075,
+            73.1934
+          ],
+          [
+            58.5213,
+            72.4609
+          ],
+          [
+            64.2857,
+            71.2402
+          ]
+        ],
+        "durationHours": {
+          "min": 318,
+          "max": 318
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-shatuun--exocron",
+        "from": "nav-shatuun",
+        "to": "nav-exocron",
+        "kind": "secondary",
+        "points": [
+          [
+            64.2857,
+            71.2402
+          ],
+          [
+            70.3008,
+            70.5078
+          ],
+          [
+            74.3108,
+            70.459
+          ]
+        ],
+        "durationHours": {
+          "min": 99,
+          "max": 99
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-shatuun--nah-malis",
+        "from": "nav-shatuun",
+        "to": "nav-nah-malis",
+        "kind": "secondary",
+        "points": [
+          [
+            64.2857,
+            71.2402
+          ],
+          [
+            67.9198,
+            71.9238
+          ],
+          [
+            67.6692,
+            72.9492
+          ],
+          [
+            70.1754,
+            73.4863
+          ],
+          [
+            68.4211,
+            74.9023
+          ],
+          [
+            69.9248,
+            75.9277
+          ],
+          [
+            71.6792,
+            77.002
+          ]
+        ],
+        "durationHours": {
+          "min": 182,
+          "max": 182
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-outback-3",
+        "sources": [],
+        "notes": ""
+      },
+      {
+        "id": "route-nah-malis--qmaere",
+        "from": "nav-nah-malis",
+        "to": "nav-qmaere",
+        "kind": "rift",
+        "points": [
+          [
+            71.6792,
+            77.002
+          ],
+          [
+            73.3083,
+            78.3691
+          ],
+          [
+            78.1955,
+            79.7363
+          ],
+          [
+            77.6942,
+            80.3223
+          ],
+          [
+            70.6767,
+            80.7617
+          ],
+          [
+            72.1805,
+            81.2988
+          ]
+        ],
+        "durationHours": {
+          "min": 168,
+          "max": 504
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-9",
+        "sources": [],
+        "notes": "1–3 semaines ; tracé représentatif susceptible de changer."
+      },
+      {
+        "id": "route-qmaere--construct",
+        "from": "nav-qmaere",
+        "to": "nav-construct",
+        "kind": "rift",
+        "points": [
+          [
+            72.1805,
+            81.2988
+          ],
+          [
+            69.9248,
+            82.2266
+          ],
+          [
+            76.9424,
+            82.666
+          ],
+          [
+            79.3233,
+            82.0313
+          ],
+          [
+            73.6842,
+            83.0566
+          ],
+          [
+            70.9273,
+            84.375
+          ],
+          [
+            75.5639,
+            84.8633
+          ],
+          [
+            79.6992,
+            83.3984
+          ]
+        ],
+        "durationHours": {
+          "min": 504,
+          "max": 840
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-9",
+        "sources": [],
+        "notes": "3–5 semaines ; corridors instables."
+      },
+      {
+        "id": "route-construct--yvara",
+        "from": "nav-construct",
+        "to": "nav-yvara",
+        "kind": "rift",
+        "points": [
+          [
+            79.6992,
+            83.3984
+          ],
+          [
+            80.7018,
+            84.6191
+          ],
+          [
+            74.1855,
+            85.0586
+          ],
+          [
+            71.9298,
+            86.6211
+          ],
+          [
+            68.2957,
+            86.9141
+          ],
+          [
+            79.6992,
+            86.9629
+          ],
+          [
+            80.4511,
+            87.6953
+          ],
+          [
+            74.1855,
+            88.3789
+          ],
+          [
+            71.8045,
+            89.3555
+          ],
+          [
+            74.6867,
+            89.9902
+          ],
+          [
+            85.589,
+            89.7461
+          ],
+          [
+            88.2206,
+            90.625
+          ],
+          [
+            87.218,
+            91.2598
+          ],
+          [
+            78.6967,
+            91.0156
+          ],
+          [
+            75.6892,
+            91.748
+          ],
+          [
+            75.9398,
+            93.0664
+          ],
+          [
+            80.0752,
+            93.6523
+          ],
+          [
+            77.6942,
+            94.6289
+          ],
+          [
+            83.8346,
+            95.0195
+          ],
+          [
+            84.4612,
+            95.6055
+          ]
+        ],
+        "durationHours": {
+          "min": 600,
+          "max": 912
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-9",
+        "sources": [],
+        "notes": "3 semaines 4 jours – 5 semaines 3 jours ; tracé représentatif, pas une garantie de passage."
+      },
+      {
+        "id": "route-yvara--demonsgate",
+        "from": "nav-yvara",
+        "to": "nav-demonsgate",
+        "kind": "rift",
+        "points": [
+          [
+            84.4612,
+            95.6055
+          ],
+          [
+            85.0877,
+            96.6309
+          ],
+          [
+            81.4536,
+            96.6797
+          ],
+          [
+            82.5815,
+            97.4121
+          ]
+        ],
+        "durationHours": {
+          "min": 24,
+          "max": 96
+        },
+        "distanceLy": null,
+        "hyperdriveClass": 1,
+        "provenance": "official",
+        "referenceAssetId": "asset-9",
+        "sources": [],
+        "notes": "1–4 jours."
+      }
+    ],
+    "views": [
+      {
+        "id": "all",
+        "name": "Carte assemblée complète",
+        "box": [
+          0,
+          0,
+          798,
+          2048
+        ]
+      },
+      {
+        "id": "sector",
+        "name": "Secteur principal",
+        "box": [
+          140,
+          0,
+          510,
+          520
+        ]
+      },
+      {
+        "id": "outback-north",
+        "name": "Outback · Marcol Void",
+        "box": [
+          140,
+          435,
+          440,
+          600
+        ]
+      },
+      {
+        "id": "outback-south",
+        "name": "Outback · République / lisière",
+        "box": [
+          30,
+          1050,
+          690,
+          560
+        ]
+      },
+      {
+        "id": "rift",
+        "name": "Kathol Rift",
+        "box": [
+          375,
+          1540,
+          415,
+          500
+        ]
+      }
+    ],
+    "regions": [
+      {
+        "name": "Marcol Void",
+        "points": [
+          [
+            30.0752,
+            25.8789
+          ],
+          [
+            49.2481,
+            27.832
+          ],
+          [
+            55.8897,
+            35.2539
+          ],
+          [
+            54.2607,
+            37.1094
+          ],
+          [
+            34.0852,
+            37.8418
+          ],
+          [
+            28.1955,
+            35.3027
+          ]
+        ],
+        "labelAt": [
+          39.4737,
+          31.7871
+        ]
+      },
+      {
+        "name": "Ligue Pimbrellan",
+        "points": [
+          [
+            50.8772,
+            37.8418
+          ],
+          [
+            58.396,
+            36.6211
+          ],
+          [
+            63.9098,
+            37.1094
+          ],
+          [
+            68.6717,
+            39.7461
+          ],
+          [
+            68.6717,
+            41.8457
+          ],
+          [
+            54.7619,
+            41.4551
+          ],
+          [
+            49.4987,
+            40.0391
+          ]
+        ],
+        "labelAt": [
+          57.8947,
+          40.3809
+        ]
+      },
+      {
+        "name": "République de Kathol",
+        "points": [
+          [
+            48.4962,
+            57.3242
+          ],
+          [
+            58.1454,
+            54.7363
+          ],
+          [
+            68.6717,
+            55.3223
+          ],
+          [
+            78.3208,
+            57.3242
+          ],
+          [
+            85.213,
+            59.5703
+          ],
+          [
+            78.6967,
+            63.3789
+          ],
+          [
+            69.1729,
+            63.8672
+          ],
+          [
+            61.1529,
+            62.4512
+          ],
+          [
+            47.4937,
+            60.6445
+          ]
+        ],
+        "labelAt": [
+          65.4135,
+          61.5234
+        ]
+      },
+      {
+        "name": "Confédération Qektoth",
+        "points": [
+          [
+            4.1353,
+            66.3086
+          ],
+          [
+            8.6466,
+            65.9668
+          ],
+          [
+            12.406,
+            66.8945
+          ],
+          [
+            13.4085,
+            68.1641
+          ],
+          [
+            11.5288,
+            70.7031
+          ],
+          [
+            5.5138,
+            70.9961
+          ],
+          [
+            2.1303,
+            69.1895
+          ]
+        ],
+        "labelAt": [
+          8.6466,
+          67.7246
+        ]
+      },
+      {
+        "name": "Kathol Rift",
+        "points": [
+          [
+            57.7694,
+            72.2168
+          ],
+          [
+            64.2857,
+            74.2188
+          ],
+          [
+            71.6792,
+            73.0957
+          ],
+          [
+            77.3183,
+            69.7754
+          ],
+          [
+            84.8371,
+            70.9473
+          ],
+          [
+            89.3484,
+            74.3164
+          ],
+          [
+            96.8672,
+            72.0215
+          ],
+          [
+            98.9975,
+            74.4141
+          ],
+          [
+            97.995,
+            99.3164
+          ],
+          [
+            49.4987,
+            99.4141
+          ],
+          [
+            50,
+            87.207
+          ],
+          [
+            47.1178,
+            84.6191
+          ],
+          [
+            52.6316,
+            80.4688
+          ],
+          [
+            48.3709,
+            78.3203
+          ],
+          [
+            54.386,
+            75.4883
+          ]
+        ],
+        "labelAt": [
+          81.4536,
+          85.9375
+        ]
+      }
+    ]
+  }
 }
