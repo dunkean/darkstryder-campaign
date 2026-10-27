@@ -20,7 +20,7 @@ from .store import Store, dumps
 from .structured_article import VERSION, PROMPT, KINDS, SECTION_TYPES, article_schema, validate_article, article_html
 from .type_mining import aggregate_table
 
-POLICY = 'sw-anthropic-structured-pilot/2-simple-sections'
+POLICY = 'sw-anthropic-structured-pilot/3-content-and-warnings'
 QUOTAS = {'unknown': 10, 'person': 5, 'equipment': 5, 'craft': 4, 'vehicle': 4,
           'location': 3, 'system': 3, 'stellar_route': 2, 'rule': 3, 'skill': 2,
           'force_power': 2, 'species': 2, 'organization': 2, 'scenario': 2, 'archetype': 1}
@@ -85,10 +85,17 @@ def context_for(main, selection, entity, config, taxonomy=None):
     ref = selected['reference_id']; compact = []
     sources = {s['id']: s for s in bundle['source_documents']}
     ordered = sorted(bundle['evidence'], key=lambda e: (e['record_id'] != ref, e['record_id'], e['offset_start']))
+    document_labels = {}
+    for evidence in ordered:
+        rid = evidence['record_id']
+        if rid not in document_labels:
+            doc = sources[rid]
+            document_labels[rid] = 'Document ' + str(len(document_labels)+1) + ' — ' + doc.get('source_title', '') + ' — ' + doc.get('name', '')
+    bundle['document_labels'] = {label: rid for rid, label in document_labels.items()}
     for evidence in ordered:
         doc = sources[evidence['record_id']]
         prov = doc.get('provenance') or {}
-        compact.append({'text': evidence['excerpt'],
+        compact.append({'text': evidence['excerpt'], 'document': document_labels[evidence['record_id']],
             'role': {'reference': 'reference', 'add': 'selected addition', 'add_uncertain': 'uncertain addition'}[evidence['selection']],
             'context': {'section': evidence['section'], 'scope': _small(evidence['scope'], 2000)}, 'origin': evidence['origin'],
             'source': {'acquisition': (prov.get('acquisition') or {}).get('label', doc.get('source_title', '')),
@@ -96,12 +103,16 @@ def context_for(main, selection, entity, config, taxonomy=None):
                                  for w in prov.get('works', [])]}})
     aliases = [row[0] for row in main.db.execute('SELECT label FROM aggregate_aliases WHERE aggregate_id=? ORDER BY label LIMIT 100', (entity['id'],))]
     retained_records = {e['record_id'] for e in bundle['evidence']}
-    context = {'entity': {'name': entity['name'], 'type': entity['kind'], 'universe': entity['universe'], 'aliases': aliases},
+    entity_hint = {'name': entity['name'], 'universe': entity['universe'], 'aliases': aliases}
+    if entity['kind'] != 'unknown': entity_hint['type'] = entity['kind']
+    context = {'entity': entity_hint,
         'known_names': taxonomy or taxonomy_for(main), 'texts': compact,
-        'existing_profiles': [{'data': p['data'], 'context': _small(p['scope'], 2000)}
+        'existing_profiles': [{'data': p['data'], 'context': _small(p['scope'], 2000),
+                               'documents': [document_labels[rid] for rid in p['source_documents'] if rid in document_labels]}
                               for p in bundle['profiles'] if retained_records.intersection(p['source_documents'])],
-        'output_example': {'type': '', 'subtype': '', 'sections': [
-            {'title': '', 'subtitle': '', 'content': '', 'type': 'description', 'stats': {}}]},
+        'output_example': {'type': '', 'subtype': '', 'tags': [], 'warnings': [], 'sections': [
+            {'title': '', 'type': 'description', 'content': ''}]},
+        'warning_example': {'document': 'Exact document label from texts', 'reason': 'Problem requiring human review'},
         'language': config.get('language', 'English'), 'live_campaign_state_inferred': False}
     # Original profiles remain available to deterministic follow-up checks and export.
     return context, bundle, fingerprint(input_snapshot(main, entity['id']))
@@ -111,7 +122,7 @@ def payload_for(context, config):
     return {'model': config['model'], 'max_tokens': config.get('max_output_tokens', 12000),
         'thinking': {'type': 'disabled'},
         'system': PROMPT, 'messages': [{'role': 'user', 'content': dumps(context)}],
-        # A free stats dictionary is intentional. Validate JSON locally rather than
+        # Free key/value content is intentional. Validate JSON locally rather than
         # forcing Anthropic's closed-object grammar onto arbitrary game stat names.
         'output_config': {'effort': 'low'}}
 
@@ -189,7 +200,8 @@ def check_contract(db):
         payload = json.loads(row[0])
         context = json.loads(payload['messages'][0]['content'])
         if (payload.get('system') != PROMPT or 'format' in payload.get('output_config', {})
-                or set(context.get('output_example', {})) != {'type', 'subtype', 'sections'}):
+                or set(context.get('output_example', {})) != {'type', 'subtype', 'tags', 'warnings', 'sections'}
+                or any(set(s) != {'title', 'type', 'content'} for s in context['output_example']['sections'])):
             raise ValueError('Obsolete pilot contract; prepare the simplified schema again')
 
 
@@ -333,11 +345,12 @@ def report(root, db=None):
     root = Path(root); own = db is None; db = db or pilot_db(root)
     try:
         config = config_from(db); rows = db.execute('SELECT * FROM jobs ORDER BY initial_kind,name').fetchall()
+        preparation = json.loads(db.execute("SELECT value_json FROM meta WHERE key='preparation'").fetchone()[0])
         statuses = Counter(r['status'] for r in rows); prompt = sum(r['input_tokens'] or 0 for r in rows)
         maximum_output = sum(json.loads(r['request_json'])['max_tokens'] for r in rows)
         measured = sum(r['cost_usd'] for r in rows)
         pricing = json.loads(db.execute("SELECT value_json FROM meta WHERE key='pricing'").fetchone()[0])
-        result = {'policy': POLICY, 'model': config['model'], 'articles': len(rows), 'by_status': dict(statuses),
+        result = {'policy': preparation['policy'], 'model': config['model'], 'articles': len(rows), 'by_status': dict(statuses),
             'input_tokens_counted': prompt, 'counted_articles': sum(r['input_tokens'] is not None for r in rows),
             'generation_responses': sum(r['response_json'] is not None for r in rows),
             'observed_output_tokens': sum(json.loads(r['usage_json'] or '{}').get('output_tokens', 0) for r in rows),
@@ -359,8 +372,9 @@ def report(root, db=None):
                 body = navigation + article_html(article, row['name'])
                 atomic_json(root / 'articles' / (row['id'] + '.json'), article)
                 atomic_json(root / 'articles' / (row['id'] + '.metadata.json'), {'id': row['entity_id'],
-                    'schema_version': VERSION, 'section_source_mapping': 'not_yet_resolved',
+                    'schema_version': preparation['schema_version'], 'section_source_mapping': 'not_yet_resolved',
                     'evidence': bundle['evidence'], 'source_documents': bundle['source_documents'],
+                    'document_labels': bundle.get('document_labels', {}),
                     'source_profiles': bundle['profiles'], 'editorial_overlays': bundle['editorial_overlays'],
                     'generation': {'model': config['model'], 'usage': json.loads(row['usage_json']),
                                    'request_hash': row['input_hash'], 'review_status': 'unreviewed'}})

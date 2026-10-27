@@ -15,7 +15,7 @@ def render_compare(root, jid=None):
         if not entries: raise KeyError('No pilot documents')
         if jid is None:
             jid = next((e['id'] for e in entries if e['name'] == 'Aural Blaster'), entries[0]['id'])
-        row = db.execute('SELECT name,request_json,response_json FROM jobs WHERE id=?', (jid,)).fetchone()
+        row = db.execute('SELECT name,request_json,response_json,bundle_json FROM jobs WHERE id=?', (jid,)).fetchone()
     if row is None: raise KeyError(jid)
     esc = lambda x: html.escape(str(x), quote=True)
     payload = json.loads(row['request_json'])
@@ -27,8 +27,14 @@ def render_compare(root, jid=None):
     response = json.loads(row['response_json']) if row['response_json'] else None
     raw = ''.join(b.get('text', '') for b in response.get('content', []) if b.get('type') == 'text') if response else ''
     fence = re.fullmatch(r'\s*```(?:json)?\s*\n([\s\S]*?)\n```\s*', raw, flags=re.IGNORECASE)
-    try: readable = json.dumps(json.loads(fence[1] if fence else raw), ensure_ascii=False, indent=2)
+    decoded = None
+    try:
+        decoded = json.loads(fence[1] if fence else raw)
+        readable = json.dumps(decoded, ensure_ascii=False, indent=2)
     except (ValueError, TypeError): readable = raw
+    anchors = {}
+    for i, part in enumerate(context.get('texts', []), 1):
+        if part.get('document'): anchors.setdefault(part['document'], 'input-document-' + str(i))
     index = next(i for i, e in enumerate(entries) if e['id'] == jid)
     options = ''.join('<option value="' + e['id'] + '"' + (' selected' if e['id'] == jid else '') + '>' + esc(e['name']) + '</option>' for e in entries)
     nav = ''
@@ -47,7 +53,10 @@ def render_compare(root, jid=None):
         label = source.get('acquisition', '')
         works = source.get('works') or []
         if works: label += ' · ' + ' / '.join(str(w.get('title') or '') for w in works)
-        out.append('<article><h2>' + esc(role) + ' <small>' + str(i) + '</small></h2>')
+        document = part.get('document')
+        anchor = anchors.get(document)
+        out.append('<article' + (' id="'+anchor+'"' if anchor and anchor == 'input-document-'+str(i) else '') + '><h2>' + esc(role) + ' <small>' + str(i) + '</small></h2>')
+        if document: out.append('<p class="source"><strong>' + esc(document) + '</strong></p>')
         if label: out.append('<p class="source">' + esc(label) + '</p>')
         out.append('<pre class="input-text">' + esc(part['text']) + '</pre></article>')
     if context.get('existing_profiles'):
@@ -58,6 +67,21 @@ def render_compare(root, jid=None):
     if response: out.append('<button type="button" id="toggle-raw">Voir le brut exact</button>')
     out.append('</div><div class="pane-body">')
     if response:
+        warnings = decoded.get('warnings', []) if isinstance(decoded, dict) else []
+        if isinstance(warnings, list) and warnings:
+            labels = json.loads(row['bundle_json']).get('document_labels', {})
+            out.append('<aside class="document-warning" role="alert"><h2>DOCUMENTS À VÉRIFIER AVANT INTÉGRATION</h2>')
+            for warning in warnings:
+                if not isinstance(warning, dict): continue
+                document = str(warning.get('document', ''))
+                out.append('<p><strong>' + esc(document) + '</strong><br>' + esc(warning.get('reason', '')) + '</p>')
+                if document in anchors:
+                    out.append('<p><a href="#' + anchors[document] + '">Voir le texte envoyé</a></p>')
+                if document in labels:
+                    out.append('<p><a href="/sources/' + esc(jid) + '/' + esc(labels[document]) + '">Ouvrir le document original complet</a></p>')
+            out.append('</aside>')
+        elif isinstance(decoded, dict) and str(decoded.get('type', '')).strip().casefold() == 'unknown':
+            out.append('<aside class="document-warning" role="alert"><h2>TYPE UNKNOWN À RENSEIGNER</h2><p>Avertissement du contrôleur : le sujet n’a pas été classé.</p></aside>')
         out.append('<pre id="response-readable">' + esc(readable) + '</pre><pre id="response-raw" hidden>' + esc(raw) + '</pre>')
         out.append('<details><summary>Réponse API complète</summary><pre id="response-envelope">' + esc(json.dumps(response, ensure_ascii=False, indent=2)) + '</pre></details>')
     else: out.append('<p>Pas encore de réponse enregistrée.</p>')

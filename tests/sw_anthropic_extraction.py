@@ -24,9 +24,9 @@ from packages.sw_kbase.anthropic_compare import render_compare
 
 
 def response_for(context):
-    return {'type': 'person', 'subtype': 'pilot', 'sections': [
-        {'title': 'Background', 'subtitle': '', 'content': '\n\n'.join(e['text'] for e in context['texts']),
-         'type': 'description', 'stats': {}}]}
+    return {'type': 'person', 'subtype': 'pilot', 'tags': ['pilot'], 'warnings': [], 'sections': [
+        {'title': 'Background', 'content': '\n\n'.join(e['text'] for e in context['texts']),
+         'type': 'description'}]}
 
 
 class Jev:
@@ -56,9 +56,9 @@ class Client:
 class ContractTests(unittest.TestCase):
     def test_short_closed_contract_has_no_links(self):
         serialized = json.dumps(article_schema())
-        self.assertLess(len(PROMPT.split()), 140)
-        for instruction in ['omit no information', 'faithful reformulation', 'Invent nothing', 'fill no gaps']:
-            self.assertIn(instruction, PROMPT)
+        self.assertLess(len(PROMPT.split()), 210)
+        for instruction in ['omit no information', 'reformulate faithfully', 'invent nothing', 'fill no gaps', 'warnings', 'tags']:
+            self.assertIn(instruction, PROMPT.casefold())
         for key in ['"links"', '"link_ids"', '"target_id"', '"url"', '"id"', '"evidence_ids"', '"confidence"']:
             self.assertNotIn(key, serialized)
         path = Path(__file__).resolve().parents[1] / 'config/sw-rich-article.schema.json'
@@ -89,16 +89,28 @@ class ContractTests(unittest.TestCase):
         invalid = deepcopy(value); invalid['sections'][0]['id'] = 'not-the-models-job'
         with self.assertRaises(ValueError): validate_article(invalid, context)
     def test_new_names_free_stats_and_conflicts_need_no_special_objects(self):
-        value = {'type': 'new_category', 'subtype': 'new_subtype', 'sections': [
-            {'title': 'Profile A', 'subtitle': '', 'content': '', 'type': 'stats', 'stats': {'Odd stat name': '4D+2'}},
-            {'title': 'Different source', 'subtitle': 'Alternative profile', 'content': 'Another source gives a different value.',
-             'type': 'conflict', 'stats': {'Odd stat name': '5D'}}]}
+        value = {'type': 'new_category', 'subtype': 'new_subtype', 'tags': [], 'warnings': [], 'sections': [
+            {'title': 'Profile A', 'content': {'Dexterity': '4D+2'}, 'type': 'stats'},
+            {'title': 'Different source', 'content': {'Dexterity': '5D'}, 'type': 'conflict'}]}
         validate_article(value)
         self.assertIn('4D+2', article_html(value)); self.assertIn('class="conflict"', article_html(value))
-        invalid = deepcopy(value); invalid['sections'][0]['stats']['Odd stat name'] = {'dice': 4, 'pips': 2}
+        invalid = deepcopy(value); invalid['sections'][0]['stats'] = {'Dexterity': '4D+2'}
         with self.assertRaises(ValueError): validate_article(invalid)
         empty_subtype = deepcopy(value); empty_subtype['subtype'] = ''
+        with self.assertRaises(ValueError): validate_article(empty_subtype)
+        empty_subtype['warnings'] = [{'document': 'Document 1', 'reason': 'Classification needs review'}]
         validate_article(empty_subtype)
+    def test_unknown_requires_warning_and_stats_content_is_an_object(self):
+        value = {'type': 'unknown', 'subtype': '', 'tags': [], 'warnings': [], 'sections': []}
+        with self.assertRaises(ValueError): validate_article(value)
+        value['warnings'] = [{'document': 'Document 1', 'reason': 'Unusable source'}]
+        validate_article(value)
+        self.assertIn('DOCUMENT À VÉRIFIER', article_html(value))
+        value = response_for({'texts': [{'text': 'Hull 4D'}]})
+        value['sections'][0]['type'] = 'stats'
+        with self.assertRaises(ValueError): validate_article(value)
+        value['sections'][0]['content'] = {'Hull': '4D', 'Crew': 2}
+        validate_article(value)
 
 
 class PilotTests(unittest.TestCase):
@@ -141,7 +153,7 @@ class PilotTests(unittest.TestCase):
         self.assertEqual(client.calls, 1); self.assertGreater(value['estimated_actual_cost_usd'], 0)
         run(self.output, client); self.assertEqual(client.calls, 1)
         exported = json.loads(next(p for p in (self.output / 'articles').glob('*.json') if not p.name.endswith('.metadata.json')).read_text(encoding='utf-8'))
-        self.assertEqual(set(exported), {'type', 'subtype', 'sections'})
+        self.assertEqual(set(exported), {'type', 'subtype', 'tags', 'warnings', 'sections'})
         metadata = json.loads(next((self.output / 'articles').glob('*.metadata.json')).read_text(encoding='utf-8'))
         self.assertIn('evidence', metadata)
         self.assertNotIn('links', exported); self.assertNotIn('link_ids', json.dumps(exported))
@@ -217,6 +229,20 @@ class PilotTests(unittest.TestCase):
             get('/', 403, host='foreign.test'); get('/', 405, method='POST')
         finally:
             server.shutdown(); server.server_close(); thread.join()
+    def test_warning_review_shows_affected_document_without_rewriting_response(self):
+        db = pilot_db(self.output); row = db.execute('SELECT * FROM jobs').fetchone()
+        context = json.loads(json.loads(row['request_json'])['messages'][0]['content'])
+        label = context['texts'][0]['document']
+        warning = {'type': '', 'subtype': '', 'tags': [], 'warnings': [
+            {'document': label, 'reason': 'Source belongs to another subject'}], 'sections': []}
+        validate_article(warning, context)
+        response = {'content': [{'type': 'text', 'text': json.dumps(warning)}]}
+        db.execute('UPDATE jobs SET response_json=? WHERE id=?', (json.dumps(response), row['id'])); db.commit(); db.close()
+        page = render_compare(self.output, row['id'])
+        self.assertIn('DOCUMENTS À VÉRIFIER', page)
+        self.assertIn('Source belongs to another subject', page)
+        self.assertIn('/sources/' + row['id'] + '/' + self.rid, page)
+        self.assertIn('href="#input-document-1"', page)
 
 
 if __name__ == '__main__': unittest.main()

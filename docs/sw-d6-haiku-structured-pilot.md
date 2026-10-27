@@ -1,5 +1,15 @@
 # Pilote Haiku : fiche structurée depuis les références et compléments
 
+## Contrat révisé après lecture du pilote — en attente de nouveau GO
+
+Le prochain contrat `sw-rich-article/4-content-and-warnings` a seulement `type`, `subtype`, `tags`, `warnings`, `sections`. Chaque section a **`title`, `type`, `content`**, sans sous-titre et sans champ `stats`. `content` accepte du texte ou un objet clé/valeur ; les sections `stats` utilisent cet objet directement, avec noms simples et toutes les valeurs conservées, sans normalisation. Les descriptions liées doivent être réunies et reformulées, sans suivre les frontières des fragments entrants.
+
+Les catégories connues sont proposées sans `unknown` ; le modèle peut créer des noms pertinents. Un type/sous-type vide ou `unknown` exige un avertissement. `warnings` contient `{document, reason}` : le document est désigné par son libellé lisible fourni dans l’entrée, jamais par un ID de base. Une source estimée erronée, hors sujet ou inexploitable doit être signalée et exclue du contenu produit. Une contradiction seule n’entraîne pas l’exclusion. Si aucune source n’est utilisable, `sections` est vide et l’avertissement obligatoire.
+
+Le comparateur affiche les avertissements dans un encadré rouge, avec accès au texte envoyé et au document original pour décision humaine. Il ne supprime aucune source et ne reprend aucun verdict à son compte. Le [prompt révisé](../config/sw-article-extraction.prompt.txt) compte **171 mots**. Aucun nouveau test payant n’a été lancé avec ce contrat ; les chiffres ci-dessous décrivent le premier pilote et son ancien schéma. Ses requêtes et réponses restent inchangées.
+
+## Premier pilote — historique conservé
+
 Pilote exécuté le 27 octobre 2026 après le GO explicite de l’utilisateur et le renforcement de la fidélité du prompt. **50 appels, 50 réponses enregistrées ; aucune soumission batch.**
 
 Résultat : 45 JSON conformes et 5 sorties hors contrat. Coût estimé d’après l’usage fournisseur : **0,0884151 USD** pour 239 626 tokens d’entrée et 128 905 de sortie. Équivalent batch indicatif à mêmes volumes : 0,04420755 USD. Le JSON conforme ne garantit pas l’exhaustivité sémantique.
@@ -11,12 +21,12 @@ Présentation simplifiée à la demande de l’utilisateur : `/compare` et la pa
 Les 5 écarts : copie de l’enveloppe d’entrée pour une grosse fiche, champs supplémentaires à la racine, statistiques imbriquées ou numériques. Les 45 fiches conformes ont un sous-type vide dans 43 cas. Parmi les 10 `unknown` du pilote, 6 ont un type renseigné dans une sortie conforme, 2 restent `unknown` et 2 ont une sortie hors contrat. Ces points doivent être examinés avant le batch global. Les retours bruts sont préservés ; les fences JSON et sous-types vides ont été traités localement sans repayer d’appels.
 
 - Contrat complet : [sw-rich-article.schema.json](../config/sw-rich-article.schema.json).
-- Prompt effectivement utilisé : [sw-article-extraction.prompt.txt](../config/sw-article-extraction.prompt.txt), 111 mots. Reformulation fidèle, aucune information omise, rien inventé ni comblé.
+- Prompt effectivement utilisé : snapshot de `request_json.system` dans le SQLite du pilote, 111 mots. Le fichier de prompt du dépôt décrit désormais la proposition révisée, pas ces appels historiques.
 - Configuration publique sans chemin privé ni secret : [sw-anthropic-extraction.example.json](../config/sw-anthropic-extraction.example.json).
 
 ## Données produites
 
-Le JSON généré contient uniquement `type`, `subtype`, `sections`. Le modèle ne gère aucun ID, score, citation ou relation. Les liens restent internes à SQLite. La provenance et les identifiants des entrées sont conservés par le moteur hors du contexte modèle et dans des métadonnées séparées.
+Le JSON du premier pilote contient uniquement `type`, `subtype`, `sections`. Le modèle ne gère aucun ID, score, citation ou relation. Les liens restent internes à SQLite. La provenance et les identifiants des entrées sont conservés par le moteur hors du contexte modèle et dans des métadonnées séparées.
 
 | Champ | Fonction |
 |---|---|
