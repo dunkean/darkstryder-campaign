@@ -18,6 +18,7 @@ from .disambiguation import fingerprint
 from .semantic import LocalHTTP, chat_json
 from .store import dumps
 from . import provenance
+from .selected_spans import selected_spans
 
 SCHEMA = 'sw-rich-entity/1'
 WRITER_VERSION = 'sw-rich-writer/1'
@@ -48,10 +49,14 @@ def file_sha256(path):
     return digest.hexdigest()
 
 
-def evidence_for(main, db, aid, maximum=6000):
+def evidence_for(main, db, aid, maximum=6000, *, include_links=True):
     """All selected text plus exact source/version/unit/offset/hash provenance."""
     evidence = []; sources = []; profiles = {}; overlays = []
-    docs = db.execute('SELECT * FROM documents WHERE entity_id=? ORDER BY id', (aid,)).fetchall()
+    members = [r[0] for r in main.db.execute('SELECT record_id FROM aggregate_members WHERE aggregate_id=? ORDER BY record_id', (aid,))]
+    # documents.entity_id has no index in historical selection DBs. Use the PK
+    # rather than scanning gigabytes of metadata for every article.
+    docs = db.execute('SELECT * FROM documents WHERE id IN (' + ','.join('?' for _ in members) +
+                      ') AND entity_id=? ORDER BY id', (*members, aid)).fetchall() if members else []
     for doc in docs:
         metadata = json.loads(doc['metadata_json'])
         sources.append({k: v for k, v in metadata.items() if k not in ('profile', 'raw_profile', 'editorial', 'source_metadata')})
@@ -73,8 +78,8 @@ def evidence_for(main, db, aid, maximum=6000):
             sources[-1]['paragraph_votes'].append({'paragraph_id': p['id'], 'paragraph': p['label'], 'selection': p['status'], **compact})
             if p['status'] not in ('reference', 'add', 'add_uncertain'):
                 continue
-            for f in fragments(p, maximum):
-                eid = p['id'] if len(p['body']) <= maximum else p['id'] + '@' + str(f['offset_start']) + ':' + str(f['offset_end'])
+            for f in selected_spans(p, maximum):
+                eid = p['id'] if f['offset_start'] == p['offset_start'] and f['offset_end'] == p['offset_end'] else p['id'] + '@' + str(f['offset_start']) + ':' + str(f['offset_end'])
                 evidence.append({'id': eid, 'paragraph_id': p['id'], 'paragraph': p['label'],
                     'source_id': metadata['source_id'], 'record_id': doc['id'], 'version_id': doc['version_id'],
                     'unit': metadata['unit'], 'locator': metadata['locator'], 'offset_start': f['offset_start'],
@@ -83,13 +88,13 @@ def evidence_for(main, db, aid, maximum=6000):
                     'document_body_sha256': metadata['body_sha256'], 'version_sha256': metadata['version_sha256'],
                     'markdown_sha256': metadata['locator'].get('markdown_sha256') or metadata['source_metadata'].get('markdown_sha256'),
                     'format': p['format'], 'path': p['path'], 'section': metadata['section'],
-                    'origin': metadata['origin'], 'scope': metadata['scope'], 'selection': p['status'],
+                    'origin': metadata['origin'], 'scope': metadata['scope'], 'selection': f['status'],
                     'jev_vote': compact, 'targets': []})
     by_record = defaultdict(list)
     for e in evidence:
         by_record[e['record_id']].append(e)
     # Existing text-mined links only; no relation inference is started here.
-    for row in main.db.execute('SELECT object_id,record_id,version_id,offset_start,excerpt FROM aggregate_link_evidence WHERE subject_id=?', (aid,)):
+    for row in (main.db.execute('SELECT object_id,record_id,version_id,offset_start,excerpt FROM aggregate_link_evidence WHERE subject_id=?', (aid,)) if include_links else []):
         for e in by_record.get(row['record_id'], []):
             if row['version_id'] != e['version_id']:
                 continue
@@ -99,8 +104,9 @@ def evidence_for(main, db, aid, maximum=6000):
                     or (offset is None and row['excerpt'] and row['excerpt'] in e['excerpt'])):
                 e['targets'].append(row['object_id'])
     for e in evidence:
-        e['targets'] = sorted(set(e['targets']))
-    links = [dict(row) for row in main.db.execute('SELECT object_id,kind,document_count,occurrences,flags_json FROM aggregate_links WHERE subject_id=? ORDER BY object_id,kind', (aid,))]
+        if include_links: e['targets'] = sorted(set(e['targets']))
+        else: e.pop('targets', None)
+    links = [dict(row) for row in main.db.execute('SELECT object_id,kind,document_count,occurrences,flags_json FROM aggregate_links WHERE subject_id=? ORDER BY object_id,kind', (aid,))] if include_links else []
     for link in links:
         link['target_id'] = link.pop('object_id'); link['flags'] = json.loads(link.pop('flags_json'))
         link['derivation'] = 'text_mining'; link['review_status'] = 'unreviewed'

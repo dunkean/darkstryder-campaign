@@ -1,0 +1,15 @@
+{
+  "model": "claude-haiku-5-5",
+  "api_key_file": "SET_PRIVATE_KEY_FILE_OUTSIDE_GIT",
+  "database": "SET_KNOWLEDGE_SQLITE_PATH",
+  "selection_database": "SET_COMPLETED_SELECTION_SQLITE_PATH",
+  "sample_size": 50,
+  "sample_seed": "20261027-haiku-pilot",
+  "language": "English",
+  "max_output_tokens": 12000,
+  "max_input_tokens": 32000,
+  "min_evidence_chars": 500,
+  "max_evidence_chars": 45000,
+  "max_request_chars": 150000,
+  "spend_limit_usd": 1.0
+}
