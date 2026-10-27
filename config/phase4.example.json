@@ -1,0 +1,19 @@
+{
+  "candidates_per_doc": 32,
+  "classifier_backend": "simple-jev",
+  "classifier_url": "http://127.0.0.1:8000/v1",
+  "classifier_model": "Qwen/Qwen3.8-27B",
+  "classifier_revision": "local",
+  "classifier_chars": 16000,
+  "classifier_batch_size": 8,
+  "same_threshold": 0.92,
+  "min_margin": 0.2,
+  "writer_url": "http://127.0.0.1:8080/v1",
+  "writer_model": "qwen3.8-flash-next-q2_0",
+  "writer_revision": "local",
+  "writer_chars": 48000,
+  "writer_tokens": 12000,
+  "language": "French",
+  "timeout": 600,
+  "attempts": 3
+}

@@ -24,3 +24,6 @@ content/transcriptions/*/structure/
 *.sqlite
 *.sqlite-wal
 *.sqlite-shm
+content/transcriptions/_extraction/phase4/
+content/transcriptions/_extraction/corpus-v2/
+content/transcriptions/_extraction/

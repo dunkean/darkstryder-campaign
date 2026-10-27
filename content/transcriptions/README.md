@@ -26,3 +26,10 @@ pointer vers leur arborescence d'origine ; les originales restent conservées.
 
 Le traitement OCR et ses checkpoints restent dans le runtime. La publication ne
 supprime rien et refuse d'écraser une transcription modifiée localement.
+
+L'extraction structurée de ces transcriptions (catégories, documents par entité, phases à
+venir) est décrite dans `EXTRACTION.md`.
+
+La phase 4 (présélection locale, classification 27B des paires, fiches agrégées avec sources
+originales par paragraphe) est préparée dans `phase4_merge.py`. Configuration et lancement
+différé : [PHASE4.md](PHASE4.md). Aucune étape ni serveur ne démarre automatiquement.

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "completed_at": "2026-10-27T05:21:21.269664+00:00",
+  "model": {
+    "id": "perplexity-ai/pplx-decider-flash-v1.2",
+    "revision": "9ff7cf9838e59df461c276b7699d56b244d2af58",
+    "precision": "bfloat16",
+    "fast_path": "official CUDA Graphs",
+    "context_tokens": 4096,
+    "requests": 67997,
+    "mean_request_ms": 225.03,
+    "generated_tokens": 0
+  },
+  "review_status": "unreviewed_model_selection",
+  "redundancy_rule": "discard only if redundancy probability > 80 percent, or exact text-mining proof",
+  "entities": 68904,
+  "reference_documents": 68904,
+  "candidate_documents": 59603,
+  "fully_redundant_candidate_documents": 18664,
+  "candidate_documents_with_retained_blocks": 40939,
+  "blocks": {
+    "reference": 517244,
+    "useful": 52372,
+    "uncertain_retained": 120031,
+    "redundant_excluded": 77702,
+    "context_unavailable": 0
+  },
+  "validation": {
+    "source_snapshots_verified": true,
+    "exact_source_spans": 767349,
+    "sqlite_quick_check": "ok",
+    "foreign_key_errors": 0,
+    "tests_passed": 51
+  },
+  "originals_preserved": true,
+  "main_database_modified": false,
+  "strata_started": false,
+  "embeddings_started": false,
+  "scope": "All sources already imported into the current knowledge database; acquisition limitations remain documented in the inventory."
+}

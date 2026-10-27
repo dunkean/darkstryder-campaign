@@ -5,7 +5,11 @@ import { fileURLToPath } from 'node:url';
 import { writeFile } from 'node:fs/promises';
 
 const digest = value => createHash('sha256').update(value).digest('hex');
-const inside = (root, candidate) => candidate.startsWith(root + path.sep);
+const inside = (root, candidate) => {
+  // path.relative handles Windows casing after realpath canonicalizes a temporary parent.
+  const relative = path.relative(root, candidate);
+  return relative !== '' && !path.isAbsolute(relative) && relative !== '..' && !relative.startsWith('..' + path.sep);
+};
 const optionalRead = async filename => {
   try { return await readFile(filename); } catch (error) { if (error.code === 'ENOENT') return null; throw error; }
 };
@@ -54,9 +58,11 @@ export async function publishTranscripts(projectRoot, { completedOnly = false, c
   if (!inside(await realpath(projectRoot), targetResolved)) throw new Error('Destination hors projet');
   let totalPages = 0;
   for (const { source, folder, manifest, manifestBytes } of ready) {
-    const destination = path.join(targetRoot, source.id);
-    await mkdir(destination, { recursive: true });
-    if (!inside(targetResolved, await realpath(destination))) {
+    const destinationPath = path.join(targetRoot, source.id);
+    await mkdir(destinationPath, { recursive: true });
+    // Resolve DOS short names as well as symlinks before checking descendant media paths.
+    const destination = await realpath(destinationPath);
+    if (!inside(targetResolved, destination)) {
       throw new Error('Destination de transcription hors projet');
     }
     await mkdir(path.join(destination, 'pages'), { recursive: true });

@@ -31,7 +31,7 @@ et créer une fiche avec cette référence déjà renseignée.
 ## Sources et fichiers locaux
 
 - Originaux : miroir Drive sur Windows, lu depuis `/mnt/d/Drive_google/DarkStryder` sous WSL, sans modification.
-- Code et données éditées : ce dépôt Git privé.
+- Code et données éditées : ce dépôt Git.
 - OCR, scans, images, backups et modèles : runtime Linux configuré, hors Git.
 - `config.local.json` contient les chemins locaux et n'est pas versionné.
 
@@ -166,6 +166,31 @@ l'état des sessions séparément. Ce site sert toutes les données MJ sur loopb
 la visibilité des fiches est une métadonnée, pas un contrôle d'accès joueurs.
 
 Voir [docs/architecture.md](docs/architecture.md) et [AGENTS.md](AGENTS.md).
+
+## Base SW D6 unifiée pour l’agent IA
+
+La nouvelle [chaîne SW D6 + DarkStryder](docs/sw-d6-unified-pipeline.md) réunit les bases
+externes récupérées, Statbase, les fiches de phase 3 et les unités transcrites dans une
+SQLite séparée, hors dépôt. Elle indexe d’abord sur CPU, prépare les questions OpenJev,
+puis réutilise Qwen + Strata pour les synthèses utiles. Aucun modèle ne démarre implicitement.
+
+```powershell
+npm run sw:kb -- status
+npm run sw:kb -- search --query 'FarStar' --limit 5
+npm run sw:kb:serve
+```
+
+Voir aussi l’[inventaire des bases et téléchargements](docs/sw-d6-databases-inventory.md).
+
+La [phase d'enrichissement](docs/sw-d6-enrichment-v3.md) sélectionne une
+référence par entité, recueille les scores de ses paragraphes dans une réponse groupée,
+enrichit progressivement la couverture et prépare une entrée structurée par entité
+avec le rédacteur local Strata/Qwen. CLI : `npm run sw:enrich -- --help`.
+Les commandes de scoring et de rédaction sont séparées et désactivées sans
+`--execute`. La [reprise autorisée le 23 octobre](docs/sw-d6-reference-workflow-2026-10-23.md)
+enchaîne la fin du tri documentaire, son audit, le choix des références et les
+votes par paragraphe, uniquement sur la 5090 et avec cession aux autres processus.
+Strata et les embeddings restent désactivés.
 
 ## Export documentaire avant structuration
 

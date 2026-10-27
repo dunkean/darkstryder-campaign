@@ -1,0 +1,19 @@
+{
+  "source_priorities": {},
+  "origin_priorities": {
+    "transcribed_reference": 12,
+    "phase3_extraction": 10,
+    "statbase_compilation": 6,
+    "fan_compilation": 3
+  },
+  "writer_enabled": false,
+  "writer_url": "http://127.0.0.1:8080/v1",
+  "writer_model": null,
+  "writer_revision": null,
+  "writer_chars": 48000,
+  "writer_tokens": 12000,
+  "writer_reduce_rounds": 2,
+  "language": "French",
+  "timeout": 600,
+  "attempts": 2
+}

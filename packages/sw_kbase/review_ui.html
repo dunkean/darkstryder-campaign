@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Revue SW · sources et paragraphes</title><link rel="stylesheet" href="/review/ui.css"></head>
+<body>
+<header><div><strong>Revue SW</strong><span>Base documentaire · lecture seule</span></div><nav><button id="tab-browse" class="active">Naviguer la base</button><button id="tab-questions">Questions</button><button id="tab-entities">Identités historiques</button><button id="tab-documents">Documents</button></nav></header>
+<main>
+  <aside>
+    <form id="filters">
+      <label id="query-label">Recherche <input id="q" type="search" placeholder="Nom ou alias"></label>
+      <button type="submit">Afficher</button>
+      <details id="advanced-filters" class="filter-details"><summary>Filtres de contenu et source</summary><div class="filter-fields">
+        <label id="section-label" hidden>Contenu<select id="section"><option value="">Tout</option><option value="reference">Informations générales</option><option value="scenario">Scénarios et intrigues</option><option value="source">Textes sources</option><option value="metadata">Index et métadonnées</option></select></label>
+        <label id="duplicates-label" hidden>Regroupements<select id="duplicates"><option value="">Tous</option><option value="1">Plusieurs documents uniquement</option></select></label>
+        <label id="source-label">Source<select id="source"><option value="">Toutes les sources</option></select></label>
+        <label id="task-label">Tâche<select id="task"><option value="">Toutes</option></select></label>
+        <label id="status-label">Statut<select id="status"><option value="">Tous</option></select></label>
+        <label id="scope-label">Périmètre <input id="scope" type="search" placeholder="Édition, campagne…"></label>
+      </div></details>
+    </form>
+    <details id="coverage" hidden><summary>Sources et couverture</summary><div id="coverage-content"></div></details>
+    <div id="browse-types" class="types" hidden></div>
+    <div class="list-head"><span id="list-title">Entrées</span><button id="clear-record" hidden>Effacer le document</button><span id="loading"></span></div>
+    <div id="list" class="list"></div>
+    <div class="pager"><button id="prev">Précédent</button><span id="page"></span><button id="next">Suivant</button></div>
+  </aside>
+  <section id="detail"><p class="empty">Choisissez une entrée pour voir ses sources et ses paragraphes.</p></section>
+</main>
+<script type="module" src="/review/ui.js"></script>
+</body></html>

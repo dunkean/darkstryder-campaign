@@ -25,6 +25,12 @@
     "kbase:export": "node tools/kbase/runner.mjs export",
     "kbase:audit": "node tools/kbase/runner.mjs audit",
     "transcripts:publish": "node tools/extract/publish-transcripts.mjs",
+    "transcripts:phase4": "node tools/python.mjs content/transcriptions/phase4_merge.py",
+    "transcripts:phase4:test": "node tools/python.mjs tests/phase4_pipeline.py",
+    "sw:kb": "node tools/python.mjs tools/sw-kbase/cli.py",
+    "sw:kb:serve": "node tools/python.mjs tools/sw-kbase/cli.py serve",
+    "sw:kb:sql": "node tools/python.mjs tools/sw-kbase/sql-viewer.py",
+    "sw:enrich": "node tools/python.mjs tools/sw-kbase/enrich.py",
     "ocr:server": "node tools/python.mjs tools/extract/serve.py",
     "export": "node tools/export/export.mjs"
   },

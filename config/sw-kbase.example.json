@@ -1,0 +1,19 @@
+{
+  "semantic_backend": "simple-jev",
+  "semantic_url": "http://127.0.0.1:8000/v1",
+  "semantic_model": "Qwen/Qwen3.8-27B",
+  "semantic_revision": "set-to-your-loaded-model-revision",
+  "semantic_chars": 16000,
+  "semantic_batch_size": 8,
+  "semantic_batch_chars": 64000,
+  "semantic_min_score": 0.92,
+  "semantic_min_margin": 0.2,
+  "writer_enabled": false,
+  "writer_url": "http://127.0.0.1:8080/v1",
+  "writer_model": "qwen3.8-flash-next-q2_0",
+  "writer_revision": "set-to-your-current-strata-qwen-revision",
+  "writer_chars": 48000,
+  "writer_tokens": 12000,
+  "timeout": 120,
+  "attempts": 2
+}
