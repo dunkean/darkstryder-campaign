@@ -16,17 +16,17 @@ from .review import _small
 from .review_workspace import selection_database
 from .rich_merge import evidence_for
 from .store import Store, dumps
-from .structured_article import VERSION, PROMPT, article_schema, validate_article, article_html
+from .structured_article import VERSION, PROMPT, KINDS, SECTION_TYPES, article_schema, validate_article, article_html
 from .type_mining import aggregate_table
 
-POLICY = 'sw-anthropic-structured-pilot/1'
+POLICY = 'sw-anthropic-structured-pilot/2-simple-sections'
 QUOTAS = {'unknown': 10, 'person': 5, 'equipment': 5, 'craft': 4, 'vehicle': 4,
           'location': 3, 'system': 3, 'stellar_route': 2, 'rule': 3, 'skill': 2,
           'force_power': 2, 'species': 2, 'organization': 2, 'scenario': 2, 'archetype': 1}
 STYLE = '''body{font:16px/1.6 system-ui;background:#111b2a;color:#e7edf7;max-width:1100px;margin:2rem auto;padding:0 1rem}
 a{color:#99ceff}h1,h2,h3{line-height:1.3}small{color:#a3b5cd;font-size:.72rem;overflow-wrap:anywhere}
 aside{border:1px solid #7598b9;border-left:5px solid #75c59c;padding:1rem;margin:1rem 0;background:#1b2e43}
-aside.rules{border-left-color:#e3b962}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border-bottom:1px solid #435571;padding:.45rem;text-align:left;vertical-align:top}
+aside.rules{border-left-color:#e3b962}aside.conflict{border-left-color:#e79579}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border-bottom:1px solid #435571;padding:.45rem;text-align:left;vertical-align:top}
 pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#1b2e43;padding:1rem}summary{cursor:pointer}'''
 
 
@@ -67,32 +67,40 @@ def pilot_db(root):
     return db
 
 
-def context_for(main, selection, entity, config):
+def taxonomy_for(main):
+    known = {}
+    if main.db.execute("SELECT 1 FROM sqlite_master WHERE name='mined_aggregate_types'").fetchone():
+        for kind, subtype in main.db.execute("SELECT DISTINCT kind,subtype FROM mined_aggregate_types WHERE subtype!='' ORDER BY kind,subtype LIMIT 200"):
+            if subtype: known.setdefault(kind, []).append(subtype)
+    return {'types': KINDS, 'subtypes': known, 'section_types': SECTION_TYPES}
+
+
+def context_for(main, selection, entity, config, taxonomy=None):
     verify(main, selection, entity['id'])
     selected = selection.execute('SELECT status,reference_id FROM entities WHERE id=?', (entity['id'],)).fetchone()
     if not selected or selected['status'] != 'scored': raise ValueError('Entity selection is incomplete')
     bundle = evidence_for(main, selection, entity['id'], include_links=False)
     if not bundle['evidence']: raise EmptyEvidenceError('Entity has no selected evidence')
-    scopes = {}; compact = []
+    ref = selected['reference_id']; compact = []
     sources = {s['id']: s for s in bundle['source_documents']}
-    for evidence in bundle['evidence']:
-        scope_id = 'scope-' + fingerprint([evidence['section'], evidence['scope']])[:16]
-        scopes[scope_id] = {'section': evidence['section'], 'context': _small(evidence['scope'], 2000)}
+    ordered = sorted(bundle['evidence'], key=lambda e: (e['record_id'] != ref, e['record_id'], e['offset_start']))
+    for evidence in ordered:
         doc = sources[evidence['record_id']]
         prov = doc.get('provenance') or {}
-        compact.append({'id': evidence['id'], 'text': evidence['excerpt'], 'selection': evidence['selection'],
-            'scope_id': scope_id, 'record_id': evidence['record_id'], 'origin': evidence['origin'],
+        compact.append({'text': evidence['excerpt'],
+            'role': {'reference': 'reference', 'add': 'selected addition', 'add_uncertain': 'uncertain addition'}[evidence['selection']],
+            'context': {'section': evidence['section'], 'scope': _small(evidence['scope'], 2000)}, 'origin': evidence['origin'],
             'source': {'acquisition': (prov.get('acquisition') or {}).get('label', doc.get('source_title', '')),
                        'works': [{k: w.get(k) for k in ('title', 'code', 'kind', 'pages', 'page_basis')}
                                  for w in prov.get('works', [])]}})
-    ref = selected['reference_id']
-    positions = {p['id']: p['offset_start'] for p in bundle['evidence']}
-    compact.sort(key=lambda e: (e['record_id'] != ref, e['record_id'], positions[e['id']]))
     aliases = [row[0] for row in main.db.execute('SELECT label FROM aggregate_aliases WHERE aggregate_id=? ORDER BY label LIMIT 100', (entity['id'],))]
-    context = {'entity': {**dict(entity), 'aliases': aliases, 'reference_document_id': ref},
-        'scopes': scopes, 'evidence': compact,
-        'existing_profiles': [{'data': p['data'], 'evidence_ids': [e['id'] for e in compact if e['record_id'] in p['source_documents']]}
-                              for p in bundle['profiles'] if any(e['record_id'] in p['source_documents'] for e in compact)],
+    retained_records = {e['record_id'] for e in bundle['evidence']}
+    context = {'entity': {'name': entity['name'], 'type': entity['kind'], 'universe': entity['universe'], 'aliases': aliases},
+        'known_names': taxonomy or taxonomy_for(main), 'texts': compact,
+        'existing_profiles': [{'data': p['data'], 'context': _small(p['scope'], 2000)}
+                              for p in bundle['profiles'] if retained_records.intersection(p['source_documents'])],
+        'output_example': {'type': '', 'subtype': '', 'sections': [
+            {'title': '', 'subtitle': '', 'content': '', 'type': 'description', 'stats': {}}]},
         'language': config.get('language', 'English'), 'live_campaign_state_inferred': False}
     # Original profiles remain available to deterministic follow-up checks and export.
     return context, bundle, fingerprint(input_snapshot(main, entity['id']))
@@ -102,7 +110,9 @@ def payload_for(context, config):
     return {'model': config['model'], 'max_tokens': config.get('max_output_tokens', 12000),
         'thinking': {'type': 'disabled'},
         'system': PROMPT, 'messages': [{'role': 'user', 'content': dumps(context)}],
-        'output_config': {'effort': 'low', 'format': {'type': 'json_schema', 'schema': article_schema()}}}
+        # A free stats dictionary is intentional. Validate JSON locally rather than
+        # forcing Anthropic's closed-object grammar onto arbitrary game stat names.
+        'output_config': {'effort': 'low'}}
 
 
 def prepare(config, root):
@@ -124,6 +134,7 @@ def prepare(config, root):
         skipped = Counter(); by_kind = Counter(); chosen = set()
         seed = config.get('sample_seed', '20261027-haiku-pilot')
         with inputs(config) as (main, selection):
+            taxonomy = taxonomy_for(main)
             rows = [dict(r) for r in main.db.execute('SELECT id,name,kind,universe FROM ' + aggregate_table(main))]
             rows.sort(key=lambda r: hashlib.sha256((seed + ':' + r['id']).encode()).digest())
             def add(entity):
@@ -131,10 +142,10 @@ def prepare(config, root):
                 state = selection.execute('SELECT status FROM entities WHERE id=?', (entity['id'],)).fetchone()
                 if not state or state[0] != 'scored': skipped['not_scored'] += 1; return False
                 try:
-                    context, bundle, snapshot = context_for(main, selection, entity, config)
+                    context, bundle, snapshot = context_for(main, selection, entity, config, taxonomy)
                 except EmptyEvidenceError:
                     skipped['empty_evidence'] += 1; return False
-                size = sum(len(p['text']) for p in context['evidence'])
+                size = sum(len(p['text']) for p in context['texts'])
                 if size < config.get('min_evidence_chars', 500): skipped['too_short'] += 1; return False
                 if size > config.get('max_evidence_chars', 45000): skipped['too_long_for_pilot'] += 1; return False
                 payload = payload_for(context, config)
@@ -143,8 +154,9 @@ def prepare(config, root):
                 db.execute('INSERT INTO jobs(id,entity_id,name,initial_kind,input_hash,snapshot_hash,request_json,bundle_json) VALUES(?,?,?,?,?,?,?,?)',
                     (jid, entity['id'], entity['name'], entity['kind'], signature, snapshot, dumps(payload), dumps(bundle)))
                 chosen.add(entity['id']); by_kind[entity['kind']] += 1
-                summary['articles'].append({'id': jid, **entity, 'reference_id': context['entity']['reference_document_id'],
-                    'evidence_chars': size, 'selected_spans': len(context['evidence']),
+                reference_id = next(s['id'] for s in bundle['source_documents'] if s['role'] == 'reference')
+                summary['articles'].append({'id': jid, **entity, 'reference_id': reference_id,
+                    'evidence_chars': size, 'selected_spans': len(context['texts']),
                     'source_documents': len(bundle['source_documents']), 'request_chars': len(dumps(payload))})
                 return True
             for kind, quota in quotas.items():
@@ -171,13 +183,23 @@ def config_from(db):
     return json.loads(db.execute("SELECT value_json FROM meta WHERE key='config'").fetchone()[0])
 
 
+def check_contract(db):
+    for row in db.execute('SELECT request_json FROM jobs'):
+        payload = json.loads(row[0])
+        context = json.loads(payload['messages'][0]['content'])
+        if (payload.get('system') != PROMPT or 'format' in payload.get('output_config', {})
+                or set(context.get('output_example', {})) != {'type', 'subtype', 'sections'}):
+            raise ValueError('Obsolete pilot contract; prepare the simplified schema again')
+
+
 def count_tokens(root, client=None):
     db = pilot_db(root)
     try:
+        check_contract(db)
         config = config_from(db); client = client or AnthropicClient(config['api_key_file'])
         model = client.model(config['model'])
-        if model['id'] != config['model'] or not model.get('capabilities', {}).get('structured_outputs', {}).get('supported'):
-            raise ValueError('Requested model/structured outputs are not available')
+        if model['id'] != config['model']:
+            raise ValueError('Requested model is not available')
         db.execute('INSERT OR REPLACE INTO meta VALUES(?,?)', ('verified_model', dumps(model))); db.commit()
         for row in db.execute('SELECT id,request_json FROM jobs WHERE input_tokens IS NULL ORDER BY id').fetchall():
             tokens = client.count(json.loads(row['request_json']))['input_tokens']
@@ -210,6 +232,7 @@ def run(root, client=None):
     if (root / 'WAIT_FOR_USER_GO').exists(): raise ValueError('Waiting for user GO; no inference started')
     db = pilot_db(root)
     try:
+        check_contract(db)
         config = config_from(db); client = client or AnthropicClient(config['api_key_file'])
         pricing = json.loads(db.execute("SELECT value_json FROM meta WHERE key='pricing'").fetchone()[0])
         if db.execute('SELECT count(*) FROM jobs WHERE input_tokens IS NULL').fetchone()[0]:
@@ -256,6 +279,7 @@ def batch_file(root, destination):
     """Prepare only. The caller must separately authorize any submission."""
     db = pilot_db(root)
     try:
+        check_contract(db)
         rows = db.execute("SELECT id,request_json FROM jobs WHERE status='prepared' ORDER BY id").fetchall()
         destination = Path(destination)
         with destination.open('x', encoding='utf-8') as stream:
@@ -294,19 +318,20 @@ def report(root, db=None):
             payload = json.loads(row['request_json']); context = json.loads(payload['messages'][0]['content'])
             if row['article_json']:
                 article = json.loads(row['article_json'])
-                body = '<p><a href="../index.html">← Pilot</a></p>' + article_html(article)
+                body = '<p><a href="../index.html">← Pilot</a></p>' + article_html(article, row['name'])
                 bundle = json.loads(row['bundle_json'])
-                atomic_json(root / 'articles' / (row['id'] + '.json'), {'id': row['entity_id'], **article,
-                    'reference_document_id': context['entity']['reference_document_id'],
+                atomic_json(root / 'articles' / (row['id'] + '.json'), article)
+                atomic_json(root / 'articles' / (row['id'] + '.metadata.json'), {'id': row['entity_id'],
+                    'schema_version': VERSION, 'section_source_mapping': 'not_yet_resolved',
                     'evidence': bundle['evidence'], 'source_documents': bundle['source_documents'],
                     'source_profiles': bundle['profiles'], 'editorial_overlays': bundle['editorial_overlays'],
                     'generation': {'model': config['model'], 'usage': json.loads(row['usage_json']),
                                    'request_hash': row['input_hash'], 'review_status': 'unreviewed'}})
-                classified = article['classification']['kind']
+                classified = article['type'] + ' / ' + article['subtype']
             else:
                 body = '<p><a href="../index.html">← Pilot</a></p><h1>' + html.escape(row['name']) + '</h1><p>' + html.escape(row['status']) + '</p>'
-                for evidence in context['evidence']:
-                    body += '<h3>' + html.escape(evidence['selection'] + ' · ' + evidence['id']) + '</h3><pre>' + html.escape(evidence['text']) + '</pre>'
+                for evidence in context['texts']:
+                    body += '<h3>' + html.escape(evidence['role']) + '</h3><pre>' + html.escape(evidence['text']) + '</pre>'
                 classified = '—'
             (root / 'articles' / (row['id'] + '.html')).write_text(_html_page(row['name'], body), encoding='utf-8')
             cards.append('<tr><td><a href="articles/' + row['id'] + '.html">' + html.escape(row['name']) + '</a></td><td>' +

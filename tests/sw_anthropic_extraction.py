@@ -18,15 +18,9 @@ from packages.sw_kbase.structured_article import VERSION, PROMPT, article_schema
 
 
 def response_for(context):
-    first = context['evidence'][0]['id']
-    return {'schema_version': VERSION, 'title': 'Pilot', 'classification': {'kind': 'person',
-        'subtype': '', 'level': 'individual', 'confidence': 'medium', 'rationale': 'Named pilot.',
-        'evidence_ids': [first], 'proposed_category': None},
-        'sections': [{'id': 'section-1', 'title': 'Background',
-            'scope_ids': list({e['scope_id'] for e in context['evidence']}),
-            'paragraphs': [{'text': e['text'], 'evidence_ids': [e['id']]} for e in context['evidence']],
-            'stat_block_ids': [], 'rule_block_ids': [], 'subsections': []}],
-        'stat_blocks': [], 'rule_blocks': [], 'conflicts': [], 'notes': []}
+    return {'type': 'person', 'subtype': 'pilot', 'sections': [
+        {'title': 'Background', 'subtitle': '', 'content': '\n\n'.join(e['text'] for e in context['texts']),
+         'type': 'description', 'stats': {}}]}
 
 
 class Jev:
@@ -56,8 +50,8 @@ class Client:
 class ContractTests(unittest.TestCase):
     def test_short_closed_contract_has_no_links(self):
         serialized = json.dumps(article_schema())
-        self.assertLess(len(PROMPT.split()), 180)
-        for key in ['"links"', '"link_ids"', '"target_id"', '"url"']:
+        self.assertLess(len(PROMPT.split()), 120)
+        for key in ['"links"', '"link_ids"', '"target_id"', '"url"', '"id"', '"evidence_ids"', '"confidence"']:
             self.assertNotIn(key, serialized)
         path = Path(__file__).resolve().parents[1] / 'config/sw-rich-article.schema.json'
         self.assertEqual(json.loads(path.read_text(encoding='utf-8')), article_schema())
@@ -76,16 +70,25 @@ class ContractTests(unittest.TestCase):
         value = usage_cost({'input_tokens': 1000, 'output_tokens': 1000, 'cache_read_input_tokens': 1000,
                             'cache_creation_input_tokens': 1000})
         self.assertAlmostEqual(value['estimated_usd'], .000735)
-    def test_citation_coverage_and_unknown_keys_are_rejected(self):
-        context = {'evidence': [{'id': 'e1', 'scope_id': 'scope-1', 'text': '<script>bad</script>'}]}
+    def test_simple_sections_escape_text_and_reject_engine_fields(self):
+        context = {'texts': [{'text': '<script>bad</script>'}]}
         value = response_for(context); validate_article(value, context)
         self.assertNotIn('<script>', article_html(value))
         invalid = deepcopy(value); invalid['links'] = []
         with self.assertRaises(ValueError): validate_article(invalid, context)
-        invalid = deepcopy(value); invalid['sections'][0]['paragraphs'] = []
+        invalid = deepcopy(value); invalid['sections'] = []
         with self.assertRaises(ValueError): validate_article(invalid, context)
-        invalid = deepcopy(value); invalid['sections'][0]['paragraphs'][0]['evidence_ids'] = ['fake']
+        invalid = deepcopy(value); invalid['sections'][0]['id'] = 'not-the-models-job'
         with self.assertRaises(ValueError): validate_article(invalid, context)
+    def test_new_names_free_stats_and_conflicts_need_no_special_objects(self):
+        value = {'type': 'new_category', 'subtype': 'new_subtype', 'sections': [
+            {'title': 'Profile A', 'subtitle': '', 'content': '', 'type': 'stats', 'stats': {'Odd stat name': '4D+2'}},
+            {'title': 'Different source', 'subtitle': 'Alternative profile', 'content': 'Another source gives a different value.',
+             'type': 'conflict', 'stats': {'Odd stat name': '5D'}}]}
+        validate_article(value)
+        self.assertIn('4D+2', article_html(value)); self.assertIn('class="conflict"', article_html(value))
+        invalid = deepcopy(value); invalid['sections'][0]['stats']['Odd stat name'] = {'dice': 4, 'pips': 2}
+        with self.assertRaises(ValueError): validate_article(invalid)
 
 
 class PilotTests(unittest.TestCase):
@@ -111,12 +114,26 @@ class PilotTests(unittest.TestCase):
         self.assertEqual(client.calls, 0)
         for path in self.output.rglob('*'):
             if path.is_file(): self.assertNotIn(b'FAKE_PRIVATE_KEY_DO_NOT_COPY', path.read_bytes())
+    def test_previous_prompt_cannot_be_counted_or_sent(self):
+        db = pilot_db(self.output)
+        row = db.execute('SELECT id,request_json FROM jobs').fetchone()
+        payload = json.loads(row['request_json']); payload['system'] = 'Old complicated prompt'
+        db.execute('UPDATE jobs SET request_json=? WHERE id=?', (json.dumps(payload), row['id']))
+        db.commit(); db.close()
+        client = Client()
+        with self.assertRaisesRegex(ValueError, 'Obsolete'): count_tokens(self.output, client)
+        (self.output / 'WAIT_FOR_USER_GO').unlink()
+        with self.assertRaisesRegex(ValueError, 'Obsolete'): run(self.output, client)
+        self.assertEqual(client.calls, 0)
     def test_valid_results_resume_without_rebilling_and_keep_original_databases(self):
         client = Client(); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
         value = run(self.output, client); self.assertEqual(value['by_status'], {'complete': 1})
         self.assertEqual(client.calls, 1); self.assertGreater(value['estimated_actual_cost_usd'], 0)
         run(self.output, client); self.assertEqual(client.calls, 1)
-        exported = json.loads(next((self.output / 'articles').glob('*.json')).read_text(encoding='utf-8'))
+        exported = json.loads(next(p for p in (self.output / 'articles').glob('*.json') if not p.name.endswith('.metadata.json')).read_text(encoding='utf-8'))
+        self.assertEqual(set(exported), {'type', 'subtype', 'sections'})
+        metadata = json.loads(next((self.output / 'articles').glob('*.metadata.json')).read_text(encoding='utf-8'))
+        self.assertIn('evidence', metadata)
         self.assertNotIn('links', exported); self.assertNotIn('link_ids', json.dumps(exported))
         self.assertEqual(self.originals, [p.read_bytes() for p in (self.database, self.selection / 'enrichment.sqlite')])
     def test_invalid_response_is_saved_and_counted_as_billable(self):
@@ -140,6 +157,9 @@ class PilotTests(unittest.TestCase):
         path = self.root / 'requests.jsonl'; value = batch_file(self.output, path)
         self.assertFalse(value['submitted']); self.assertEqual(value['requests'], 1)
         self.assertEqual(json.loads(path.read_text(encoding='utf-8'))['params']['model'], 'claude-haiku-5-5')
+        context = json.loads(json.loads(path.read_text(encoding='utf-8'))['params']['messages'][0]['content'])
+        self.assertEqual(set(context['entity']), {'name', 'type', 'universe', 'aliases'})
+        self.assertTrue(all('id' not in t and 'scope_id' not in t and 'record_id' not in t for t in context['texts']))
 
 
 if __name__ == '__main__': unittest.main()

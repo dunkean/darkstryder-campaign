@@ -1,26 +1,27 @@
 # Pilote Haiku : fiche structurée depuis les références et compléments
 
 Préparation CPU uniquement au 27 octobre 2026. **Attendre le GO de l’utilisateur après revue du schéma et du prompt.**
-La lecture authentifiée de la fiche modèle confirme `claude-haiku-5-5` et les sorties structurées ; aucune génération n’a été lancée.
+La lecture authentifiée de la fiche modèle confirme `claude-haiku-5-5` ; aucune génération n’a été lancée.
 
 - Contrat complet : [sw-rich-article.schema.json](../config/sw-rich-article.schema.json).
-- Prompt effectivement utilisé : [sw-article-extraction.prompt.txt](../config/sw-article-extraction.prompt.txt), 170 mots.
+- Prompt effectivement utilisé : [sw-article-extraction.prompt.txt](../config/sw-article-extraction.prompt.txt), 101 mots.
 - Configuration publique sans chemin privé ni secret : [sw-anthropic-extraction.example.json](../config/sw-anthropic-extraction.example.json).
 
 ## Données produites
 
-Le JSON généré ne contient **ni liens, ni URLs, ni relations vers les objets**. Les liens existants restent dans SQLite ; ils ne sont pas envoyés au modèle. Les identifiants de passages servent à la provenance et les identifiants locaux de cadres à leur placement dans la fiche.
+Le JSON généré contient uniquement `type`, `subtype`, `sections`. Le modèle ne gère aucun ID, score, citation ou relation. Les liens restent internes à SQLite. La provenance et les identifiants des entrées sont conservés par le moteur hors du contexte modèle et dans des métadonnées séparées.
 
 | Champ | Fonction |
 |---|---|
-| `classification` | Type principal, sous-type, individu/modèle/archétype/concept, confiance qualitative et justification. Un type non couvert peut faire l’objet d’une proposition ; pas d’ajout automatique à la taxonomie. |
-| `sections` | Titres, paragraphes, sous-sections, cadres de stats et règles à afficher. |
-| `stat_blocks` | Profils séparés par édition, époque, configuration et périmètre documentaire. Champs nommés, valeurs originales, unités et normalisations simples facultatives. |
-| `rule_blocks` | Conditions, procédure dans l’ordre, difficultés, effets et exceptions. |
-| `conflicts` | Alternatives contradictoires attribuées aux passages. |
-| `notes` | Informations incertaines ou matériau inexploitable explicitement signalé. |
+| `type`, `subtype` | Noms existants fournis au modèle ; nouveaux noms autorisés si nécessaire, sinon `unknown`. Pas de confiance ni de justification obligatoire. |
+| `sections[].title`, `subtitle` | Titre et sous-titre facultatif, vide s’il est absent. |
+| `sections[].content` | Texte lisible ; paragraphes séparés par une ligne vide. |
+| `sections[].type` | Suggestions : `description`, `rule`, `stats`, `scenario`, `gm_note`, `conflict`, `note`. |
+| `sections[].stats` | Dictionnaire libre clé/valeur texte, ou `{}`. Valeurs, unités et dés conservés sans normalisation. |
 
-Chaque élément de contenu cite les passages fournis. Les règles et statistiques restent structurées séparément de la prose. Les valeurs originales ne sont pas remplacées par les normalisations. Aucun état de campagne vécu n’est déduit. Les sources originales, profils importés et overlays personnels sont conservés séparément de la réponse du modèle.
+Les contradictions sont des sections ordinaires de type `conflict`, avec variantes narratives, règles ou valeurs dans `content`/`stats`. Les règles et profils restent dans des sections séparées. La formalisation des stats, le parsing et les IDs de sections sont reportés à une étape du moteur. La validation locale contrôle la forme du JSON et ne prétend plus vérifier une couverture sémantique ou des citations par assertion. Les sources exactes restent dans les métadonnées de la fiche ; leur rattachement fin aux sections est explicitement non résolu.
+
+Le dictionnaire libre `stats` est validé localement ; le pilote ne force pas la grammaire fermée des sorties structurées Anthropic. Les réponses tronquées ou invalides restent enregistrées et comptabilisées, sans relance automatique.
 
 ## Échantillon et arrêt
 
