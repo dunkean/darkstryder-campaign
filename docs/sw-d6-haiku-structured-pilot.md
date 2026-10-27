@@ -1,10 +1,15 @@
 # Pilote Haiku : fiche structurée depuis les références et compléments
 
-Préparation CPU uniquement au 27 octobre 2026. **Attendre le GO de l’utilisateur après revue du schéma et du prompt.**
-La lecture authentifiée de la fiche modèle confirme `claude-haiku-5-5` ; aucune génération n’a été lancée.
+Pilote exécuté le 27 octobre 2026 après le GO explicite de l’utilisateur et le renforcement de la fidélité du prompt. **50 appels, 50 réponses enregistrées ; aucune soumission batch.**
+
+Résultat : 45 JSON conformes et 5 sorties hors contrat. Coût estimé d’après l’usage fournisseur : **0,0884151 USD** pour 239 626 tokens d’entrée et 128 905 de sortie. Équivalent batch indicatif à mêmes volumes : 0,04420755 USD. Le JSON conforme ne garantit pas l’exhaustivité sémantique.
+
+La revue locale sur **http://127.0.0.1:8769/** expose les 50 résultats et leurs **104 documents sources**, avec distinction entre référence, compléments transmis et sources écartées. Chaque source originale est lisible intégralement dans sa version exacte. Les 155 pages de navigation/source ont répondu HTTP 200. Le serveur n’expose ni configuration privée ni SQLite.
+
+Les 5 écarts : copie de l’enveloppe d’entrée pour une grosse fiche, champs supplémentaires à la racine, statistiques imbriquées ou numériques. Les 45 fiches conformes ont un sous-type vide dans 43 cas. Parmi les 10 `unknown` du pilote, 6 ont un type renseigné dans une sortie conforme, 2 restent `unknown` et 2 ont une sortie hors contrat. Ces points doivent être examinés avant le batch global. Les retours bruts sont préservés ; les fences JSON et sous-types vides ont été traités localement sans repayer d’appels.
 
 - Contrat complet : [sw-rich-article.schema.json](../config/sw-rich-article.schema.json).
-- Prompt effectivement utilisé : [sw-article-extraction.prompt.txt](../config/sw-article-extraction.prompt.txt), 101 mots.
+- Prompt effectivement utilisé : [sw-article-extraction.prompt.txt](../config/sw-article-extraction.prompt.txt), 111 mots. Reformulation fidèle, aucune information omise, rien inventé ni comblé.
 - Configuration publique sans chemin privé ni secret : [sw-anthropic-extraction.example.json](../config/sw-anthropic-extraction.example.json).
 
 ## Données produites
@@ -27,7 +32,7 @@ Le dictionnaire libre `stats` est validé localement ; le pilote ne force pas la
 
 Un document du pilote est **une fiche d’entité consolidée**, pas un paragraphe : référence et compléments utiles/incertains issus de toutes ses sources. Les sous-fragments redondants d’un bloc partiellement retenu sont exclus exactement, par offsets et votes. Aucun nouveau tri JEV.
 
-50 fiches maximum, sélection déterministe par quotas de types, dont 10 `unknown` ciblés. Taille bornée à 500–45 000 caractères de preuves retenues par fiche et 32 000 tokens d’entrée par requête. Les exclusions de taille sont comptées : le coût de cet échantillon ne suffit pas à extrapoler directement tout le corpus. Les gros ensembles demanderont un traitement par paquets.
+50 fiches maximum, sélection déterministe par quotas de types, dont 10 `unknown` ciblés. Taille bornée à 500–45 000 caractères de preuves retenues par fiche. Le budget d’entrée a été porté de 32 000 à 64 000 tokens après comptage exact : les profils structurés joints portent une grosse fiche à 48 142 tokens. Le budget de sortie est d’au moins 12 000 tokens, adapté jusqu’à deux fois l’entrée pour les grosses fiches, avec plafond 64 000. Les exclusions de taille sont comptées : le coût de cet échantillon ne suffit pas à extrapoler directement tout le corpus. Les gros ensembles demanderont un traitement par paquets.
 
 Les sources et la base de sélection sont ouvertes en lecture seule. Le pilote a son propre SQLite, ses réponses brutes, JSON validés, aperçus HTML et rapports hors Git. La clé est lue depuis son fichier privé uniquement lors d’un appel ; elle n’est copiée dans aucun export. `WAIT_FOR_USER_GO` bloque génération et lancement implicite. Le comptage gratuit est une commande séparée, qui transmet le texte au fournisseur sans générer de réponse ; il attend également la revue demandée avant son utilisation ici.
 
@@ -45,4 +50,4 @@ anthropic-extract.py --output RUNTIME report
 anthropic-extract.py --output RUNTIME batch-file --destination FICHIER_JSONL
 ```
 
-Avant le GO : seuls `prepare` et `report` sont utilisés. Aucun appel Messages ou soumission batch.
+Avant un nouveau GO : `prepare` et `report` n’appellent aucun modèle. Ce pilote est terminé ; une nouvelle exécution ne doit pas renvoyer les réponses déjà enregistrées. Le batch global reste non autorisé à ce stade.

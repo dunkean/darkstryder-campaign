@@ -1,10 +1,12 @@
 """Offline contracts, billing, gates, resume and exact-span regressions."""
 from copy import deepcopy
 import json
+import http.client
 from pathlib import Path
 import sqlite3
 import sys
 import tempfile
+import threading
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -15,6 +17,7 @@ from packages.sw_kbase.grouped_paragraphs import plan, score
 from packages.sw_kbase.selected_spans import selected_spans
 from packages.sw_kbase.store import Store
 from packages.sw_kbase.structured_article import VERSION, PROMPT, article_schema, validate_article, article_html
+from packages.sw_kbase.anthropic_review import make_server
 
 
 def response_for(context):
@@ -34,7 +37,7 @@ class Jev:
 
 
 class Client:
-    def __init__(self, invalid=False, crash=False): self.calls = 0; self.invalid = invalid; self.crash = crash
+    def __init__(self, invalid=False, crash=False, fenced=False): self.calls = 0; self.invalid = invalid; self.crash = crash; self.fenced = fenced
     def model(self, model): return {'id': model, 'capabilities': {'structured_outputs': {'supported': True}}}
     def count(self, payload): return {'input_tokens': 2500}
     def message(self, payload):
@@ -44,13 +47,15 @@ class Client:
         if self.invalid: value['links'] = []
         return {'model': 'claude-haiku-5-5', 'stop_reason': 'end_turn',
                 'usage': {'input_tokens': 2500, 'output_tokens': 500},
-                'content': [{'type': 'text', 'text': json.dumps(value)}]}
+                'content': [{'type': 'text', 'text': '```json\n'+json.dumps(value)+'\n```' if self.fenced else json.dumps(value)}]}
 
 
 class ContractTests(unittest.TestCase):
     def test_short_closed_contract_has_no_links(self):
         serialized = json.dumps(article_schema())
-        self.assertLess(len(PROMPT.split()), 120)
+        self.assertLess(len(PROMPT.split()), 140)
+        for instruction in ['omit no information', 'faithful reformulation', 'Invent nothing', 'fill no gaps']:
+            self.assertIn(instruction, PROMPT)
         for key in ['"links"', '"link_ids"', '"target_id"', '"url"', '"id"', '"evidence_ids"', '"confidence"']:
             self.assertNotIn(key, serialized)
         path = Path(__file__).resolve().parents[1] / 'config/sw-rich-article.schema.json'
@@ -89,6 +94,8 @@ class ContractTests(unittest.TestCase):
         self.assertIn('4D+2', article_html(value)); self.assertIn('class="conflict"', article_html(value))
         invalid = deepcopy(value); invalid['sections'][0]['stats']['Odd stat name'] = {'dice': 4, 'pips': 2}
         with self.assertRaises(ValueError): validate_article(invalid)
+        empty_subtype = deepcopy(value); empty_subtype['subtype'] = ''
+        validate_article(empty_subtype)
 
 
 class PilotTests(unittest.TestCase):
@@ -141,6 +148,10 @@ class PilotTests(unittest.TestCase):
         value = run(self.output, client); self.assertEqual(value['by_status'], {'invalid': 1})
         self.assertGreater(value['estimated_actual_cost_usd'], 0)
         run(self.output, client); self.assertEqual(client.calls, 1)
+    def test_json_fence_is_parsed_without_a_second_call(self):
+        client = Client(fenced=True); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
+        value = run(self.output, client)
+        self.assertEqual(value['by_status'], {'complete': 1}); self.assertEqual(client.calls, 1)
     def test_received_response_recovers_without_another_api_call(self):
         client = Client(); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
         run(self.output, client)
@@ -160,6 +171,27 @@ class PilotTests(unittest.TestCase):
         context = json.loads(json.loads(path.read_text(encoding='utf-8'))['params']['messages'][0]['content'])
         self.assertEqual(set(context['entity']), {'name', 'type', 'universe', 'aliases'})
         self.assertTrue(all('id' not in t and 'scope_id' not in t and 'record_id' not in t for t in context['texts']))
+    def test_review_exposes_all_original_sources_and_confines_private_runtime(self):
+        server = make_server(self.output, self.database, port=0)
+        thread = threading.Thread(target=server.serve_forever, daemon=True); thread.start()
+        def get(path, expected=200, host=None, method='GET'):
+            connection = http.client.HTTPConnection('127.0.0.1', server.server_port, timeout=5)
+            try:
+                connection.request(method, path, headers={'Host': host} if host else {})
+                response = connection.getresponse(); text = response.read().decode('utf-8')
+                self.assertEqual(response.status, expected, text)
+                return text
+            finally: connection.close()
+        try:
+            db = pilot_db(self.output); jid = db.execute('SELECT id FROM jobs').fetchone()[0]; db.close()
+            page = get('/articles/' + jid + '.html')
+            self.assertIn('Toutes les sources', page); self.assertIn('Référence choisie', page)
+            self.assertIn('Pilot flies a ship', get('/sources/' + jid + '/' + self.rid))
+            for path in ['/config.local.json', '/articles.sqlite', '/../credential', '/articles/' + jid + '.metadata.json']:
+                get(path, 404)
+            get('/', 403, host='foreign.test'); get('/', 405, method='POST')
+        finally:
+            server.shutdown(); server.server_close(); thread.join()
 
 
 if __name__ == '__main__': unittest.main()

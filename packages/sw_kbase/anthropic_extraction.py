@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 import hashlib
 import html
 import json
+import re
 from pathlib import Path
 import sqlite3
 import time
@@ -27,7 +28,7 @@ STYLE = '''body{font:16px/1.6 system-ui;background:#111b2a;color:#e7edf7;max-wid
 a{color:#99ceff}h1,h2,h3{line-height:1.3}small{color:#a3b5cd;font-size:.72rem;overflow-wrap:anywhere}
 aside{border:1px solid #7598b9;border-left:5px solid #75c59c;padding:1rem;margin:1rem 0;background:#1b2e43}
 aside.rules{border-left-color:#e3b962}aside.conflict{border-left-color:#e79579}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border-bottom:1px solid #435571;padding:.45rem;text-align:left;vertical-align:top}
-pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#1b2e43;padding:1rem}summary{cursor:pointer}'''
+pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#1b2e43;padding:1rem;max-height:75vh;overflow:auto}summary{cursor:pointer}'''
 
 
 class EmptyEvidenceError(ValueError):
@@ -218,9 +219,11 @@ def finish_received(db, row, config):
         if response.get('model') != config['model']: raise ValueError('Unexpected response model')
         if response.get('stop_reason') != 'end_turn': raise ValueError('Refused/truncated response')
         text = ''.join(b['text'] for b in response.get('content', []) if b.get('type') == 'text')
-        article = json.loads(text); context = json.loads(payload['messages'][0]['content'])
+        # A Markdown fence is transport formatting, not a reason to repay the model.
+        fenced = re.fullmatch(r'\s*```(?:json)?\s*\n([\s\S]*?)\n```\s*', text, flags=re.IGNORECASE)
+        article = json.loads(fenced[1] if fenced else text); context = json.loads(payload['messages'][0]['content'])
         validate_article(article, context)
-        db.execute("UPDATE jobs SET article_json=?,status='complete' WHERE id=?", (dumps(article), row['id']))
+        db.execute("UPDATE jobs SET article_json=?,status='complete',error_json=NULL WHERE id=?", (dumps(article), row['id']))
     except (ValueError, KeyError, TypeError) as error:
         db.execute("UPDATE jobs SET status='invalid',error_json=? WHERE id=?",
                    (dumps({'type': type(error).__name__, 'reason': str(error)[:240]}), row['id']))
@@ -293,6 +296,39 @@ def _html_page(title, body):
     return '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>' + html.escape(title) + '</title><style>' + STYLE + '</style><body>' + body + '</body></html>'
 
 
+def sources_html(jid, bundle):
+    esc = lambda value: html.escape(str(value), quote=True)
+    evidence = {}
+    for span in bundle['evidence']: evidence.setdefault(span['record_id'], []).append(span)
+    docs = sorted(bundle['source_documents'], key=lambda d: (d['role'] != 'reference', d['source_title'], d['id']))
+    out = ['<section id="sources"><h2>Toutes les sources · ' + str(len(docs)) + ' documents</h2>',
+           '<p>La référence et les extraits retenus ont été transmis à Haiku. Les autres sources restent consultables ci-dessous.</p>']
+    for doc in docs:
+        spans = evidence.get(doc['id'], [])
+        provenance = doc.get('provenance') or {}; acquisition = provenance.get('acquisition') or {}
+        role = 'Référence choisie' if doc['role'] == 'reference' else 'Complément utilisé' if spans else 'Source écartée du merge'
+        out.append('<details><summary>' + esc(role + ' · ' + doc.get('source_title', '') + ' · ' + doc.get('name', '')) + '</summary>')
+        out.append('<p><strong>Origine :</strong> ' + esc(acquisition.get('label') or doc.get('dataset', '')) + '</p>')
+        works = provenance.get('works') or []
+        if works:
+            out.append('<p><strong>Ouvrage / contenu source :</strong></p><ul>')
+            for work in works:
+                out.append('<li>' + esc(' · '.join(str(work[k]) for k in ('title', 'code', 'pages', 'page_basis') if work.get(k))) + '</li>')
+            out.append('</ul>')
+        else: out.append('<p>Ouvrage / contenu source : non indiqué.</p>')
+        counts = Counter(v['selection'] for v in doc.get('paragraph_votes', []))
+        out.append('<p>' + esc(' · '.join(f'{k}: {v}' for k, v in counts.items())) + '</p>')
+        out.append('<p><a href="/sources/' + esc(jid) + '/' + esc(doc['id']) + '">Lire le document original intégral</a></p>')
+        if not spans: out.append('<p>Source conservée en base, sans extrait transmis à cette reconstruction.</p>')
+        else:
+            out.append('<details><summary>Texte exact transmis · ' + str(len(spans)) + ' extraits</summary>')
+            for span in spans:
+                out.append('<p>' + esc(span['selection'] + ' · ' + span.get('paragraph', '')) + '</p><pre>' + esc(span['excerpt']) + '</pre>')
+            out.append('</details>')
+        out.append('</details>')
+    return ''.join(out) + '</section>'
+
+
 def report(root, db=None):
     root = Path(root); own = db is None; db = db or pilot_db(root)
     try:
@@ -313,13 +349,14 @@ def report(root, db=None):
             'waiting_for_go': (root / 'WAIT_FOR_USER_GO').exists(), 'spend_limit_usd': config.get('spend_limit_usd', 1),
             'source_databases_modified': False, 'pricing': pricing}
         (root / 'articles').mkdir(exist_ok=True)
-        cards = []
+        cards = []; featured = None
         for row in rows:
             payload = json.loads(row['request_json']); context = json.loads(payload['messages'][0]['content'])
+            bundle = json.loads(row['bundle_json'])
+            navigation = '<p><a href="../index.html">← Les 50 fiches</a> · <a href="#sources">Toutes les sources (' + str(len(bundle['source_documents'])) + ')</a></p>'
             if row['article_json']:
                 article = json.loads(row['article_json'])
-                body = '<p><a href="../index.html">← Pilot</a></p>' + article_html(article, row['name'])
-                bundle = json.loads(row['bundle_json'])
+                body = navigation + article_html(article, row['name'])
                 atomic_json(root / 'articles' / (row['id'] + '.json'), article)
                 atomic_json(root / 'articles' / (row['id'] + '.metadata.json'), {'id': row['entity_id'],
                     'schema_version': VERSION, 'section_source_mapping': 'not_yet_resolved',
@@ -328,16 +365,31 @@ def report(root, db=None):
                     'generation': {'model': config['model'], 'usage': json.loads(row['usage_json']),
                                    'request_hash': row['input_hash'], 'review_status': 'unreviewed'}})
                 classified = article['type'] + ' / ' + article['subtype']
+                if featured is None or len(bundle['source_documents']) > featured['sources']:
+                    featured = {'id': row['id'], 'name': row['name'], 'sources': len(bundle['source_documents'])}
             else:
-                body = '<p><a href="../index.html">← Pilot</a></p><h1>' + html.escape(row['name']) + '</h1><p>' + html.escape(row['status']) + '</p>'
+                body = navigation + '<h1>' + html.escape(row['name']) + '</h1><p>' + html.escape(row['status']) + '</p>'
                 for evidence in context['texts']:
                     body += '<h3>' + html.escape(evidence['role']) + '</h3><pre>' + html.escape(evidence['text']) + '</pre>'
                 classified = '—'
+                if row['response_json']:
+                    response = json.loads(row['response_json'])
+                    out = ''.join(b.get('text', '') for b in response.get('content', []) if b.get('type') == 'text')
+                    body += '<details open><summary>Réponse brute · validation à examiner</summary><pre>' + html.escape(out) + '</pre></details>'
+            body += '<p><a href="#sources">Voir toutes les sources</a> · <a href="http://127.0.0.1:8765/review#aggregate=' + row['entity_id'] + '">Ouvrir dans la base</a></p>'
+            body += '<p>Coût estimé : $' + format(row['cost_usd'], '.6f') + ' · Temps : ' + format(row['latency_seconds'] or 0, '.2f') + ' s</p>'
+            body += sources_html(row['id'], bundle)
             (root / 'articles' / (row['id'] + '.html')).write_text(_html_page(row['name'], body), encoding='utf-8')
             cards.append('<tr><td><a href="articles/' + row['id'] + '.html">' + html.escape(row['name']) + '</a></td><td>' +
                 html.escape(row['initial_kind'] + ' → ' + classified) + '</td><td>' + html.escape(row['status']) +
-                '</td><td>' + str(row['input_tokens'] or '—') + '</td><td>$' + format(row['cost_usd'], '.6f') + '</td></tr>')
-        body = '<h1>Haiku 5.5 · structured extraction pilot</h1><p>50 maximum consolidated articles. Source databases unchanged. Object relations stay in SQLite.</p><pre>' + html.escape(json.dumps(result, indent=2)) + '</pre><table><tr><th>Article</th><th>Classification</th><th>Status</th><th>Input tokens</th><th>Estimated cost</th></tr>' + ''.join(cards) + '</table>'
+                '</td><td>' + str(len(bundle['source_documents'])) + '</td><td>$' + format(row['cost_usd'], '.6f') + '</td></tr>')
+        body = '<h1>Haiku 5.5 · fiches reconstruites</h1><p>' + str(len(rows)) + ' fiches · ' + str(statuses.get('complete', 0)) + ' reconstruites · ' + str(statuses.get('invalid', 0)) + ' à examiner</p>'
+        body += '<p>Coût total estimé : <strong>$' + format(measured, '.6f') + '</strong> · ' + str(prompt) + ' tokens d’entrée · ' + str(result['observed_output_tokens']) + ' tokens de sortie.</p>'
+        if featured:
+            body += '<p><a href="articles/' + featured['id'] + '.html">Ouvrir ' + html.escape(featured['name']) + ' et ses ' + str(featured['sources']) + ' sources</a></p>'
+        body += '<p>Chaque fiche montre la reconstruction puis toutes les sources, y compris celles écartées du merge. Les originaux restent intacts.</p>'
+        body += '<table><tr><th>Article</th><th>Type initial → extrait</th><th>Statut</th><th>Sources</th><th>Coût estimé</th></tr>' + ''.join(cards) + '</table>'
+        body += '<details><summary>Détails du coût et du traitement</summary><pre>' + html.escape(json.dumps(result, indent=2)) + '</pre></details>'
         (root / 'index.html').write_text(_html_page('SW D6 · Haiku pilot', body), encoding='utf-8')
         atomic_json(root / 'report.json', result)
         return result

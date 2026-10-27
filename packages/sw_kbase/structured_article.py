@@ -30,8 +30,8 @@ def validate_article(value, context=None):
     """Shape only: no fictitious confidence, citation coverage or stat normalization."""
     if not isinstance(value, dict) or set(value) != {'type', 'subtype', 'sections'}:
         raise ValueError('Expected only type, subtype and sections')
-    if any(not isinstance(value[key], str) or not value[key].strip() for key in ('type', 'subtype')):
-        raise ValueError('Article type/subtype must be nonempty strings')
+    if not isinstance(value['type'], str) or not value['type'].strip() or not isinstance(value['subtype'], str):
+        raise ValueError('Article type must be nonempty and subtype must be a string')
     if not isinstance(value['sections'], list) or not value['sections']:
         raise ValueError('Article needs at least one section')
     for section in value['sections']:

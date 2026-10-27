@@ -1,0 +1,33 @@
+{
+  "schema_version": "sw-haiku-pilot-summary/1",
+  "date": "2026-10-27",
+  "model": "claude-haiku-5-5",
+  "article_schema": "sw-rich-article/3-simple-sections",
+  "articles": 50,
+  "source_documents": 104,
+  "generation_responses": 50,
+  "valid_articles": 45,
+  "nonconforming_articles": 5,
+  "input_tokens": 239626,
+  "output_tokens": 128905,
+  "estimated_usd_from_provider_usage": 0.0884151,
+  "hypothetical_batch_equivalent_usd": 0.04420755,
+  "billing_status": "estimate_not_invoice",
+  "batch_submitted": false,
+  "latency_seconds": {
+    "median": 5.102873,
+    "mean": 8.511980,
+    "maximum": 131.405994,
+    "sum_api_calls": 425.599017
+  },
+  "classification": {
+    "initial_unknown": 10,
+    "reclassified_in_valid_output": 6,
+    "still_unknown_in_valid_output": 2,
+    "nonconforming_output": 2,
+    "empty_subtypes_in_valid_articles": 43
+  },
+  "review_status": "pending_user_semantic_review",
+  "source_databases_modified": false,
+  "ui_pages_verified_http_200": 155
+}

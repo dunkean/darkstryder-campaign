@@ -15,6 +15,7 @@ def main():
     commands = parser.add_subparsers(dest='command', required=True)
     p = commands.add_parser('prepare'); p.add_argument('--config', type=Path, required=True)
     commands.add_parser('report')
+    p = commands.add_parser('serve'); p.add_argument('--port', type=int, default=8769)
     commands.add_parser('count', help='Free provider token count; transmits prepared text, no generation')
     p = commands.add_parser('run'); p.add_argument('--execute', action='store_true')
     p = commands.add_parser('batch-file'); p.add_argument('--destination', type=Path, required=True)
@@ -24,6 +25,14 @@ def main():
     if args.command == 'run' and not args.execute: parser.error('Generation requires --execute and user GO')
     if args.command == 'batch-file' and args.destination.resolve().is_relative_to(repository):
         parser.error('Batch payloads must stay outside Git')
+    if args.command == 'serve':
+        from packages.sw_kbase.anthropic_review import make_server
+        config = json.loads((args.output / 'config.local.json').read_text(encoding='utf-8'))
+        server = make_server(args.output, config['database'], args.port)
+        try: server.serve_forever()
+        except KeyboardInterrupt: pass
+        finally: server.server_close()
+        return
     if args.command == 'prepare':
         result = pipeline.prepare(pipeline.read_config(args.config), args.output)
         result = {key: value for key, value in result.items() if key != 'articles'}
