@@ -1,4 +1,4 @@
-"""Prepare or explicitly run the 50-article Haiku pilot. Preparation is CPU-only."""
+"""Prepare or explicitly run a Haiku pilot of up to 100 articles. Preparation is CPU-only."""
 import argparse
 import json
 from pathlib import Path

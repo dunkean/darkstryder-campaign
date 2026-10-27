@@ -73,10 +73,10 @@ def validate_article(value, context=None):
             raise ValueError('Warning needs a document label and reason')
         if labels and warning['document'] not in labels:
             raise ValueError('Warning refers to an unknown document')
-    if any(value[k].strip().casefold() in {'', 'unknown'} for k in ('type', 'subtype')) and not warnings:
-        raise ValueError('Empty/unknown classification requires a warning')
     if not isinstance(value['sections'], list) or (not value['sections'] and not warnings):
         raise ValueError('Empty sections require a warning')
+    if value['sections'] and value['type'].strip().casefold() in {'', 'unknown'}:
+        raise ValueError('Choose or create a type; classification uncertainty is not a source warning')
     for section in value['sections']:
         if not isinstance(section, dict) or set(section) != {'title', 'content', 'type'}:
             raise ValueError('Expected title, content and type; no subtitle or separate stats field')

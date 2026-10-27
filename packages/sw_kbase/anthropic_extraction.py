@@ -42,7 +42,7 @@ def now():
 def read_config(path):
     value = json.loads(Path(path).read_text(encoding='utf-8-sig'))
     if value['model'] != 'claude-haiku-5-5': raise ValueError('This pilot requires the explicitly selected Haiku 5.5')
-    if not 1 <= value.get('sample_size', 50) <= 50: raise ValueError('Pilot limit is 50 articles')
+    if not 1 <= value.get('sample_size', 100) <= 100: raise ValueError('Pilot limit is 100 articles')
     if not 512 <= value.get('max_output_tokens', 12000) <= 128000: raise ValueError('Invalid output budget')
     if value.get('language', 'English') != 'English': raise ValueError('This contract currently requests English output')
     if not 0 < value.get('spend_limit_usd', 1) <= 10: raise ValueError('Invalid pilot spend limit')
@@ -112,7 +112,7 @@ def context_for(main, selection, entity, config, taxonomy=None):
                               for p in bundle['profiles'] if retained_records.intersection(p['source_documents'])],
         'output_example': {'type': '', 'subtype': '', 'tags': [], 'warnings': [], 'sections': [
             {'title': '', 'type': 'description', 'content': ''}]},
-        'warning_example': {'document': 'Exact document label from texts', 'reason': 'Problem requiring human review'},
+        'warning_example': {'document': 'Exact document label from texts', 'reason': 'Unreadable/corrupt source with no usable content'},
         'language': config.get('language', 'English'), 'live_campaign_state_inferred': False}
     # Original profiles remain available to deterministic follow-up checks and export.
     return context, bundle, fingerprint(input_snapshot(main, entity['id']))
@@ -196,13 +196,38 @@ def config_from(db):
 
 
 def check_contract(db):
-    for row in db.execute('SELECT request_json FROM jobs'):
+    for row in db.execute('SELECT request_json FROM jobs WHERE response_json IS NULL'):
         payload = json.loads(row[0])
         context = json.loads(payload['messages'][0]['content'])
         if (payload.get('system') != PROMPT or 'format' in payload.get('output_config', {})
                 or set(context.get('output_example', {})) != {'type', 'subtype', 'tags', 'warnings', 'sections'}
                 or any(set(s) != {'title', 'type', 'content'} for s in context['output_example']['sections'])):
             raise ValueError('Obsolete pilot contract; prepare the simplified schema again')
+
+
+def revise_pending(root):
+    """CPU-only revision after a user stop; preserve every paid request/response."""
+    root = Path(root)
+    if not (root / 'PAUSE').exists(): raise ValueError('Pause the pilot before revising pending requests')
+    db = pilot_db(root)
+    try:
+        if db.execute("SELECT count(*) FROM jobs WHERE status='in_flight'").fetchone()[0]:
+            raise ValueError('Wait for the in-flight response before revising requests')
+        db.execute('CREATE TABLE IF NOT EXISTS request_revisions(job_id TEXT,input_hash TEXT,request_json TEXT,input_tokens INTEGER,revised_at TEXT,PRIMARY KEY(job_id,input_hash))')
+        rows = db.execute("SELECT id,input_hash,request_json,input_tokens FROM jobs WHERE status='prepared' AND response_json IS NULL").fetchall()
+        for row in rows:
+            db.execute('INSERT OR IGNORE INTO request_revisions VALUES(?,?,?,?,?)',
+                       (row['id'], row['input_hash'], row['request_json'], row['input_tokens'], now()))
+            payload = json.loads(row['request_json']); payload['system'] = PROMPT
+            context = json.loads(payload['messages'][0]['content'])
+            context['warning_example']['reason'] = 'Unreadable/corrupt source with no usable content'
+            payload['messages'][0]['content'] = dumps(context)
+            db.execute('UPDATE jobs SET request_json=?,input_hash=?,input_tokens=NULL WHERE id=?',
+                       (dumps(payload), fingerprint(payload), row['id']))
+        db.commit()
+        (root / 'WAIT_FOR_USER_GO').write_text('User stopped the run. Revised pending prompt; await a new GO.\n', encoding='utf-8')
+        return {'pending_revised': len(rows), 'paid_responses_preserved': db.execute('SELECT count(*) FROM jobs WHERE response_json IS NOT NULL').fetchone()[0], 'generation_calls': 0}
+    finally: db.close()
 
 
 def count_tokens(root, client=None):
@@ -215,10 +240,14 @@ def count_tokens(root, client=None):
             raise ValueError('Requested model is not available')
         db.execute('INSERT OR REPLACE INTO meta VALUES(?,?)', ('verified_model', dumps(model))); db.commit()
         for row in db.execute('SELECT id,request_json FROM jobs WHERE input_tokens IS NULL ORDER BY id').fetchall():
-            tokens = client.count(json.loads(row['request_json']))['input_tokens']
+            payload = json.loads(row['request_json'])
+            tokens = client.count(payload)['input_tokens']
             if type(tokens) is not int or not 0 < tokens <= config.get('max_input_tokens', 32000):
                 raise ValueError('Exact token count exceeds pilot budget; reprepare without truncation')
-            db.execute('UPDATE jobs SET input_tokens=? WHERE id=?', (tokens, row['id'])); db.commit()
+            if config.get('adaptive_output_tokens'):
+                payload['max_tokens'] = max(payload['max_tokens'], min(64000, tokens * 2))
+            db.execute('UPDATE jobs SET input_tokens=?,request_json=?,input_hash=? WHERE id=?',
+                       (tokens, dumps(payload), fingerprint(payload), row['id'])); db.commit()
     finally:
         db.close()
     return report(root)
@@ -360,13 +389,14 @@ def report(root, db=None):
             'estimated_pilot_ceiling_usd': sum(usage_cost({'input_tokens': (r['input_tokens'] or config.get('max_input_tokens', 32000)) + 4096,
                 'output_tokens': json.loads(r['request_json'])['max_tokens']}, pricing=pricing)['estimated_usd'] for r in rows),
             'waiting_for_go': (root / 'WAIT_FOR_USER_GO').exists(), 'spend_limit_usd': config.get('spend_limit_usd', 1),
+            'paused': (root / 'PAUSE').exists(),
             'source_databases_modified': False, 'pricing': pricing}
         (root / 'articles').mkdir(exist_ok=True)
         cards = []; featured = None
         for row in rows:
             payload = json.loads(row['request_json']); context = json.loads(payload['messages'][0]['content'])
             bundle = json.loads(row['bundle_json'])
-            navigation = '<p><a href="../index.html">← Les 50 fiches</a> · <a href="#sources">Toutes les sources (' + str(len(bundle['source_documents'])) + ')</a></p>'
+            navigation = '<p><a href="../index.html">← Les ' + str(len(rows)) + ' fiches</a> · <a href="#sources">Toutes les sources (' + str(len(bundle['source_documents'])) + ')</a></p>'
             if row['article_json']:
                 article = json.loads(row['article_json'])
                 body = navigation + article_html(article, row['name'])

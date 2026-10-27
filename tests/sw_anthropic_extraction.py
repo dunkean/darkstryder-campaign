@@ -14,6 +14,8 @@ import unittest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from packages.sw_kbase.anthropic_client import usage_cost
 from packages.sw_kbase.anthropic_extraction import prepare, count_tokens, run, pilot_db, report, batch_file
+from packages.sw_kbase.anthropic_extraction import read_config, revise_pending
+from packages.sw_kbase.disambiguation import fingerprint
 from packages.sw_kbase.cleaning import clean
 from packages.sw_kbase.grouped_paragraphs import plan, score
 from packages.sw_kbase.selected_spans import selected_spans
@@ -97,10 +99,8 @@ class ContractTests(unittest.TestCase):
         invalid = deepcopy(value); invalid['sections'][0]['stats'] = {'Dexterity': '4D+2'}
         with self.assertRaises(ValueError): validate_article(invalid)
         empty_subtype = deepcopy(value); empty_subtype['subtype'] = ''
-        with self.assertRaises(ValueError): validate_article(empty_subtype)
-        empty_subtype['warnings'] = [{'document': 'Document 1', 'reason': 'Classification needs review'}]
         validate_article(empty_subtype)
-    def test_unknown_requires_warning_and_stats_content_is_an_object(self):
+    def test_unusable_source_may_have_no_sections_and_stats_content_is_an_object(self):
         value = {'type': 'unknown', 'subtype': '', 'tags': [], 'warnings': [], 'sections': []}
         with self.assertRaises(ValueError): validate_article(value)
         value['warnings'] = [{'document': 'Document 1', 'reason': 'Unusable source'}]
@@ -111,6 +111,8 @@ class ContractTests(unittest.TestCase):
         with self.assertRaises(ValueError): validate_article(value)
         value['sections'][0]['content'] = {'Hull': '4D', 'Crew': 2}
         validate_article(value)
+        value['type'] = 'unknown'
+        with self.assertRaisesRegex(ValueError, 'Choose or create'): validate_article(value)
 
 
 class PilotTests(unittest.TestCase):
@@ -147,6 +149,48 @@ class PilotTests(unittest.TestCase):
         (self.output / 'WAIT_FOR_USER_GO').unlink()
         with self.assertRaisesRegex(ValueError, 'Obsolete'): run(self.output, client)
         self.assertEqual(client.calls, 0)
+    def test_hundred_article_limit_and_adaptive_output_preflight(self):
+        path = self.root / 'config.json'
+        config = {**self.config, 'sample_size': 100}
+        path.write_text(json.dumps(config), encoding='utf-8')
+        self.assertEqual(read_config(path)['sample_size'], 100)
+        config['sample_size'] = 101; path.write_text(json.dumps(config), encoding='utf-8')
+        with self.assertRaises(ValueError): read_config(path)
+        db = pilot_db(self.output)
+        stored = json.loads(db.execute("SELECT value_json FROM meta WHERE key='config'").fetchone()[0])
+        stored.update(adaptive_output_tokens=True, max_input_tokens=64000)
+        db.execute("UPDATE meta SET value_json=? WHERE key='config'", (json.dumps(stored),)); db.commit(); db.close()
+        client = Client(); client.count = lambda _: {'input_tokens': 20000}
+        count_tokens(self.output, client)
+        db = pilot_db(self.output); row = db.execute('SELECT request_json,input_hash FROM jobs').fetchone(); db.close()
+        request = json.loads(row['request_json'])
+        self.assertEqual(request['max_tokens'], 40000)
+        self.assertEqual(row['input_hash'], fingerprint(request))
+        self.assertEqual(client.calls, 0)
+    def test_user_stop_revises_only_unpaid_work_and_keeps_it_gated(self):
+        db = pilot_db(self.output)
+        row = db.execute('SELECT id,request_json FROM jobs').fetchone()
+        payload = json.loads(row['request_json']); payload['system'] = 'Previous prompt'
+        db.execute('UPDATE jobs SET request_json=?,input_tokens=1000 WHERE id=?', (json.dumps(payload), row['id']))
+        db.commit(); db.close()
+        (self.output / 'PAUSE').write_text('User stop', encoding='utf-8')
+        result = revise_pending(self.output)
+        self.assertEqual(result['pending_revised'], 1); self.assertEqual(result['generation_calls'], 0)
+        db = pilot_db(self.output); revised = db.execute('SELECT request_json,input_tokens FROM jobs').fetchone()
+        self.assertEqual(json.loads(revised['request_json'])['system'], PROMPT)
+        self.assertIsNone(revised['input_tokens'])
+        self.assertIn('Previous prompt', db.execute('SELECT request_json FROM request_revisions').fetchone()[0]); db.close()
+        self.assertTrue((self.output / 'WAIT_FOR_USER_GO').exists())
+        with self.assertRaisesRegex(ValueError, 'GO'): run(self.output, Client())
+    def test_paid_responses_are_not_revised_after_user_stop(self):
+        client = Client(); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
+        run(self.output, client)
+        db = pilot_db(self.output); before = tuple(db.execute('SELECT request_json,response_json FROM jobs').fetchone()); db.close()
+        (self.output / 'PAUSE').write_text('User stop', encoding='utf-8')
+        result = revise_pending(self.output)
+        self.assertEqual(result['pending_revised'], 0); self.assertEqual(result['paid_responses_preserved'], 1)
+        db = pilot_db(self.output); after = tuple(db.execute('SELECT request_json,response_json FROM jobs').fetchone()); db.close()
+        self.assertEqual(before, after); self.assertEqual(client.calls, 1)
     def test_valid_results_resume_without_rebilling_and_keep_original_databases(self):
         client = Client(); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
         value = run(self.output, client); self.assertEqual(value['by_status'], {'complete': 1})

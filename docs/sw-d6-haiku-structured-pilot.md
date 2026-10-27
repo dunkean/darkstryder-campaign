@@ -1,12 +1,20 @@
 # Pilote Haiku : fiche structurée depuis les références et compléments
 
+## Lot de 100 arrêté par l’utilisateur
+
+Le lot `sw-rich-article/4-content-and-warnings` a été autorisé sur 100 fiches (211 documents sources), puis **arrêté explicitement après 61 réponses**. 39 requêtes n’ont pas été envoyées. Coût enregistré : 0,0755642 USD estimés d’après l’usage fournisseur. Le batch global n’a pas été soumis.
+
+Nouvelle règle : **avertir uniquement pour une source entièrement inexploitable**, illisible/corrompue ou sans contenu pertinent pour le sujet. Un sous-type absent peut rester vide. Le classement incertain, les champs manquants, les variantes et contradictions ne justifient aucun avertissement ; le modèle extrait ce qui est exploitable et conserve les contradictions dans le contenu. Le contrôleur ne fabrique plus de grande alerte pour `unknown`.
+
+Les 61 requêtes/réponses reçues sont conservées sans modification. Les 39 requêtes en attente ont été révisées sur CPU avec le nouveau prompt de 193 mots ; leurs versions précédentes et comptes de tokens sont archivés. Le comptage devra être rafraîchi avant reprise. `PAUSE` et `WAIT_FOR_USER_GO` sont présents : **aucune reprise sans nouveau GO**. Le comparateur affiche toujours les vrais snapshots, donc les anciennes réponses peuvent contenir les avertissements excessifs de l’ancien prompt.
+
 ## Contrat révisé après lecture du pilote — en attente de nouveau GO
 
 Le prochain contrat `sw-rich-article/4-content-and-warnings` a seulement `type`, `subtype`, `tags`, `warnings`, `sections`. Chaque section a **`title`, `type`, `content`**, sans sous-titre et sans champ `stats`. `content` accepte du texte ou un objet clé/valeur ; les sections `stats` utilisent cet objet directement, avec noms simples et toutes les valeurs conservées, sans normalisation. Les descriptions liées doivent être réunies et reformulées, sans suivre les frontières des fragments entrants.
 
-Les catégories connues sont proposées sans `unknown` ; le modèle peut créer des noms pertinents. Un type/sous-type vide ou `unknown` exige un avertissement. `warnings` contient `{document, reason}` : le document est désigné par son libellé lisible fourni dans l’entrée, jamais par un ID de base. Une source estimée erronée, hors sujet ou inexploitable doit être signalée et exclue du contenu produit. Une contradiction seule n’entraîne pas l’exclusion. Si aucune source n’est utilisable, `sections` est vide et l’avertissement obligatoire.
+Les catégories connues sont proposées sans `unknown` ; le modèle peut créer des noms pertinents. Un sous-type vide est accepté sans avertissement. Le type doit être renseigné pour un contenu traité. `warnings` contient `{document, reason}` : le document est désigné par son libellé lisible fourni dans l’entrée, jamais par un ID de base. Seules les sources entièrement inexploitables sont signalées et exclues du contenu produit. Une contradiction seule n’entraîne pas l’exclusion. Si aucune source n’est utilisable, `sections` est vide et l’avertissement obligatoire.
 
-Le comparateur affiche les avertissements dans un encadré rouge, avec accès au texte envoyé et au document original pour décision humaine. Il ne supprime aucune source et ne reprend aucun verdict à son compte. Le [prompt révisé](../config/sw-article-extraction.prompt.txt) compte **171 mots**. Aucun nouveau test payant n’a été lancé avec ce contrat ; les chiffres ci-dessous décrivent le premier pilote et son ancien schéma. Ses requêtes et réponses restent inchangées.
+Le comparateur affiche les avertissements reçus dans un encadré rouge, avec accès au texte envoyé et au document original pour décision humaine. Il ne supprime aucune source et ne reprend aucun verdict à son compte. Le [prompt révisé](../config/sw-article-extraction.prompt.txt) compte **193 mots**. Cette nouvelle règle n’a pas encore été envoyée au modèle ; les requêtes/réponses historiques restent inchangées.
 
 ## Premier pilote — historique conservé
 

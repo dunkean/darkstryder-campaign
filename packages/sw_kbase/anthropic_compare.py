@@ -11,7 +11,7 @@ def render_compare(root, jid=None):
     root = Path(root)
     with closing(sqlite3.connect((root / 'articles.sqlite').as_uri() + '?mode=ro', uri=True)) as db:
         db.row_factory = sqlite3.Row
-        entries = db.execute('SELECT id,name FROM jobs ORDER BY name COLLATE NOCASE,id').fetchall()
+        entries = db.execute('SELECT id,name,response_json IS NULL AS pending FROM jobs ORDER BY name COLLATE NOCASE,id').fetchall()
         if not entries: raise KeyError('No pilot documents')
         if jid is None:
             jid = next((e['id'] for e in entries if e['name'] == 'Aural Blaster'), entries[0]['id'])
@@ -36,7 +36,7 @@ def render_compare(root, jid=None):
     for i, part in enumerate(context.get('texts', []), 1):
         if part.get('document'): anchors.setdefault(part['document'], 'input-document-' + str(i))
     index = next(i for i, e in enumerate(entries) if e['id'] == jid)
-    options = ''.join('<option value="' + e['id'] + '"' + (' selected' if e['id'] == jid else '') + '>' + esc(e['name']) + '</option>' for e in entries)
+    options = ''.join('<option value="' + e['id'] + '"' + (' selected' if e['id'] == jid else '') + '>' + esc(e['name']) + (' — non envoyé' if e['pending'] else '') + '</option>' for e in entries)
     nav = ''
     if index: nav += '<a href="/?article=' + entries[index-1]['id'] + '">← Précédente</a>'
     if index+1 < len(entries): nav += '<a href="/?article=' + entries[index+1]['id'] + '">Suivante →</a>'
@@ -47,6 +47,8 @@ def render_compare(root, jid=None):
            '<button type="submit">Afficher</button></form><nav>' + nav + '</nav><span>' + str(index+1) + ' / ' + str(len(entries)) + '</span></header>',
            '<main><section aria-label="Ce qui a été envoyé"><div class="pane-head"><h1>Ce qui a été envoyé</h1></div><div class="pane-body">',
            '<details><summary>Prompt système exact</summary><pre id="system-text">' + esc(system) + '</pre></details>']
+    if response is None:
+        out.append('<p class="source" role="status">Requête préparée, non envoyée.</p>')
     for i, part in enumerate(context.get('texts', []), 1):
         role = {'reference': 'Référence', 'selected addition': 'Paragraphe ajouté', 'uncertain addition': 'Paragraphe ajouté · incertain'}.get(part.get('role'), part.get('role', 'Texte'))
         source = part.get('source', {})
@@ -80,8 +82,6 @@ def render_compare(root, jid=None):
                 if document in labels:
                     out.append('<p><a href="/sources/' + esc(jid) + '/' + esc(labels[document]) + '">Ouvrir le document original complet</a></p>')
             out.append('</aside>')
-        elif isinstance(decoded, dict) and str(decoded.get('type', '')).strip().casefold() == 'unknown':
-            out.append('<aside class="document-warning" role="alert"><h2>TYPE UNKNOWN À RENSEIGNER</h2><p>Avertissement du contrôleur : le sujet n’a pas été classé.</p></aside>')
         out.append('<pre id="response-readable">' + esc(readable) + '</pre><pre id="response-raw" hidden>' + esc(raw) + '</pre>')
         out.append('<details><summary>Réponse API complète</summary><pre id="response-envelope">' + esc(json.dumps(response, ensure_ascii=False, indent=2)) + '</pre></details>')
     else: out.append('<p>Pas encore de réponse enregistrée.</p>')
