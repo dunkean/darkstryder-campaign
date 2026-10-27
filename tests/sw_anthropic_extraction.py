@@ -1,9 +1,11 @@
 """Offline contracts, billing, gates, resume and exact-span regressions."""
 from copy import deepcopy
+import html
 import json
 import http.client
 from pathlib import Path
 import sqlite3
+import re
 import sys
 import tempfile
 import threading
@@ -18,6 +20,7 @@ from packages.sw_kbase.selected_spans import selected_spans
 from packages.sw_kbase.store import Store
 from packages.sw_kbase.structured_article import VERSION, PROMPT, article_schema, validate_article, article_html
 from packages.sw_kbase.anthropic_review import make_server
+from packages.sw_kbase.anthropic_compare import render_compare
 
 
 def response_for(context):
@@ -171,6 +174,23 @@ class PilotTests(unittest.TestCase):
         context = json.loads(json.loads(path.read_text(encoding='utf-8'))['params']['messages'][0]['content'])
         self.assertEqual(set(context['entity']), {'name', 'type', 'universe', 'aliases'})
         self.assertTrue(all('id' not in t and 'scope_id' not in t and 'record_id' not in t for t in context['texts']))
+    def test_comparison_displays_persisted_input_and_unmodified_raw_response(self):
+        client = Client(fenced=True); count_tokens(self.output, client); (self.output / 'WAIT_FOR_USER_GO').unlink()
+        run(self.output, client)
+        db = pilot_db(self.output); row = db.execute('SELECT * FROM jobs').fetchone()
+        payload = json.loads(row['request_json']); payload['system'] = 'Exact stored prompt <script>never execute</script>'
+        db.execute('UPDATE jobs SET request_json=? WHERE id=?', (json.dumps(payload), row['id'])); db.commit(); db.close()
+        page = render_compare(self.output, row['id'])
+        def pre(id):
+            return html.unescape(re.search(r'<pre id="'+id+r'"[^>]*>(.*?)</pre>', page, re.S)[1])
+        self.assertEqual(pre('system-text'), payload['system'])
+        self.assertEqual(pre('user-text'), payload['messages'][0]['content'])
+        raw = ''.join(b['text'] for b in json.loads(row['response_json'])['content'])
+        self.assertEqual(pre('response-raw'), raw)
+        self.assertEqual(json.loads(pre('response-readable')), json.loads(raw[8:-4]))
+        self.assertNotIn('<script>never execute</script>', page)
+        self.assertIn('Pilot flies a ship', page)
+        self.assertEqual(client.calls, 1)
     def test_review_exposes_all_original_sources_and_confines_private_runtime(self):
         server = make_server(self.output, self.database, port=0)
         thread = threading.Thread(target=server.serve_forever, daemon=True); thread.start()
@@ -185,7 +205,12 @@ class PilotTests(unittest.TestCase):
         try:
             db = pilot_db(self.output); jid = db.execute('SELECT id FROM jobs').fetchone()[0]; db.close()
             page = get('/articles/' + jid + '.html')
-            self.assertIn('Toutes les sources', page); self.assertIn('Référence choisie', page)
+            self.assertIn('Ce qui a été envoyé', page); self.assertIn('Ce qui a été reçu', page)
+            self.assertIn('Pilot flies a ship', page)
+            get('/?article=invalid', 400)
+            get('/?article=' + jid + '&article=' + jid, 400)
+            get('/?article=article-' + '0'*32, 404)
+            self.assertIn('toggle-raw', get('/compare.js'))
             self.assertIn('Pilot flies a ship', get('/sources/' + jid + '/' + self.rid))
             for path in ['/config.local.json', '/articles.sqlite', '/../credential', '/articles/' + jid + '.metadata.json']:
                 get(path, 404)

@@ -6,9 +6,10 @@ import json
 from pathlib import Path
 import re
 import sqlite3
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, parse_qs
 
 from .anthropic_extraction import _html_page
+from .anthropic_compare import render_compare
 from .store import Store
 
 
@@ -20,7 +21,7 @@ class ReviewHandler(BaseHTTPRequestHandler):
         self.send_response(status)
         self.send_header('Content-Type', content_type); self.send_header('Content-Length', str(len(raw)))
         self.send_header('Cache-Control', 'no-store'); self.send_header('X-Content-Type-Options', 'nosniff')
-        self.send_header('Content-Security-Policy', "default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; frame-ancestors 'none'")
+        self.send_header('Content-Security-Policy', "default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; form-action 'self'; base-uri 'none'; frame-ancestors 'none'")
         self.end_headers(); self.wfile.write(raw)
 
     def do_GET(self):
@@ -30,13 +31,27 @@ class ReviewHandler(BaseHTTPRequestHandler):
         origin = self.headers.get('Origin')
         if origin and origin.casefold() not in {'http://' + host for host in allowed}:
             return self.send(403, 'Local access only')
-        path = urlsplit(self.path).path
-        if path in {'/', '/index.html'}:
-            return self.send(200, (self.server.root / 'index.html').read_bytes())
+        parsed = urlsplit(self.path); path = parsed.path
+        if path in {'/', '/index.html', '/compare'}:
+            try:
+                query = parse_qs(parsed.query, max_num_fields=3)
+                if any(len(v) != 1 for v in query.values()): raise ValueError('Duplicate query')
+                jid = query.get('article', [None])[0]
+                if jid and not re.fullmatch('article-[a-f0-9]{32}', jid): raise ValueError('Invalid ID')
+                return self.send(200, render_compare(self.server.root, jid))
+            except ValueError: return self.send(400, 'Invalid request')
+            except KeyError: return self.send(404, 'Not found')
+        if path in {'/compare.js', '/compare.css'}:
+            extension = path.rsplit('.', 1)[1]
+            return self.send(200, Path(__file__).with_name('anthropic_compare.' + extension).read_bytes(),
+                             'text/javascript; charset=utf-8' if extension == 'js' else 'text/css; charset=utf-8')
         if path == '/status':
             return self.send(200, (self.server.root / 'report.json').read_bytes(), 'application/json; charset=utf-8')
         match = re.fullmatch(r'/articles/(article-[a-f0-9]{32})\.(html|json)', path)
         if match:
+            if match[2] == 'html':
+                try: return self.send(200, render_compare(self.server.root, match[1]))
+                except KeyError: return self.send(404, 'Not found')
             file = self.server.root / 'articles' / (match[1] + '.' + match[2])
             if file.is_file():
                 return self.send(200, file.read_bytes(), 'application/json; charset=utf-8' if match[2] == 'json' else 'text/html; charset=utf-8')

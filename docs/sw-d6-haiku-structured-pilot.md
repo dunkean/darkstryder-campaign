@@ -6,6 +6,8 @@ Résultat : 45 JSON conformes et 5 sorties hors contrat. Coût estimé d’aprè
 
 La revue locale sur **http://127.0.0.1:8769/** expose les 50 résultats et leurs **104 documents sources**, avec distinction entre référence, compléments transmis et sources écartées. Chaque source originale est lisible intégralement dans sa version exacte. Les 155 pages de navigation/source ont répondu HTTP 200. Le serveur n’expose ni configuration privée ni SQLite.
 
+Présentation simplifiée à la demande de l’utilisateur : `/compare` et la page d’accueil affichent directement **l’entrée enregistrée à gauche et la réponse reçue à droite**. Un sélecteur parcourt les 50 fiches. Les textes transmis sont ouverts, le prompt système et la requête exacte sont consultables ; le JSON reçu est mis en forme, avec bascule vers le brut inchangé. Les anciennes URL de fiches ouvrent aussi ce comparateur. Cette lecture utilise les snapshots de requête/réponse, sans reconstruction du contexte depuis le code courant et sans nouvel appel Haiku.
+
 Les 5 écarts : copie de l’enveloppe d’entrée pour une grosse fiche, champs supplémentaires à la racine, statistiques imbriquées ou numériques. Les 45 fiches conformes ont un sous-type vide dans 43 cas. Parmi les 10 `unknown` du pilote, 6 ont un type renseigné dans une sortie conforme, 2 restent `unknown` et 2 ont une sortie hors contrat. Ces points doivent être examinés avant le batch global. Les retours bruts sont préservés ; les fences JSON et sous-types vides ont été traités localement sans repayer d’appels.
 
 - Contrat complet : [sw-rich-article.schema.json](../config/sw-rich-article.schema.json).
