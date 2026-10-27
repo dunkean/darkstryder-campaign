@@ -30,10 +30,20 @@ function aggregateView(d,data){
   add(title,'p',`${kindLabel(data.kind)||'Type inconnu'} · ${data.counts?.records??0} fiches · ${data.counts?.source_collections??0} sources · ${data.counts?.web_records??0} pages web`,'muted');
   const statusLabels={planned:'Référence choisie · paragraphes en attente',scored:'Tri des paragraphes terminé',pending:'Référence choisie · décisions non publiées',complete:'Sélection publiée',running:'Sélection en cours',partial:'Sélection partielle',unavailable:'Sélection indisponible'};
   const selectedStatus=(!data.selection?.available?'Sélection non encore évaluée':statusLabels[data.selection.status]||'Sélection disponible')+
-    (data.selection?.paused?' · Jev en pause':'');
+    (data.selection?.paused&&data.selection.status!=='scored'?' · Jev en pause':'');
   add(head,'span',selectedStatus,'badge');
   if(data.warnings?.length){const warning=add(d,'details',undefined,'workspace-warning');add(warning,'summary',`${data.warnings.length} point(s) à vérifier`);for(const value of data.warnings)add(warning,'p',str(value),'warning')}
-  const panes=add(d,'div',undefined,'workspace');state.panes=panes;
+  const article=add(d,'div',undefined,'article-view');
+  const contents=add(article,'nav',undefined,'article-nav');contents.setAttribute('aria-label','Sections de l’article');
+  const sections={};
+  for(const [key,title] of [['reference','Référence'],['retained','Paragraphes retenus'],['discarded','Passages écartés'],['links','Liens']]){
+    const section=add(article,'section',undefined,'article-section article-'+key);section.id='article-'+key;
+    add(section,'h2',title);sections[key]=section;
+    const button=add(contents,'button',title);button.onclick=()=>section.scrollIntoView?.({block:'start'});
+  }
+  const originals=add(d,'details',undefined,'article-originals');state.originals=originals;
+  add(originals,'summary',`Explorer les ${data.counts?.records??0} documents originaux et leurs décisions`);
+  const panes=add(originals,'div',undefined,'workspace');state.panes=panes;
   const sources=add(panes,'div',undefined,'workspace-sources');sources.setAttribute('aria-label','Documents sources');state.sources=sources;
   const reader=add(panes,'div',undefined,'workspace-reader');reader.setAttribute('aria-label','Lecture de la source');state.reader=reader;
   if(data.reference)state.docs.set(data.reference.id,data.reference);
@@ -41,11 +51,90 @@ function aggregateView(d,data){
   state.nextOffset=(data.documents?.offset||0)+(data.documents?.items?.length||0);
   state.hasMore=!!data.documents?.has_more;
   renderWorkspaceSources(state);
-  const first=data.reference||[...state.docs.values()][0];
-  if(first)selectWorkspaceDoc(state,first.id);else add(reader,'p','Aucune fiche source pour cette entrée.','empty');
-  const advanced=add(d,'details',undefined,'workspace-advanced');add(advanced,'summary',`Contexte technique et liens · ${data.counts?.legacy_blocks??0} anciens blocs de texte`);
+  add(reader,'p','Choisissez un document pour consulter son texte et le détail de ses décisions.','empty');
+  renderArticleReference(sections.reference,state);
+  loadArticleParagraphs(sections.retained,state,'retained');
+  loadArticleParagraphs(sections.discarded,state,'discarded');
+  loadArticleLinks(sections.links,state);
+  const advanced=add(d,'details',undefined,'workspace-advanced');add(advanced,'summary',`Contexte technique · ${data.counts?.legacy_blocks??0} anciens blocs de texte`);
   if(data.type_annotation)box(advanced,'Justification du classement par text mining',data.type_annotation);
   advanced.addEventListener('toggle',()=>{if(advanced.open&&!advanced.dataset.loaded){advanced.dataset.loaded='1';loadLegacyDetails(advanced,data.id,state)}});
+}
+function openArticleSource(state,doc){
+  if(workspaceState!==state)return;
+  state.docs.set(doc.id,doc);state.originals.open=true;selectWorkspaceDoc(state,doc.id);
+  state.originals.scrollIntoView?.({block:'start'});
+}
+function articleSource(parent,state,doc){
+  const line=add(parent,'div',undefined,'article-source');
+  add(line,'span',[sourceName(doc),sourceSubline(doc)].filter(Boolean).join(' · '));
+  const button=add(line,'button','Voir le document');button.onclick=()=>openArticleSource(state,doc);
+}
+async function renderArticleReference(parent,state){
+  const doc=state.data.reference;
+  if(!doc){add(parent,'p','Aucune référence choisie pour cette entrée.','empty');return}
+  articleSource(parent,state,doc);renderProvenance(parent,doc);
+  if(doc.selection?.status==='stale')add(parent,'p','La référence a changé depuis la sélection : les anciennes décisions doivent être revérifiées.','warning');
+  const text=add(parent,'div',undefined,'source-text article-reference-text');
+  const wait=add(parent,'p','Chargement de la référence…','muted');let offset=0;
+  try{
+    // Read all contiguous source passages, without inserting separators into the original.
+    while(workspaceState===state){
+      const data=await api('/passages?'+new URLSearchParams({record_id:doc.id,offset,limit:50}));
+      if(workspaceState!==state)return;
+      if(data.version_id&&data.version_id!==doc.current_version)throw Error('La référence a changé. Rechargez cette entrée.');
+      for(const passage of data.passages)text.append(document.createTextNode(passage.text));
+      offset+=data.passages.length;
+      if(!data.pagination?.next_url)break;
+      if(!data.passages.length)throw Error('Pagination du texte interrompue.');
+    }
+    wait.remove();if(!text.textContent)add(parent,'p','La référence ne contient aucun texte.','empty');
+  }catch(e){if(workspaceState===state){wait.remove();add(parent,'p',e.message,'error')}}
+}
+async function loadArticleParagraphs(parent,state,status,offset=0){
+  const wait=add(parent,'p','Chargement des passages…','muted');
+  try{
+    const data=await api('/review/api/workspace/'+encodeURIComponent(state.id)+'/paragraphs?'+new URLSearchParams({status,offset,limit:12}));
+    if(workspaceState!==state)return;wait.remove();
+    if(offset===0){
+      add(parent,'p',`${data.total??0} blocs${status==='retained'?' · utiles et incertains conservés':' · redondants, y compris les extraits écartés des blocs partiels'}`,'muted article-count');
+      if(!data.selection_available)add(parent,'p','Aucune sélection disponible.','selection-note');
+      if(data.stale_documents)add(parent,'p',`${data.stale_documents} source(s) modifiée(s) : anciens votes masqués.`,'warning');
+      if(data.pending_documents)add(parent,'p',`${data.pending_documents} document(s) encore en attente, visibles dans les originaux.`,'muted');
+      if(!data.items.length)add(parent,'p',status==='retained'?'Aucun passage supplémentaire retenu.':'Aucun passage écarté.','empty');
+    }
+    const groups=new Map();
+    for(const paragraph of data.items){
+      const doc=paragraph.document;
+      if(!groups.has(doc.id)){const group=add(parent,'div',undefined,'article-document');articleSource(group,state,doc);groups.set(doc.id,group)}
+      const container=add(groups.get(doc.id),'div',undefined,'article-passage');
+      // Split votes can retain only part of a block. Never display its discarded text as retained.
+      if(paragraph.parts?.length){
+        if(paragraph.partial)add(container,'p','Bloc partiel : seuls les extraits de cette section sont affichés.','muted');
+        for(const [i,part] of paragraph.parts.entries())renderParagraph(container,state,paragraph.document,{...paragraph,...part,
+          label:paragraph.label+(paragraph.parts.length>1?` · extrait ${i+1}/${paragraph.parts.length}`:''),parts:null,body_truncated:false});
+      }else renderParagraph(container,state,paragraph.document,paragraph);
+    }
+    if(data.has_more){const more=add(parent,'button','Charger les passages suivants','load-more');more.onclick=()=>{more.remove();loadArticleParagraphs(parent,state,status,offset+data.items.length)}}
+  }catch(e){if(workspaceState===state){wait.remove();add(parent,'p',e.message,'error');const retry=add(parent,'button','Réessayer');retry.onclick=()=>{retry.remove();loadArticleParagraphs(parent,state,status,offset)}}}
+}
+async function loadArticleLinks(parent,state){
+  await Promise.all(['outgoing','incoming'].map(async key=>{
+    const target=add(parent,'div');const wait=add(target,'p',key==='outgoing'?'Chargement des liens sortants…':'Chargement des liens entrants…','muted');
+    try{const data=await api('/review/api/browse/aggregates/'+encodeURIComponent(state.id)+'?'+new URLSearchParams({section:key,limit:10}));
+      if(workspaceState!==state)return;wait.remove();aggregateSection(target,data,key,key==='outgoing'?'Sortants':'Entrants');
+      if(!data[key]?.items?.length)add(target,'p','Aucun lien.','muted');
+    }catch(e){if(workspaceState===state){wait.remove();add(target,'p',e.message,'error')}}
+  }));
+}
+function renderProvenance(panel,doc){
+  if(!doc.provenance)return;
+  const provenance=add(panel,'div',undefined,'document-provenance');
+  const origin=add(provenance,'p');add(origin,'strong','Origine : ');origin.append(document.createTextNode(doc.provenance.acquisition.label));
+  const works=doc.provenance.works||[];
+  if(!works.length)add(provenance,'p','Source documentaire : non indiquée dans les données récupérées.','muted');
+  else{add(provenance,'strong','Source documentaire'+(works.length>1?'s':'')+' :');const list=add(provenance,'ul');for(const work of works.slice(0,3))add(list,'li',workLabel(work));if(works.length>3){const more=add(provenance,'details');add(more,'summary',`${works.length-3} autres citations`);const tail=add(more,'ul');for(const work of works.slice(3))add(tail,'li',workLabel(work));}}
+  safeExternal(provenance,'Dépôt de la base d’origine',doc.provenance.acquisition.repository_url);
 }
 function workspaceBadge(doc){
   if(doc.selection?.status==='stale')return 'Version modifiée';
@@ -123,14 +212,7 @@ function renderWorkspaceReader(state,doc){
   const sourceTypes={extracted:'Fiche extraite',web:'Page web récupérée',structured:'Base structurée',transcription:'Transcription'};
   const location=[doc.page_label,sourceTypes[doc.source_type]||doc.source_type].filter(Boolean).join(' · ');
   if(location)add(panel,'p',location,'muted');
-  if(doc.provenance){
-    const provenance=add(panel,'div',undefined,'document-provenance');
-    const origin=add(provenance,'p');add(origin,'strong','Origine : ');origin.append(document.createTextNode(doc.provenance.acquisition.label));
-    const works=doc.provenance.works||[];
-    if(!works.length)add(provenance,'p','Source documentaire : non indiquée dans les données récupérées.','muted');
-    else{add(provenance,'strong','Source documentaire'+(works.length>1?'s':'')+' :');const list=add(provenance,'ul');for(const work of works.slice(0,3))add(list,'li',workLabel(work));if(works.length>3){const more=add(provenance,'details');add(more,'summary',`${works.length-3} autres citations`);const tail=add(more,'ul');for(const work of works.slice(3))add(tail,'li',workLabel(work));}}
-    safeExternal(provenance,'Dépôt de la base d’origine',doc.provenance.acquisition.repository_url);
-  }
+  renderProvenance(panel,doc);
   const selection=doc.selection||{};
   if(selection.units_policy?.startsWith('document-sections/2'))add(panel,'p','Découpage algorithmique en blocs cohérents. Les votes sur les anciens fragments sont archivés.','muted');
   if(selection.status==='pending'||selection.status==='unavailable'||selection.status==='stale')
@@ -184,7 +266,7 @@ function renderParagraph(parent,state,doc,paragraph){
 async function loadRequestPreview(parent,rid,requestId,button,state){
   button.disabled=true;
   try{const data=await api('/review/api/workspace/documents/'+encodeURIComponent(rid)+'/requests/'+encodeURIComponent(requestId));
-    if(workspaceState!==state||state.selectedDoc!==rid)return;
+    if(workspaceState!==state||!parent.isConnected)return;
     const detail=add(parent,'details');detail.open=true;add(detail,'summary','Demande et réponse · '+requestId);
     box(detail,'Contexte réellement évalué',data.request);box(detail,'Réponse publiée',data.response);
     if(data.display_truncated)add(detail,'p','Aperçu borné pour l’affichage.','muted');
@@ -224,8 +306,6 @@ async function loadLegacyDetails(parent,id,state){
     if(workspaceState!==state)return;wait.remove();
     dl(parent,[['Agrégat',data.id],['Clé commune',data.key],['Type',data.kind],['Univers',data.universe],['Fiche d’ancrage',data.anchor_record_id],['Exécution',data.run_id]]);
     if(data.aliases?.length)box(parent,'Alias techniques',data.aliases);
-    const links=add(parent,'details');add(links,'summary','Liens entrants et sortants');
-    links.addEventListener('toggle',()=>{if(links.open&&!links.dataset.loaded){links.dataset.loaded='1';aggregateSection(links,data,'outgoing','Sortants');aggregateSection(links,data,'incoming','Entrants')}});
     const curation=add(parent,'details');add(curation,'summary','Anciennes décisions documentaires');
     curation.addEventListener('toggle',()=>{if(curation.open&&!curation.dataset.loaded){curation.dataset.loaded='1';for(const doc of state.docs.values())if(doc.documentary_decision){const row=add(curation,'div',undefined,'card');add(row,'strong',sourceName(doc));dl(row,[['Document',doc.id],['Décision antérieure',doc.documentary_decision]])}}});
   }catch(e){if(workspaceState===state){wait.remove();add(parent,'p',e.message,'error')}}

@@ -229,3 +229,89 @@ def evaluated_request(main, rid, request_id, filename=None):
         if request.get('state', {}).get('SOURCE', {}).get('id') != rid:
             raise KeyError(request_id)
         return {'request': _small(request, 12000), 'response': _small(response, 1500), 'display_truncated': True}
+
+
+def article_paragraphs(main, aid, params, filename=None):
+    """Entity-wide published selection, independent of source-list pagination."""
+    offset, limit = _page(params)
+    status = params.get('status', 'retained')
+    if status not in {'retained', 'discarded'}:
+        raise ValueError('Invalid article status')
+    if not main.db.execute('SELECT 1 FROM ' + type_mining.aggregate_table(main) + ' WHERE id=?', (aid,)).fetchone():
+        raise KeyError(aid)
+    versions = dict(main.db.execute('SELECT r.id,r.current_version FROM aggregate_members m '
+        'JOIN records r ON r.id=m.record_id WHERE m.aggregate_id=? AND r.active=1', (aid,)))
+    value = {'items': [], 'offset': offset, 'limit': limit, 'has_more': False,
+             'total': 0, 'selection_available': False, 'stale_documents': 0, 'pending_documents': 0}
+    with selection_database(main, filename) as db:
+        entry = db.execute('SELECT reference_id FROM entities WHERE id=?', (aid,)).fetchone() if db else None
+        if not entry or entry['reference_id'] not in versions:
+            return value
+        ids = list(versions)
+        placeholders = ','.join('?' for _ in ids)
+        selected = db.execute('SELECT id,entity_id,version_id,status FROM documents WHERE id IN (' + placeholders + ')', ids)
+        valid = []; seen = set(); stale_reference = False
+        for doc in selected:
+            if doc['entity_id'] != aid:
+                continue
+            seen.add(doc['id'])
+            if doc['version_id'] != versions[doc['id']]:
+                value['stale_documents'] += 1
+                stale_reference |= doc['id'] == entry['reference_id']
+            elif doc['id'] != entry['reference_id']:
+                if doc['status'] == 'scored':
+                    valid.append(doc['id'])
+                else:
+                    value['pending_documents'] += 1
+        value['pending_documents'] += len(set(versions) - seen - {entry['reference_id']})
+        value['selection_available'] = True
+        if stale_reference:
+            value['selection_available'] = False
+        if not valid or stale_reference:
+            return value
+        where = 'document_id IN (' + ','.join('?' for _ in valid) + ') AND '
+        if status == 'retained':
+            where += "status IN ('add','add_uncertain')"
+        else:
+            # A retained block can contain individually discarded subfragments.
+            where += "(status='skip_redundant' OR EXISTS (SELECT 1 FROM json_each(paragraphs.result_json,'$.votes') v WHERE json_extract(v.value,'$.decision')='redundant'))"
+        value['total'] = db.execute('SELECT count(*) FROM paragraphs WHERE ' + where, valid).fetchone()[0]
+        rows = db.execute('SELECT * FROM paragraphs WHERE ' + where + ' ORDER BY document_id,number LIMIT ? OFFSET ?',
+                          (*valid, limit + 1, offset)).fetchall()
+        documents = {}
+        for row in rows[:limit]:
+            rid = row['document_id']
+            if rid not in documents:
+                documents[rid] = _document(main, rid)
+            result = _json(row['result_json'], {}); unit = _json(row['unit_json'], {})
+            votes = result.get('votes', [])
+            parts = []
+            for vote in votes:
+                fragment = vote.get('fragment', {})
+                start, end = fragment.get('offset_start'), fragment.get('offset_end')
+                if (not isinstance(start, int) or not isinstance(end, int)
+                        or not row['offset_start'] <= start < end <= row['offset_end']):
+                    continue
+                body = row['body'][start - row['offset_start']:end - row['offset_start']]
+                if body != fragment.get('body'):
+                    continue
+                redundant = vote.get('decision') == 'redundant'
+                if redundant != (status == 'discarded'):
+                    continue
+                parts.append({'body': body, 'offset_start': start, 'offset_end': end,
+                    'status': 'skip_redundant' if redundant else 'add' if vote.get('decision') == 'useful' else 'add_uncertain',
+                    'scores_pct': vote.get('scores_pct'), 'exact_proof': bool(vote.get('selection_proof')),
+                    'request_ids': [vote['request_id']] if vote.get('request_id') else []})
+            parts.sort(key=lambda p: p['offset_start'])
+            item = {key: row[key] for key in ('id', 'label', 'number', 'offset_start', 'offset_end', 'status')}
+            item.update(body=row['body'], body_characters=len(row['body']), body_truncated=False,
+                document=documents[rid], parts=parts,
+                partial=bool(parts and sum(len(p['body']) for p in parts) < len(row['body'])),
+                format=unit.get('format', 'text'), path=unit.get('path', ''),
+                scores_pct=result.get('scores_pct'), decision=result.get('decision'),
+                exact_proof=any(v.get('selection_proof') for v in votes),
+                request_ids=list(dict.fromkeys(v['request_id'] for v in votes if v.get('request_id')))[:30])
+            value['items'].append(item)
+        _decorate(db, list(documents.values()), entry['reference_id'], {})
+        value['has_more'] = len(rows) > limit
+    return value

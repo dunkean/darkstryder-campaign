@@ -110,10 +110,54 @@ class WorkspaceTests(unittest.TestCase):
         value = self.get('/review/api/workspace/documents/' + self.candidate + '/paragraphs')
         self.assertEqual(value['document']['selection']['status'], 'stale')
         self.assertFalse(value['selection_available']); self.assertEqual(value['items'][0]['body'], 'Changed source text.')
+        article = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs')
+        self.assertEqual(article['items'], []); self.assertEqual(article['stale_documents'], 1)
+    def test_article_collects_published_candidates_not_reference_or_pending_sources(self):
+        value = self.get('/review/api/workspace/' + self.aggregate + '?limit=1')
+        self.assertEqual(len(value['documents']['items']), 1)
+        article = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs?status=retained&limit=1')
+        self.assertEqual(article['total'], 1); self.assertFalse(article['has_more'])
+        self.assertEqual(article['items'][0]['document']['id'], self.candidate)
+        self.assertEqual(article['items'][0]['document']['selection']['status'], 'scored')
+        self.assertEqual(article['items'][0]['parts'][0]['body'], 'Pilot owns a hidden base.')
+        self.assertEqual(article['pending_documents'], 1)
+        discarded = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs?status=discarded')
+        self.assertEqual(discarded['total'], 1)
+        self.assertTrue(discarded['items'][0]['exact_proof'])
+        self.assertEqual(discarded['items'][0]['parts'][0]['status'], 'skip_redundant')
+        self.assertNotIn('C:/private', json.dumps(article))
+        self.assertEqual(self.hashes, [hashlib.sha256(p.read_bytes()).hexdigest() for p in (self.database, self.output/'enrichment.sqlite')])
+    def test_article_separates_discarded_subfragments_of_retained_blocks(self):
+        import sqlite3
+        db = sqlite3.connect(self.output/'enrichment.sqlite'); db.row_factory = sqlite3.Row
+        row = db.execute("SELECT * FROM paragraphs WHERE document_id=? AND status='add'", (self.candidate,)).fetchone()
+        middle = len(row['body']) // 2; start = row['offset_start']
+        votes = [{'decision': decision, 'fragment': {'body': body, 'offset_start': a, 'offset_end': b},
+                  'scores_pct': {'yes': 95 if decision == 'useful' else 1, 'no': 95 if decision == 'redundant' else 1}}
+                 for decision, body, a, b in [('redundant', row['body'][:middle], start, start + middle),
+                    ('useful', row['body'][middle:], start + middle, row['offset_end'])]]
+        db.execute('UPDATE paragraphs SET result_json=? WHERE id=?', (json.dumps({'votes': votes}), row['id']))
+        db.commit(); db.close()
+        retained = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs')
+        self.assertTrue(retained['items'][0]['partial'])
+        self.assertEqual([p['body'] for p in retained['items'][0]['parts']], [row['body'][middle:]])
+        discarded = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs?status=discarded&limit=1')
+        self.assertEqual(discarded['total'], 2); self.assertTrue(discarded['has_more'])
+        next_page = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs?status=discarded&limit=1&offset=1')
+        self.assertFalse(next_page['has_more'])
+        self.assertEqual([p['body'] for p in next_page['items'][0]['parts']], [row['body'][:middle]])
+    def test_changed_reference_hides_dependent_article_votes(self):
+        main = Store(self.database); record = main.record(self.reference)
+        main.ingest(record['source_id'], record['source_key'], record['name'], 'New reference.', kind='person')
+        main.db.commit(); main.close()
+        article = self.get('/review/api/workspace/' + self.aggregate + '/paragraphs')
+        self.assertFalse(article['selection_available']); self.assertEqual(article['items'], [])
     def test_http_review_never_changes_either_database(self):
         self.get('/review/api/workspace/' + self.aggregate)
         self.get('/review/api/workspace/documents/' + self.reference + '/paragraphs')
         self.get('/review/api/workspace/documents/' + self.web + '/paragraphs?status=bad', 400)
+        self.get('/review/api/workspace/' + self.aggregate + '/paragraphs?status=bad', 400)
+        self.get('/review/api/workspace/no-such-aggregate/paragraphs', 404)
         self.assertEqual(self.hashes, [hashlib.sha256(p.read_bytes()).hexdigest() for p in (self.database, self.output/'enrichment.sqlite')])
 
 

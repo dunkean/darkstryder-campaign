@@ -57,3 +57,19 @@ body.browse-mode .types{max-height:92px;padding:.4rem .6rem;gap:.25rem}
 /* Two separate provenance layers, with the original citations available in details. */
 .document-provenance{font-size:.86rem;border-left:3px solid var(--border,#52657b);padding:4px 10px;margin:8px 0}
 .document-provenance p{margin:3px 0}.document-provenance ul{padding-left:18px;margin:3px 0}
+
+/* Default article: reference, retained text, discarded text, then connections. */
+body.browse-mode #detail{display:block;overflow:auto;scroll-behavior:smooth}
+.article-view{padding:0 clamp(.8rem,2vw,2rem) 1rem;max-width:1250px;width:100%;margin:auto}
+.article-nav{position:sticky;top:0;z-index:2;display:flex;flex-wrap:wrap;gap:.35rem;padding:.6rem 0;background:#101827}
+.article-nav button{font-size:.8rem;padding:.3rem .6rem}
+.article-section{margin:0 0 1.5rem;scroll-margin-top:4rem;min-width:0}
+.article-section>h2{font-size:1.1rem;margin:.7rem 0 .5rem;padding-bottom:.4rem;border-bottom:1px solid #37506c}
+.article-count{font-size:.85rem}.article-source{display:flex;align-items:center;justify-content:space-between;gap:.7rem;font-size:.8rem;color:#b8cadd;overflow-wrap:anywhere}
+.article-source button{flex-shrink:0;font-size:.75rem;padding:.2rem .45rem}
+.article-reference-text{margin:.5rem 0 1rem}.article-document{border-top:1px solid #293d56;margin:1rem 0;padding-top:.5rem}.article-passage{margin:.6rem 0}
+.article-passage>p{font-size:.8rem;margin:.2rem 0}.article-passage .paragraph-card{margin:.3rem 0 .6rem}
+.article-links h2{font-size:.95rem}.article-originals{margin:.5rem 1rem;padding:.6rem}
+.article-originals>.workspace{height:65vh;margin-top:.7rem;min-height:350px;border:1px solid #31445e;border-radius:6px;overflow:hidden}
+.workspace-advanced{max-height:none;overflow:visible}
+@media(max-width:950px){.article-originals>.workspace{height:auto;min-height:0}.article-source{align-items:flex-start}.article-source span{min-width:0}.article-nav{position:static}.article-view{padding:.5rem .8rem}.article-section{scroll-margin-top:.5rem}}

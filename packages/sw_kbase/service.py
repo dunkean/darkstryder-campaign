@@ -187,6 +187,9 @@ class Handler(BaseHTTPRequestHandler):
                 return review_workspace.evaluated_request(store, self.identifier(parts[0]), self.identifier(parts[2]), self.server.selection_database)
             raise KeyError(path)
         if path.startswith(workspace_prefix):
+            parts = path[len(workspace_prefix):].split('/')
+            if len(parts) == 2 and parts[1] == 'paragraphs':
+                return review_workspace.article_paragraphs(store, self.identifier(parts[0]), params, self.server.selection_database)
             return review_workspace.workspace(store, self.identifier(path[len(workspace_prefix):]), params, self.server.selection_database)
         if path == '/aggregates':
             return review.aggregates(store, params)
